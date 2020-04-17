@@ -1,0 +1,1807 @@
+{
+    "mjk_Keiji": {
+        "id": 1,
+        "file-name": "mjk_Keiji",
+        "name": {
+            "name-en": "Agent K.K.",
+            "name-cn": "K.K.刑警",
+            "name-de": "Agent K.K.",
+            "name-sp": "Agente Totakeke",
+            "name-fr": "Agent Kéké",
+            "name-it": "Agente K.K.",
+            "name-jp": "けけけいじ",
+            "name-kr": "K.K.형사",
+            "name-nl": "Agent K.K.",
+            "name-ru": "Агент К. К."
+        },
+        "buy-price": 3200,
+        "sell-price": 800,
+        "isOrderable": true
+    },
+    "mjk_Aloha": {
+        "id": 2,
+        "file-name": "mjk_Aloha",
+        "name": {
+            "name-en": "Aloha K.K.",
+            "name-cn": "夏威夷K.K.",
+            "name-de": "K.K. Südseetraum",
+            "name-sp": "Tota-aloha",
+            "name-fr": "Ukulélé Kéké",
+            "name-it": "K.K. Aloha",
+            "name-jp": "アロハけけ",
+            "name-kr": "알로하K.K.",
+            "name-nl": "Aloha K.K.",
+            "name-ru": "Алоха К. К."
+        },
+        "buy-price": 3200,
+        "sell-price": 800,
+        "isOrderable": true
+    },
+    "mjk_DoubutuNoMachi": {
+        "id": 3,
+        "file-name": "mjk_DoubutuNoMachi",
+        "name": {
+            "name-en": "Animal City",
+            "name-cn": "动物城镇",
+            "name-de": "Die Stadt der Tiere",
+            "name-sp": "Ciudad animal",
+            "name-fr": "À nous la belle ville",
+            "name-it": "La città degli animali",
+            "name-jp": "どうぶつのまち",
+            "name-kr": "동물의 마을",
+            "name-nl": "Animal City",
+            "name-ru": "Город а зверушек"
+        },
+        "buy-price": null,
+        "sell-price": 800,
+        "isOrderable": false
+    },
+    "mjk_Idol": {
+        "id": 4,
+        "file-name": "mjk_Idol",
+        "name": {
+            "name-en": "Bubblegum K.K.",
+            "name-cn": "K.K.偶像",
+            "name-de": "K.K. Pop",
+            "name-sp": "Tota-pop",
+            "name-fr": "Bubblegum Kéké",
+            "name-it": "K.K. Bolle rosa",
+            "name-jp": "けけアイドル",
+            "name-kr": "K.K.아이돌",
+            "name-nl": "K.K.-bubblegum",
+            "name-ru": "Бабблгам-поп К. К."
+        },
+        "buy-price": 3200,
+        "sell-price": 800,
+        "isOrderable": true
+    },
+    "mjk_Paris": {
+        "id": 5,
+        "file-name": "mjk_Paris",
+        "name": {
+            "name-en": "Café K.K.",
+            "name-cn": "K.K.巴黎",
+            "name-de": "K.K. Kaffeeblues",
+            "name-sp": "Tota-café",
+            "name-fr": "Kéké café",
+            "name-it": "K.K. Bar",
+            "name-jp": "けけパリ",
+            "name-kr": "K.K.파리",
+            "name-nl": "Café K.K.",
+            "name-ru": "Кафе К. К."
+        },
+        "buy-price": 3200,
+        "sell-price": 800,
+        "isOrderable": true
+    },
+    "mjk_ShowaKayo": {
+        "id": 6,
+        "file-name": "mjk_ShowaKayo",
+        "name": {
+            "name-en": "Comrade K.K.",
+            "name-cn": "昭和K.K.歌谣",
+            "name-de": "K.K. Freundelied",
+            "name-sp": "Tota-camarada",
+            "name-fr": "Tovaritch Kéké",
+            "name-it": "K.K. Compagno",
+            "name-jp": "しょうわけけかよう",
+            "name-kr": "추억의 K.K.가요",
+            "name-nl": "Kameraad K.K.",
+            "name-ru": "Товарищ К. К."
+        },
+        "buy-price": 3200,
+        "sell-price": 800,
+        "isOrderable": true
+    },
+    "mjk_EuroBeat": {
+        "id": 7,
+        "file-name": "mjk_EuroBeat",
+        "name": {
+            "name-en": "DJ K.K.",
+            "name-cn": "欧陆节拍",
+            "name-de": "DJ K.K.",
+            "name-sp": "Tota-D.J.-Total",
+            "name-fr": "DJ Kéké",
+            "name-it": "K.K. DJ",
+            "name-jp": "ユーロビート",
+            "name-kr": "유로 비트",
+            "name-nl": "DJ K.K.",
+            "name-ru": "DJ KK"
+        },
+        "buy-price": 3200,
+        "sell-price": 800,
+        "isOrderable": true
+    },
+    "mjk_Drive": {
+        "id": 8,
+        "file-name": "mjk_Drive",
+        "name": {
+            "name-en": "Drivin'",
+            "name-cn": "兜风",
+            "name-de": "Am Steuer",
+            "name-sp": "Al volante",
+            "name-fr": "Sur la route",
+            "name-it": "Gita al volante",
+            "name-jp": "ドライブ",
+            "name-kr": "드라이브",
+            "name-nl": "Achter het stuur",
+            "name-ru": "За рулем"
+        },
+        "buy-price": null,
+        "sell-price": 800,
+        "isOrderable": false
+    },
+    "mjk_Sayonara": {
+        "id": 9,
+        "file-name": "mjk_Sayonara",
+        "name": {
+            "name-en": "Farewell",
+            "name-cn": "再会",
+            "name-de": "Abschied",
+            "name-sp": "Despedida",
+            "name-fr": "Adieux",
+            "name-it": "Arrivederci",
+            "name-jp": "さよなら",
+            "name-kr": "작별",
+            "name-nl": "Vaarwel",
+            "name-ru": "Прощани"
+        },
+        "buy-price": null,
+        "sell-price": 800,
+        "isOrderable": false
+    },
+    "mjk_MoriNoSeikatsu": {
+        "id": 10,
+        "file-name": "mjk_MoriNoSeikatsu",
+        "name": {
+            "name-en": "Forest Life",
+            "name-cn": "森林生活",
+            "name-de": "Waldlichtung",
+            "name-sp": "Forestal y tal",
+            "name-fr": "Vie de forêt",
+            "name-it": "Vita selvaggia",
+            "name-jp": "もりのせいかつ",
+            "name-kr": "숲 속 생활",
+            "name-nl": "In het bos",
+            "name-ru": "Лесная жизнь"
+        },
+        "buy-price": 3200,
+        "sell-price": 800,
+        "isOrderable": true
+    },
+    "mjk_KekeRider": {
+        "id": 11,
+        "file-name": "mjk_KekeRider",
+        "name": {
+            "name-en": "Go K.K. Rider",
+            "name-cn": "冲吧！K.K.摩托车手",
+            "name-de": "Go K.K. Rider!",
+            "name-sp": "Llanero Tota",
+            "name-fr": "Kéké route 66",
+            "name-it": "K.K. Cross",
+            "name-jp": "ゆけ!けけライダー",
+            "name-kr": "가자! K.K.라이더",
+            "name-nl": "Super-K.K.",
+            "name-ru": "Доброго пути, К. К.!"
+        },
+        "buy-price": 3200,
+        "sell-price": 800,
+        "isOrderable": true
+    },
+    "mjk_UtataneNoYume": {
+        "id": 12,
+        "file-name": "mjk_UtataneNoYume",
+        "name": {
+            "name-en": "Hypno K.K.",
+            "name-cn": "白日梦",
+            "name-de": "Schlummerlied",
+            "name-sp": "Mírame a los ojos",
+            "name-fr": "Psykéké",
+            "name-it": "K.K. Ipnotico",
+            "name-jp": "うたたねのゆめ",
+            "name-kr": "졸면서 꾸는 꿈",
+            "name-nl": "Hypnotherapie",
+            "name-ru": "Гипноз К. К."
+        },
+        "buy-price": 3200,
+        "sell-price": 800,
+        "isOrderable": true
+    },
+    "mjk_Daisuki": {
+        "id": 13,
+        "file-name": "mjk_Daisuki",
+        "name": {
+            "name-en": "I Love You",
+            "name-cn": "我爱你",
+            "name-de": "Ich liebe dich",
+            "name-sp": "Te quiero",
+            "name-fr": "Je vous aime",
+            "name-it": "Ti amo",
+            "name-jp": "だいすき",
+            "name-kr": "사랑해",
+            "name-nl": "Ik hou van jou",
+            "name-ru": "Я вас люблю"
+        },
+        "buy-price": 3200,
+        "sell-price": 800,
+        "isOrderable": true
+    },
+    "mjk_China": {
+        "id": 14,
+        "file-name": "mjk_China",
+        "name": {
+            "name-en": "Imperial K.K.",
+            "name-cn": "K.K.中华",
+            "name-de": "Super-K.K.",
+            "name-sp": "Tota-imperio",
+            "name-fr": "Kéké l'Empereur",
+            "name-it": "K.K. Imperiale",
+            "name-jp": "けけチャイナ",
+            "name-kr": "K.K.차이나",
+            "name-nl": "K.K. de wijze meester",
+            "name-ru": "Величие К. К."
+        },
+        "buy-price": 3200,
+        "sell-price": 800,
+        "isOrderable": true
+    },
+    "mjk_Hollywood": {
+        "id": 15,
+        "file-name": "mjk_Hollywood",
+        "name": {
+            "name-en": "K.K. Adventure",
+            "name-cn": "K.K.好莱坞",
+            "name-de": "K.K. Filmmusik",
+            "name-sp": "Tota-banda sonora",
+            "name-fr": "Kéké star",
+            "name-it": "K.K. Superstar",
+            "name-jp": "けけハリウッド",
+            "name-kr": "K.K.할리우드",
+            "name-nl": "K.K.-filmmuziek",
+            "name-ru": "Приключения К. К."
+        },
+        "buy-price": 3200,
+        "sell-price": 800,
+        "isOrderable": true
+    },
+    "mjk_Maria": {
+        "id": 16,
+        "file-name": "mjk_Maria",
+        "name": {
+            "name-en": "K.K. Aria",
+            "name-cn": "K.K.咏叹调",
+            "name-de": "K.K. Arie",
+            "name-sp": "Tota-aria",
+            "name-fr": "Aria de Kéké",
+            "name-it": "K.K. Aria",
+            "name-jp": "けけマリア",
+            "name-kr": "K.K.마리아",
+            "name-nl": "K.K.-aria",
+            "name-ru": "Ария К. К."
+        },
+        "buy-price": 3200,
+        "sell-price": 800,
+        "isOrderable": true
+    },
+    "mjk_Ballad": {
+        "id": 17,
+        "file-name": "mjk_Ballad",
+        "name": {
+            "name-en": "K.K. Ballad",
+            "name-cn": "K.K.叙事歌谣",
+            "name-de": "K.K. Ballade",
+            "name-sp": "Tota-balada",
+            "name-fr": "Ballade de Kéké",
+            "name-it": "K.K. Lento",
+            "name-jp": "けけバラッド",
+            "name-kr": "K.K.발라드",
+            "name-nl": "K.K.-ballade",
+            "name-ru": "Баллада К. К."
+        },
+        "buy-price": 3200,
+        "sell-price": 800,
+        "isOrderable": true
+    },
+    "mjk_Roma": {
+        "id": 18,
+        "file-name": "mjk_Roma",
+        "name": {
+            "name-en": "K.K. Bazaar",
+            "name-cn": "K.K.吉普赛",
+            "name-de": "K.K. Basar",
+            "name-sp": "Tota-bazar",
+            "name-fr": "Kéké bohême",
+            "name-it": "K.K. Bazar",
+            "name-jp": "けけロマ",
+            "name-kr": "K.K.로마",
+            "name-nl": "K.K. op de bazaar",
+            "name-ru": "Базар К. К."
+        },
+        "buy-price": 3200,
+        "sell-price": 800,
+        "isOrderable": true
+    },
+    "mjk_BirthdaySong": {
+        "id": 19,
+        "file-name": "mjk_BirthdaySong",
+        "name": {
+            "name-en": "K.K. Birthday",
+            "name-cn": "你的生日",
+            "name-de": "Geburtstagslied",
+            "name-sp": "Feliz en tu día",
+            "name-fr": "Anniversaire Kéké",
+            "name-it": "K.K. Compleanno",
+            "name-jp": "きみのたんじょうび",
+            "name-kr": "그대의 생일",
+            "name-nl": "Fijne verjaardag",
+            "name-ru": "День рождения К. К."
+        },
+        "buy-price": null,
+        "sell-price": 800,
+        "isOrderable": false
+    },
+    "mjk_Blues": {
+        "id": 20,
+        "file-name": "mjk_Blues",
+        "name": {
+            "name-en": "K.K. Blues",
+            "name-cn": "K.K.蓝调",
+            "name-de": "K.K. Blues",
+            "name-sp": "Tota-blues",
+            "name-fr": "Kéké blues",
+            "name-it": "K.K. Blues",
+            "name-jp": "けけブルース",
+            "name-kr": "K.K.블루스",
+            "name-nl": "K.K.-blues",
+            "name-ru": "Блюз К. К."
+        },
+        "buy-price": 3200,
+        "sell-price": 800,
+        "isOrderable": true
+    },
+    "mjk_Bossa": {
+        "id": 21,
+        "file-name": "mjk_Bossa",
+        "name": {
+            "name-en": "K.K. Bossa",
+            "name-cn": "K.K.巴萨诺瓦",
+            "name-de": "K.K. Bossa",
+            "name-sp": "Tota-bossa nova",
+            "name-fr": "Bossa de Kéké",
+            "name-it": "K.K. Bossa",
+            "name-jp": "けけボッサ",
+            "name-kr": "K.K.보사노바",
+            "name-nl": "K.K.-bossanova",
+            "name-ru": "Босанова К. К."
+        },
+        "buy-price": 3200,
+        "sell-price": 800,
+        "isOrderable": true
+    },
+    "mjk_Caripso": {
+        "id": 22,
+        "file-name": "mjk_Caripso",
+        "name": {
+            "name-en": "K.K. Calypso",
+            "name-cn": "K.K.卡利普索",
+            "name-de": "K.K. Calypso",
+            "name-sp": "Tota-calipso",
+            "name-fr": "Calypso de Kéké",
+            "name-it": "K.K. Calipso",
+            "name-jp": "けけカリプソ",
+            "name-kr": "K.K.칼립소",
+            "name-nl": "K.K.-calypso",
+            "name-ru": "Калипсо К. К."
+        },
+        "buy-price": 3200,
+        "sell-price": 800,
+        "isOrderable": true
+    },
+    "mjk_Turkey": {
+        "id": 23,
+        "file-name": "mjk_Turkey",
+        "name": {
+            "name-en": "K.K. Casbah",
+            "name-cn": "土耳其乐曲",
+            "name-de": "K.K. Orientsong",
+            "name-sp": "Tota-alcazaba",
+            "name-fr": "Cheb Kéké",
+            "name-it": "K.K. Assolo",
+            "name-jp": "トルコそんぐ",
+            "name-kr": "터키의 노래",
+            "name-nl": "K.K. in de kasba",
+            "name-ru": "Крепость К. К."
+        },
+        "buy-price": 3200,
+        "sell-price": 800,
+        "isOrderable": true
+    },
+    "mjk_Sanbika": {
+        "id": 24,
+        "file-name": "mjk_Sanbika",
+        "name": {
+            "name-en": "K.K. Chorale",
+            "name-cn": "K.K.赞美诗歌",
+            "name-de": "K.K. Choral",
+            "name-sp": "Tota-góspel",
+            "name-fr": "Chorale de Kéké",
+            "name-it": "K.K. Corale",
+            "name-jp": "けけさんびか",
+            "name-kr": "K.K.찬송가",
+            "name-nl": "K.K.-koraal",
+            "name-ru": "Хорал К. К."
+        },
+        "buy-price": 3200,
+        "sell-price": 800,
+        "isOrderable": true
+    },
+    "mjk_Peru": {
+        "id": 25,
+        "file-name": "mjk_Peru",
+        "name": {
+            "name-en": "K.K. Condor",
+            "name-cn": "秘鲁之歌",
+            "name-de": "K.K. Kondor",
+            "name-sp": "Tota-andina",
+            "name-fr": "El Condor Kéké",
+            "name-it": "K.K. Condor",
+            "name-jp": "ペルーのうた",
+            "name-kr": "페루의 노래",
+            "name-nl": "K.K. bij de condors",
+            "name-ru": "Кондор К. К."
+        },
+        "buy-price": 3200,
+        "sell-price": 800,
+        "isOrderable": true
+    },
+    "mjk_Country": {
+        "id": 26,
+        "file-name": "mjk_Country",
+        "name": {
+            "name-en": "K.K. Country",
+            "name-cn": "K.K.乡村",
+            "name-de": "K.K. Country",
+            "name-sp": "Tota-country",
+            "name-fr": "Country Kéké",
+            "name-it": "K.K. Country",
+            "name-jp": "けけカントリー",
+            "name-kr": "K.K.컨트리",
+            "name-nl": "K.K.-country",
+            "name-ru": "Кантри К. К."
+        },
+        "buy-price": 3200,
+        "sell-price": 800,
+        "isOrderable": true
+    },
+    "mjk_Urban": {
+        "id": 27,
+        "file-name": "mjk_Urban",
+        "name": {
+            "name-en": "K.K. Cruisin'",
+            "name-cn": "都市K.K.",
+            "name-de": "K.K. Cruisin'",
+            "name-sp": "Tota-gánster",
+            "name-fr": "Kéké R&B",
+            "name-it": "K.K. Cool",
+            "name-jp": "アーバンけけ",
+            "name-kr": "팝K.K.",
+            "name-nl": "K.K.-club",
+            "name-ru": "Круиз К. К."
+        },
+        "buy-price": 3200,
+        "sell-price": 800,
+        "isOrderable": true
+    },
+    "mjk_Drumnbass": {
+        "id": 28,
+        "file-name": "mjk_Drumnbass",
+        "name": {
+            "name-en": "K.K. D&B",
+            "name-cn": "鼓打贝斯",
+            "name-de": "K.K. D & B",
+            "name-sp": "Tota-drum&bass",
+            "name-fr": "Drum & bass Kéké",
+            "name-it": "K.K. & Band",
+            "name-jp": "ドラムンベース",
+            "name-kr": "드럼앤베이스",
+            "name-nl": "K.K.-drum-'n-bass",
+            "name-ru": "Драм-н-бэйс К. К."
+        },
+        "buy-price": 3200,
+        "sell-price": 800,
+        "isOrderable": true
+    },
+    "mjk_KowaiUta": {
+        "id": 29,
+        "file-name": "mjk_KowaiUta",
+        "name": {
+            "name-en": "K.K. Dirge",
+            "name-cn": "惊悚歌",
+            "name-de": "K.K. Trauerlied",
+            "name-sp": "Tota-réquiem",
+            "name-fr": "Requiem de Kéké",
+            "name-it": "K.K. Canto",
+            "name-jp": "こわいうた",
+            "name-kr": "무서운 노래",
+            "name-nl": "K.K. in het donker",
+            "name-ru": "Реквием К. К."
+        },
+        "buy-price": 3200,
+        "sell-price": 800,
+        "isOrderable": true
+    },
+    "mjk_Disco": {
+        "id": 30,
+        "file-name": "mjk_Disco",
+        "name": {
+            "name-en": "K.K. Disco",
+            "name-cn": "K.K.迪斯科",
+            "name-de": "K.K. Disco",
+            "name-sp": "Tota-disco",
+            "name-fr": "Disco Kéké",
+            "name-it": "K.K. Disco",
+            "name-jp": "けけディスコ",
+            "name-kr": "K.K.디스코",
+            "name-nl": "K.K.-disco",
+            "name-ru": "Диско К. К."
+        },
+        "buy-price": 3200,
+        "sell-price": 800,
+        "isOrderable": true
+    },
+    "mjk_Dixie": {
+        "id": 31,
+        "file-name": "mjk_Dixie",
+        "name": {
+            "name-en": "K.K. Dixie",
+            "name-cn": "K.K.迪克西",
+            "name-de": "K.K. Dixie",
+            "name-sp": "Tota-old-jazz",
+            "name-fr": "Kéké Dixie",
+            "name-it": "K.K. Dixie",
+            "name-jp": "けけディキシー",
+            "name-kr": "K.K.딕시",
+            "name-nl": "K.K.-dixieland",
+            "name-ru": "Дикси К. К."
+        },
+        "buy-price": 3200,
+        "sell-price": 800,
+        "isOrderable": true
+    },
+    "mjk_Etude": {
+        "id": 32,
+        "file-name": "mjk_Etude",
+        "name": {
+            "name-en": "K.K. Étude",
+            "name-cn": "K.K.练习曲",
+            "name-de": "K.K. Etüde",
+            "name-sp": "Tota-solo",
+            "name-fr": "Étude de Kéké",
+            "name-it": "K.K. Studio",
+            "name-jp": "けけのエチュード",
+            "name-kr": "K.K.에튀드",
+            "name-nl": "K.K.-etude",
+            "name-ru": "Этюд К. К."
+        },
+        "buy-price": 3200,
+        "sell-price": 800,
+        "isOrderable": true
+    },
+    "mjk_Haisai": {
+        "id": 33,
+        "file-name": "mjk_Haisai",
+        "name": {
+            "name-en": "K.K. Faire",
+            "name-cn": "冲绳K.K.",
+            "name-de": "K.K. Jahrmarkt",
+            "name-sp": "Tota-romanza",
+            "name-fr": "Virelai Kéké",
+            "name-it": "K.K. Festa",
+            "name-jp": "ハイサイけけ",
+            "name-kr": "혼저옵서예K.K.",
+            "name-nl": "K.K.-boerendans",
+            "name-ru": "Ярмарка К. К."
+        },
+        "buy-price": 3200,
+        "sell-price": 800,
+        "isOrderable": true
+    },
+    "mjk_Flamenco": {
+        "id": 34,
+        "file-name": "mjk_Flamenco",
+        "name": {
+            "name-en": "K.K. Flamenco",
+            "name-cn": "K.K.佛朗明哥",
+            "name-de": "K.K. Flamenco",
+            "name-sp": "Tota-flamenco",
+            "name-fr": "Flamenco Kéké",
+            "name-it": "K.K. Flamenco",
+            "name-jp": "けけフラメンコ",
+            "name-kr": "K.K.플라멩코",
+            "name-nl": "K.K.-flamenco",
+            "name-ru": "Фламенко К. К."
+        },
+        "buy-price": 3200,
+        "sell-price": 800,
+        "isOrderable": true
+    },
+    "mjk_Minyo": {
+        "id": 35,
+        "file-name": "mjk_Minyo",
+        "name": {
+            "name-en": "K.K. Folk",
+            "name-cn": "K.K.民谣",
+            "name-de": "K.K. Folk",
+            "name-sp": "Tota-folk",
+            "name-fr": "Folk Kéké",
+            "name-it": "K.K. Folk",
+            "name-jp": "けけみんよう",
+            "name-kr": "K.K.민요",
+            "name-nl": "K.K.-folk",
+            "name-ru": "Фолк К. К."
+        },
+        "buy-price": 3200,
+        "sell-price": 800,
+        "isOrderable": true
+    },
+    "mjk_Fusion": {
+        "id": 36,
+        "file-name": "mjk_Fusion",
+        "name": {
+            "name-en": "K.K. Fusion",
+            "name-cn": "K.K.融合爵士乐",
+            "name-de": "K.K. Fusion",
+            "name-sp": "Tota-fusión",
+            "name-fr": "Fusion Kéké",
+            "name-it": "K.K. Fusion",
+            "name-jp": "けけフュージョン",
+            "name-kr": "K.K.퓨전",
+            "name-nl": "K.K.-fusion",
+            "name-ru": "Фьюжен К. К."
+        },
+        "buy-price": 3200,
+        "sell-price": 800,
+        "isOrderable": true
+    },
+    "mjk_Raregroove": {
+        "id": 37,
+        "file-name": "mjk_Raregroove",
+        "name": {
+            "name-en": "K.K. Groove",
+            "name-cn": "K.K.律动",
+            "name-de": "K.K. Groove",
+            "name-sp": "Tota-groove",
+            "name-fr": "Groove Kéké",
+            "name-it": "K.K. Groove",
+            "name-jp": "けけグルーヴ",
+            "name-kr": "K.K.그루브",
+            "name-nl": "K.K.-groove",
+            "name-ru": "Грув К. К."
+        },
+        "buy-price": 3200,
+        "sell-price": 800,
+        "isOrderable": true
+    },
+    "mjk_NewOrleans": {
+        "id": 38,
+        "file-name": "mjk_NewOrleans",
+        "name": {
+            "name-en": "K.K. Gumbo",
+            "name-cn": "新奥尔良乐曲",
+            "name-de": "K.K. Gumbo",
+            "name-sp": "Tota-gumbo",
+            "name-fr": "Gumbo Kéké",
+            "name-it": "K.K. Gumbo",
+            "name-jp": "ニューオリンズそんぐ",
+            "name-kr": "딕시랜드 재즈",
+            "name-nl": "K.K.-gumbo",
+            "name-ru": "Гамбо К. К."
+        },
+        "buy-price": 3200,
+        "sell-price": 800,
+        "isOrderable": true
+    },
+    "mjk_House": {
+        "id": 39,
+        "file-name": "mjk_House",
+        "name": {
+            "name-en": "K.K. House",
+            "name-cn": "K.K.浩室",
+            "name-de": "K.K. House",
+            "name-sp": "Tota-house",
+            "name-fr": "Kéké House",
+            "name-it": "K.K. House",
+            "name-jp": "けけハウス",
+            "name-kr": "K.K.하우스",
+            "name-nl": "K.K.-house",
+            "name-ru": "Хаус К. К."
+        },
+        "buy-price": 3200,
+        "sell-price": 800,
+        "isOrderable": true
+    },
+    "mjk_DoubutsuNoShima": {
+        "id": 40,
+        "file-name": "mjk_DoubutsuNoShima",
+        "name": {
+            "name-en": "K.K. Island",
+            "name-cn": "动物岛",
+            "name-de": "Die Insel der Tiere",
+            "name-sp": "Mi isla, mi hogar",
+            "name-fr": "Kéké des îles",
+            "name-it": "K.K. Isola",
+            "name-jp": "どうぶつのしま",
+            "name-kr": "동물의 섬",
+            "name-nl": "Onbewoond eiland",
+            "name-ru": "Остров К. К."
+        },
+        "buy-price": 3200,
+        "sell-price": 800,
+        "isOrderable": true
+    },
+    "mjk_Jazz": {
+        "id": 41,
+        "file-name": "mjk_Jazz",
+        "name": {
+            "name-en": "K.K. Jazz",
+            "name-cn": "K.K.爵士乐",
+            "name-de": "K.K. Jazz",
+            "name-sp": "Tota-jazz",
+            "name-fr": "Jazz de Kéké",
+            "name-it": "K.K. Jazz",
+            "name-jp": "けけジャズ",
+            "name-kr": "K.K.재즈",
+            "name-nl": "K.K.-jazz",
+            "name-ru": "Джаз К. К."
+        },
+        "buy-price": 3200,
+        "sell-price": 800,
+        "isOrderable": true
+    },
+    "mjk_Jongara": {
+        "id": 42,
+        "file-name": "mjk_Jongara",
+        "name": {
+            "name-en": "K.K. Jongara",
+            "name-cn": "K.K.三味线",
+            "name-de": "K.K. Melodie",
+            "name-sp": "Tota-shamisen",
+            "name-fr": "Shamisen Kéké",
+            "name-it": "K.K. Shamisen",
+            "name-jp": "けけじょんがら",
+            "name-kr": "K.K.샤미센 연주곡",
+            "name-nl": "K.K.-jongara",
+            "name-ru": "Джонгара К. К."
+        },
+        "buy-price": 3200,
+        "sell-price": 800,
+        "isOrderable": true
+    },
+    "mjk_Enka": {
+        "id": 43,
+        "file-name": "mjk_Enka",
+        "name": {
+            "name-en": "K.K. Lament",
+            "name-cn": "K.K.演歌",
+            "name-de": "K.K. Klagelied",
+            "name-sp": "Tota-lamento",
+            "name-fr": "Complainte Kéké",
+            "name-it": "K.K. Lacrime",
+            "name-jp": "けけえんか",
+            "name-kr": "K.K.트로트",
+            "name-nl": "K.K.-klaagzang",
+            "name-ru": "Жалобная песнь К. К."
+        },
+        "buy-price": 3200,
+        "sell-price": 800,
+        "isOrderable": true
+    },
+    "mjk_LoveSong": {
+        "id": 44,
+        "file-name": "mjk_LoveSong",
+        "name": {
+            "name-en": "K.K. Love Song",
+            "name-cn": "K.K.情歌",
+            "name-de": "K.K. Liebeslied",
+            "name-sp": "Tota-amor",
+            "name-fr": "Romance Kéké",
+            "name-it": "K.K. Amore",
+            "name-jp": "けけラヴソング",
+            "name-kr": "K.K.러브송",
+            "name-nl": "K.K.-liefdeslied",
+            "name-ru": "Романс К. К."
+        },
+        "buy-price": 3200,
+        "sell-price": 800,
+        "isOrderable": true
+    },
+    "mjk_Lullaby": {
+        "id": 45,
+        "file-name": "mjk_Lullaby",
+        "name": {
+            "name-en": "K.K. Lullaby",
+            "name-cn": "K.K.摇篮曲",
+            "name-de": "K.K. Schlaflied",
+            "name-sp": "Tota-nana",
+            "name-fr": "Berceuse de Kéké",
+            "name-it": "K.K. Ninnananna",
+            "name-jp": "けけララバイ",
+            "name-kr": "K.K.자장가",
+            "name-nl": "K.K.-slaapliedje",
+            "name-ru": "Колыбельная К. К."
+        },
+        "buy-price": 3200,
+        "sell-price": 800,
+        "isOrderable": true
+    },
+    "mjk_Mambo": {
+        "id": 46,
+        "file-name": "mjk_Mambo",
+        "name": {
+            "name-en": "K.K. Mambo",
+            "name-cn": "K.K.曼波",
+            "name-de": "K.K. Mambo",
+            "name-sp": "Tota-mambo",
+            "name-fr": "Mambo de Kéké",
+            "name-it": "K.K. Mambo",
+            "name-jp": "けけマンボ",
+            "name-kr": "K.K.맘보",
+            "name-nl": "K.K.-mambo",
+            "name-ru": "Мамбо К. К."
+        },
+        "buy-price": 3200,
+        "sell-price": 800,
+        "isOrderable": true
+    },
+    "mjk_Gamelan": {
+        "id": 47,
+        "file-name": "mjk_Gamelan",
+        "name": {
+            "name-en": "K.K. Marathon",
+            "name-cn": "K.K.甘美朗",
+            "name-de": "K.K. Marathon",
+            "name-sp": "Tota-maratón",
+            "name-fr": "Kéké marathon",
+            "name-it": "K.K. Maratona",
+            "name-jp": "けけガムラン",
+            "name-kr": "K.K.가믈란",
+            "name-nl": "K.K.-gamelan",
+            "name-ru": "Марафон К. К."
+        },
+        "buy-price": 3200,
+        "sell-price": 800,
+        "isOrderable": true
+    },
+    "mjk_March": {
+        "id": 48,
+        "file-name": "mjk_March",
+        "name": {
+            "name-en": "K.K. March",
+            "name-cn": "K.K.进行曲",
+            "name-de": "K.K. Marsch",
+            "name-sp": "Tota-marcha",
+            "name-fr": "Marche de Kéké",
+            "name-it": "K.K. Marcia",
+            "name-jp": "けけマーチ",
+            "name-kr": "K.K.행진곡",
+            "name-nl": "K.K.-mars",
+            "name-ru": "Марш К. К."
+        },
+        "buy-price": 3200,
+        "sell-price": 800,
+        "isOrderable": true
+    },
+    "mjk_Senor": {
+        "id": 49,
+        "file-name": "mjk_Senor",
+        "name": {
+            "name-en": "K.K. Mariachi",
+            "name-cn": "墨西哥绅士K.K.",
+            "name-de": "K.K. Combo",
+            "name-sp": "Tota-mariachi",
+            "name-fr": "Mariachi Kéké",
+            "name-it": "K.K. Amico",
+            "name-jp": "セニョールけけ",
+            "name-kr": "세뇨르K.K.",
+            "name-nl": "K.K.-mariachi",
+            "name-ru": "Марьячи К. К."
+        },
+        "buy-price": 3200,
+        "sell-price": 800,
+        "isOrderable": true
+    },
+    "mjk_Metal": {
+        "id": 50,
+        "file-name": "mjk_Metal",
+        "name": {
+            "name-en": "K.K. Metal",
+            "name-cn": "K.K.金属摇滚",
+            "name-de": "K.K. Metal",
+            "name-sp": "Tota-metal",
+            "name-fr": "Kéké metal",
+            "name-it": "K.K. Metal",
+            "name-jp": "けけメタル",
+            "name-kr": "K.K.메탈",
+            "name-nl": "K.K.-metal",
+            "name-ru": "Металл К. К."
+        },
+        "buy-price": 3200,
+        "sell-price": 800,
+        "isOrderable": true
+    },
+    "mjk_Milonga": {
+        "id": 51,
+        "file-name": "mjk_Milonga",
+        "name": {
+            "name-en": "K.K. Milonga",
+            "name-cn": "K.K.米隆加",
+            "name-de": "K.K. Milonga",
+            "name-sp": "Tota-milonga",
+            "name-fr": "Milonga Kéké",
+            "name-it": "K.K. Milonga",
+            "name-jp": "けけのミロンガ",
+            "name-kr": "K.K.밀롱가",
+            "name-nl": "K.K.-milonga",
+            "name-ru": "Милонга К. К."
+        },
+        "buy-price": 3200,
+        "sell-price": 800,
+        "isOrderable": true
+    },
+    "mjk_Bolero": {
+        "id": 52,
+        "file-name": "mjk_Bolero",
+        "name": {
+            "name-en": "K.K. Moody",
+            "name-cn": "K.K.波蕾洛",
+            "name-de": "K.K. Sonnenuntergang",
+            "name-sp": "Tota-bolero",
+            "name-fr": "Slow Kéké",
+            "name-it": "K.K. Tramonto",
+            "name-jp": "けけボレロ",
+            "name-kr": "K.K.볼레로",
+            "name-nl": "K.K.-bolero",
+            "name-ru": "Задумчивый К. К."
+        },
+        "buy-price": 3200,
+        "sell-price": 800,
+        "isOrderable": true
+    },
+    "mjk_Maharaja": {
+        "id": 53,
+        "file-name": "mjk_Maharaja",
+        "name": {
+            "name-en": "K.K. Oasis",
+            "name-cn": "K.K.印度王公",
+            "name-de": "K.K. Maharadscha",
+            "name-sp": "Tota-marajá",
+            "name-fr": "Maharadjah Kéké",
+            "name-it": "K.K. Maragià",
+            "name-jp": "けけマハラジャ",
+            "name-kr": "K.K.마하라자",
+            "name-nl": "Maharadja K.K.",
+            "name-ru": "Оазис К. К."
+        },
+        "buy-price": 3200,
+        "sell-price": 800,
+        "isOrderable": true
+    },
+    "mjk_Parade": {
+        "id": 54,
+        "file-name": "mjk_Parade",
+        "name": {
+            "name-en": "K.K. Parade",
+            "name-cn": "K.K.嘉年华",
+            "name-de": "K.K. Parade",
+            "name-sp": "Tota-desfile",
+            "name-fr": "Kéké académie",
+            "name-it": "K.K. Parata",
+            "name-jp": "けけパレード",
+            "name-kr": "K.K.퍼레이드",
+            "name-nl": "K.K.-parade",
+            "name-ru": "Парад К. К."
+        },
+        "buy-price": 3200,
+        "sell-price": 800,
+        "isOrderable": true
+    },
+    "mjk_RagTime": {
+        "id": 55,
+        "file-name": "mjk_RagTime",
+        "name": {
+            "name-en": "K.K. Ragtime",
+            "name-cn": "格拉泰姆音乐",
+            "name-de": "K.K. Ragtime",
+            "name-sp": "Tota-ragtime",
+            "name-fr": "Ragtime Kéké",
+            "name-it": "K.K. Ritmo",
+            "name-jp": "ラグタイム",
+            "name-kr": "래그타임",
+            "name-nl": "K.K.-ragtime",
+            "name-ru": "Регтайм К. К."
+        },
+        "buy-price": 3200,
+        "sell-price": 800,
+        "isOrderable": true
+    },
+    "mjk_Ondo": {
+        "id": 56,
+        "file-name": "mjk_Ondo",
+        "name": {
+            "name-en": "K.K. Rally",
+            "name-cn": "K.K.大和祭典",
+            "name-de": "K.K. Parade 2",
+            "name-sp": "Tota-parada",
+            "name-fr": "Parade Kéké",
+            "name-it": "K.K. Gran galà",
+            "name-jp": "けけおんど",
+            "name-kr": "K.K.축제",
+            "name-nl": "K.K.-optocht",
+            "name-ru": "Ралли К. К."
+        },
+        "buy-price": 3200,
+        "sell-price": 800,
+        "isOrderable": true
+    },
+    "mjk_Reggae": {
+        "id": 57,
+        "file-name": "mjk_Reggae",
+        "name": {
+            "name-en": "K.K. Reggae",
+            "name-cn": "K.K.雷鬼",
+            "name-de": "K.K. Reggae",
+            "name-sp": "Tota-reggae",
+            "name-fr": "Reggae de Kéké",
+            "name-it": "K.K. Reggae",
+            "name-jp": "けけレゲエ",
+            "name-kr": "K.K.레게",
+            "name-nl": "K.K.-reggae",
+            "name-ru": "Регги К. К."
+        },
+        "buy-price": 3200,
+        "sell-price": 800,
+        "isOrderable": true
+    },
+    "mjk_Rock": {
+        "id": 58,
+        "file-name": "mjk_Rock",
+        "name": {
+            "name-en": "K.K. Rock",
+            "name-cn": "K.K.摇滚",
+            "name-de": "K.K. Rock",
+            "name-sp": "Tota-rock",
+            "name-fr": "Rock Kéké",
+            "name-it": "K.K. Rock",
+            "name-jp": "けけロック",
+            "name-kr": "K.K.록",
+            "name-nl": "K.K.-rock",
+            "name-ru": "Рок К. К."
+        },
+        "buy-price": 3200,
+        "sell-price": 800,
+        "isOrderable": true
+    },
+    "mjk_KekeBilly": {
+        "id": 59,
+        "file-name": "mjk_KekeBilly",
+        "name": {
+            "name-en": "K.K. Rockabilly",
+            "name-cn": "K.K.乡村摇滚",
+            "name-de": "K.K. Rockabilly",
+            "name-sp": "Tota-rockabilly",
+            "name-fr": "Rockabilly Kéké",
+            "name-it": "K.K. Rockabilly",
+            "name-jp": "けけビリー",
+            "name-kr": "K.K.빌리",
+            "name-nl": "K.K.-rockabilly",
+            "name-ru": "Рокабилли К. К."
+        },
+        "buy-price": 3200,
+        "sell-price": 800,
+        "isOrderable": true
+    },
+    "mjk_Afro": {
+        "id": 60,
+        "file-name": "mjk_Afro",
+        "name": {
+            "name-en": "K.K. Safari",
+            "name-cn": "K.K.非洲音乐",
+            "name-de": "K.K. Safari",
+            "name-sp": "Tota-safari",
+            "name-fr": "Ali Farka Kéké",
+            "name-it": "K.K. Safari",
+            "name-jp": "けけアフロ",
+            "name-kr": "K.K.아프리카",
+            "name-nl": "K.K. in de jungle",
+            "name-ru": "Сафари К. К."
+        },
+        "buy-price": 3200,
+        "sell-price": 800,
+        "isOrderable": true
+    },
+    "mjk_Salsa": {
+        "id": 61,
+        "file-name": "mjk_Salsa",
+        "name": {
+            "name-en": "K.K. Salsa",
+            "name-cn": "K.K.萨尔萨",
+            "name-de": "K.K. Salsa",
+            "name-sp": "Tota-salsa",
+            "name-fr": "Salsa de Kéké",
+            "name-it": "K.K. Salsa",
+            "name-jp": "けけサルサ",
+            "name-kr": "K.K.살사",
+            "name-nl": "K.K.-salsa",
+            "name-ru": "Сальса К. К."
+        },
+        "buy-price": 3200,
+        "sell-price": 800,
+        "isOrderable": true
+    },
+    "mjk_Samba": {
+        "id": 62,
+        "file-name": "mjk_Samba",
+        "name": {
+            "name-en": "K.K. Samba",
+            "name-cn": "K.K.桑巴",
+            "name-de": "K.K. Samba",
+            "name-sp": "Tota-samba",
+            "name-fr": "Samba de Kéké",
+            "name-it": "K.K. Samba",
+            "name-jp": "けけサンバ",
+            "name-kr": "K.K.삼바",
+            "name-nl": "K.K.-samba",
+            "name-ru": "Самба К. К."
+        },
+        "buy-price": 3200,
+        "sell-price": 800,
+        "isOrderable": true
+    },
+    "mjk_Ska": {
+        "id": 63,
+        "file-name": "mjk_Ska",
+        "name": {
+            "name-en": "K.K. Ska",
+            "name-cn": "K.K.斯卡",
+            "name-de": "K.K. Ska",
+            "name-sp": "Tota-ska",
+            "name-fr": "Ska Kéké",
+            "name-it": "K.K. Ska",
+            "name-jp": "けけスカ",
+            "name-kr": "K.K.스카",
+            "name-nl": "K.K.-ska",
+            "name-ru": "Ска К. К."
+        },
+        "buy-price": 3200,
+        "sell-price": 800,
+        "isOrderable": true
+    },
+    "mjk_Sonata": {
+        "id": 64,
+        "file-name": "mjk_Sonata",
+        "name": {
+            "name-en": "K.K. Sonata",
+            "name-cn": "K.K.奏鸣曲",
+            "name-de": "K.K. Sonate",
+            "name-sp": "Tota-sonata",
+            "name-fr": "Sonate Kéké",
+            "name-it": "K.K. Sonata",
+            "name-jp": "けけのソナタ",
+            "name-kr": "K.K.소나타",
+            "name-nl": "K.K.-sonate",
+            "name-ru": "Соната К. К."
+        },
+        "buy-price": 3200,
+        "sell-price": 800,
+        "isOrderable": true
+    },
+    "mjk_KekeSong": {
+        "id": 65,
+        "file-name": "mjk_KekeSong",
+        "name": {
+            "name-en": "K.K. Song",
+            "name-cn": "K.K.乐曲",
+            "name-de": "K.K. Song",
+            "name-sp": "Tota-canción",
+            "name-fr": "Rengaine de Kéké",
+            "name-it": "K.K. Canzone",
+            "name-jp": "けけソング",
+            "name-kr": "K.K.의 노래",
+            "name-nl": "K.K.-lied",
+            "name-ru": "Песнь К. К."
+        },
+        "buy-price": 3200,
+        "sell-price": 800,
+        "isOrderable": true
+    },
+    "mjk_Soul": {
+        "id": 66,
+        "file-name": "mjk_Soul",
+        "name": {
+            "name-en": "K.K. Soul",
+            "name-cn": "K.K.灵魂乐",
+            "name-de": "K.K. Soul",
+            "name-sp": "Tota-soul",
+            "name-fr": "Soul de Kéké",
+            "name-it": "K.K. Soul",
+            "name-jp": "けけソウル",
+            "name-kr": "K.K.소울",
+            "name-nl": "K.K.-soul",
+            "name-ru": "Соул К. К."
+        },
+        "buy-price": 3200,
+        "sell-price": 800,
+        "isOrderable": true
+    },
+    "mjk_Cossack": {
+        "id": 67,
+        "file-name": "mjk_Cossack",
+        "name": {
+            "name-en": "K.K. Steppe",
+            "name-cn": "哥萨克乐曲",
+            "name-de": "K.K. Steppensong",
+            "name-sp": "Tota-estepa",
+            "name-fr": "Kéké balalaïka",
+            "name-it": "K.K. Steppa",
+            "name-jp": "コサックそんぐ",
+            "name-kr": "까자크의 노래",
+            "name-nl": "K.K. op de steppe",
+            "name-ru": "Степь К. К."
+        },
+        "buy-price": 3200,
+        "sell-price": 800,
+        "isOrderable": true
+    },
+    "mjk_Osanpo": {
+        "id": 68,
+        "file-name": "mjk_Osanpo",
+        "name": {
+            "name-en": "K.K. Stroll",
+            "name-cn": "散散步",
+            "name-de": "Spaziergang",
+            "name-sp": "Paseíto",
+            "name-fr": "Flânerie Kéké",
+            "name-it": "K.K. Trallalà",
+            "name-jp": "おさんぽ",
+            "name-kr": "산책",
+            "name-nl": "Op straat",
+            "name-ru": "Прогулка К. К."
+        },
+        "buy-price": 3200,
+        "sell-price": 800,
+        "isOrderable": true
+    },
+    "mjk_Swing": {
+        "id": 69,
+        "file-name": "mjk_Swing",
+        "name": {
+            "name-en": "K.K. Swing",
+            "name-cn": "K.K.摇摆乐",
+            "name-de": "K.K. Swing",
+            "name-sp": "Tota-swing",
+            "name-fr": "Swing de Kéké",
+            "name-it": "K.K. Swing",
+            "name-jp": "けけスウィング",
+            "name-kr": "K.K.스윙",
+            "name-nl": "K.K.-swing",
+            "name-ru": "Свинг К. К."
+        },
+        "buy-price": 3200,
+        "sell-price": 800,
+        "isOrderable": true
+    },
+    "mjk_Electronica": {
+        "id": 70,
+        "file-name": "mjk_Electronica",
+        "name": {
+            "name-en": "K.K. Synth",
+            "name-cn": "K.K.电子民谣",
+            "name-de": "K.K. Synthiepop",
+            "name-sp": "Tota-electrónica",
+            "name-fr": "Synthé Kéké",
+            "name-it": "K.K. Synth",
+            "name-jp": "けけトロニカ",
+            "name-kr": "K.K.트로니카",
+            "name-nl": "K.K.-synthpop",
+            "name-ru": "Синти-поп К. К."
+        },
+        "buy-price": 3200,
+        "sell-price": 800,
+        "isOrderable": true
+    },
+    "mjk_Tango": {
+        "id": 71,
+        "file-name": "mjk_Tango",
+        "name": {
+            "name-en": "K.K. Tango",
+            "name-cn": "K.K.探戈",
+            "name-de": "K.K. Tango",
+            "name-sp": "Tota-tango",
+            "name-fr": "Tango de Kéké",
+            "name-it": "K.K. Tango",
+            "name-jp": "けけタンゴ",
+            "name-kr": "K.K.탱고",
+            "name-nl": "K.K.-tango",
+            "name-ru": "Танго К. К."
+        },
+        "buy-price": 3200,
+        "sell-price": 800,
+        "isOrderable": true
+    },
+    "mjk_TechnoBeat": {
+        "id": 72,
+        "file-name": "mjk_TechnoBeat",
+        "name": {
+            "name-en": "K.K. Technopop",
+            "name-cn": "电音节奏",
+            "name-de": "K.K. Technopop",
+            "name-sp": "Tota-tecno",
+            "name-fr": "Technopop Kéké",
+            "name-it": "K.K. Techno",
+            "name-jp": "テクノビート",
+            "name-kr": "테크노 비트",
+            "name-nl": "K.K.-technopop",
+            "name-ru": "Техно-поп К. К."
+        },
+        "buy-price": 3200,
+        "sell-price": 800,
+        "isOrderable": true
+    },
+    "mjk_Waltz": {
+        "id": 73,
+        "file-name": "mjk_Waltz",
+        "name": {
+            "name-en": "K.K. Waltz",
+            "name-cn": "K.K.圆舞曲",
+            "name-de": "K.K. Walzer",
+            "name-sp": "Tota-vals",
+            "name-fr": "Valse de Kéké",
+            "name-it": "K.K. Valzer",
+            "name-jp": "けけワルツ",
+            "name-kr": "K.K.왈츠",
+            "name-nl": "K.K.-wals",
+            "name-ru": "Вальс К. К."
+        },
+        "buy-price": 3200,
+        "sell-price": 800,
+        "isOrderable": true
+    },
+    "mjk_Western": {
+        "id": 74,
+        "file-name": "mjk_Western",
+        "name": {
+            "name-en": "K.K. Western",
+            "name-cn": "K.K.西部",
+            "name-de": "K.K. Western",
+            "name-sp": "Tota-Oeste",
+            "name-fr": "Far West Kéké",
+            "name-it": "K.K. Western",
+            "name-jp": "けけウェスタン",
+            "name-kr": "K.K.웨스턴",
+            "name-nl": "K.K.-western",
+            "name-ru": "Вестерн К. К."
+        },
+        "buy-price": 3200,
+        "sell-price": 800,
+        "isOrderable": true
+    },
+    "mjk_Daimyo": {
+        "id": 75,
+        "file-name": "mjk_Daimyo",
+        "name": {
+            "name-en": "King K.K.",
+            "name-cn": "K.K.领主",
+            "name-de": "King K.K.",
+            "name-sp": "Rey Tota",
+            "name-fr": "Kéké King",
+            "name-it": "K.K. Re",
+            "name-jp": "けけだいみょう",
+            "name-kr": "K.K.왕조",
+            "name-nl": "Keizer K.K.",
+            "name-ru": "Король К. К."
+        },
+        "buy-price": 3200,
+        "sell-price": 800,
+        "isOrderable": true
+    },
+    "mjk_Irish": {
+        "id": 76,
+        "file-name": "mjk_Irish",
+        "name": {
+            "name-en": "Lucky K.K.",
+            "name-cn": "爱尔兰乐曲",
+            "name-de": "K.K. Glückspilz",
+            "name-sp": "Tota-celta",
+            "name-fr": "Kéké le verni",
+            "name-it": "K.K. Felicità",
+            "name-jp": "アイリッシュそんぐ",
+            "name-kr": "아일랜드의 노래",
+            "name-nl": "K.K. de Kelt",
+            "name-ru": "Счастливчик К. К."
+        },
+        "buy-price": 3200,
+        "sell-price": 800,
+        "isOrderable": true
+    },
+    "mjk_HunaUta2001": {
+        "id": 77,
+        "file-name": "mjk_HunaUta2001",
+        "name": {
+            "name-en": "Marine Song 2001",
+            "name-cn": "船歌2001",
+            "name-de": "Seefahrerlied 2001",
+            "name-sp": "Tota 2001",
+            "name-fr": "Chant marin",
+            "name-it": "Canzone marina",
+            "name-jp": "ふなうた2001",
+            "name-kr": "뱃노래2001",
+            "name-nl": "Zeelied",
+            "name-ru": "Песня о море 2001"
+        },
+        "buy-price": 3200,
+        "sell-price": 800,
+        "isOrderable": true
+    },
+    "mjk_Alpine": {
+        "id": 78,
+        "file-name": "mjk_Alpine",
+        "name": {
+            "name-en": "Mountain Song",
+            "name-cn": "阿尔卑斯山乐曲",
+            "name-de": "Berglied",
+            "name-sp": "Totalerileriló",
+            "name-fr": "Chant montagnard",
+            "name-it": "Canzone montana",
+            "name-jp": "アルペンそんぐ",
+            "name-kr": "알프스의 노래",
+            "name-nl": "Jodelaheho",
+            "name-ru": "Горная песнь"
+        },
+        "buy-price": 3200,
+        "sell-price": 800,
+        "isOrderable": true
+    },
+    "mjk_Sensei": {
+        "id": 79,
+        "file-name": "mjk_Sensei",
+        "name": {
+            "name-en": "Mr. K.K.",
+            "name-cn": "K.K.老师",
+            "name-de": "Herr K.K.",
+            "name-sp": "Míster Totakeke",
+            "name-fr": "M. Kéké",
+            "name-it": "K.K. Sig. No",
+            "name-jp": "けけせんせい",
+            "name-kr": "K.K.선생님",
+            "name-nl": "Meester K.K.",
+            "name-ru": "Господин К. К."
+        },
+        "buy-price": 3200,
+        "sell-price": 800,
+        "isOrderable": true
+    },
+    "mjk_BokuNoBasho": {
+        "id": 80,
+        "file-name": "mjk_BokuNoBasho",
+        "name": {
+            "name-en": "My Place",
+            "name-cn": "我的归所",
+            "name-de": "Mein Zuhause",
+            "name-sp": "Mi hogar",
+            "name-fr": "Chez moi",
+            "name-it": "Casa mia",
+            "name-jp": "ぼくのばしょ",
+            "name-kr": "내가 있는 곳",
+            "name-nl": "Mijn thuis",
+            "name-ru": "Мой дом"
+        },
+        "buy-price": 3200,
+        "sell-price": 800,
+        "isOrderable": true
+    },
+    "mjk_Napolitan": {
+        "id": 81,
+        "file-name": "mjk_Napolitan",
+        "name": {
+            "name-en": "Neapolitan",
+            "name-cn": "意大利面",
+            "name-de": "Neapolitaner",
+            "name-sp": "Napolitana",
+            "name-fr": "Napolitaine",
+            "name-it": "Napoletana",
+            "name-jp": "ナポリタン",
+            "name-kr": "토마토 스파게티",
+            "name-nl": "Napolitain",
+            "name-ru": "Неаполитанское"
+        },
+        "buy-price": 3200,
+        "sell-price": 800,
+        "isOrderable": true
+    },
+    "mjk_OnlyMe": {
+        "id": 82,
+        "file-name": "mjk_OnlyMe",
+        "name": {
+            "name-en": "Only Me",
+            "name-cn": "只有我",
+            "name-de": "Ganz allein",
+            "name-sp": "Solo yo",
+            "name-fr": "Moi et juste moi",
+            "name-it": "Solo io",
+            "name-jp": "オンリーミー",
+            "name-kr": "온리미",
+            "name-nl": "Alleen ik",
+            "name-ru": "Только я"
+        },
+        "buy-price": 3200,
+        "sell-price": 800,
+        "isOrderable": true
+    },
+    "mjk_KangaeChu": {
+        "id": 83,
+        "file-name": "mjk_KangaeChu",
+        "name": {
+            "name-en": "Pondering",
+            "name-cn": "思考中",
+            "name-de": "Nachdenklich",
+            "name-sp": "Sopesando",
+            "name-fr": "Réfléchir",
+            "name-it": "Pensando",
+            "name-jp": "かんがえちゅう",
+            "name-kr": "생각 중",
+            "name-nl": "De denker",
+            "name-ru": "Размышления"
+        },
+        "buy-price": 3200,
+        "sell-price": 800,
+        "isOrderable": true
+    },
+    "mjk_RocknRoll": {
+        "id": 84,
+        "file-name": "mjk_RocknRoll",
+        "name": {
+            "name-en": "Rockin' K.K.",
+            "name-cn": "K.K.50年代摇滚",
+            "name-de": "K.K. Rocksong",
+            "name-sp": "Tota-total",
+            "name-fr": "Bouge avec Kéké",
+            "name-it": "K.K. Spericolato",
+            "name-jp": "けけのロケンロール",
+            "name-kr": "K.K.로큰롤",
+            "name-nl": "K.K.-rock-'n-roll",
+            "name-ru": "К. К. в ударе"
+        },
+        "buy-price": 3200,
+        "sell-price": 800,
+        "isOrderable": true
+    },
+    "mjk_Gospel": {
+        "id": 85,
+        "file-name": "mjk_Gospel",
+        "name": {
+            "name-en": "Soulful K.K.",
+            "name-cn": "K.K.心灵音乐",
+            "name-de": "K.K. mit Gefühl",
+            "name-sp": "Tota-lenta",
+            "name-fr": "Kéké soul",
+            "name-it": "K.K. Anima",
+            "name-jp": "けけゴスペル",
+            "name-kr": "K.K.가스펠",
+            "name-nl": "K.K.-soulblues",
+            "name-ru": "Соулфул К. К."
+        },
+        "buy-price": 3200,
+        "sell-price": 800,
+        "isOrderable": true
+    },
+    "mjk_Minimal": {
+        "id": 86,
+        "file-name": "mjk_Minimal",
+        "name": {
+            "name-en": "Space K.K.",
+            "name-cn": "极简音乐",
+            "name-de": "Minimal Music",
+            "name-sp": "Canción minimalista",
+            "name-fr": "Space Kéké",
+            "name-it": "K.K. Minimal",
+            "name-jp": "ミニマルおんがく",
+            "name-kr": "미니멀 음악",
+            "name-nl": "K.K.-minimalisme",
+            "name-ru": "Космос К. К."
+        },
+        "buy-price": 3200,
+        "sell-price": 800,
+        "isOrderable": true
+    },
+    "mjk_HaruNoKomorebi": {
+        "id": 87,
+        "file-name": "mjk_HaruNoKomorebi",
+        "name": {
+            "name-en": "Spring Blossoms",
+            "name-cn": "春暖花开",
+            "name-de": "Frühlingsblüten",
+            "name-sp": "Capullos en flor",
+            "name-fr": "Floraison",
+            "name-it": "Fiori marzolini",
+            "name-jp": "はるのこもれび",
+            "name-kr": "봄날의 여유",
+            "name-nl": "Lentebloesems",
+            "name-ru": "Весенний цвету"
+        },
+        "buy-price": 3200,
+        "sell-price": 800,
+        "isOrderable": true
+    },
+    "mjk_BlueOnigiri": {
+        "id": 88,
+        "file-name": "mjk_BlueOnigiri",
+        "name": {
+            "name-en": "Stale Cupcakes",
+            "name-cn": "蓝色饭团",
+            "name-de": "Alter Kuchen",
+            "name-sp": "Pastelito seco",
+            "name-fr": "Vieux biscuits",
+            "name-it": "Vecchi dolcetti",
+            "name-jp": "ブルーおにぎり",
+            "name-kr": "블루 삼각 김밥",
+            "name-nl": "Oude cupcakes",
+            "name-ru": "Черствые капкейки"
+        },
+        "buy-price": 3200,
+        "sell-price": 800,
+        "isOrderable": true
+    },
+    "mjk_NiDanZaka": {
+        "id": 89,
+        "file-name": "mjk_NiDanZaka",
+        "name": {
+            "name-en": "Steep Hill",
+            "name-cn": "二段斜坡",
+            "name-de": "Bergsteigung",
+            "name-sp": "Colina arriba",
+            "name-fr": "La pente",
+            "name-it": "Irto colle",
+            "name-jp": "にだんざか",
+            "name-kr": "오르막길",
+            "name-nl": "Heuvelopwaarts",
+            "name-ru": "Крутой холм"
+        },
+        "buy-price": 3200,
+        "sell-price": 800,
+        "isOrderable": true
+    },
+    "mjk_Eleki": {
+        "id": 90,
+        "file-name": "mjk_Eleki",
+        "name": {
+            "name-en": "Surfin' K.K.",
+            "name-cn": "电吉他乐曲",
+            "name-de": "Surfin' K.K.",
+            "name-sp": "Tota-surf",
+            "name-fr": "Kéké à la plage",
+            "name-it": "K.K. Surf",
+            "name-jp": "エレキそんぐ",
+            "name-kr": "일렉트릭 뮤직",
+            "name-nl": "K.K.-surf",
+            "name-ru": "Серф К. К."
+        },
+        "buy-price": 3200,
+        "sell-price": 800,
+        "isOrderable": true
+    },
+    "mjk_Funk": {
+        "id": 91,
+        "file-name": "mjk_Funk",
+        "name": {
+            "name-en": "The K. Funk",
+            "name-cn": "K.K.放克",
+            "name-de": "K. Funk",
+            "name-sp": "Tota-funk",
+            "name-fr": "Le Kéké Funk",
+            "name-it": "K.K. Funk",
+            "name-jp": "けけファンク",
+            "name-kr": "K.K.펑키",
+            "name-nl": "K.K.-funk",
+            "name-ru": "Фанк К. К."
+        },
+        "buy-price": 3200,
+        "sell-price": 800,
+        "isOrderable": true
+    },
+    "mjk_NamiNami": {
+        "id": 92,
+        "file-name": "mjk_NamiNami",
+        "name": {
+            "name-en": "To the Edge",
+            "name-cn": "漫弥",
+            "name-de": "Am Rande",
+            "name-sp": "Hasta el final",
+            "name-fr": "Limite",
+            "name-it": "Al limite",
+            "name-jp": "ナミナミ",
+            "name-kr": "파도소리",
+            "name-nl": "Op het randje",
+            "name-ru": "На краю"
+        },
+        "buy-price": 3200,
+        "sell-price": 800,
+        "isOrderable": true
+    },
+    "mjk_Ototoi": {
+        "id": 93,
+        "file-name": "mjk_Ototoi",
+        "name": {
+            "name-en": "Two Days Ago",
+            "name-cn": "前天",
+            "name-de": "Vorgestern",
+            "name-sp": "Anteayer",
+            "name-fr": "2 jours plus tôt",
+            "name-it": "Due giorni fa",
+            "name-jp": "おととい",
+            "name-kr": "이틀 전",
+            "name-nl": "Eergisteren",
+            "name-ru": "Два дня назад"
+        },
+        "buy-price": 3200,
+        "sell-price": 800,
+        "isOrderable": true
+    },
+    "mjk_Horo": {
+        "id": 94,
+        "file-name": "mjk_Horo",
+        "name": {
+            "name-en": "Wandering",
+            "name-cn": "流浪",
+            "name-de": "Ich wandere",
+            "name-sp": "Vagabundo",
+            "name-fr": "Errance",
+            "name-it": "Il viaggiatore",
+            "name-jp": "ほうろう",
+            "name-kr": "방랑자",
+            "name-nl": "Wandelen",
+            "name-ru": "Поход"
+        },
+        "buy-price": 3200,
+        "sell-price": 800,
+        "isOrderable": true
+    },
+    "mjk_MainTheme": {
+        "id": 95,
+        "file-name": "mjk_MainTheme",
+        "name": {
+            "name-en": "Welcome Horizons",
+            "name-cn": "大家集合吧",
+            "name-de": "Neue Horizonte",
+            "name-sp": "Nuevo horizonte",
+            "name-fr": "Horizons nouveaux",
+            "name-it": "Nuovi orizzonti",
+            "name-jp": "みんなあつまれ",
+            "name-kr": "모두 모여봐요",
+            "name-nl": "Welkome horizon",
+            "name-ru": "Светлые горизонты"
+        },
+        "buy-price": null,
+        "sell-price": 800,
+        "isOrderable": false
+    }
+}
