@@ -177,7 +177,7 @@
         "price": 4000,
         "price-cj": 6000,
         "catch-phrase": "I caught a koi! I don't know why it's so shy... or such a bad speller...",
-        "museum-phrase": "Koi are a variety of carp bred for their color mutations...starting more than a thousand years ago! Well, one glance at their impressive coloring tells you that the centuries of effort were worth it. And even today people still selectively breed koi in search of new color combinations! One marvels at the thought of what the koi 5 look like in another thousand years."
+        "museum-phrase": "Koi are a variety of carp bred for their color mutations...starting more than a thousand years ago! Well, one glance at their impressive coloring tells you that the centuries of effort were worth it. And even today people still selectively breed koi in search of new color combinations! One marvels at the thought of what the koi may look like in another thousand years."
     },
     "goldfish": {
         "id": 7,
@@ -1620,7 +1620,7 @@
         "price": 5000,
         "price-cj": 7500,
         "catch-phrase": "I caught a blowfish! I'm blown away!",
-        "museum-phrase": "As you 5 know, blowfish carry a deadly poison and are among the most toxic creatures on earth. What you 5 not have known is that poison and spines are not the limit of this animal's defenses! A predator that tries to swallow a blowfish before it inflates can find itself quickly choking. To be honest, if said predator can get past poison, spines, AND choking hazards, I feel they've earned a meal."
+        "museum-phrase": "As you may know, blowfish carry a deadly poison and are among the most toxic creatures on earth. What you may not have known is that poison and spines are not the limit of this animal's defenses! A predator that tries to swallow a blowfish before it inflates can find itself quickly choking. To be honest, if said predator can get past poison, spines, AND choking hazards, I feel they've earned a meal."
     },
     "puffer_fish": {
         "id": 55,
@@ -1650,7 +1650,7 @@
         "price": 250,
         "price-cj": 375,
         "catch-phrase": "I caught a puffer fish! I thought you would be tougher, fish!",
-        "museum-phrase": "Like its cousin the blowfish, when the puffer fish feels threatened it inflates into a spiky balloon. The biggest difference between them is that the puffer fish is not deadly poisonous like its kin. So while it 5 look scary, the substantially reduced risk to life and limb makes it much better company."
+        "museum-phrase": "Like its cousin the blowfish, when the puffer fish feels threatened it inflates into a spiky balloon. The biggest difference between them is that the puffer fish is not deadly poisonous like its kin. So while it may look scary, the substantially reduced risk to life and limb makes it much better company."
     },
     "anchovy": {
         "id": 56,
