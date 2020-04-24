@@ -26,7 +26,7 @@
         "price": 160,
         "price-flick": 240,
         "catch-phrase": "I caught a common butterfly! They often flutter by!",
-        "museum-phrase": "The common butterfly would have you believe it is but a beautiful friend flitting prettily about the flowers. Bah, I say! They 5 seem innocent things with their pretty white wings, but they hide a dark side! The common butterfly caterpillar is called a cabbage worm, you see, and it's a most voracious pest. The ravenous beasts chew through cabbage, broccoli, kale and the like with a devastating gusto. And my feathers! Their green coloring is truly GROSS! A hoo-rrific hue, I say."
+        "museum-phrase": "The common butterfly would have you believe it is but a beautiful friend flitting prettily about the flowers. Bah, I say! They may seem innocent things with their pretty white wings, but they hide a dark side! The common butterfly caterpillar is called a cabbage worm, you see, and it's a most voracious pest. The ravenous beasts chew through cabbage, broccoli, kale and the like with a devastating gusto. And my feathers! Their green coloring is truly GROSS! A hoo-rrific hue, I say."
     },
     "yellow_butterfly": {
         "id": 2,
@@ -84,7 +84,7 @@
         "price": 240,
         "price-flick": 360,
         "catch-phrase": "I caught a tiger butterfly! I've earned my stripes!",
-        "museum-phrase": "Tiger butterflies are known for their majestic wings, which many consider quite beautiful. Truth be told, I find them monstrous! Those strange striped patterns... They give this owl the goose bumps! And while you 5 imagine young tiger butterfly larvae to look like lovely green caterpillars...it's not so! Why, when tiger butterflies are but babes, they're covered in unsightly white, brown, and black spots. In this way, they camouflage themselves as...as...bird droppings! Putrid pests, indeed!"
+        "museum-phrase": "Tiger butterflies are known for their majestic wings, which many consider quite beautiful. Truth be told, I find them monstrous! Those strange striped patterns... They give this owl the goose bumps! And while you may imagine young tiger butterfly larvae to look like lovely green caterpillars...it's not so! Why, when tiger butterflies are but babes, they're covered in unsightly white, brown, and black spots. In this way, they camouflage themselves as...as...bird droppings! Putrid pests, indeed!"
     },
     "peacock_butterfly": {
         "id": 4,
@@ -113,7 +113,7 @@
         "price": 2500,
         "price-flick": 3750,
         "catch-phrase": "I caught a peacock butterfly! Now it's my turn to strut my stuff!",
-        "museum-phrase": "Pretty as a peacock? Bah, I say! The wings of the peacock butterfly 5 have a pattern similar to that of the beautiful bird... But its forewings are also often covered in a dark, velvety hair! You heard right! HAIRY wings! A hair-raising revelation indeed!"
+        "museum-phrase": "Pretty as a peacock? Bah, I say! The wings of the peacock butterfly may have a pattern similar to that of the beautiful bird... But its forewings are also often covered in a dark, velvety hair! You heard right! HAIRY wings! A hair-raising revelation indeed!"
     },
     "common_bluebottle": {
         "id": 5,
@@ -287,7 +287,7 @@
         "price": 3000,
         "price-flick": 4500,
         "catch-phrase": "I caught an agrias butterfly! I wonder if it finds me disagrias-able?",
-        "museum-phrase": "Some say the agrias butterfly is one of the most beautiful butterflies in the world. Bah, I say! BAH! They 5 have brightly colored wings, but the way they flutter and flitter...SO FOUL! In fact, the agrias butterfly flies so fast, it is quite a feat to catch one. I suppose I should congratulate you on your good fortune... But catching any bug seems a misfortune to me."
+        "museum-phrase": "Some say the agrias butterfly is one of the most beautiful butterflies in the world. Bah, I say! BAH! They may have brightly colored wings, but the way they flutter and flitter...SO FOUL! In fact, the agrias butterfly flies so fast, it is quite a feat to catch one. I suppose I should congratulate you on your good fortune... But catching any bug seems a misfortune to me."
     },
     "rajah_brookes_birdwing": {
         "id": 11,
@@ -345,7 +345,7 @@
         "price": 4000,
         "price-flick": 6000,
         "catch-phrase": "I caught a Queen Alexandra's birdwing! That's a feather in my cap!",
-        "museum-phrase": "Hoo! The horror! This behemoth butterfly 5 be called a Queen Alexandra's birdwing... But I call it the Queen of My Nightmares! It is huge! Indeed, the world's hugest. No butterfly can best its foot-long wingspan. The larvae alone grow to more than 4 inches. As if that weren't appalling enough...they're poisonous! Murderous monsters, indeed!"
+        "museum-phrase": "Hoo! The horror! This behemoth butterfly may be called a Queen Alexandra's birdwing... But I call it the Queen of My Nightmares! It is huge! Indeed, the world's hugest. No butterfly can best its foot-long wingspan. The larvae alone grow to more than 4 inches. As if that weren't appalling enough...they're poisonous! Murderous monsters, indeed!"
     },
     "moth": {
         "id": 13,
@@ -1074,7 +1074,7 @@
         "price": 500,
         "price-flick": 750,
         "catch-phrase": "I caught a mole cricket! I really dug it!",
-        "museum-phrase": "Be warned, there is nowhere one might hide from the mole cricket. This plump pest has powerful front claws made for digging holes, and oh how it loves to burrow underground! A cousin to the grasshopper, it also has wings and can easily take to the air. And I swear this on my pinfeathers... Some have even been seen walking on water! Oh mercy, I 5 need a moment. This is making me feel rather woozy..."
+        "museum-phrase": "Be warned, there is nowhere one might hide from the mole cricket. This plump pest has powerful front claws made for digging holes, and oh how it loves to burrow underground! A cousin to the grasshopper, it also has wings and can easily take to the air. And I swear this on my pinfeathers... Some have even been seen walking on water! Oh mercy, I may need a moment. This is making me feel rather woozy..."
     },
     "pondskater": {
         "id": 38,
@@ -2002,7 +2002,7 @@
         "price": 80,
         "price-flick": 120,
         "catch-phrase": "I caught an ant! TELL ME WHERE THE QUEEN IS!",
-        "museum-phrase": "I warn you, the ant 5 be a small bug, but it finds scary strength in numbers. You see, the ant itself is the strongest creature in the world in relation to its size. One of these diminutive fiends can carry 50 times its own bodyweight! And if it wants to lift something even larger... Why, it simply calls on its ant friends to join the effort. Creepy cooperation, I say..."
+        "museum-phrase": "I warn you, the ant may be a small bug, but it finds scary strength in numbers. You see, the ant itself is the strongest creature in the world in relation to its size. One of these diminutive fiends can carry 50 times its own bodyweight! And if it wants to lift something even larger... Why, it simply calls on its ant friends to join the effort. Creepy cooperation, I say..."
     },
     "hermit_crab": {
         "id": 70,
