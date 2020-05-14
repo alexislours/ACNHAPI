@@ -22,6 +22,8 @@ No authentification is required to make requests to any of the endpoints which c
 - [ACNH Travel Guide](https://apps.apple.com/us/app/acnh-travel-guide/id1502818559)
 - [Nook Plaza](https://nookplaza.net/)
 - [Critterpedia Plus](https://critterpedia-plus.mutoo.im/)
+- [AC Helper (app)](https://apps.apple.com/us/app/id1508764244)
+- [AC Helper (source)](https://github.com/Dimillian/ACHNBrowserUI)
 
 ### Other projects that can help you build your app:
 - [ACNH Item Sheet](https://tinyurl.com/acnh-sheet)
