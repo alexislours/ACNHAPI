@@ -8,7 +8,7 @@ This started for me as a little side project for me but ended up getting much at
 
 If any of the information on the website is wrong or outdated, you can either contact me on Discord (Alexis#8717) or make a pull request on this repository.
 
-If you want to help me with the hosting costs, feel free to also contact me.
+Buy me a [coffee](https://www.buymeacoffee.com/acnhapi) and help contribute toward the server costs to keep this service free!
 
 ### Usage:
 
