@@ -1,5 +1,11 @@
 # ACNH API
 
+**PSA: The API will be updated on Sunday, May 24 at 1 PM PST. This will lead to a minute or two of downtime.**
+
+Up until now, I tried to avoid making breaking changes due to the high number of users. But a few major modifications are necessary to go forward. As of now, this mainly concern the "name" keys which will change to respect the ones found in the game.
+
+You can test the changes and prepare your app by making the calls on port 1304 (HTTP) and 1305 (HTTPS) (eg: http://acnhapi.com:1304/fish ). The doc on these ports isn't yet updated but you can find the signification of these codes [here](https://github.com/alexislours/ACNHAPI/issues/5). 
+
 ### Introduction:
 
 ACNH API is a **free RESTful API** for **critters**, **fossils**, **art**, **music** and **villagers** from Animal Crossing: New Horizons.
