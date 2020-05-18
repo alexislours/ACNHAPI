@@ -2,9 +2,9 @@
 
 **PSA: The API will be updated on Sunday, May 24 at 1 PM PST. This will lead to a minute or two of downtime.**
 
-Up until now, I tried to avoid making breaking changes due to the high number of users. But a few major modifications are necessary to go forward. As of now, this mainly concern the "name" keys which will change to respect the ones found in the game.
+Up until now, I tried to avoid making breaking changes due to the high number of users. But a few major modifications are necessary to go forward. As of now, this mainly concern the "name" keys which will change to respect the ones found in the game and the endpoints being moved to /v1/ instead of the root of the project.
 
-You can test the changes and prepare your app by making the calls on port 1304 (HTTP) and 1305 (HTTPS) (eg: http://acnhapi.com:1304/fish ). The doc on these ports isn't yet updated but you can find the signification of these codes [here](https://github.com/alexislours/ACNHAPI/issues/5). 
+You can test the changes and prepare your app by making the calls on port 1304 (HTTP) and 1305 (HTTPS) (eg: http://acnhapi.com:1304/v1/fish ). The doc on these ports isn't yet updated but you can find the signification of these codes [here](https://github.com/alexislours/ACNHAPI/issues/5). 
 
 A "legacy" version will be available from now up until Monday, June 1 at 1 PM PST on ports 10080 (HTTP) and 10443 (HTTPS). This version will return the data as it is at the time of this commit. This is to give developers the time to update and pass Apple/Google Play Store validation without any downtime.
 
