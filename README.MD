@@ -44,5 +44,12 @@ No authentification is required to make requests to any of the endpoints which c
 - [Google Sheets to JSON](https://github.com/acdb-team/google-sheets-to-json) (converts the item spreadsheet to JSON format).
 - [Translations Sheet to JSON](https://github.com/Stun3R/acnh-translations-sheet-to-json) (converts the translation spreadsheet to JSON format).
 
+### Special thanks:
+
+For keeping the project free and available to all:
+
+- [Dimillian (AC Helper)](https://github.com/Dimillian)
+- [Kuma](https://github.com/kuma)
+
 #### Disclaimer: 
 ACNH API is a fan made API/Website and claims no ownership of any intellectual property associated with Nintendo or Animal Crossing.
