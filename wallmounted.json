@@ -45,7 +45,8 @@
                 "name-EUru": "тележка-каталка"
             },
             "buy-price": 63000,
-            "sell-price": 15750
+            "sell-price": 15750,
+            "image_uri": "https://acnhapi.com/v1/images/furniture/FtrAirconditioner_Remake_0_0"
         },
         {
             "variant": "Gray",
@@ -92,7 +93,8 @@
                 "name-EUru": "тележка-каталка"
             },
             "buy-price": 63000,
-            "sell-price": 15750
+            "sell-price": 15750,
+            "image_uri": "https://acnhapi.com/v1/images/furniture/FtrAirconditioner_Remake_1_0"
         },
         {
             "variant": "Black",
@@ -139,7 +141,8 @@
                 "name-EUru": "тележка-каталка"
             },
             "buy-price": 63000,
-            "sell-price": 15750
+            "sell-price": 15750,
+            "image_uri": "https://acnhapi.com/v1/images/furniture/FtrAirconditioner_Remake_2_0"
         },
         {
             "variant": "Pink",
@@ -186,7 +189,8 @@
                 "name-EUru": "тележка-каталка"
             },
             "buy-price": 63000,
-            "sell-price": 15750
+            "sell-price": 15750,
+            "image_uri": "https://acnhapi.com/v1/images/furniture/FtrAirconditioner_Remake_3_0"
         },
         {
             "variant": "Blue",
@@ -233,7 +237,8 @@
                 "name-EUru": "тележка-каталка"
             },
             "buy-price": 63000,
-            "sell-price": 15750
+            "sell-price": 15750,
+            "image_uri": "https://acnhapi.com/v1/images/furniture/FtrAirconditioner_Remake_4_0"
         },
         {
             "variant": "Brown",
@@ -280,7 +285,8 @@
                 "name-EUru": "тележка-каталка"
             },
             "buy-price": 63000,
-            "sell-price": 15750
+            "sell-price": 15750,
+            "image_uri": "https://acnhapi.com/v1/images/furniture/FtrAirconditioner_Remake_5_0"
         }
     ],
     "antique_phone": [
@@ -329,7 +335,8 @@
                 "name-EUru": "кот удачи"
             },
             "buy-price": 16000,
-            "sell-price": 4000
+            "sell-price": 4000,
+            "image_uri": "https://acnhapi.com/v1/images/furniture/FtrAntiquePhoneW_Remake_0_0"
         },
         {
             "variant": "Natural",
@@ -376,7 +383,8 @@
                 "name-EUru": "кот удачи"
             },
             "buy-price": 16000,
-            "sell-price": 4000
+            "sell-price": 4000,
+            "image_uri": "https://acnhapi.com/v1/images/furniture/FtrAntiquePhoneW_Remake_1_0"
         },
         {
             "variant": "Black",
@@ -423,7 +431,8 @@
                 "name-EUru": "кот удачи"
             },
             "buy-price": 16000,
-            "sell-price": 4000
+            "sell-price": 4000,
+            "image_uri": "https://acnhapi.com/v1/images/furniture/FtrAntiquePhoneW_Remake_2_0"
         }
     ],
     "autograph_cards": [
@@ -472,7 +481,8 @@
                 "name-EUru": "конус"
             },
             "buy-price": 1400,
-            "sell-price": 350
+            "sell-price": 350,
+            "image_uri": "https://acnhapi.com/v1/images/furniture/FtrAutograph_Remake_0_0"
         },
         {
             "variant": "Signature",
@@ -519,7 +529,8 @@
                 "name-EUru": "конус"
             },
             "buy-price": 1400,
-            "sell-price": 350
+            "sell-price": 350,
+            "image_uri": "https://acnhapi.com/v1/images/furniture/FtrAutograph_Remake_0_1"
         },
         {
             "variant": "Handprints",
@@ -566,7 +577,8 @@
                 "name-EUru": "конус"
             },
             "buy-price": 1400,
-            "sell-price": 350
+            "sell-price": 350,
+            "image_uri": "https://acnhapi.com/v1/images/furniture/FtrAutograph_Remake_1_0"
         },
         {
             "variant": "Handprints",
@@ -613,7 +625,8 @@
                 "name-EUru": "конус"
             },
             "buy-price": 1400,
-            "sell-price": 350
+            "sell-price": 350,
+            "image_uri": "https://acnhapi.com/v1/images/furniture/FtrAutograph_Remake_1_1"
         },
         {
             "variant": "Illustration",
@@ -660,7 +673,8 @@
                 "name-EUru": "конус"
             },
             "buy-price": 1400,
-            "sell-price": 350
+            "sell-price": 350,
+            "image_uri": "https://acnhapi.com/v1/images/furniture/FtrAutograph_Remake_2_0"
         },
         {
             "variant": "Illustration",
@@ -707,7 +721,8 @@
                 "name-EUru": "конус"
             },
             "buy-price": 1400,
-            "sell-price": 350
+            "sell-price": 350,
+            "image_uri": "https://acnhapi.com/v1/images/furniture/FtrAutograph_Remake_2_1"
         },
         {
             "variant": "Words of wisdom",
@@ -754,7 +769,8 @@
                 "name-EUru": "конус"
             },
             "buy-price": 1400,
-            "sell-price": 350
+            "sell-price": 350,
+            "image_uri": "https://acnhapi.com/v1/images/furniture/FtrAutograph_Remake_3_0"
         },
         {
             "variant": "Words of wisdom",
@@ -801,7 +817,8 @@
                 "name-EUru": "конус"
             },
             "buy-price": 1400,
-            "sell-price": 350
+            "sell-price": 350,
+            "image_uri": "https://acnhapi.com/v1/images/furniture/FtrAutograph_Remake_3_1"
         }
     ],
     "bamboo_wall_decoration": [
@@ -850,7 +867,8 @@
                 "name-EUru": "газонокосилка"
             },
             "buy-price": null,
-            "sell-price": 160
+            "sell-price": 160,
+            "image_uri": "https://acnhapi.com/v1/images/furniture/FtrBambooFlowerwall_Remake_0_0"
         },
         {
             "variant": "Dried bamboo",
@@ -897,7 +915,8 @@
                 "name-EUru": "газонокосилка"
             },
             "buy-price": null,
-            "sell-price": 160
+            "sell-price": 160,
+            "image_uri": "https://acnhapi.com/v1/images/furniture/FtrBambooFlowerwall_Remake_1_0"
         },
         {
             "variant": "Smoke-cured bamboo",
@@ -944,7 +963,8 @@
                 "name-EUru": "газонокосилка"
             },
             "buy-price": null,
-            "sell-price": 160
+            "sell-price": 160,
+            "image_uri": "https://acnhapi.com/v1/images/furniture/FtrBambooFlowerwall_Remake_2_0"
         }
     ],
     "bathroom_towel_rack": [
@@ -993,7 +1013,8 @@
                 "name-EUru": "бутафорская трава"
             },
             "buy-price": 1400,
-            "sell-price": 350
+            "sell-price": 350,
+            "image_uri": "https://acnhapi.com/v1/images/furniture/FtrTowelrackWall_Remake_0_0"
         },
         {
             "variant": "Gold",
@@ -1040,7 +1061,8 @@
                 "name-EUru": "бутафорская трава"
             },
             "buy-price": 1400,
-            "sell-price": 350
+            "sell-price": 350,
+            "image_uri": "https://acnhapi.com/v1/images/furniture/FtrTowelrackWall_Remake_1_0"
         },
         {
             "variant": "Copper",
@@ -1087,7 +1109,8 @@
                 "name-EUru": "бутафорская трава"
             },
             "buy-price": 1400,
-            "sell-price": 350
+            "sell-price": 350,
+            "image_uri": "https://acnhapi.com/v1/images/furniture/FtrTowelrackWall_Remake_2_0"
         },
         {
             "variant": "Black",
@@ -1134,7 +1157,8 @@
                 "name-EUru": "бутафорская трава"
             },
             "buy-price": 1400,
-            "sell-price": 350
+            "sell-price": 350,
+            "image_uri": "https://acnhapi.com/v1/images/furniture/FtrTowelrackWall_Remake_3_0"
         }
     ],
     "blue_rose_wreath": [
@@ -1183,7 +1207,8 @@
                 "name-EUru": "ростомер"
             },
             "buy-price": null,
-            "sell-price": 20000
+            "sell-price": 20000,
+            "image_uri": "https://acnhapi.com/v1/images/furniture/FtrDoorOrnamentWreathRoseUrtraRare"
         }
     ],
     "bone_doorplate": [
@@ -1232,7 +1257,8 @@
                 "name-EUru": "шезлонг"
             },
             "buy-price": null,
-            "sell-price": 360
+            "sell-price": 360,
+            "image_uri": "https://acnhapi.com/v1/images/furniture/FtrDoorPlateBone_Remake_0_0"
         },
         {
             "variant": "White",
@@ -1279,7 +1305,8 @@
                 "name-EUru": "шезлонг"
             },
             "buy-price": null,
-            "sell-price": 360
+            "sell-price": 360,
+            "image_uri": "https://acnhapi.com/v1/images/furniture/FtrDoorPlateBone_Remake_1_0"
         },
         {
             "variant": "Black",
@@ -1326,7 +1353,8 @@
                 "name-EUru": "шезлонг"
             },
             "buy-price": null,
-            "sell-price": 360
+            "sell-price": 360,
+            "image_uri": "https://acnhapi.com/v1/images/furniture/FtrDoorPlateBone_Remake_2_0"
         },
         {
             "variant": "Pink",
@@ -1373,7 +1401,8 @@
                 "name-EUru": "шезлонг"
             },
             "buy-price": null,
-            "sell-price": 360
+            "sell-price": 360,
+            "image_uri": "https://acnhapi.com/v1/images/furniture/FtrDoorPlateBone_Remake_3_0"
         },
         {
             "variant": "Red",
@@ -1420,7 +1449,8 @@
                 "name-EUru": "шезлонг"
             },
             "buy-price": null,
-            "sell-price": 360
+            "sell-price": 360,
+            "image_uri": "https://acnhapi.com/v1/images/furniture/FtrDoorPlateBone_Remake_4_0"
         },
         {
             "variant": "Yellow",
@@ -1467,7 +1497,8 @@
                 "name-EUru": "шезлонг"
             },
             "buy-price": null,
-            "sell-price": 360
+            "sell-price": 360,
+            "image_uri": "https://acnhapi.com/v1/images/furniture/FtrDoorPlateBone_Remake_5_0"
         },
         {
             "variant": "Blue",
@@ -1514,7 +1545,8 @@
                 "name-EUru": "шезлонг"
             },
             "buy-price": null,
-            "sell-price": 360
+            "sell-price": 360,
+            "image_uri": "https://acnhapi.com/v1/images/furniture/FtrDoorPlateBone_Remake_6_0"
         },
         {
             "variant": "Natural wood",
@@ -1561,7 +1593,8 @@
                 "name-EUru": "шезлонг"
             },
             "buy-price": null,
-            "sell-price": 360
+            "sell-price": 360,
+            "image_uri": "https://acnhapi.com/v1/images/furniture/FtrDoorPlateBone_Remake_7_0"
         }
     ],
     "boomerang": [
@@ -1610,7 +1643,8 @@
                 "name-EUru": "даларнская лошадка"
             },
             "buy-price": null,
-            "sell-price": 360
+            "sell-price": 360,
+            "image_uri": "https://acnhapi.com/v1/images/furniture/FtrBoomerang_Remake_0_0"
         },
         {
             "variant": "Green & orange",
@@ -1657,7 +1691,8 @@
                 "name-EUru": "даларнская лошадка"
             },
             "buy-price": null,
-            "sell-price": 360
+            "sell-price": 360,
+            "image_uri": "https://acnhapi.com/v1/images/furniture/FtrBoomerang_Remake_1_0"
         },
         {
             "variant": "Dark brown",
@@ -1704,7 +1739,8 @@
                 "name-EUru": "даларнская лошадка"
             },
             "buy-price": null,
-            "sell-price": 360
+            "sell-price": 360,
+            "image_uri": "https://acnhapi.com/v1/images/furniture/FtrBoomerang_Remake_2_0"
         },
         {
             "variant": "Red & black",
@@ -1751,7 +1787,8 @@
                 "name-EUru": "даларнская лошадка"
             },
             "buy-price": null,
-            "sell-price": 360
+            "sell-price": 360,
+            "image_uri": "https://acnhapi.com/v1/images/furniture/FtrBoomerang_Remake_3_0"
         },
         {
             "variant": "White & blue",
@@ -1798,7 +1835,8 @@
                 "name-EUru": "даларнская лошадка"
             },
             "buy-price": null,
-            "sell-price": 360
+            "sell-price": 360,
+            "image_uri": "https://acnhapi.com/v1/images/furniture/FtrBoomerang_Remake_4_0"
         }
     ],
     "breaker": [
@@ -1847,7 +1885,8 @@
                 "name-EUru": "статуя моаи"
             },
             "buy-price": 820,
-            "sell-price": 205
+            "sell-price": 205,
+            "image_uri": "https://acnhapi.com/v1/images/furniture/FtrBreaker"
         }
     ],
     "bronze_HHA_plaque": [
@@ -1896,7 +1935,8 @@
                 "name-EUru": "Пизанская башня"
             },
             "buy-price": null,
-            "sell-price": 400
+            "sell-price": 400,
+            "image_uri": "https://acnhapi.com/v1/images/furniture/FtrShieldHhaBronze"
         }
     ],
     "broom_and_dustpan": [
@@ -1945,7 +1985,8 @@
                 "name-EUru": "гобелен"
             },
             "buy-price": 910,
-            "sell-price": 227
+            "sell-price": 227,
+            "image_uri": "https://acnhapi.com/v1/images/furniture/FtrCleaningset_Remake_0_0"
         },
         {
             "variant": "White",
@@ -1992,7 +2033,8 @@
                 "name-EUru": "гобелен"
             },
             "buy-price": 910,
-            "sell-price": 227
+            "sell-price": 227,
+            "image_uri": "https://acnhapi.com/v1/images/furniture/FtrCleaningset_Remake_1_0"
         },
         {
             "variant": "Dark brown",
@@ -2039,7 +2081,8 @@
                 "name-EUru": "гобелен"
             },
             "buy-price": 910,
-            "sell-price": 227
+            "sell-price": 227,
+            "image_uri": "https://acnhapi.com/v1/images/furniture/FtrCleaningset_Remake_2_0"
         },
         {
             "variant": "Colorful",
@@ -2086,7 +2129,8 @@
                 "name-EUru": "гобелен"
             },
             "buy-price": 910,
-            "sell-price": 227
+            "sell-price": 227,
+            "image_uri": "https://acnhapi.com/v1/images/furniture/FtrCleaningset_Remake_3_0"
         }
     ],
     "bug_plaque": [
@@ -2135,7 +2179,8 @@
                 "name-EUru": "кострище"
             },
             "buy-price": null,
-            "sell-price": 300
+            "sell-price": 300,
+            "image_uri": "https://acnhapi.com/v1/images/furniture/FtrMuseumInsectWall"
         }
     ],
     "Bunny_Day_glowy_garland": [
@@ -2184,7 +2229,8 @@
                 "name-EUru": "чайник"
             },
             "buy-price": null,
-            "sell-price": 2400
+            "sell-price": 2400,
+            "image_uri": "https://acnhapi.com/v1/images/furniture/FtrEggLampWall"
         }
     ],
     "Bunny_Day_wall_clock": [
@@ -2233,7 +2279,8 @@
                 "name-EUru": "бумажный фонарь"
             },
             "buy-price": null,
-            "sell-price": 1200
+            "sell-price": 1200,
+            "image_uri": "https://acnhapi.com/v1/images/furniture/FtrEggClock"
         }
     ],
     "Bunny_Day_wreath": [
@@ -2282,7 +2329,8 @@
                 "name-EUru": "валун"
             },
             "buy-price": null,
-            "sell-price": 2400
+            "sell-price": 2400,
+            "image_uri": "https://acnhapi.com/v1/images/furniture/FtrDoorOrnamentWreathEaster"
         }
     ],
     "butterfly-fish_model": [
@@ -2331,7 +2379,8 @@
                 "name-EUru": "высокий валун"
             },
             "buy-price": 1300,
-            "sell-price": 325
+            "sell-price": 325,
+            "image_uri": "https://acnhapi.com/v1/images/furniture/FtrFishChouchouuoWall"
         }
     ],
     "cherry_lamp": [
@@ -2380,7 +2429,8 @@
                 "name-EUru": "чайный стол"
             },
             "buy-price": null,
-            "sell-price": 2400
+            "sell-price": 2400,
+            "image_uri": "https://acnhapi.com/v1/images/furniture/FtrFruitsLampW_Remake_0_0"
         },
         {
             "variant": "Black cherry",
@@ -2427,7 +2477,8 @@
                 "name-EUru": "чайный стол"
             },
             "buy-price": null,
-            "sell-price": 2400
+            "sell-price": 2400,
+            "image_uri": "https://acnhapi.com/v1/images/furniture/FtrFruitsLampW_Remake_1_0"
         }
     ],
     "cherry-blossom_clock": [
@@ -2476,7 +2527,8 @@
                 "name-EUru": "магнитофон"
             },
             "buy-price": null,
-            "sell-price": 2750
+            "sell-price": 2750,
+            "image_uri": "https://acnhapi.com/v1/images/furniture/FtrSakuraClockW_Remake_0_0"
         },
         {
             "variant": "Pink-white",
@@ -2523,7 +2575,8 @@
                 "name-EUru": "магнитофон"
             },
             "buy-price": null,
-            "sell-price": 2750
+            "sell-price": 2750,
+            "image_uri": "https://acnhapi.com/v1/images/furniture/FtrSakuraClockW_Remake_1_0"
         }
     ],
     "chic_cosmos_wreath": [
@@ -2572,7 +2625,8 @@
                 "name-EUru": "музыкальный автомат"
             },
             "buy-price": null,
-            "sell-price": 4800
+            "sell-price": 4800,
+            "image_uri": "https://acnhapi.com/v1/images/furniture/FtrDoorOrnamentWreathCosmosRare"
         }
     ],
     "chic_windflower_wreath": [
@@ -2621,7 +2675,8 @@
                 "name-EUru": "музыкальный центр"
             },
             "buy-price": null,
-            "sell-price": 4800
+            "sell-price": 4800,
+            "image_uri": "https://acnhapi.com/v1/images/furniture/FtrDoorOrnamentWreathAnemoneRare"
         }
     ],
     "coconut_wall_planter": [
@@ -2670,7 +2725,8 @@
                 "name-EUru": "граммофон"
             },
             "buy-price": null,
-            "sell-price": 600
+            "sell-price": 600,
+            "image_uri": "https://acnhapi.com/v1/images/furniture/FtrPlanterPalm"
         }
     ],
     "cool_hyacinth_wreath": [
@@ -2719,7 +2775,8 @@
                 "name-EUru": "радиола"
             },
             "buy-price": null,
-            "sell-price": 1440
+            "sell-price": 1440,
+            "image_uri": "https://acnhapi.com/v1/images/furniture/FtrDoorOrnamentWreathHyacinthMix"
         }
     ],
     "cool_pansy_wreath": [
@@ -2768,7 +2825,8 @@
                 "name-EUru": "гриб-лампа"
             },
             "buy-price": null,
-            "sell-price": 4800
+            "sell-price": 4800,
+            "image_uri": "https://acnhapi.com/v1/images/furniture/FtrDoorOrnamentWreathPansyRare"
         }
     ],
     "cool_windflower_wreath": [
@@ -2817,7 +2875,8 @@
                 "name-EUru": "гриб-стол"
             },
             "buy-price": null,
-            "sell-price": 1200
+            "sell-price": 1200,
+            "image_uri": "https://acnhapi.com/v1/images/furniture/FtrDoorOrnamentWreathAnemoneMix"
         }
     ],
     "corkboard": [
@@ -2866,7 +2925,8 @@
                 "name-EUru": "соврем. офисное кресло"
             },
             "buy-price": 1400,
-            "sell-price": 350
+            "sell-price": 350,
+            "image_uri": "https://acnhapi.com/v1/images/furniture/FtrCorkboard_Remake_0_0"
         },
         {
             "variant": "Natural",
@@ -2913,7 +2973,8 @@
                 "name-EUru": "соврем. офисное кресло"
             },
             "buy-price": 1400,
-            "sell-price": 350
+            "sell-price": 350,
+            "image_uri": "https://acnhapi.com/v1/images/furniture/FtrCorkboard_Remake_0_1"
         },
         {
             "variant": "Natural",
@@ -2960,7 +3021,8 @@
                 "name-EUru": "соврем. офисное кресло"
             },
             "buy-price": 1400,
-            "sell-price": 350
+            "sell-price": 350,
+            "image_uri": "https://acnhapi.com/v1/images/furniture/FtrCorkboard_Remake_0_2"
         },
         {
             "variant": "White",
@@ -3007,7 +3069,8 @@
                 "name-EUru": "соврем. офисное кресло"
             },
             "buy-price": 1400,
-            "sell-price": 350
+            "sell-price": 350,
+            "image_uri": "https://acnhapi.com/v1/images/furniture/FtrCorkboard_Remake_1_0"
         },
         {
             "variant": "White",
@@ -3054,7 +3117,8 @@
                 "name-EUru": "соврем. офисное кресло"
             },
             "buy-price": 1400,
-            "sell-price": 350
+            "sell-price": 350,
+            "image_uri": "https://acnhapi.com/v1/images/furniture/FtrCorkboard_Remake_1_1"
         },
         {
             "variant": "White",
@@ -3101,7 +3165,8 @@
                 "name-EUru": "соврем. офисное кресло"
             },
             "buy-price": 1400,
-            "sell-price": 350
+            "sell-price": 350,
+            "image_uri": "https://acnhapi.com/v1/images/furniture/FtrCorkboard_Remake_1_2"
         },
         {
             "variant": "Blue",
@@ -3148,7 +3213,8 @@
                 "name-EUru": "соврем. офисное кресло"
             },
             "buy-price": 1400,
-            "sell-price": 350
+            "sell-price": 350,
+            "image_uri": "https://acnhapi.com/v1/images/furniture/FtrCorkboard_Remake_2_0"
         },
         {
             "variant": "Blue",
@@ -3195,7 +3261,8 @@
                 "name-EUru": "соврем. офисное кресло"
             },
             "buy-price": 1400,
-            "sell-price": 350
+            "sell-price": 350,
+            "image_uri": "https://acnhapi.com/v1/images/furniture/FtrCorkboard_Remake_2_1"
         },
         {
             "variant": "Blue",
@@ -3242,7 +3309,8 @@
                 "name-EUru": "соврем. офисное кресло"
             },
             "buy-price": 1400,
-            "sell-price": 350
+            "sell-price": 350,
+            "image_uri": "https://acnhapi.com/v1/images/furniture/FtrCorkboard_Remake_2_2"
         }
     ],
     "cosmos_wreath": [
@@ -3291,7 +3359,8 @@
                 "name-EUru": "подставки для книг"
             },
             "buy-price": null,
-            "sell-price": 720
+            "sell-price": 720,
+            "image_uri": "https://acnhapi.com/v1/images/furniture/FtrDoorOrnamentWreathCosmos"
         }
     ],
     "crest_doorplate": [
@@ -3340,7 +3409,8 @@
                 "name-EUru": "электрощит"
             },
             "buy-price": null,
-            "sell-price": 3000
+            "sell-price": 3000,
+            "image_uri": "https://acnhapi.com/v1/images/furniture/FtrDoorOrnamentCrest_Remake_0_0"
         },
         {
             "variant": "Gold & silver",
@@ -3387,7 +3457,8 @@
                 "name-EUru": "электрощит"
             },
             "buy-price": null,
-            "sell-price": 3000
+            "sell-price": 3000,
+            "image_uri": "https://acnhapi.com/v1/images/furniture/FtrDoorOrnamentCrest_Remake_1_0"
         },
         {
             "variant": "Silver & blue",
@@ -3434,7 +3505,8 @@
                 "name-EUru": "электрощит"
             },
             "buy-price": null,
-            "sell-price": 3000
+            "sell-price": 3000,
+            "image_uri": "https://acnhapi.com/v1/images/furniture/FtrDoorOrnamentCrest_Remake_2_0"
         },
         {
             "variant": "Red & white",
@@ -3481,7 +3553,8 @@
                 "name-EUru": "электрощит"
             },
             "buy-price": null,
-            "sell-price": 3000
+            "sell-price": 3000,
+            "image_uri": "https://acnhapi.com/v1/images/furniture/FtrDoorOrnamentCrest_Remake_3_0"
         },
         {
             "variant": "Silver & green",
@@ -3528,7 +3601,8 @@
                 "name-EUru": "электрощит"
             },
             "buy-price": null,
-            "sell-price": 3000
+            "sell-price": 3000,
+            "image_uri": "https://acnhapi.com/v1/images/furniture/FtrDoorOrnamentCrest_Remake_4_0"
         },
         {
             "variant": "Colorful",
@@ -3575,7 +3649,8 @@
                 "name-EUru": "электрощит"
             },
             "buy-price": null,
-            "sell-price": 3000
+            "sell-price": 3000,
+            "image_uri": "https://acnhapi.com/v1/images/furniture/FtrDoorOrnamentCrest_Remake_5_0"
         }
     ],
     "cuckoo_clock": [
@@ -3624,7 +3699,8 @@
                 "name-EUru": "вертикальный пылесос"
             },
             "buy-price": 3200,
-            "sell-price": 800
+            "sell-price": 800,
+            "image_uri": "https://acnhapi.com/v1/images/furniture/FtrCuckooclock_Remake_0_0"
         },
         {
             "variant": "Green",
@@ -3671,7 +3747,8 @@
                 "name-EUru": "вертикальный пылесос"
             },
             "buy-price": 3200,
-            "sell-price": 800
+            "sell-price": 800,
+            "image_uri": "https://acnhapi.com/v1/images/furniture/FtrCuckooclock_Remake_1_0"
         },
         {
             "variant": "Blue",
@@ -3718,7 +3795,8 @@
                 "name-EUru": "вертикальный пылесос"
             },
             "buy-price": 3200,
-            "sell-price": 800
+            "sell-price": 800,
+            "image_uri": "https://acnhapi.com/v1/images/furniture/FtrCuckooclock_Remake_2_0"
         },
         {
             "variant": "Yellow",
@@ -3765,7 +3843,8 @@
                 "name-EUru": "вертикальный пылесос"
             },
             "buy-price": 3200,
-            "sell-price": 800
+            "sell-price": 800,
+            "image_uri": "https://acnhapi.com/v1/images/furniture/FtrCuckooclock_Remake_3_0"
         },
         {
             "variant": "Red",
@@ -3812,7 +3891,8 @@
                 "name-EUru": "вертикальный пылесос"
             },
             "buy-price": 3200,
-            "sell-price": 800
+            "sell-price": 800,
+            "image_uri": "https://acnhapi.com/v1/images/furniture/FtrCuckooclock_Remake_4_0"
         },
         {
             "variant": "White",
@@ -3859,7 +3939,8 @@
                 "name-EUru": "вертикальный пылесос"
             },
             "buy-price": 3200,
-            "sell-price": 800
+            "sell-price": 800,
+            "image_uri": "https://acnhapi.com/v1/images/furniture/FtrCuckooclock_Remake_5_0"
         },
         {
             "variant": "Black",
@@ -3906,7 +3987,8 @@
                 "name-EUru": "вертикальный пылесос"
             },
             "buy-price": 3200,
-            "sell-price": 800
+            "sell-price": 800,
+            "image_uri": "https://acnhapi.com/v1/images/furniture/FtrCuckooclock_Remake_6_0"
         }
     ],
     "cute_wall-mounted_clock": [
@@ -3955,7 +4037,8 @@
                 "name-EUru": "DJ-проигрыватель"
             },
             "buy-price": 1200,
-            "sell-price": 300
+            "sell-price": 300,
+            "image_uri": "https://acnhapi.com/v1/images/furniture/FtrCuteClockW_Remake_0_0"
         },
         {
             "variant": "Sky blue",
@@ -4002,7 +4085,8 @@
                 "name-EUru": "DJ-проигрыватель"
             },
             "buy-price": 1200,
-            "sell-price": 300
+            "sell-price": 300,
+            "image_uri": "https://acnhapi.com/v1/images/furniture/FtrCuteClockW_Remake_1_0"
         },
         {
             "variant": "Yellow",
@@ -4049,7 +4133,8 @@
                 "name-EUru": "DJ-проигрыватель"
             },
             "buy-price": 1200,
-            "sell-price": 300
+            "sell-price": 300,
+            "image_uri": "https://acnhapi.com/v1/images/furniture/FtrCuteClockW_Remake_2_0"
         },
         {
             "variant": "Red",
@@ -4096,7 +4181,8 @@
                 "name-EUru": "DJ-проигрыватель"
             },
             "buy-price": 1200,
-            "sell-price": 300
+            "sell-price": 300,
+            "image_uri": "https://acnhapi.com/v1/images/furniture/FtrCuteClockW_Remake_3_0"
         },
         {
             "variant": "Blue",
@@ -4143,7 +4229,8 @@
                 "name-EUru": "DJ-проигрыватель"
             },
             "buy-price": 1200,
-            "sell-price": 300
+            "sell-price": 300,
+            "image_uri": "https://acnhapi.com/v1/images/furniture/FtrCuteClockW_Remake_4_0"
         }
     ],
     "dark_lily_wreath": [
@@ -4192,7 +4279,8 @@
                 "name-EUru": "торговый автомат"
             },
             "buy-price": null,
-            "sell-price": 1600
+            "sell-price": 1600,
+            "image_uri": "https://acnhapi.com/v1/images/furniture/FtrDoorOrnamentWreathYuriRare"
         }
     ],
     "dark_rose_wreath": [
@@ -4241,7 +4329,8 @@
                 "name-EUru": "корзина с фруктами"
             },
             "buy-price": null,
-            "sell-price": 4320
+            "sell-price": 4320,
+            "image_uri": "https://acnhapi.com/v1/images/furniture/FtrDoorOrnamentWreathRoseRare"
         }
     ],
     "dark_tulip_wreath": [
@@ -4290,7 +4379,8 @@
                 "name-EUru": "доска для го"
             },
             "buy-price": null,
-            "sell-price": 1600
+            "sell-price": 1600,
+            "image_uri": "https://acnhapi.com/v1/images/furniture/FtrDoorOrnamentWreathTulipRare"
         }
     ],
     "deer_decoration": [
@@ -4339,7 +4429,8 @@
                 "name-EUru": "арфа"
             },
             "buy-price": null,
-            "sell-price": 960
+            "sell-price": 960,
+            "image_uri": "https://acnhapi.com/v1/images/furniture/FtrHuntingtrophy_Remake_0_0"
         },
         {
             "variant": "Ash",
@@ -4386,7 +4477,8 @@
                 "name-EUru": "арфа"
             },
             "buy-price": null,
-            "sell-price": 960
+            "sell-price": 960,
+            "image_uri": "https://acnhapi.com/v1/images/furniture/FtrHuntingtrophy_Remake_1_0"
         },
         {
             "variant": "Ivory",
@@ -4433,7 +4525,8 @@
                 "name-EUru": "арфа"
             },
             "buy-price": null,
-            "sell-price": 960
+            "sell-price": 960,
+            "image_uri": "https://acnhapi.com/v1/images/furniture/FtrHuntingtrophy_Remake_2_0"
         },
         {
             "variant": "White",
@@ -4480,7 +4573,8 @@
                 "name-EUru": "арфа"
             },
             "buy-price": null,
-            "sell-price": 960
+            "sell-price": 960,
+            "image_uri": "https://acnhapi.com/v1/images/furniture/FtrHuntingtrophy_Remake_3_0"
         },
         {
             "variant": "Black",
@@ -4527,7 +4621,8 @@
                 "name-EUru": "арфа"
             },
             "buy-price": null,
-            "sell-price": 960
+            "sell-price": 960,
+            "image_uri": "https://acnhapi.com/v1/images/furniture/FtrHuntingtrophy_Remake_4_0"
         }
     ],
     "diner_neon_clock": [
@@ -4576,7 +4671,8 @@
                 "name-EUru": "стоечка для журналов"
             },
             "buy-price": 1500,
-            "sell-price": 375
+            "sell-price": 375,
+            "image_uri": "https://acnhapi.com/v1/images/furniture/FtrAmeretroClock_Remake_0_0"
         },
         {
             "variant": "Red",
@@ -4623,7 +4719,8 @@
                 "name-EUru": "стоечка для журналов"
             },
             "buy-price": 1500,
-            "sell-price": 375
+            "sell-price": 375,
+            "image_uri": "https://acnhapi.com/v1/images/furniture/FtrAmeretroClock_Remake_0_1"
         },
         {
             "variant": "Red",
@@ -4670,7 +4767,8 @@
                 "name-EUru": "стоечка для журналов"
             },
             "buy-price": 1500,
-            "sell-price": 375
+            "sell-price": 375,
+            "image_uri": "https://acnhapi.com/v1/images/furniture/FtrAmeretroClock_Remake_0_2"
         },
         {
             "variant": "Blue",
@@ -4717,7 +4815,8 @@
                 "name-EUru": "стоечка для журналов"
             },
             "buy-price": 1500,
-            "sell-price": 375
+            "sell-price": 375,
+            "image_uri": "https://acnhapi.com/v1/images/furniture/FtrAmeretroClock_Remake_1_0"
         },
         {
             "variant": "Blue",
@@ -4764,7 +4863,8 @@
                 "name-EUru": "стоечка для журналов"
             },
             "buy-price": 1500,
-            "sell-price": 375
+            "sell-price": 375,
+            "image_uri": "https://acnhapi.com/v1/images/furniture/FtrAmeretroClock_Remake_1_1"
         },
         {
             "variant": "Blue",
@@ -4811,7 +4911,8 @@
                 "name-EUru": "стоечка для журналов"
             },
             "buy-price": 1500,
-            "sell-price": 375
+            "sell-price": 375,
+            "image_uri": "https://acnhapi.com/v1/images/furniture/FtrAmeretroClock_Remake_1_2"
         },
         {
             "variant": "Yellow",
@@ -4858,7 +4959,8 @@
                 "name-EUru": "стоечка для журналов"
             },
             "buy-price": 1500,
-            "sell-price": 375
+            "sell-price": 375,
+            "image_uri": "https://acnhapi.com/v1/images/furniture/FtrAmeretroClock_Remake_2_0"
         },
         {
             "variant": "Yellow",
@@ -4905,7 +5007,8 @@
                 "name-EUru": "стоечка для журналов"
             },
             "buy-price": 1500,
-            "sell-price": 375
+            "sell-price": 375,
+            "image_uri": "https://acnhapi.com/v1/images/furniture/FtrAmeretroClock_Remake_2_1"
         },
         {
             "variant": "Yellow",
@@ -4952,7 +5055,8 @@
                 "name-EUru": "стоечка для журналов"
             },
             "buy-price": 1500,
-            "sell-price": 375
+            "sell-price": 375,
+            "image_uri": "https://acnhapi.com/v1/images/furniture/FtrAmeretroClock_Remake_2_2"
         },
         {
             "variant": "Aquamarine",
@@ -4999,7 +5103,8 @@
                 "name-EUru": "стоечка для журналов"
             },
             "buy-price": 1500,
-            "sell-price": 375
+            "sell-price": 375,
+            "image_uri": "https://acnhapi.com/v1/images/furniture/FtrAmeretroClock_Remake_3_0"
         },
         {
             "variant": "Aquamarine",
@@ -5046,7 +5151,8 @@
                 "name-EUru": "стоечка для журналов"
             },
             "buy-price": 1500,
-            "sell-price": 375
+            "sell-price": 375,
+            "image_uri": "https://acnhapi.com/v1/images/furniture/FtrAmeretroClock_Remake_3_1"
         },
         {
             "variant": "Aquamarine",
@@ -5093,7 +5199,8 @@
                 "name-EUru": "стоечка для журналов"
             },
             "buy-price": 1500,
-            "sell-price": 375
+            "sell-price": 375,
+            "image_uri": "https://acnhapi.com/v1/images/furniture/FtrAmeretroClock_Remake_3_2"
         },
         {
             "variant": "Pink",
@@ -5140,7 +5247,8 @@
                 "name-EUru": "стоечка для журналов"
             },
             "buy-price": 1500,
-            "sell-price": 375
+            "sell-price": 375,
+            "image_uri": "https://acnhapi.com/v1/images/furniture/FtrAmeretroClock_Remake_4_0"
         },
         {
             "variant": "Pink",
@@ -5187,7 +5295,8 @@
                 "name-EUru": "стоечка для журналов"
             },
             "buy-price": 1500,
-            "sell-price": 375
+            "sell-price": 375,
+            "image_uri": "https://acnhapi.com/v1/images/furniture/FtrAmeretroClock_Remake_4_1"
         },
         {
             "variant": "Pink",
@@ -5234,7 +5343,8 @@
                 "name-EUru": "стоечка для журналов"
             },
             "buy-price": 1500,
-            "sell-price": 375
+            "sell-price": 375,
+            "image_uri": "https://acnhapi.com/v1/images/furniture/FtrAmeretroClock_Remake_4_2"
         },
         {
             "variant": "Cream",
@@ -5281,7 +5391,8 @@
                 "name-EUru": "стоечка для журналов"
             },
             "buy-price": 1500,
-            "sell-price": 375
+            "sell-price": 375,
+            "image_uri": "https://acnhapi.com/v1/images/furniture/FtrAmeretroClock_Remake_5_0"
         },
         {
             "variant": "Cream",
@@ -5328,7 +5439,8 @@
                 "name-EUru": "стоечка для журналов"
             },
             "buy-price": 1500,
-            "sell-price": 375
+            "sell-price": 375,
+            "image_uri": "https://acnhapi.com/v1/images/furniture/FtrAmeretroClock_Remake_5_1"
         },
         {
             "variant": "Cream",
@@ -5375,7 +5487,8 @@
                 "name-EUru": "стоечка для журналов"
             },
             "buy-price": 1500,
-            "sell-price": 375
+            "sell-price": 375,
+            "image_uri": "https://acnhapi.com/v1/images/furniture/FtrAmeretroClock_Remake_5_2"
         },
         {
             "variant": "Purple",
@@ -5422,7 +5535,8 @@
                 "name-EUru": "стоечка для журналов"
             },
             "buy-price": 1500,
-            "sell-price": 375
+            "sell-price": 375,
+            "image_uri": "https://acnhapi.com/v1/images/furniture/FtrAmeretroClock_Remake_6_0"
         },
         {
             "variant": "Purple",
@@ -5469,7 +5583,8 @@
                 "name-EUru": "стоечка для журналов"
             },
             "buy-price": 1500,
-            "sell-price": 375
+            "sell-price": 375,
+            "image_uri": "https://acnhapi.com/v1/images/furniture/FtrAmeretroClock_Remake_6_1"
         },
         {
             "variant": "Purple",
@@ -5516,7 +5631,8 @@
                 "name-EUru": "стоечка для журналов"
             },
             "buy-price": 1500,
-            "sell-price": 375
+            "sell-price": 375,
+            "image_uri": "https://acnhapi.com/v1/images/furniture/FtrAmeretroClock_Remake_6_2"
         }
     ],
     "double-sided_wall_clock": [
@@ -5565,7 +5681,8 @@
                 "name-EUru": "швейная машина"
             },
             "buy-price": 1100,
-            "sell-price": 275
+            "sell-price": 275,
+            "image_uri": "https://acnhapi.com/v1/images/furniture/FtrBothsideclockWall_Remake_0_0"
         },
         {
             "variant": "White",
@@ -5612,7 +5729,8 @@
                 "name-EUru": "швейная машина"
             },
             "buy-price": 1100,
-            "sell-price": 275
+            "sell-price": 275,
+            "image_uri": "https://acnhapi.com/v1/images/furniture/FtrBothsideclockWall_Remake_1_0"
         },
         {
             "variant": "Silver",
@@ -5659,7 +5777,8 @@
                 "name-EUru": "швейная машина"
             },
             "buy-price": 1100,
-            "sell-price": 275
+            "sell-price": 275,
+            "image_uri": "https://acnhapi.com/v1/images/furniture/FtrBothsideclockWall_Remake_2_0"
         },
         {
             "variant": "Green",
@@ -5706,7 +5825,8 @@
                 "name-EUru": "швейная машина"
             },
             "buy-price": 1100,
-            "sell-price": 275
+            "sell-price": 275,
+            "image_uri": "https://acnhapi.com/v1/images/furniture/FtrBothsideclockWall_Remake_3_0"
         },
         {
             "variant": "Red",
@@ -5753,7 +5873,8 @@
                 "name-EUru": "швейная машина"
             },
             "buy-price": 1100,
-            "sell-price": 275
+            "sell-price": 275,
+            "image_uri": "https://acnhapi.com/v1/images/furniture/FtrBothsideclockWall_Remake_4_0"
         },
         {
             "variant": "Yellow",
@@ -5800,7 +5921,8 @@
                 "name-EUru": "швейная машина"
             },
             "buy-price": 1100,
-            "sell-price": 275
+            "sell-price": 275,
+            "image_uri": "https://acnhapi.com/v1/images/furniture/FtrBothsideclockWall_Remake_5_0"
         }
     ],
     "exit_sign": [
@@ -5849,7 +5971,8 @@
                 "name-EUru": "печь"
             },
             "buy-price": 810,
-            "sell-price": 202
+            "sell-price": 202,
+            "image_uri": "https://acnhapi.com/v1/images/furniture/FtrExit_Remake_0_0"
         },
         {
             "variant": "â†’",
@@ -5896,7 +6019,8 @@
                 "name-EUru": "печь"
             },
             "buy-price": 810,
-            "sell-price": 202
+            "sell-price": 202,
+            "image_uri": "https://acnhapi.com/v1/images/furniture/FtrExit_Remake_1_0"
         },
         {
             "variant": "Red exit",
@@ -5943,7 +6067,8 @@
                 "name-EUru": "печь"
             },
             "buy-price": 810,
-            "sell-price": 202
+            "sell-price": 202,
+            "image_uri": "https://acnhapi.com/v1/images/furniture/FtrExit_Remake_2_0"
         },
         {
             "variant": "â† â†’",
@@ -5990,7 +6115,8 @@
                 "name-EUru": "печь"
             },
             "buy-price": 810,
-            "sell-price": 202
+            "sell-price": 202,
+            "image_uri": "https://acnhapi.com/v1/images/furniture/FtrExit_Remake_3_0"
         }
     ],
     "fancy_lily_wreath": [
@@ -6039,7 +6165,8 @@
                 "name-EUru": "синтезатор"
             },
             "buy-price": null,
-            "sell-price": 1200
+            "sell-price": 1200,
+            "image_uri": "https://acnhapi.com/v1/images/furniture/FtrDoorOrnamentWreathYuriMix"
         }
     ],
     "fancy_mum_wreath": [
@@ -6088,7 +6215,8 @@
                 "name-EUru": "настольный футбол"
             },
             "buy-price": null,
-            "sell-price": 1200
+            "sell-price": 1200,
+            "image_uri": "https://acnhapi.com/v1/images/furniture/FtrDoorOrnamentWreathMumMix"
         }
     ],
     "fancy_rose_wreath": [
@@ -6137,7 +6265,8 @@
                 "name-EUru": "теннисный стол"
             },
             "buy-price": null,
-            "sell-price": 1200
+            "sell-price": 1200,
+            "image_uri": "https://acnhapi.com/v1/images/furniture/FtrDoorOrnamentWreathRoseMix"
         }
     ],
     "fish_doorplate": [
@@ -6186,7 +6315,8 @@
                 "name-EUru": "телефонная будка"
             },
             "buy-price": null,
-            "sell-price": 90
+            "sell-price": 90,
+            "image_uri": "https://acnhapi.com/v1/images/furniture/FtrDoorOrnamentFish_Remake_0_0"
         },
         {
             "variant": "Red",
@@ -6233,7 +6363,8 @@
                 "name-EUru": "телефонная будка"
             },
             "buy-price": null,
-            "sell-price": 90
+            "sell-price": 90,
+            "image_uri": "https://acnhapi.com/v1/images/furniture/FtrDoorOrnamentFish_Remake_1_0"
         },
         {
             "variant": "Orange",
@@ -6280,7 +6411,8 @@
                 "name-EUru": "телефонная будка"
             },
             "buy-price": null,
-            "sell-price": 90
+            "sell-price": 90,
+            "image_uri": "https://acnhapi.com/v1/images/furniture/FtrDoorOrnamentFish_Remake_2_0"
         },
         {
             "variant": "Yellow",
@@ -6327,7 +6459,8 @@
                 "name-EUru": "телефонная будка"
             },
             "buy-price": null,
-            "sell-price": 90
+            "sell-price": 90,
+            "image_uri": "https://acnhapi.com/v1/images/furniture/FtrDoorOrnamentFish_Remake_3_0"
         },
         {
             "variant": "Green",
@@ -6374,7 +6507,8 @@
                 "name-EUru": "телефонная будка"
             },
             "buy-price": null,
-            "sell-price": 90
+            "sell-price": 90,
+            "image_uri": "https://acnhapi.com/v1/images/furniture/FtrDoorOrnamentFish_Remake_4_0"
         },
         {
             "variant": "Blue",
@@ -6421,7 +6555,8 @@
                 "name-EUru": "телефонная будка"
             },
             "buy-price": null,
-            "sell-price": 90
+            "sell-price": 90,
+            "image_uri": "https://acnhapi.com/v1/images/furniture/FtrDoorOrnamentFish_Remake_5_0"
         },
         {
             "variant": "Black",
@@ -6468,7 +6603,8 @@
                 "name-EUru": "телефонная будка"
             },
             "buy-price": null,
-            "sell-price": 90
+            "sell-price": 90,
+            "image_uri": "https://acnhapi.com/v1/images/furniture/FtrDoorOrnamentFish_Remake_6_0"
         },
         {
             "variant": "Gray",
@@ -6515,7 +6651,8 @@
                 "name-EUru": "телефонная будка"
             },
             "buy-price": null,
-            "sell-price": 90
+            "sell-price": 90,
+            "image_uri": "https://acnhapi.com/v1/images/furniture/FtrDoorOrnamentFish_Remake_7_0"
         }
     ],
     "fish_plaque": [
@@ -6564,7 +6701,8 @@
                 "name-EUru": "серебр. кубок энтомолога"
             },
             "buy-price": null,
-            "sell-price": 300
+            "sell-price": 300,
+            "image_uri": "https://acnhapi.com/v1/images/furniture/FtrMuseumFishWall"
         }
     ],
     "fish_print": [
@@ -6613,7 +6751,8 @@
                 "name-EUru": "бронзов. кубок энтомолога"
             },
             "buy-price": null,
-            "sell-price": 700
+            "sell-price": 700,
+            "image_uri": "https://acnhapi.com/v1/images/furniture/FtrFishprint_Remake_0_0"
         },
         {
             "variant": "Red snapper",
@@ -6660,7 +6799,8 @@
                 "name-EUru": "бронзов. кубок энтомолога"
             },
             "buy-price": null,
-            "sell-price": 700
+            "sell-price": 700,
+            "image_uri": "https://acnhapi.com/v1/images/furniture/FtrFishprint_Remake_1_0"
         },
         {
             "variant": "Blue marlin",
@@ -6707,7 +6847,8 @@
                 "name-EUru": "бронзов. кубок энтомолога"
             },
             "buy-price": null,
-            "sell-price": 700
+            "sell-price": 700,
+            "image_uri": "https://acnhapi.com/v1/images/furniture/FtrFishprint_Remake_2_0"
         },
         {
             "variant": "Squid",
@@ -6754,7 +6895,8 @@
                 "name-EUru": "бронзов. кубок энтомолога"
             },
             "buy-price": null,
-            "sell-price": 700
+            "sell-price": 700,
+            "image_uri": "https://acnhapi.com/v1/images/furniture/FtrFishprint_Remake_3_0"
         },
         {
             "variant": "Black bass",
@@ -6801,7 +6943,8 @@
                 "name-EUru": "бронзов. кубок энтомолога"
             },
             "buy-price": null,
-            "sell-price": 700
+            "sell-price": 700,
+            "image_uri": "https://acnhapi.com/v1/images/furniture/FtrFishprint_Remake_4_0"
         },
         {
             "variant": "Carp",
@@ -6848,7 +6991,8 @@
                 "name-EUru": "бронзов. кубок энтомолога"
             },
             "buy-price": null,
-            "sell-price": 700
+            "sell-price": 700,
+            "image_uri": "https://acnhapi.com/v1/images/furniture/FtrFishprint_Remake_5_0"
         },
         {
             "variant": "Giant snakehead",
@@ -6895,7 +7039,8 @@
                 "name-EUru": "бронзов. кубок энтомолога"
             },
             "buy-price": null,
-            "sell-price": 700
+            "sell-price": 700,
+            "image_uri": "https://acnhapi.com/v1/images/furniture/FtrFishprint_Remake_6_0"
         }
     ],
     "fishing-boat_flag": [
@@ -6944,7 +7089,8 @@
                 "name-EUru": "туалетная кабинка"
             },
             "buy-price": 2200,
-            "sell-price": 550
+            "sell-price": 550,
+            "image_uri": "https://acnhapi.com/v1/images/furniture/FtrBigcatchflag_Remake_0_0"
         },
         {
             "variant": "Tsurukamemaru - Longevity",
@@ -6991,7 +7137,8 @@
                 "name-EUru": "туалетная кабинка"
             },
             "buy-price": 2200,
-            "sell-price": 550
+            "sell-price": 550,
+            "image_uri": "https://acnhapi.com/v1/images/furniture/FtrBigcatchflag_Remake_1_0"
         },
         {
             "variant": "Marufukumaru - Bounty",
@@ -7038,7 +7185,8 @@
                 "name-EUru": "туалетная кабинка"
             },
             "buy-price": 2200,
-            "sell-price": 550
+            "sell-price": 550,
+            "image_uri": "https://acnhapi.com/v1/images/furniture/FtrBigcatchflag_Remake_2_0"
         },
         {
             "variant": "Uomasamaru III - Launch",
@@ -7085,7 +7233,8 @@
                 "name-EUru": "туалетная кабинка"
             },
             "buy-price": 2200,
-            "sell-price": 550
+            "sell-price": 550,
+            "image_uri": "https://acnhapi.com/v1/images/furniture/FtrBigcatchflag_Remake_3_0"
         }
     ],
     "floral_swag": [
@@ -7134,7 +7283,8 @@
                 "name-EUru": "бочка"
             },
             "buy-price": null,
-            "sell-price": 200
+            "sell-price": 200,
+            "image_uri": "https://acnhapi.com/v1/images/furniture/FtrFlowerSwag_Remake_0_0"
         },
         {
             "variant": "Pink",
@@ -7181,7 +7331,8 @@
                 "name-EUru": "бочка"
             },
             "buy-price": null,
-            "sell-price": 200
+            "sell-price": 200,
+            "image_uri": "https://acnhapi.com/v1/images/furniture/FtrFlowerSwag_Remake_1_0"
         },
         {
             "variant": "Blue",
@@ -7228,7 +7379,8 @@
                 "name-EUru": "бочка"
             },
             "buy-price": null,
-            "sell-price": 200
+            "sell-price": 200,
+            "image_uri": "https://acnhapi.com/v1/images/furniture/FtrFlowerSwag_Remake_2_0"
         },
         {
             "variant": "White",
@@ -7275,7 +7427,8 @@
                 "name-EUru": "бочка"
             },
             "buy-price": null,
-            "sell-price": 200
+            "sell-price": 200,
+            "image_uri": "https://acnhapi.com/v1/images/furniture/FtrFlowerSwag_Remake_3_0"
         },
         {
             "variant": "Colorful",
@@ -7322,7 +7475,8 @@
                 "name-EUru": "бочка"
             },
             "buy-price": null,
-            "sell-price": 200
+            "sell-price": 200,
+            "image_uri": "https://acnhapi.com/v1/images/furniture/FtrFlowerSwag_Remake_4_0"
         }
     ],
     "formal_paper": [
@@ -7371,7 +7525,8 @@
                 "name-EUru": "микроскоп"
             },
             "buy-price": 620,
-            "sell-price": 155
+            "sell-price": 155,
+            "image_uri": "https://acnhapi.com/v1/images/furniture/FtrTestimonial_Remake_0_0"
         },
         {
             "variant": "Light brown",
@@ -7418,7 +7573,8 @@
                 "name-EUru": "микроскоп"
             },
             "buy-price": 620,
-            "sell-price": 155
+            "sell-price": 155,
+            "image_uri": "https://acnhapi.com/v1/images/furniture/FtrTestimonial_Remake_1_0"
         },
         {
             "variant": "Dark brown",
@@ -7465,7 +7621,8 @@
                 "name-EUru": "микроскоп"
             },
             "buy-price": 620,
-            "sell-price": 155
+            "sell-price": 155,
+            "image_uri": "https://acnhapi.com/v1/images/furniture/FtrTestimonial_Remake_2_0"
         }
     ],
     "fossil_doorplate": [
@@ -7514,7 +7671,8 @@
                 "name-EUru": "стол докладчика"
             },
             "buy-price": null,
-            "sell-price": 500
+            "sell-price": 500,
+            "image_uri": "https://acnhapi.com/v1/images/furniture/FtrDoorOrnamentFossil_Remake_0_0"
         },
         {
             "variant": "Blue",
@@ -7561,7 +7719,8 @@
                 "name-EUru": "стол докладчика"
             },
             "buy-price": null,
-            "sell-price": 500
+            "sell-price": 500,
+            "image_uri": "https://acnhapi.com/v1/images/furniture/FtrDoorOrnamentFossil_Remake_1_0"
         }
     ],
     "fossil_plaque": [
@@ -7610,7 +7769,8 @@
                 "name-EUru": "клетка для хомяка"
             },
             "buy-price": null,
-            "sell-price": 300
+            "sell-price": 300,
+            "image_uri": "https://acnhapi.com/v1/images/furniture/FtrMuseumFossilWall"
         }
     ],
     "fruit_wreath": [
@@ -7659,7 +7819,8 @@
                 "name-EUru": "глобус"
             },
             "buy-price": null,
-            "sell-price": 2000
+            "sell-price": 2000,
+            "image_uri": "https://acnhapi.com/v1/images/furniture/FtrDoorOrnamentWreathFruit"
         }
     ],
     "gears": [
@@ -7708,7 +7869,8 @@
                 "name-EUru": "телекамера"
             },
             "buy-price": 1500,
-            "sell-price": 375
+            "sell-price": 375,
+            "image_uri": "https://acnhapi.com/v1/images/furniture/FtrGearWall_Remake_0_0"
         },
         {
             "variant": "Copper",
@@ -7755,7 +7917,8 @@
                 "name-EUru": "телекамера"
             },
             "buy-price": 1500,
-            "sell-price": 375
+            "sell-price": 375,
+            "image_uri": "https://acnhapi.com/v1/images/furniture/FtrGearWall_Remake_1_0"
         },
         {
             "variant": "Black",
@@ -7802,7 +7965,8 @@
                 "name-EUru": "телекамера"
             },
             "buy-price": 1500,
-            "sell-price": 375
+            "sell-price": 375,
+            "image_uri": "https://acnhapi.com/v1/images/furniture/FtrGearWall_Remake_2_0"
         },
         {
             "variant": "Colorful",
@@ -7849,7 +8013,8 @@
                 "name-EUru": "телекамера"
             },
             "buy-price": 1500,
-            "sell-price": 375
+            "sell-price": 375,
+            "image_uri": "https://acnhapi.com/v1/images/furniture/FtrGearWall_Remake_3_0"
         },
         {
             "variant": "Wooden",
@@ -7896,7 +8061,8 @@
                 "name-EUru": "телекамера"
             },
             "buy-price": 1500,
-            "sell-price": 375
+            "sell-price": 375,
+            "image_uri": "https://acnhapi.com/v1/images/furniture/FtrGearWall_Remake_4_0"
         }
     ],
     "gold_HHA_plaque": [
@@ -7945,7 +8111,8 @@
                 "name-EUru": "спальный мешок"
             },
             "buy-price": null,
-            "sell-price": 450
+            "sell-price": 450,
+            "image_uri": "https://acnhapi.com/v1/images/furniture/FtrShieldHhaGold"
         }
     ],
     "gold_rose_wreath": [
@@ -7994,7 +8161,8 @@
                 "name-EUru": "астероид"
             },
             "buy-price": null,
-            "sell-price": 20000
+            "sell-price": 20000,
+            "image_uri": "https://acnhapi.com/v1/images/furniture/FtrDoorOrnamentWreathRoseGold"
         }
     ],
     "golden_gears": [
@@ -8043,7 +8211,8 @@
                 "name-EUru": "посадочный модуль"
             },
             "buy-price": null,
-            "sell-price": 11125
+            "sell-price": 11125,
+            "image_uri": "https://acnhapi.com/v1/images/furniture/FtrGearWallGold"
         }
     ],
     "grasshopper-head_model": [
@@ -8092,7 +8261,8 @@
                 "name-EUru": "ракета"
             },
             "buy-price": 1400,
-            "sell-price": 350
+            "sell-price": 350,
+            "image_uri": "https://acnhapi.com/v1/images/furniture/FtrInsectTonosamabattaFace"
         }
     ],
     "hanging_scroll": [
@@ -8141,7 +8311,8 @@
                 "name-EUru": "луноход"
             },
             "buy-price": 140000,
-            "sell-price": 35000
+            "sell-price": 35000,
+            "image_uri": "https://acnhapi.com/v1/images/furniture/FtrHangingscroll_Remake_0_0"
         },
         {
             "variant": "Green",
@@ -8188,7 +8359,8 @@
                 "name-EUru": "луноход"
             },
             "buy-price": 140000,
-            "sell-price": 35000
+            "sell-price": 35000,
+            "image_uri": "https://acnhapi.com/v1/images/furniture/FtrHangingscroll_Remake_0_1"
         },
         {
             "variant": "Green",
@@ -8235,7 +8407,8 @@
                 "name-EUru": "луноход"
             },
             "buy-price": 140000,
-            "sell-price": 35000
+            "sell-price": 35000,
+            "image_uri": "https://acnhapi.com/v1/images/furniture/FtrHangingscroll_Remake_0_2"
         },
         {
             "variant": "Green",
@@ -8282,7 +8455,8 @@
                 "name-EUru": "луноход"
             },
             "buy-price": 140000,
-            "sell-price": 35000
+            "sell-price": 35000,
+            "image_uri": "https://acnhapi.com/v1/images/furniture/FtrHangingscroll_Remake_0_3"
         },
         {
             "variant": "Green",
@@ -8329,7 +8503,8 @@
                 "name-EUru": "луноход"
             },
             "buy-price": 140000,
-            "sell-price": 35000
+            "sell-price": 35000,
+            "image_uri": "https://acnhapi.com/v1/images/furniture/FtrHangingscroll_Remake_0_4"
         },
         {
             "variant": "Brown",
@@ -8376,7 +8551,8 @@
                 "name-EUru": "луноход"
             },
             "buy-price": 140000,
-            "sell-price": 35000
+            "sell-price": 35000,
+            "image_uri": "https://acnhapi.com/v1/images/furniture/FtrHangingscroll_Remake_1_0"
         },
         {
             "variant": "Brown",
@@ -8423,7 +8599,8 @@
                 "name-EUru": "луноход"
             },
             "buy-price": 140000,
-            "sell-price": 35000
+            "sell-price": 35000,
+            "image_uri": "https://acnhapi.com/v1/images/furniture/FtrHangingscroll_Remake_1_1"
         },
         {
             "variant": "Brown",
@@ -8470,7 +8647,8 @@
                 "name-EUru": "луноход"
             },
             "buy-price": 140000,
-            "sell-price": 35000
+            "sell-price": 35000,
+            "image_uri": "https://acnhapi.com/v1/images/furniture/FtrHangingscroll_Remake_1_2"
         },
         {
             "variant": "Brown",
@@ -8517,7 +8695,8 @@
                 "name-EUru": "луноход"
             },
             "buy-price": 140000,
-            "sell-price": 35000
+            "sell-price": 35000,
+            "image_uri": "https://acnhapi.com/v1/images/furniture/FtrHangingscroll_Remake_1_3"
         },
         {
             "variant": "Brown",
@@ -8564,7 +8743,8 @@
                 "name-EUru": "луноход"
             },
             "buy-price": 140000,
-            "sell-price": 35000
+            "sell-price": 35000,
+            "image_uri": "https://acnhapi.com/v1/images/furniture/FtrHangingscroll_Remake_1_4"
         },
         {
             "variant": "Pink",
@@ -8611,7 +8791,8 @@
                 "name-EUru": "луноход"
             },
             "buy-price": 140000,
-            "sell-price": 35000
+            "sell-price": 35000,
+            "image_uri": "https://acnhapi.com/v1/images/furniture/FtrHangingscroll_Remake_2_0"
         },
         {
             "variant": "Pink",
@@ -8658,7 +8839,8 @@
                 "name-EUru": "луноход"
             },
             "buy-price": 140000,
-            "sell-price": 35000
+            "sell-price": 35000,
+            "image_uri": "https://acnhapi.com/v1/images/furniture/FtrHangingscroll_Remake_2_1"
         },
         {
             "variant": "Pink",
@@ -8705,7 +8887,8 @@
                 "name-EUru": "луноход"
             },
             "buy-price": 140000,
-            "sell-price": 35000
+            "sell-price": 35000,
+            "image_uri": "https://acnhapi.com/v1/images/furniture/FtrHangingscroll_Remake_2_2"
         },
         {
             "variant": "Pink",
@@ -8752,7 +8935,8 @@
                 "name-EUru": "луноход"
             },
             "buy-price": 140000,
-            "sell-price": 35000
+            "sell-price": 35000,
+            "image_uri": "https://acnhapi.com/v1/images/furniture/FtrHangingscroll_Remake_2_3"
         },
         {
             "variant": "Pink",
@@ -8799,7 +8983,8 @@
                 "name-EUru": "луноход"
             },
             "buy-price": 140000,
-            "sell-price": 35000
+            "sell-price": 35000,
+            "image_uri": "https://acnhapi.com/v1/images/furniture/FtrHangingscroll_Remake_2_4"
         },
         {
             "variant": "Blue",
@@ -8846,7 +9031,8 @@
                 "name-EUru": "луноход"
             },
             "buy-price": 140000,
-            "sell-price": 35000
+            "sell-price": 35000,
+            "image_uri": "https://acnhapi.com/v1/images/furniture/FtrHangingscroll_Remake_3_0"
         },
         {
             "variant": "Blue",
@@ -8893,7 +9079,8 @@
                 "name-EUru": "луноход"
             },
             "buy-price": 140000,
-            "sell-price": 35000
+            "sell-price": 35000,
+            "image_uri": "https://acnhapi.com/v1/images/furniture/FtrHangingscroll_Remake_3_1"
         },
         {
             "variant": "Blue",
@@ -8940,7 +9127,8 @@
                 "name-EUru": "луноход"
             },
             "buy-price": 140000,
-            "sell-price": 35000
+            "sell-price": 35000,
+            "image_uri": "https://acnhapi.com/v1/images/furniture/FtrHangingscroll_Remake_3_2"
         },
         {
             "variant": "Blue",
@@ -8987,7 +9175,8 @@
                 "name-EUru": "луноход"
             },
             "buy-price": 140000,
-            "sell-price": 35000
+            "sell-price": 35000,
+            "image_uri": "https://acnhapi.com/v1/images/furniture/FtrHangingscroll_Remake_3_3"
         },
         {
             "variant": "Blue",
@@ -9034,7 +9223,8 @@
                 "name-EUru": "луноход"
             },
             "buy-price": 140000,
-            "sell-price": 35000
+            "sell-price": 35000,
+            "image_uri": "https://acnhapi.com/v1/images/furniture/FtrHangingscroll_Remake_3_4"
         },
         {
             "variant": "Purple",
@@ -9081,7 +9271,8 @@
                 "name-EUru": "луноход"
             },
             "buy-price": 140000,
-            "sell-price": 35000
+            "sell-price": 35000,
+            "image_uri": "https://acnhapi.com/v1/images/furniture/FtrHangingscroll_Remake_4_0"
         },
         {
             "variant": "Purple",
@@ -9128,7 +9319,8 @@
                 "name-EUru": "луноход"
             },
             "buy-price": 140000,
-            "sell-price": 35000
+            "sell-price": 35000,
+            "image_uri": "https://acnhapi.com/v1/images/furniture/FtrHangingscroll_Remake_4_1"
         },
         {
             "variant": "Purple",
@@ -9175,7 +9367,8 @@
                 "name-EUru": "луноход"
             },
             "buy-price": 140000,
-            "sell-price": 35000
+            "sell-price": 35000,
+            "image_uri": "https://acnhapi.com/v1/images/furniture/FtrHangingscroll_Remake_4_2"
         },
         {
             "variant": "Purple",
@@ -9222,7 +9415,8 @@
                 "name-EUru": "луноход"
             },
             "buy-price": 140000,
-            "sell-price": 35000
+            "sell-price": 35000,
+            "image_uri": "https://acnhapi.com/v1/images/furniture/FtrHangingscroll_Remake_4_3"
         },
         {
             "variant": "Purple",
@@ -9269,7 +9463,8 @@
                 "name-EUru": "луноход"
             },
             "buy-price": 140000,
-            "sell-price": 35000
+            "sell-price": 35000,
+            "image_uri": "https://acnhapi.com/v1/images/furniture/FtrHangingscroll_Remake_4_4"
         }
     ],
     "hanging_terrarium": [
@@ -9318,7 +9513,8 @@
                 "name-EUru": "садовый гномик"
             },
             "buy-price": null,
-            "sell-price": 3240
+            "sell-price": 3240,
+            "image_uri": "https://acnhapi.com/v1/images/furniture/FtrTerrariumWall_Remake_0_0"
         },
         {
             "variant": "Gold",
@@ -9365,7 +9561,8 @@
                 "name-EUru": "садовый гномик"
             },
             "buy-price": null,
-            "sell-price": 3240
+            "sell-price": 3240,
+            "image_uri": "https://acnhapi.com/v1/images/furniture/FtrTerrariumWall_Remake_1_0"
         },
         {
             "variant": "Brown",
@@ -9412,7 +9609,8 @@
                 "name-EUru": "садовый гномик"
             },
             "buy-price": null,
-            "sell-price": 3240
+            "sell-price": 3240,
+            "image_uri": "https://acnhapi.com/v1/images/furniture/FtrTerrariumWall_Remake_2_0"
         }
     ],
     "heart_doorplate": [
@@ -9461,7 +9659,8 @@
                 "name-EUru": "железный стол"
             },
             "buy-price": 600,
-            "sell-price": 150
+            "sell-price": 150,
+            "image_uri": "https://acnhapi.com/v1/images/furniture/FtrDoorOrnamentPlateHeart_Remake_0_0"
         },
         {
             "variant": "Blue",
@@ -9508,7 +9707,8 @@
                 "name-EUru": "железный стол"
             },
             "buy-price": 600,
-            "sell-price": 150
+            "sell-price": 150,
+            "image_uri": "https://acnhapi.com/v1/images/furniture/FtrDoorOrnamentPlateHeart_Remake_1_0"
         },
         {
             "variant": "Monotone",
@@ -9555,7 +9755,8 @@
                 "name-EUru": "железный стол"
             },
             "buy-price": 600,
-            "sell-price": 150
+            "sell-price": 150,
+            "image_uri": "https://acnhapi.com/v1/images/furniture/FtrDoorOrnamentPlateHeart_Remake_2_0"
         },
         {
             "variant": "Light blue",
@@ -9602,7 +9803,8 @@
                 "name-EUru": "железный стол"
             },
             "buy-price": 600,
-            "sell-price": 150
+            "sell-price": 150,
+            "image_uri": "https://acnhapi.com/v1/images/furniture/FtrDoorOrnamentPlateHeart_Remake_3_0"
         },
         {
             "variant": "Green",
@@ -9649,7 +9851,8 @@
                 "name-EUru": "железный стол"
             },
             "buy-price": 600,
-            "sell-price": 150
+            "sell-price": 150,
+            "image_uri": "https://acnhapi.com/v1/images/furniture/FtrDoorOrnamentPlateHeart_Remake_4_0"
         },
         {
             "variant": "Orange",
@@ -9696,7 +9899,8 @@
                 "name-EUru": "железный стол"
             },
             "buy-price": 600,
-            "sell-price": 150
+            "sell-price": 150,
+            "image_uri": "https://acnhapi.com/v1/images/furniture/FtrDoorOrnamentPlateHeart_Remake_5_0"
         },
         {
             "variant": "Red",
@@ -9743,7 +9947,8 @@
                 "name-EUru": "железный стол"
             },
             "buy-price": 600,
-            "sell-price": 150
+            "sell-price": 150,
+            "image_uri": "https://acnhapi.com/v1/images/furniture/FtrDoorOrnamentPlateHeart_Remake_6_0"
         },
         {
             "variant": "Purple",
@@ -9790,7 +9995,8 @@
                 "name-EUru": "железный стол"
             },
             "buy-price": 600,
-            "sell-price": 150
+            "sell-price": 150,
+            "image_uri": "https://acnhapi.com/v1/images/furniture/FtrDoorOrnamentPlateHeart_Remake_7_0"
         }
     ],
     "HHA_pennant": [
@@ -9839,7 +10045,8 @@
                 "name-EUru": "настенные часы"
             },
             "buy-price": null,
-            "sell-price": 375
+            "sell-price": 375,
+            "image_uri": "https://acnhapi.com/v1/images/furniture/FtrPenantHha"
         }
     ],
     "hyacinth_wreath": [
@@ -9888,7 +10095,8 @@
                 "name-EUru": "стопка документов"
             },
             "buy-price": null,
-            "sell-price": 720
+            "sell-price": 720,
+            "image_uri": "https://acnhapi.com/v1/images/furniture/FtrDoorOrnamentWreathHyacinth"
         }
     ],
     "imperial_decorative_shelves": [
@@ -9937,7 +10145,8 @@
                 "name-EUru": "аромалампа"
             },
             "buy-price": 8500,
-            "sell-price": 2125
+            "sell-price": 2125,
+            "image_uri": "https://acnhapi.com/v1/images/furniture/FtrOrientalShelfWall_Remake_0_0"
         },
         {
             "variant": "Blue",
@@ -9984,7 +10193,8 @@
                 "name-EUru": "аромалампа"
             },
             "buy-price": 8500,
-            "sell-price": 2125
+            "sell-price": 2125,
+            "image_uri": "https://acnhapi.com/v1/images/furniture/FtrOrientalShelfWall_Remake_1_0"
         },
         {
             "variant": "Brown",
@@ -10031,7 +10241,8 @@
                 "name-EUru": "аромалампа"
             },
             "buy-price": 8500,
-            "sell-price": 2125
+            "sell-price": 2125,
+            "image_uri": "https://acnhapi.com/v1/images/furniture/FtrOrientalShelfWall_Remake_2_0"
         },
         {
             "variant": "Black",
@@ -10078,7 +10289,8 @@
                 "name-EUru": "аромалампа"
             },
             "buy-price": 8500,
-            "sell-price": 2125
+            "sell-price": 2125,
+            "image_uri": "https://acnhapi.com/v1/images/furniture/FtrOrientalShelfWall_Remake_3_0"
         }
     ],
     "imperial_dining_lantern": [
@@ -10127,7 +10339,8 @@
                 "name-EUru": "стол со скатертью"
             },
             "buy-price": 19000,
-            "sell-price": 4750
+            "sell-price": 4750,
+            "image_uri": "https://acnhapi.com/v1/images/furniture/FtrChineseLampWall_Remake_0_0"
         },
         {
             "variant": "Black",
@@ -10174,7 +10387,8 @@
                 "name-EUru": "стол со скатертью"
             },
             "buy-price": 19000,
-            "sell-price": 4750
+            "sell-price": 4750,
+            "image_uri": "https://acnhapi.com/v1/images/furniture/FtrChineseLampWall_Remake_1_0"
         },
         {
             "variant": "Blue",
@@ -10221,7 +10435,8 @@
                 "name-EUru": "стол со скатертью"
             },
             "buy-price": 19000,
-            "sell-price": 4750
+            "sell-price": 4750,
+            "image_uri": "https://acnhapi.com/v1/images/furniture/FtrChineseLampWall_Remake_2_0"
         },
         {
             "variant": "Red",
@@ -10268,7 +10483,8 @@
                 "name-EUru": "стол со скатертью"
             },
             "buy-price": 19000,
-            "sell-price": 4750
+            "sell-price": 4750,
+            "image_uri": "https://acnhapi.com/v1/images/furniture/FtrChineseLampWall_Remake_3_0"
         }
     ],
     "intercom_monitor": [
@@ -10317,7 +10533,8 @@
                 "name-EUru": "обеденный сервиз"
             },
             "buy-price": 860,
-            "sell-price": 215
+            "sell-price": 215,
+            "image_uri": "https://acnhapi.com/v1/images/furniture/FtrIntercom"
         }
     ],
     "iron_doorplate": [
@@ -10366,7 +10583,8 @@
                 "name-EUru": "собачья будка"
             },
             "buy-price": null,
-            "sell-price": 1500
+            "sell-price": 1500,
+            "image_uri": "https://acnhapi.com/v1/images/furniture/FtrDoorOrnamentIron_Remake_0_0"
         },
         {
             "variant": "White",
@@ -10413,7 +10631,8 @@
                 "name-EUru": "собачья будка"
             },
             "buy-price": null,
-            "sell-price": 1500
+            "sell-price": 1500,
+            "image_uri": "https://acnhapi.com/v1/images/furniture/FtrDoorOrnamentIron_Remake_1_0"
         },
         {
             "variant": "Blue",
@@ -10460,7 +10679,8 @@
                 "name-EUru": "собачья будка"
             },
             "buy-price": null,
-            "sell-price": 1500
+            "sell-price": 1500,
+            "image_uri": "https://acnhapi.com/v1/images/furniture/FtrDoorOrnamentIron_Remake_2_0"
         },
         {
             "variant": "Silver",
@@ -10507,7 +10727,8 @@
                 "name-EUru": "собачья будка"
             },
             "buy-price": null,
-            "sell-price": 1500
+            "sell-price": 1500,
+            "image_uri": "https://acnhapi.com/v1/images/furniture/FtrDoorOrnamentIron_Remake_3_0"
         },
         {
             "variant": "Ash brown",
@@ -10554,7 +10775,8 @@
                 "name-EUru": "собачья будка"
             },
             "buy-price": null,
-            "sell-price": 1500
+            "sell-price": 1500,
+            "image_uri": "https://acnhapi.com/v1/images/furniture/FtrDoorOrnamentIron_Remake_4_0"
         },
         {
             "variant": "Gold",
@@ -10601,7 +10823,8 @@
                 "name-EUru": "собачья будка"
             },
             "buy-price": null,
-            "sell-price": 1500
+            "sell-price": 1500,
+            "image_uri": "https://acnhapi.com/v1/images/furniture/FtrDoorOrnamentIron_Remake_5_0"
         },
         {
             "variant": "Pink",
@@ -10648,7 +10871,8 @@
                 "name-EUru": "собачья будка"
             },
             "buy-price": null,
-            "sell-price": 1500
+            "sell-price": 1500,
+            "image_uri": "https://acnhapi.com/v1/images/furniture/FtrDoorOrnamentIron_Remake_6_0"
         },
         {
             "variant": "Brown",
@@ -10695,7 +10919,8 @@
                 "name-EUru": "собачья будка"
             },
             "buy-price": null,
-            "sell-price": 1500
+            "sell-price": 1500,
+            "image_uri": "https://acnhapi.com/v1/images/furniture/FtrDoorOrnamentIron_Remake_7_0"
         }
     ],
     "iron_wall_lamp": [
@@ -10744,7 +10969,8 @@
                 "name-EUru": "комплект для утюжки"
             },
             "buy-price": null,
-            "sell-price": 3400
+            "sell-price": 3400,
+            "image_uri": "https://acnhapi.com/v1/images/furniture/FtrIronLampW_Remake_0_0"
         },
         {
             "variant": "White",
@@ -10791,7 +11017,8 @@
                 "name-EUru": "комплект для утюжки"
             },
             "buy-price": null,
-            "sell-price": 3400
+            "sell-price": 3400,
+            "image_uri": "https://acnhapi.com/v1/images/furniture/FtrIronLampW_Remake_1_0"
         }
     ],
     "iron_wall_rack": [
@@ -10840,7 +11067,8 @@
                 "name-EUru": "простой чайник"
             },
             "buy-price": null,
-            "sell-price": 2450
+            "sell-price": 2450,
+            "image_uri": "https://acnhapi.com/v1/images/furniture/FtrIronShelfW_Remake_0_0"
         },
         {
             "variant": "White",
@@ -10887,7 +11115,8 @@
                 "name-EUru": "простой чайник"
             },
             "buy-price": null,
-            "sell-price": 2450
+            "sell-price": 2450,
+            "image_uri": "https://acnhapi.com/v1/images/furniture/FtrIronShelfW_Remake_1_0"
         }
     ],
     "ironwood_clock": [
@@ -10936,7 +11165,8 @@
                 "name-EUru": "ноутбук"
             },
             "buy-price": null,
-            "sell-price": 1740
+            "sell-price": 1740,
+            "image_uri": "https://acnhapi.com/v1/images/furniture/FtrIronwoodClockW_Remake_0_0"
         },
         {
             "variant": "Teak",
@@ -10983,7 +11213,8 @@
                 "name-EUru": "ноутбук"
             },
             "buy-price": null,
-            "sell-price": 1740
+            "sell-price": 1740,
+            "image_uri": "https://acnhapi.com/v1/images/furniture/FtrIronwoodClockW_Remake_1_0"
         },
         {
             "variant": "Walnut",
@@ -11030,7 +11261,8 @@
                 "name-EUru": "ноутбук"
             },
             "buy-price": null,
-            "sell-price": 1740
+            "sell-price": 1740,
+            "image_uri": "https://acnhapi.com/v1/images/furniture/FtrIronwoodClockW_Remake_2_0"
         },
         {
             "variant": "Old",
@@ -11077,7 +11309,8 @@
                 "name-EUru": "ноутбук"
             },
             "buy-price": null,
-            "sell-price": 1740
+            "sell-price": 1740,
+            "image_uri": "https://acnhapi.com/v1/images/furniture/FtrIronwoodClockW_Remake_3_0"
         },
         {
             "variant": "Oak",
@@ -11124,7 +11357,8 @@
                 "name-EUru": "ноутбук"
             },
             "buy-price": null,
-            "sell-price": 1740
+            "sell-price": 1740,
+            "image_uri": "https://acnhapi.com/v1/images/furniture/FtrIronwoodClockW_Remake_4_0"
         }
     ],
     "key_holder": [
@@ -11173,7 +11407,8 @@
                 "name-EUru": "доска для меню"
             },
             "buy-price": null,
-            "sell-price": 1110
+            "sell-price": 1110,
+            "image_uri": "https://acnhapi.com/v1/images/furniture/FtrKeyhanger_Remake_0_0"
         },
         {
             "variant": "Brown wood",
@@ -11220,7 +11455,8 @@
                 "name-EUru": "доска для меню"
             },
             "buy-price": null,
-            "sell-price": 1110
+            "sell-price": 1110,
+            "image_uri": "https://acnhapi.com/v1/images/furniture/FtrKeyhanger_Remake_1_0"
         },
         {
             "variant": "White",
@@ -11267,7 +11503,8 @@
                 "name-EUru": "доска для меню"
             },
             "buy-price": null,
-            "sell-price": 1110
+            "sell-price": 1110,
+            "image_uri": "https://acnhapi.com/v1/images/furniture/FtrKeyhanger_Remake_2_0"
         },
         {
             "variant": "Black",
@@ -11314,7 +11551,8 @@
                 "name-EUru": "доска для меню"
             },
             "buy-price": null,
-            "sell-price": 1110
+            "sell-price": 1110,
+            "image_uri": "https://acnhapi.com/v1/images/furniture/FtrKeyhanger_Remake_3_0"
         }
     ],
     "Leo_sculpture": [
@@ -11363,7 +11601,8 @@
                 "name-EUru": "канистра из пластика"
             },
             "buy-price": null,
-            "sell-price": 21975
+            "sell-price": 21975,
+            "image_uri": "https://acnhapi.com/v1/images/furniture/FtrZodiacLeo"
         }
     ],
     "light_switch": [
@@ -11412,7 +11651,8 @@
                 "name-EUru": "рисоварка"
             },
             "buy-price": 340,
-            "sell-price": 85
+            "sell-price": 85,
+            "image_uri": "https://acnhapi.com/v1/images/furniture/FtrSwitchWall_Remake_0_0"
         },
         {
             "variant": "Brown",
@@ -11459,7 +11699,8 @@
                 "name-EUru": "рисоварка"
             },
             "buy-price": 340,
-            "sell-price": 85
+            "sell-price": 85,
+            "image_uri": "https://acnhapi.com/v1/images/furniture/FtrSwitchWall_Remake_1_0"
         },
         {
             "variant": "White",
@@ -11506,7 +11747,8 @@
                 "name-EUru": "рисоварка"
             },
             "buy-price": 340,
-            "sell-price": 85
+            "sell-price": 85,
+            "image_uri": "https://acnhapi.com/v1/images/furniture/FtrSwitchWall_Remake_2_0"
         },
         {
             "variant": "Wood grain",
@@ -11553,7 +11795,8 @@
                 "name-EUru": "рисоварка"
             },
             "buy-price": 340,
-            "sell-price": 85
+            "sell-price": 85,
+            "image_uri": "https://acnhapi.com/v1/images/furniture/FtrSwitchWall_Remake_3_0"
         }
     ],
     "lily_wreath": [
@@ -11602,7 +11845,8 @@
                 "name-EUru": "деревянный стул"
             },
             "buy-price": null,
-            "sell-price": 720
+            "sell-price": 720,
+            "image_uri": "https://acnhapi.com/v1/images/furniture/FtrDoorOrnamentWreathYuri"
         }
     ],
     "log_wall-mounted_clock": [
@@ -11651,7 +11895,8 @@
                 "name-EUru": "унитаз"
             },
             "buy-price": null,
-            "sell-price": 990
+            "sell-price": 990,
+            "image_uri": "https://acnhapi.com/v1/images/furniture/FtrLogClockWall_Remake_0_0"
         },
         {
             "variant": "Orange wood",
@@ -11698,7 +11943,8 @@
                 "name-EUru": "унитаз"
             },
             "buy-price": null,
-            "sell-price": 990
+            "sell-price": 990,
+            "image_uri": "https://acnhapi.com/v1/images/furniture/FtrLogClockWall_Remake_1_0"
         },
         {
             "variant": "White wood",
@@ -11745,7 +11991,8 @@
                 "name-EUru": "унитаз"
             },
             "buy-price": null,
-            "sell-price": 990
+            "sell-price": 990,
+            "image_uri": "https://acnhapi.com/v1/images/furniture/FtrLogClockWall_Remake_2_0"
         },
         {
             "variant": "White birch",
@@ -11792,7 +12039,8 @@
                 "name-EUru": "унитаз"
             },
             "buy-price": null,
-            "sell-price": 990
+            "sell-price": 990,
+            "image_uri": "https://acnhapi.com/v1/images/furniture/FtrLogClockWall_Remake_3_0"
         }
     ],
     "macrame_tapestry": [
@@ -11841,7 +12089,8 @@
                 "name-EUru": "аудиторный стол"
             },
             "buy-price": 840,
-            "sell-price": 210
+            "sell-price": 210,
+            "image_uri": "https://acnhapi.com/v1/images/furniture/FtrMacrametapestry_Remake_0_0"
         },
         {
             "variant": "Green",
@@ -11888,7 +12137,8 @@
                 "name-EUru": "аудиторный стол"
             },
             "buy-price": 840,
-            "sell-price": 210
+            "sell-price": 210,
+            "image_uri": "https://acnhapi.com/v1/images/furniture/FtrMacrametapestry_Remake_1_0"
         },
         {
             "variant": "Pink",
@@ -11935,7 +12185,8 @@
                 "name-EUru": "аудиторный стол"
             },
             "buy-price": 840,
-            "sell-price": 210
+            "sell-price": 210,
+            "image_uri": "https://acnhapi.com/v1/images/furniture/FtrMacrametapestry_Remake_2_0"
         },
         {
             "variant": "Blue",
@@ -11982,7 +12233,8 @@
                 "name-EUru": "аудиторный стол"
             },
             "buy-price": 840,
-            "sell-price": 210
+            "sell-price": 210,
+            "image_uri": "https://acnhapi.com/v1/images/furniture/FtrMacrametapestry_Remake_3_0"
         }
     ],
     "magnetic_knife_rack": [
@@ -12031,7 +12283,8 @@
                 "name-EUru": "шина для игры"
             },
             "buy-price": 1400,
-            "sell-price": 350
+            "sell-price": 350,
+            "image_uri": "https://acnhapi.com/v1/images/furniture/FtrKniferackWall_Remake_0_0"
         },
         {
             "variant": "Wooden",
@@ -12078,7 +12331,8 @@
                 "name-EUru": "шина для игры"
             },
             "buy-price": 1400,
-            "sell-price": 350
+            "sell-price": 350,
+            "image_uri": "https://acnhapi.com/v1/images/furniture/FtrKniferackWall_Remake_1_0"
         },
         {
             "variant": "Pop",
@@ -12125,7 +12379,8 @@
                 "name-EUru": "шина для игры"
             },
             "buy-price": 1400,
-            "sell-price": 350
+            "sell-price": 350,
+            "image_uri": "https://acnhapi.com/v1/images/furniture/FtrKniferackWall_Remake_2_0"
         }
     ],
     "mantis-head_model": [
@@ -12174,7 +12429,8 @@
                 "name-EUru": "зеркальная антенна"
             },
             "buy-price": 1500,
-            "sell-price": 375
+            "sell-price": 375,
+            "image_uri": "https://acnhapi.com/v1/images/furniture/FtrInsectKamakiriFace"
         }
     ],
     "mobile": [
@@ -12223,7 +12479,8 @@
                 "name-EUru": "железный ограничитель"
             },
             "buy-price": 780,
-            "sell-price": 195
+            "sell-price": 195,
+            "image_uri": "https://acnhapi.com/v1/images/furniture/FtrMobile_Remake_0_0"
         },
         {
             "variant": "Sheep",
@@ -12270,7 +12527,8 @@
                 "name-EUru": "железный ограничитель"
             },
             "buy-price": 780,
-            "sell-price": 195
+            "sell-price": 195,
+            "image_uri": "https://acnhapi.com/v1/images/furniture/FtrMobile_Remake_1_0"
         },
         {
             "variant": "Ocean creatures",
@@ -12317,7 +12575,8 @@
                 "name-EUru": "железный ограничитель"
             },
             "buy-price": 780,
-            "sell-price": 195
+            "sell-price": 195,
+            "image_uri": "https://acnhapi.com/v1/images/furniture/FtrMobile_Remake_2_0"
         },
         {
             "variant": "Space",
@@ -12364,7 +12623,8 @@
                 "name-EUru": "железный ограничитель"
             },
             "buy-price": 780,
-            "sell-price": 195
+            "sell-price": 195,
+            "image_uri": "https://acnhapi.com/v1/images/furniture/FtrMobile_Remake_3_0"
         },
         {
             "variant": "Gorgeous",
@@ -12411,7 +12671,8 @@
                 "name-EUru": "железный ограничитель"
             },
             "buy-price": 780,
-            "sell-price": 195
+            "sell-price": 195,
+            "image_uri": "https://acnhapi.com/v1/images/furniture/FtrMobile_Remake_4_0"
         }
     ],
     "Mom's_art": [
@@ -12460,7 +12721,8 @@
                 "name-EUru": "горшок"
             },
             "buy-price": null,
-            "sell-price": 88
+            "sell-price": 88,
+            "image_uri": "https://acnhapi.com/v1/images/furniture/FtrMomArt_Remake_0_0"
         },
         {
             "variant": "Street with Trees",
@@ -12507,7 +12769,8 @@
                 "name-EUru": "горшок"
             },
             "buy-price": null,
-            "sell-price": 88
+            "sell-price": 88,
+            "image_uri": "https://acnhapi.com/v1/images/furniture/FtrMomArt_Remake_1_0"
         },
         {
             "variant": "Nostalgia",
@@ -12554,7 +12817,8 @@
                 "name-EUru": "горшок"
             },
             "buy-price": null,
-            "sell-price": 88
+            "sell-price": 88,
+            "image_uri": "https://acnhapi.com/v1/images/furniture/FtrMomArt_Remake_2_0"
         },
         {
             "variant": "Angel",
@@ -12601,7 +12865,8 @@
                 "name-EUru": "горшок"
             },
             "buy-price": null,
-            "sell-price": 88
+            "sell-price": 88,
+            "image_uri": "https://acnhapi.com/v1/images/furniture/FtrMomArt_Remake_3_0"
         },
         {
             "variant": "Sweet Roses",
@@ -12648,7 +12913,8 @@
                 "name-EUru": "горшок"
             },
             "buy-price": null,
-            "sell-price": 88
+            "sell-price": 88,
+            "image_uri": "https://acnhapi.com/v1/images/furniture/FtrMomArt_Remake_4_0"
         },
         {
             "variant": "Field of Flowers",
@@ -12695,7 +12961,8 @@
                 "name-EUru": "горшок"
             },
             "buy-price": null,
-            "sell-price": 88
+            "sell-price": 88,
+            "image_uri": "https://acnhapi.com/v1/images/furniture/FtrMomArt_Remake_5_0"
         },
         {
             "variant": "Dog",
@@ -12742,7 +13009,8 @@
                 "name-EUru": "горшок"
             },
             "buy-price": null,
-            "sell-price": 88
+            "sell-price": 88,
+            "image_uri": "https://acnhapi.com/v1/images/furniture/FtrMomArt_Remake_6_0"
         },
         {
             "variant": "Blooming",
@@ -12789,7 +13057,8 @@
                 "name-EUru": "горшок"
             },
             "buy-price": null,
-            "sell-price": 88
+            "sell-price": 88,
+            "image_uri": "https://acnhapi.com/v1/images/furniture/FtrMomArt_Remake_7_0"
         }
     ],
     "Mom's_embroidery": [
@@ -12838,7 +13107,8 @@
                 "name-EUru": "горный велосипед"
             },
             "buy-price": null,
-            "sell-price": 88
+            "sell-price": 88,
+            "image_uri": "https://acnhapi.com/v1/images/furniture/FtrMomEmbroidery_Remake_0_0"
         },
         {
             "variant": "Bird",
@@ -12885,7 +13155,8 @@
                 "name-EUru": "горный велосипед"
             },
             "buy-price": null,
-            "sell-price": 88
+            "sell-price": 88,
+            "image_uri": "https://acnhapi.com/v1/images/furniture/FtrMomEmbroidery_Remake_1_0"
         },
         {
             "variant": "Bouquet",
@@ -12932,7 +13203,8 @@
                 "name-EUru": "горный велосипед"
             },
             "buy-price": null,
-            "sell-price": 88
+            "sell-price": 88,
+            "image_uri": "https://acnhapi.com/v1/images/furniture/FtrMomEmbroidery_Remake_2_0"
         },
         {
             "variant": "Girl",
@@ -12979,7 +13251,8 @@
                 "name-EUru": "горный велосипед"
             },
             "buy-price": null,
-            "sell-price": 88
+            "sell-price": 88,
+            "image_uri": "https://acnhapi.com/v1/images/furniture/FtrMomEmbroidery_Remake_3_0"
         },
         {
             "variant": "Fairy tale",
@@ -13026,7 +13299,8 @@
                 "name-EUru": "горный велосипед"
             },
             "buy-price": null,
-            "sell-price": 88
+            "sell-price": 88,
+            "image_uri": "https://acnhapi.com/v1/images/furniture/FtrMomEmbroidery_Remake_4_0"
         },
         {
             "variant": "Trees",
@@ -13073,7 +13347,8 @@
                 "name-EUru": "горный велосипед"
             },
             "buy-price": null,
-            "sell-price": 88
+            "sell-price": 88,
+            "image_uri": "https://acnhapi.com/v1/images/furniture/FtrMomEmbroidery_Remake_5_0"
         }
     ],
     "mounted_black_bass": [
@@ -13122,7 +13397,8 @@
                 "name-EUru": "шахматная доска"
             },
             "buy-price": 1300,
-            "sell-price": 325
+            "sell-price": 325,
+            "image_uri": "https://acnhapi.com/v1/images/furniture/FtrFishBlackbassWall"
         }
     ],
     "mounted_blue_marlin": [
@@ -13171,7 +13447,8 @@
                 "name-EUru": "круглый обогреватель"
             },
             "buy-price": 5000,
-            "sell-price": 1250
+            "sell-price": 1250,
+            "image_uri": "https://acnhapi.com/v1/images/furniture/FtrFishKajikiWall"
         }
     ],
     "mum_wreath": [
@@ -13220,7 +13497,8 @@
                 "name-EUru": "шикарная скрипка"
             },
             "buy-price": null,
-            "sell-price": 720
+            "sell-price": 720,
+            "image_uri": "https://acnhapi.com/v1/images/furniture/FtrDoorOrnamentWreathMum"
         }
     ],
     "mushroom_wreath": [
@@ -13269,7 +13547,8 @@
                 "name-EUru": "напольный унитаз"
             },
             "buy-price": null,
-            "sell-price": 1500
+            "sell-price": 1500,
+            "image_uri": "https://acnhapi.com/v1/images/furniture/FtrDoorOrnamentWreathMushroom"
         }
     ],
     "natural_mum_wreath": [
@@ -13318,7 +13597,8 @@
                 "name-EUru": "унитаз без бачка"
             },
             "buy-price": null,
-            "sell-price": 4800
+            "sell-price": 4800,
+            "image_uri": "https://acnhapi.com/v1/images/furniture/FtrDoorOrnamentWreathMumRare"
         }
     ],
     "orange_wall-mounted_clock": [
@@ -13367,7 +13647,8 @@
                 "name-EUru": "мобильный холодильник"
             },
             "buy-price": null,
-            "sell-price": 2240
+            "sell-price": 2240,
+            "image_uri": "https://acnhapi.com/v1/images/furniture/FtrFruitsClockW_Remake_0_0"
         },
         {
             "variant": "Blood orange",
@@ -13414,7 +13695,8 @@
                 "name-EUru": "мобильный холодильник"
             },
             "buy-price": null,
-            "sell-price": 2240
+            "sell-price": 2240,
+            "image_uri": "https://acnhapi.com/v1/images/furniture/FtrFruitsClockW_Remake_1_0"
         }
     ],
     "ornament_mobile": [
@@ -13463,7 +13745,8 @@
                 "name-EUru": "туристический телескоп"
             },
             "buy-price": null,
-            "sell-price": 340
+            "sell-price": 340,
+            "image_uri": "https://acnhapi.com/v1/images/furniture/FtrOrnamentMobile_Remake_0_0"
         },
         {
             "variant": "Blue",
@@ -13510,7 +13793,8 @@
                 "name-EUru": "туристический телескоп"
             },
             "buy-price": null,
-            "sell-price": 340
+            "sell-price": 340,
+            "image_uri": "https://acnhapi.com/v1/images/furniture/FtrOrnamentMobile_Remake_1_0"
         },
         {
             "variant": "Red",
@@ -13557,7 +13841,8 @@
                 "name-EUru": "туристический телескоп"
             },
             "buy-price": null,
-            "sell-price": 340
+            "sell-price": 340,
+            "image_uri": "https://acnhapi.com/v1/images/furniture/FtrOrnamentMobile_Remake_2_0"
         },
         {
             "variant": "Pink",
@@ -13604,7 +13889,8 @@
                 "name-EUru": "туристический телескоп"
             },
             "buy-price": null,
-            "sell-price": 340
+            "sell-price": 340,
+            "image_uri": "https://acnhapi.com/v1/images/furniture/FtrOrnamentMobile_Remake_3_0"
         },
         {
             "variant": "Gold",
@@ -13651,7 +13937,8 @@
                 "name-EUru": "туристический телескоп"
             },
             "buy-price": null,
-            "sell-price": 340
+            "sell-price": 340,
+            "image_uri": "https://acnhapi.com/v1/images/furniture/FtrOrnamentMobile_Remake_4_0"
         },
         {
             "variant": "White",
@@ -13698,7 +13985,8 @@
                 "name-EUru": "туристический телескоп"
             },
             "buy-price": null,
-            "sell-price": 340
+            "sell-price": 340,
+            "image_uri": "https://acnhapi.com/v1/images/furniture/FtrOrnamentMobile_Remake_5_0"
         }
     ],
     "ornament_wreath": [
@@ -13747,7 +14035,8 @@
                 "name-EUru": "комод из ДСП и стали"
             },
             "buy-price": null,
-            "sell-price": 800
+            "sell-price": 800,
+            "image_uri": "https://acnhapi.com/v1/images/furniture/FtrDoorOrnamentWreathOrnament_Remake_0_0"
         },
         {
             "variant": "Gold",
@@ -13794,7 +14083,8 @@
                 "name-EUru": "комод из ДСП и стали"
             },
             "buy-price": null,
-            "sell-price": 800
+            "sell-price": 800,
+            "image_uri": "https://acnhapi.com/v1/images/furniture/FtrDoorOrnamentWreathOrnament_Remake_1_0"
         },
         {
             "variant": "Silver",
@@ -13841,7 +14131,8 @@
                 "name-EUru": "комод из ДСП и стали"
             },
             "buy-price": null,
-            "sell-price": 800
+            "sell-price": 800,
+            "image_uri": "https://acnhapi.com/v1/images/furniture/FtrDoorOrnamentWreathOrnament_Remake_2_0"
         },
         {
             "variant": "Green",
@@ -13888,7 +14179,8 @@
                 "name-EUru": "комод из ДСП и стали"
             },
             "buy-price": null,
-            "sell-price": 800
+            "sell-price": 800,
+            "image_uri": "https://acnhapi.com/v1/images/furniture/FtrDoorOrnamentWreathOrnament_Remake_3_0"
         },
         {
             "variant": "Red",
@@ -13935,7 +14227,8 @@
                 "name-EUru": "комод из ДСП и стали"
             },
             "buy-price": null,
-            "sell-price": 800
+            "sell-price": 800,
+            "image_uri": "https://acnhapi.com/v1/images/furniture/FtrDoorOrnamentWreathOrnament_Remake_4_0"
         },
         {
             "variant": "Light green",
@@ -13982,7 +14275,8 @@
                 "name-EUru": "комод из ДСП и стали"
             },
             "buy-price": null,
-            "sell-price": 800
+            "sell-price": 800,
+            "image_uri": "https://acnhapi.com/v1/images/furniture/FtrDoorOrnamentWreathOrnament_Remake_5_0"
         },
         {
             "variant": "Pink",
@@ -14029,7 +14323,8 @@
                 "name-EUru": "комод из ДСП и стали"
             },
             "buy-price": null,
-            "sell-price": 800
+            "sell-price": 800,
+            "image_uri": "https://acnhapi.com/v1/images/furniture/FtrDoorOrnamentWreathOrnament_Remake_6_0"
         },
         {
             "variant": "Purple",
@@ -14076,7 +14371,8 @@
                 "name-EUru": "комод из ДСП и стали"
             },
             "buy-price": null,
-            "sell-price": 800
+            "sell-price": 800,
+            "image_uri": "https://acnhapi.com/v1/images/furniture/FtrDoorOrnamentWreathOrnament_Remake_7_0"
         }
     ],
     "pansy_wreath": [
@@ -14125,7 +14421,8 @@
                 "name-EUru": "ЖК-телевизор (50\")"
             },
             "buy-price": null,
-            "sell-price": 720
+            "sell-price": 720,
+            "image_uri": "https://acnhapi.com/v1/images/furniture/FtrDoorOrnamentWreathPansy"
         }
     ],
     "party_garland": [
@@ -14174,7 +14471,8 @@
                 "name-EUru": "мини-кухня (ДСП и сталь)"
             },
             "buy-price": 650,
-            "sell-price": 162
+            "sell-price": 162,
+            "image_uri": "https://acnhapi.com/v1/images/furniture/FtrPartydecorationWall_Remake_0_0"
         },
         {
             "variant": "Pastel",
@@ -14221,7 +14519,8 @@
                 "name-EUru": "мини-кухня (ДСП и сталь)"
             },
             "buy-price": 650,
-            "sell-price": 162
+            "sell-price": 162,
+            "image_uri": "https://acnhapi.com/v1/images/furniture/FtrPartydecorationWall_Remake_1_0"
         },
         {
             "variant": "Boating stripes",
@@ -14268,7 +14567,8 @@
                 "name-EUru": "мини-кухня (ДСП и сталь)"
             },
             "buy-price": 650,
-            "sell-price": 162
+            "sell-price": 162,
+            "image_uri": "https://acnhapi.com/v1/images/furniture/FtrPartydecorationWall_Remake_2_0"
         },
         {
             "variant": "Orange & black",
@@ -14315,7 +14615,8 @@
                 "name-EUru": "мини-кухня (ДСП и сталь)"
             },
             "buy-price": 650,
-            "sell-price": 162
+            "sell-price": 162,
+            "image_uri": "https://acnhapi.com/v1/images/furniture/FtrPartydecorationWall_Remake_3_0"
         },
         {
             "variant": "Pop",
@@ -14362,7 +14663,8 @@
                 "name-EUru": "мини-кухня (ДСП и сталь)"
             },
             "buy-price": 650,
-            "sell-price": 162
+            "sell-price": 162,
+            "image_uri": "https://acnhapi.com/v1/images/furniture/FtrPartydecorationWall_Remake_4_0"
         },
         {
             "variant": "Gorgeous",
@@ -14409,7 +14711,8 @@
                 "name-EUru": "мини-кухня (ДСП и сталь)"
             },
             "buy-price": 650,
-            "sell-price": 162
+            "sell-price": 162,
+            "image_uri": "https://acnhapi.com/v1/images/furniture/FtrPartydecorationWall_Remake_5_0"
         }
     ],
     "paw-print_doorplate": [
@@ -14458,7 +14761,8 @@
                 "name-EUru": "ЖК-телевизор (20\")"
             },
             "buy-price": null,
-            "sell-price": 360
+            "sell-price": 360,
+            "image_uri": "https://acnhapi.com/v1/images/furniture/FtrDoorOrnamentPaw_Remake_0_0"
         },
         {
             "variant": "Light blue",
@@ -14505,7 +14809,8 @@
                 "name-EUru": "ЖК-телевизор (20\")"
             },
             "buy-price": null,
-            "sell-price": 360
+            "sell-price": 360,
+            "image_uri": "https://acnhapi.com/v1/images/furniture/FtrDoorOrnamentPaw_Remake_1_0"
         },
         {
             "variant": "Dark gray",
@@ -14552,7 +14857,8 @@
                 "name-EUru": "ЖК-телевизор (20\")"
             },
             "buy-price": null,
-            "sell-price": 360
+            "sell-price": 360,
+            "image_uri": "https://acnhapi.com/v1/images/furniture/FtrDoorOrnamentPaw_Remake_2_0"
         },
         {
             "variant": "Natural wood",
@@ -14599,7 +14905,8 @@
                 "name-EUru": "ЖК-телевизор (20\")"
             },
             "buy-price": null,
-            "sell-price": 360
+            "sell-price": 360,
+            "image_uri": "https://acnhapi.com/v1/images/furniture/FtrDoorOrnamentPaw_Remake_3_0"
         },
         {
             "variant": "Dark brown",
@@ -14646,7 +14953,8 @@
                 "name-EUru": "ЖК-телевизор (20\")"
             },
             "buy-price": null,
-            "sell-price": 360
+            "sell-price": 360,
+            "image_uri": "https://acnhapi.com/v1/images/furniture/FtrDoorOrnamentPaw_Remake_4_0"
         },
         {
             "variant": "White",
@@ -14693,7 +15001,8 @@
                 "name-EUru": "ЖК-телевизор (20\")"
             },
             "buy-price": null,
-            "sell-price": 360
+            "sell-price": 360,
+            "image_uri": "https://acnhapi.com/v1/images/furniture/FtrDoorOrnamentPaw_Remake_5_0"
         },
         {
             "variant": "Blue",
@@ -14740,7 +15049,8 @@
                 "name-EUru": "ЖК-телевизор (20\")"
             },
             "buy-price": null,
-            "sell-price": 360
+            "sell-price": 360,
+            "image_uri": "https://acnhapi.com/v1/images/furniture/FtrDoorOrnamentPaw_Remake_6_0"
         },
         {
             "variant": "Pink",
@@ -14787,7 +15097,8 @@
                 "name-EUru": "ЖК-телевизор (20\")"
             },
             "buy-price": null,
-            "sell-price": 360
+            "sell-price": 360,
+            "image_uri": "https://acnhapi.com/v1/images/furniture/FtrDoorOrnamentPaw_Remake_7_0"
         }
     ],
     "pendulum_clock": [
@@ -14836,7 +15147,8 @@
                 "name-EUru": "табурет из камня"
             },
             "buy-price": 1900,
-            "sell-price": 475
+            "sell-price": 475,
+            "image_uri": "https://acnhapi.com/v1/images/furniture/FtrClockPendulumWall"
         }
     ],
     "pennant": [
@@ -14885,7 +15197,8 @@
                 "name-EUru": "домофон"
             },
             "buy-price": 1300,
-            "sell-price": 325
+            "sell-price": 325,
+            "image_uri": "https://acnhapi.com/v1/images/furniture/FtrPennant_Remake_0_0"
         },
         {
             "variant": "University",
@@ -14932,7 +15245,8 @@
                 "name-EUru": "домофон"
             },
             "buy-price": 1300,
-            "sell-price": 325
+            "sell-price": 325,
+            "image_uri": "https://acnhapi.com/v1/images/furniture/FtrPennant_Remake_1_0"
         },
         {
             "variant": "Classic",
@@ -14979,7 +15293,8 @@
                 "name-EUru": "домофон"
             },
             "buy-price": 1300,
-            "sell-price": 325
+            "sell-price": 325,
+            "image_uri": "https://acnhapi.com/v1/images/furniture/FtrPennant_Remake_2_0"
         },
         {
             "variant": "Sponsor",
@@ -15026,7 +15341,8 @@
                 "name-EUru": "домофон"
             },
             "buy-price": 1300,
-            "sell-price": 325
+            "sell-price": 325,
+            "image_uri": "https://acnhapi.com/v1/images/furniture/FtrPennant_Remake_3_0"
         },
         {
             "variant": "Souvenir",
@@ -15073,7 +15389,8 @@
                 "name-EUru": "домофон"
             },
             "buy-price": 1300,
-            "sell-price": 325
+            "sell-price": 325,
+            "image_uri": "https://acnhapi.com/v1/images/furniture/FtrPennant_Remake_4_0"
         }
     ],
     "pot_rack": [
@@ -15122,7 +15439,8 @@
                 "name-EUru": "картонные коробки M"
             },
             "buy-price": 3000,
-            "sell-price": 750
+            "sell-price": 750,
+            "image_uri": "https://acnhapi.com/v1/images/furniture/FtrPotrack_Remake_0_0"
         },
         {
             "variant": "Stainless steel",
@@ -15169,7 +15487,8 @@
                 "name-EUru": "картонные коробки M"
             },
             "buy-price": 3000,
-            "sell-price": 750
+            "sell-price": 750,
+            "image_uri": "https://acnhapi.com/v1/images/furniture/FtrPotrack_Remake_1_0"
         },
         {
             "variant": "Pop",
@@ -15216,7 +15535,8 @@
                 "name-EUru": "картонные коробки M"
             },
             "buy-price": 3000,
-            "sell-price": 750
+            "sell-price": 750,
+            "image_uri": "https://acnhapi.com/v1/images/furniture/FtrPotrack_Remake_2_0"
         }
     ],
     "potted_ivy": [
@@ -15265,7 +15585,8 @@
                 "name-EUru": "лампа-мороженое"
             },
             "buy-price": null,
-            "sell-price": 1100
+            "sell-price": 1100,
+            "image_uri": "https://acnhapi.com/v1/images/furniture/FtrLeafWall_Remake_0_0"
         },
         {
             "variant": "Yellow",
@@ -15312,7 +15633,8 @@
                 "name-EUru": "лампа-мороженое"
             },
             "buy-price": null,
-            "sell-price": 1100
+            "sell-price": 1100,
+            "image_uri": "https://acnhapi.com/v1/images/furniture/FtrLeafWall_Remake_1_0"
         },
         {
             "variant": "Red",
@@ -15359,7 +15681,8 @@
                 "name-EUru": "лампа-мороженое"
             },
             "buy-price": null,
-            "sell-price": 1100
+            "sell-price": 1100,
+            "image_uri": "https://acnhapi.com/v1/images/furniture/FtrLeafWall_Remake_2_0"
         },
         {
             "variant": "Green",
@@ -15406,7 +15729,8 @@
                 "name-EUru": "лампа-мороженое"
             },
             "buy-price": null,
-            "sell-price": 1100
+            "sell-price": 1100,
+            "image_uri": "https://acnhapi.com/v1/images/furniture/FtrLeafWall_Remake_3_0"
         }
     ],
     "pretty_cosmos_wreath": [
@@ -15455,7 +15779,8 @@
                 "name-EUru": "деревянный шкаф"
             },
             "buy-price": null,
-            "sell-price": 1200
+            "sell-price": 1200,
+            "image_uri": "https://acnhapi.com/v1/images/furniture/FtrDoorOrnamentWreathCosmosMix"
         }
     ],
     "pretty_tulip_wreath": [
@@ -15504,7 +15829,8 @@
                 "name-EUru": "деревянная тумба"
             },
             "buy-price": null,
-            "sell-price": 2400
+            "sell-price": 2400,
+            "image_uri": "https://acnhapi.com/v1/images/furniture/FtrDoorOrnamentWreathTulipMix"
         }
     ],
     "purple_hyacinth_wreath": [
@@ -15553,7 +15879,8 @@
                 "name-EUru": "деревянный стол"
             },
             "buy-price": null,
-            "sell-price": 4800
+            "sell-price": 4800,
+            "image_uri": "https://acnhapi.com/v1/images/furniture/FtrDoorOrnamentWreathHyacinthRare"
         }
     ],
     "retro_radiator": [
@@ -15602,7 +15929,8 @@
                 "name-EUru": "ящик для рукоделия"
             },
             "buy-price": 1300,
-            "sell-price": 325
+            "sell-price": 325,
+            "image_uri": "https://acnhapi.com/v1/images/furniture/FtrCentralheating"
         }
     ],
     "rose_wreath": [
@@ -15651,7 +15979,8 @@
                 "name-EUru": "швейный проект"
             },
             "buy-price": null,
-            "sell-price": 720
+            "sell-price": 720,
+            "image_uri": "https://acnhapi.com/v1/images/furniture/FtrDoorOrnamentWreathRose"
         }
     ],
     "Sagittarius_arrow": [
@@ -15700,7 +16029,8 @@
                 "name-EUru": "кресло-каталка"
             },
             "buy-price": null,
-            "sell-price": 21750
+            "sell-price": 21750,
+            "image_uri": "https://acnhapi.com/v1/images/furniture/FtrZodiacSagittarius"
         }
     ],
     "shell_wreath": [
@@ -15749,7 +16079,8 @@
                 "name-EUru": "обычная зонтница"
             },
             "buy-price": null,
-            "sell-price": 4720
+            "sell-price": 4720,
+            "image_uri": "https://acnhapi.com/v1/images/furniture/FtrDoorOrnamentWreathShell"
         }
     ],
     "shower_set": [
@@ -15798,7 +16129,8 @@
                 "name-EUru": "памятник в стиле вестерн"
             },
             "buy-price": 1800,
-            "sell-price": 450
+            "sell-price": 450,
+            "image_uri": "https://acnhapi.com/v1/images/furniture/FtrShowerWall_Remake_0_0"
         },
         {
             "variant": "Gold",
@@ -15845,7 +16177,8 @@
                 "name-EUru": "памятник в стиле вестерн"
             },
             "buy-price": 1800,
-            "sell-price": 450
+            "sell-price": 450,
+            "image_uri": "https://acnhapi.com/v1/images/furniture/FtrShowerWall_Remake_1_0"
         },
         {
             "variant": "Copper",
@@ -15892,7 +16225,8 @@
                 "name-EUru": "памятник в стиле вестерн"
             },
             "buy-price": 1800,
-            "sell-price": 450
+            "sell-price": 450,
+            "image_uri": "https://acnhapi.com/v1/images/furniture/FtrShowerWall_Remake_2_0"
         },
         {
             "variant": "Black",
@@ -15939,7 +16273,8 @@
                 "name-EUru": "памятник в стиле вестерн"
             },
             "buy-price": 1800,
-            "sell-price": 450
+            "sell-price": 450,
+            "image_uri": "https://acnhapi.com/v1/images/furniture/FtrShowerWall_Remake_3_0"
         }
     ],
     "silver_HHA_plaque": [
@@ -15988,7 +16323,8 @@
                 "name-EUru": "переключатели"
             },
             "buy-price": null,
-            "sell-price": 425
+            "sell-price": 425,
+            "image_uri": "https://acnhapi.com/v1/images/furniture/FtrShieldHhaSilver"
         }
     ],
     "skull_doorplate": [
@@ -16037,7 +16373,8 @@
                 "name-EUru": "золотой унитаз"
             },
             "buy-price": 540,
-            "sell-price": 135
+            "sell-price": 135,
+            "image_uri": "https://acnhapi.com/v1/images/furniture/FtrDoorPlateSkull_Remake_0_0"
         },
         {
             "variant": "White",
@@ -16084,7 +16421,8 @@
                 "name-EUru": "золотой унитаз"
             },
             "buy-price": 540,
-            "sell-price": 135
+            "sell-price": 135,
+            "image_uri": "https://acnhapi.com/v1/images/furniture/FtrDoorPlateSkull_Remake_1_0"
         }
     ],
     "snazzy_pansy_wreath": [
@@ -16133,7 +16471,8 @@
                 "name-EUru": "деревянная мусорка"
             },
             "buy-price": null,
-            "sell-price": 1200
+            "sell-price": 1200,
+            "image_uri": "https://acnhapi.com/v1/images/furniture/FtrDoorOrnamentWreathPansyMix"
         }
     ],
     "snowflake_wreath": [
@@ -16182,7 +16521,8 @@
                 "name-EUru": "ледяной стол"
             },
             "buy-price": null,
-            "sell-price": 1600
+            "sell-price": 1600,
+            "image_uri": "https://acnhapi.com/v1/images/furniture/FtrDoorOrnamentWreathIce"
         }
     ],
     "spider_doorplate": [
@@ -16231,7 +16571,8 @@
                 "name-EUru": "ледяная ширма"
             },
             "buy-price": 360,
-            "sell-price": 90
+            "sell-price": 90,
+            "image_uri": "https://acnhapi.com/v1/images/furniture/FtrDoorOrnamentPlateInsect_Remake_0_0"
         },
         {
             "variant": "Yellow",
@@ -16278,7 +16619,8 @@
                 "name-EUru": "ледяная ширма"
             },
             "buy-price": 360,
-            "sell-price": 90
+            "sell-price": 90,
+            "image_uri": "https://acnhapi.com/v1/images/furniture/FtrDoorOrnamentPlateInsect_Remake_1_0"
         },
         {
             "variant": "Green",
@@ -16325,7 +16667,8 @@
                 "name-EUru": "ледяная ширма"
             },
             "buy-price": 360,
-            "sell-price": 90
+            "sell-price": 90,
+            "image_uri": "https://acnhapi.com/v1/images/furniture/FtrDoorOrnamentPlateInsect_Remake_2_0"
         },
         {
             "variant": "Pink",
@@ -16372,7 +16715,8 @@
                 "name-EUru": "ледяная ширма"
             },
             "buy-price": 360,
-            "sell-price": 90
+            "sell-price": 90,
+            "image_uri": "https://acnhapi.com/v1/images/furniture/FtrDoorOrnamentPlateInsect_Remake_3_0"
         },
         {
             "variant": "Purple",
@@ -16419,7 +16763,8 @@
                 "name-EUru": "ледяная ширма"
             },
             "buy-price": 360,
-            "sell-price": 90
+            "sell-price": 90,
+            "image_uri": "https://acnhapi.com/v1/images/furniture/FtrDoorOrnamentPlateInsect_Remake_4_0"
         },
         {
             "variant": "Red",
@@ -16466,7 +16811,8 @@
                 "name-EUru": "ледяная ширма"
             },
             "buy-price": 360,
-            "sell-price": 90
+            "sell-price": 90,
+            "image_uri": "https://acnhapi.com/v1/images/furniture/FtrDoorOrnamentPlateInsect_Remake_5_0"
         },
         {
             "variant": "Gray",
@@ -16513,7 +16859,8 @@
                 "name-EUru": "ледяная ширма"
             },
             "buy-price": 360,
-            "sell-price": 90
+            "sell-price": 90,
+            "image_uri": "https://acnhapi.com/v1/images/furniture/FtrDoorOrnamentPlateInsect_Remake_6_0"
         },
         {
             "variant": "Blue",
@@ -16560,7 +16907,8 @@
                 "name-EUru": "ледяная ширма"
             },
             "buy-price": 360,
-            "sell-price": 90
+            "sell-price": 90,
+            "image_uri": "https://acnhapi.com/v1/images/furniture/FtrDoorOrnamentPlateInsect_Remake_7_0"
         }
     ],
     "spider_web": [
@@ -16609,7 +16957,8 @@
                 "name-EUru": "садовая скамья"
             },
             "buy-price": null,
-            "sell-price": 25
+            "sell-price": 25,
+            "image_uri": "https://acnhapi.com/v1/images/furniture/FtrSpiderweb"
         }
     ],
     "starry_garland": [
@@ -16658,7 +17007,8 @@
                 "name-EUru": "полка из бамбука"
             },
             "buy-price": null,
-            "sell-price": 5000
+            "sell-price": 5000,
+            "image_uri": "https://acnhapi.com/v1/images/furniture/FtrStarDecorationWall_Remake_0_0"
         },
         {
             "variant": "Green",
@@ -16705,7 +17055,8 @@
                 "name-EUru": "полка из бамбука"
             },
             "buy-price": null,
-            "sell-price": 5000
+            "sell-price": 5000,
+            "image_uri": "https://acnhapi.com/v1/images/furniture/FtrStarDecorationWall_Remake_1_0"
         },
         {
             "variant": "Blue",
@@ -16752,7 +17103,8 @@
                 "name-EUru": "полка из бамбука"
             },
             "buy-price": null,
-            "sell-price": 5000
+            "sell-price": 5000,
+            "image_uri": "https://acnhapi.com/v1/images/furniture/FtrStarDecorationWall_Remake_2_0"
         },
         {
             "variant": "Purple",
@@ -16799,7 +17151,8 @@
                 "name-EUru": "полка из бамбука"
             },
             "buy-price": null,
-            "sell-price": 5000
+            "sell-price": 5000,
+            "image_uri": "https://acnhapi.com/v1/images/furniture/FtrStarDecorationWall_Remake_3_0"
         },
         {
             "variant": "Pink",
@@ -16846,7 +17199,8 @@
                 "name-EUru": "полка из бамбука"
             },
             "buy-price": null,
-            "sell-price": 5000
+            "sell-price": 5000,
+            "image_uri": "https://acnhapi.com/v1/images/furniture/FtrStarDecorationWall_Remake_4_0"
         },
         {
             "variant": "Orange",
@@ -16893,7 +17247,8 @@
                 "name-EUru": "полка из бамбука"
             },
             "buy-price": null,
-            "sell-price": 5000
+            "sell-price": 5000,
+            "image_uri": "https://acnhapi.com/v1/images/furniture/FtrStarDecorationWall_Remake_5_0"
         },
         {
             "variant": "White",
@@ -16940,7 +17295,8 @@
                 "name-EUru": "полка из бамбука"
             },
             "buy-price": null,
-            "sell-price": 5000
+            "sell-price": 5000,
+            "image_uri": "https://acnhapi.com/v1/images/furniture/FtrStarDecorationWall_Remake_6_0"
         }
     ],
     "studio_wall_spotlight": [
@@ -16989,7 +17345,8 @@
                 "name-EUru": "железное бра"
             },
             "buy-price": 2300,
-            "sell-price": 575
+            "sell-price": 575,
+            "image_uri": "https://acnhapi.com/v1/images/furniture/FtrLampSpotWall_Remake_0_0"
         },
         {
             "variant": "Yellow",
@@ -17036,7 +17393,8 @@
                 "name-EUru": "железное бра"
             },
             "buy-price": 2300,
-            "sell-price": 575
+            "sell-price": 575,
+            "image_uri": "https://acnhapi.com/v1/images/furniture/FtrLampSpotWall_Remake_1_0"
         },
         {
             "variant": "Orange",
@@ -17083,7 +17441,8 @@
                 "name-EUru": "железное бра"
             },
             "buy-price": 2300,
-            "sell-price": 575
+            "sell-price": 575,
+            "image_uri": "https://acnhapi.com/v1/images/furniture/FtrLampSpotWall_Remake_2_0"
         },
         {
             "variant": "Red",
@@ -17130,7 +17489,8 @@
                 "name-EUru": "железное бра"
             },
             "buy-price": 2300,
-            "sell-price": 575
+            "sell-price": 575,
+            "image_uri": "https://acnhapi.com/v1/images/furniture/FtrLampSpotWall_Remake_3_0"
         },
         {
             "variant": "Pink",
@@ -17177,7 +17537,8 @@
                 "name-EUru": "железное бра"
             },
             "buy-price": 2300,
-            "sell-price": 575
+            "sell-price": 575,
+            "image_uri": "https://acnhapi.com/v1/images/furniture/FtrLampSpotWall_Remake_4_0"
         },
         {
             "variant": "Purple",
@@ -17224,7 +17585,8 @@
                 "name-EUru": "железное бра"
             },
             "buy-price": 2300,
-            "sell-price": 575
+            "sell-price": 575,
+            "image_uri": "https://acnhapi.com/v1/images/furniture/FtrLampSpotWall_Remake_5_0"
         },
         {
             "variant": "Blue",
@@ -17271,7 +17633,8 @@
                 "name-EUru": "железное бра"
             },
             "buy-price": 2300,
-            "sell-price": 575
+            "sell-price": 575,
+            "image_uri": "https://acnhapi.com/v1/images/furniture/FtrLampSpotWall_Remake_6_0"
         },
         {
             "variant": "Green",
@@ -17318,7 +17681,8 @@
                 "name-EUru": "железное бра"
             },
             "buy-price": 2300,
-            "sell-price": 575
+            "sell-price": 575,
+            "image_uri": "https://acnhapi.com/v1/images/furniture/FtrLampSpotWall_Remake_7_0"
         }
     ],
     "surveillance_camera": [
@@ -17367,7 +17731,8 @@
                 "name-EUru": "флаг рыбацкого судна"
             },
             "buy-price": 1000,
-            "sell-price": 250
+            "sell-price": 250,
+            "image_uri": "https://acnhapi.com/v1/images/furniture/FtrSurveillance"
         }
     ],
     "tapestry": [
@@ -17416,7 +17781,8 @@
                 "name-EUru": "постер «Юный писарь»"
             },
             "buy-price": 880,
-            "sell-price": 220
+            "sell-price": 220,
+            "image_uri": "https://acnhapi.com/v1/images/furniture/FtrTapestry_Remake_0_0"
         },
         {
             "variant": "Animal",
@@ -17463,7 +17829,8 @@
                 "name-EUru": "постер «Юный писарь»"
             },
             "buy-price": 880,
-            "sell-price": 220
+            "sell-price": 220,
+            "image_uri": "https://acnhapi.com/v1/images/furniture/FtrTapestry_Remake_1_0"
         },
         {
             "variant": "Floral",
@@ -17510,7 +17877,8 @@
                 "name-EUru": "постер «Юный писарь»"
             },
             "buy-price": 880,
-            "sell-price": 220
+            "sell-price": 220,
+            "image_uri": "https://acnhapi.com/v1/images/furniture/FtrTapestry_Remake_2_0"
         },
         {
             "variant": "Fairy tale",
@@ -17557,7 +17925,8 @@
                 "name-EUru": "постер «Юный писарь»"
             },
             "buy-price": 880,
-            "sell-price": 220
+            "sell-price": 220,
+            "image_uri": "https://acnhapi.com/v1/images/furniture/FtrTapestry_Remake_3_0"
         },
         {
             "variant": "Bird",
@@ -17604,7 +17973,8 @@
                 "name-EUru": "постер «Юный писарь»"
             },
             "buy-price": 880,
-            "sell-price": 220
+            "sell-price": 220,
+            "image_uri": "https://acnhapi.com/v1/images/furniture/FtrTapestry_Remake_4_0"
         },
         {
             "variant": "Snow",
@@ -17651,7 +18021,8 @@
                 "name-EUru": "постер «Юный писарь»"
             },
             "buy-price": 880,
-            "sell-price": 220
+            "sell-price": 220,
+            "image_uri": "https://acnhapi.com/v1/images/furniture/FtrTapestry_Remake_5_0"
         }
     ],
     "throwback_wall_clock": [
@@ -17700,7 +18071,8 @@
                 "name-EUru": "именинный торт"
             },
             "buy-price": 4200,
-            "sell-price": 1050
+            "sell-price": 1050,
+            "image_uri": "https://acnhapi.com/v1/images/furniture/FtrBoyClockWall_Remake_0_0"
         },
         {
             "variant": "Red",
@@ -17747,7 +18119,8 @@
                 "name-EUru": "именинный торт"
             },
             "buy-price": 4200,
-            "sell-price": 1050
+            "sell-price": 1050,
+            "image_uri": "https://acnhapi.com/v1/images/furniture/FtrBoyClockWall_Remake_1_0"
         },
         {
             "variant": "Green",
@@ -17794,7 +18167,8 @@
                 "name-EUru": "именинный торт"
             },
             "buy-price": 4200,
-            "sell-price": 1050
+            "sell-price": 1050,
+            "image_uri": "https://acnhapi.com/v1/images/furniture/FtrBoyClockWall_Remake_2_0"
         },
         {
             "variant": "Blue",
@@ -17841,7 +18215,8 @@
                 "name-EUru": "именинный торт"
             },
             "buy-price": 4200,
-            "sell-price": 1050
+            "sell-price": 1050,
+            "image_uri": "https://acnhapi.com/v1/images/furniture/FtrBoyClockWall_Remake_3_0"
         },
         {
             "variant": "White",
@@ -17888,7 +18263,8 @@
                 "name-EUru": "именинный торт"
             },
             "buy-price": 4200,
-            "sell-price": 1050
+            "sell-price": 1050,
+            "image_uri": "https://acnhapi.com/v1/images/furniture/FtrBoyClockWall_Remake_4_0"
         },
         {
             "variant": "Gray",
@@ -17935,7 +18311,8 @@
                 "name-EUru": "именинный торт"
             },
             "buy-price": 4200,
-            "sell-price": 1050
+            "sell-price": 1050,
+            "image_uri": "https://acnhapi.com/v1/images/furniture/FtrBoyClockWall_Remake_5_0"
         },
         {
             "variant": "Purple",
@@ -17982,7 +18359,8 @@
                 "name-EUru": "именинный торт"
             },
             "buy-price": 4200,
-            "sell-price": 1050
+            "sell-price": 1050,
+            "image_uri": "https://acnhapi.com/v1/images/furniture/FtrBoyClockWall_Remake_6_0"
         }
     ],
     "timber_doorplate": [
@@ -18031,7 +18409,8 @@
                 "name-EUru": "прилавок"
             },
             "buy-price": null,
-            "sell-price": 400
+            "sell-price": 400,
+            "image_uri": "https://acnhapi.com/v1/images/furniture/FtrDoorOrnamentLog_Remake_0_0"
         },
         {
             "variant": "Brown",
@@ -18078,7 +18457,8 @@
                 "name-EUru": "прилавок"
             },
             "buy-price": null,
-            "sell-price": 400
+            "sell-price": 400,
+            "image_uri": "https://acnhapi.com/v1/images/furniture/FtrDoorOrnamentLog_Remake_1_0"
         },
         {
             "variant": "Dark brown",
@@ -18125,7 +18505,8 @@
                 "name-EUru": "прилавок"
             },
             "buy-price": null,
-            "sell-price": 400
+            "sell-price": 400,
+            "image_uri": "https://acnhapi.com/v1/images/furniture/FtrDoorOrnamentLog_Remake_2_0"
         },
         {
             "variant": "Light brown",
@@ -18172,7 +18553,8 @@
                 "name-EUru": "прилавок"
             },
             "buy-price": null,
-            "sell-price": 400
+            "sell-price": 400,
+            "image_uri": "https://acnhapi.com/v1/images/furniture/FtrDoorOrnamentLog_Remake_3_0"
         },
         {
             "variant": "Ash brown",
@@ -18219,7 +18601,8 @@
                 "name-EUru": "прилавок"
             },
             "buy-price": null,
-            "sell-price": 400
+            "sell-price": 400,
+            "image_uri": "https://acnhapi.com/v1/images/furniture/FtrDoorOrnamentLog_Remake_4_0"
         },
         {
             "variant": "Black",
@@ -18266,7 +18649,8 @@
                 "name-EUru": "прилавок"
             },
             "buy-price": null,
-            "sell-price": 400
+            "sell-price": 400,
+            "image_uri": "https://acnhapi.com/v1/images/furniture/FtrDoorOrnamentLog_Remake_5_0"
         },
         {
             "variant": "Blue",
@@ -18313,7 +18697,8 @@
                 "name-EUru": "прилавок"
             },
             "buy-price": null,
-            "sell-price": 400
+            "sell-price": 400,
+            "image_uri": "https://acnhapi.com/v1/images/furniture/FtrDoorOrnamentLog_Remake_6_0"
         },
         {
             "variant": "Pink",
@@ -18360,7 +18745,8 @@
                 "name-EUru": "прилавок"
             },
             "buy-price": null,
-            "sell-price": 400
+            "sell-price": 400,
+            "image_uri": "https://acnhapi.com/v1/images/furniture/FtrDoorOrnamentLog_Remake_7_0"
         }
     ],
     "tree_branch_wreath": [
@@ -18409,7 +18795,8 @@
                 "name-EUru": "масляная лампа"
             },
             "buy-price": null,
-            "sell-price": 100
+            "sell-price": 100,
+            "image_uri": "https://acnhapi.com/v1/images/furniture/FtrDoorOrnamentWreathBranch"
         }
     ],
     "tree's_bounty_mobile": [
@@ -18458,7 +18845,8 @@
                 "name-EUru": "корзина из бамбука"
             },
             "buy-price": null,
-            "sell-price": 2030
+            "sell-price": 2030,
+            "image_uri": "https://acnhapi.com/v1/images/furniture/FtrNutMobile_Remake_0_0"
         },
         {
             "variant": "White",
@@ -18505,7 +18893,8 @@
                 "name-EUru": "корзина из бамбука"
             },
             "buy-price": null,
-            "sell-price": 2030
+            "sell-price": 2030,
+            "image_uri": "https://acnhapi.com/v1/images/furniture/FtrNutMobile_Remake_1_0"
         }
     ],
     "tulip_wreath": [
@@ -18554,7 +18943,8 @@
                 "name-EUru": "постель из сена"
             },
             "buy-price": null,
-            "sell-price": 720
+            "sell-price": 720,
+            "image_uri": "https://acnhapi.com/v1/images/furniture/FtrDoorOrnamentWreathTulip"
         }
     ],
     "ventilation_fan": [
@@ -18603,7 +18993,8 @@
                 "name-EUru": "банкетка для фортепиано"
             },
             "buy-price": 1200,
-            "sell-price": 300
+            "sell-price": 300,
+            "image_uri": "https://acnhapi.com/v1/images/furniture/FtrExtractorfan_Remake_0_0"
         },
         {
             "variant": "Pink",
@@ -18650,7 +19041,8 @@
                 "name-EUru": "банкетка для фортепиано"
             },
             "buy-price": 1200,
-            "sell-price": 300
+            "sell-price": 300,
+            "image_uri": "https://acnhapi.com/v1/images/furniture/FtrExtractorfan_Remake_1_0"
         },
         {
             "variant": "Blue",
@@ -18697,7 +19089,8 @@
                 "name-EUru": "банкетка для фортепиано"
             },
             "buy-price": 1200,
-            "sell-price": 300
+            "sell-price": 300,
+            "image_uri": "https://acnhapi.com/v1/images/furniture/FtrExtractorfan_Remake_2_0"
         },
         {
             "variant": "Green",
@@ -18744,7 +19137,8 @@
                 "name-EUru": "банкетка для фортепиано"
             },
             "buy-price": 1200,
-            "sell-price": 300
+            "sell-price": 300,
+            "image_uri": "https://acnhapi.com/v1/images/furniture/FtrExtractorfan_Remake_3_0"
         },
         {
             "variant": "Orange",
@@ -18791,7 +19185,8 @@
                 "name-EUru": "банкетка для фортепиано"
             },
             "buy-price": 1200,
-            "sell-price": 300
+            "sell-price": 300,
+            "image_uri": "https://acnhapi.com/v1/images/furniture/FtrExtractorfan_Remake_4_0"
         }
     ],
     "wall_clock": [
@@ -18840,7 +19235,8 @@
                 "name-EUru": "портативное радио"
             },
             "buy-price": 690,
-            "sell-price": 172
+            "sell-price": 172,
+            "image_uri": "https://acnhapi.com/v1/images/furniture/FtrOfficeClock_Remake_0_0"
         },
         {
             "variant": "White",
@@ -18887,7 +19283,8 @@
                 "name-EUru": "портативное радио"
             },
             "buy-price": 690,
-            "sell-price": 172
+            "sell-price": 172,
+            "image_uri": "https://acnhapi.com/v1/images/furniture/FtrOfficeClock_Remake_1_0"
         },
         {
             "variant": "Black",
@@ -18934,7 +19331,8 @@
                 "name-EUru": "портативное радио"
             },
             "buy-price": 690,
-            "sell-price": 172
+            "sell-price": 172,
+            "image_uri": "https://acnhapi.com/v1/images/furniture/FtrOfficeClock_Remake_2_0"
         },
         {
             "variant": "Red",
@@ -18981,7 +19379,8 @@
                 "name-EUru": "портативное радио"
             },
             "buy-price": 690,
-            "sell-price": 172
+            "sell-price": 172,
+            "image_uri": "https://acnhapi.com/v1/images/furniture/FtrOfficeClock_Remake_3_0"
         },
         {
             "variant": "Blue",
@@ -19028,7 +19427,8 @@
                 "name-EUru": "портативное радио"
             },
             "buy-price": 690,
-            "sell-price": 172
+            "sell-price": 172,
+            "image_uri": "https://acnhapi.com/v1/images/furniture/FtrOfficeClock_Remake_4_0"
         }
     ],
     "wall_fan": [
@@ -19077,7 +19477,8 @@
                 "name-EUru": "террариум"
             },
             "buy-price": 1400,
-            "sell-price": 350
+            "sell-price": 350,
+            "image_uri": "https://acnhapi.com/v1/images/furniture/FtrFanRetroWall_Remake_0_0"
         },
         {
             "variant": "Blue",
@@ -19124,7 +19525,8 @@
                 "name-EUru": "террариум"
             },
             "buy-price": 1400,
-            "sell-price": 350
+            "sell-price": 350,
+            "image_uri": "https://acnhapi.com/v1/images/furniture/FtrFanRetroWall_Remake_1_0"
         },
         {
             "variant": "Red",
@@ -19171,7 +19573,8 @@
                 "name-EUru": "террариум"
             },
             "buy-price": 1400,
-            "sell-price": 350
+            "sell-price": 350,
+            "image_uri": "https://acnhapi.com/v1/images/furniture/FtrFanRetroWall_Remake_2_0"
         },
         {
             "variant": "Yellow",
@@ -19218,7 +19621,8 @@
                 "name-EUru": "террариум"
             },
             "buy-price": 1400,
-            "sell-price": 350
+            "sell-price": 350,
+            "image_uri": "https://acnhapi.com/v1/images/furniture/FtrFanRetroWall_Remake_3_0"
         },
         {
             "variant": "White",
@@ -19265,7 +19669,8 @@
                 "name-EUru": "террариум"
             },
             "buy-price": 1400,
-            "sell-price": 350
+            "sell-price": 350,
+            "image_uri": "https://acnhapi.com/v1/images/furniture/FtrFanRetroWall_Remake_4_0"
         },
         {
             "variant": "Black",
@@ -19312,7 +19717,8 @@
                 "name-EUru": "террариум"
             },
             "buy-price": 1400,
-            "sell-price": 350
+            "sell-price": 350,
+            "image_uri": "https://acnhapi.com/v1/images/furniture/FtrFanRetroWall_Remake_5_0"
         },
         {
             "variant": "Silver",
@@ -19359,7 +19765,8 @@
                 "name-EUru": "террариум"
             },
             "buy-price": 1400,
-            "sell-price": 350
+            "sell-price": 350,
+            "image_uri": "https://acnhapi.com/v1/images/furniture/FtrFanRetroWall_Remake_6_0"
         },
         {
             "variant": "Brown",
@@ -19406,7 +19813,8 @@
                 "name-EUru": "террариум"
             },
             "buy-price": 1400,
-            "sell-price": 350
+            "sell-price": 350,
+            "image_uri": "https://acnhapi.com/v1/images/furniture/FtrFanRetroWall_Remake_7_0"
         }
     ],
     "wall-mounted_candle": [
@@ -19455,7 +19863,8 @@
                 "name-EUru": "грибной зонт"
             },
             "buy-price": 800,
-            "sell-price": 200
+            "sell-price": 200,
+            "image_uri": "https://acnhapi.com/v1/images/furniture/FtrCandleWall_Remake_0_0"
         },
         {
             "variant": "Silver",
@@ -19502,7 +19911,8 @@
                 "name-EUru": "грибной зонт"
             },
             "buy-price": 800,
-            "sell-price": 200
+            "sell-price": 200,
+            "image_uri": "https://acnhapi.com/v1/images/furniture/FtrCandleWall_Remake_1_0"
         },
         {
             "variant": "Copper",
@@ -19549,7 +19959,8 @@
                 "name-EUru": "грибной зонт"
             },
             "buy-price": 800,
-            "sell-price": 200
+            "sell-price": 200,
+            "image_uri": "https://acnhapi.com/v1/images/furniture/FtrCandleWall_Remake_2_0"
         },
         {
             "variant": "Black",
@@ -19596,7 +20007,8 @@
                 "name-EUru": "грибной зонт"
             },
             "buy-price": 800,
-            "sell-price": 200
+            "sell-price": 200,
+            "image_uri": "https://acnhapi.com/v1/images/furniture/FtrCandleWall_Remake_3_0"
         },
         {
             "variant": "White",
@@ -19643,7 +20055,8 @@
                 "name-EUru": "грибной зонт"
             },
             "buy-price": 800,
-            "sell-price": 200
+            "sell-price": 200,
+            "image_uri": "https://acnhapi.com/v1/images/furniture/FtrCandleWall_Remake_4_0"
         }
     ],
     "wall-mounted_phone": [
@@ -19692,7 +20105,8 @@
                 "name-EUru": "паутина"
             },
             "buy-price": 1300,
-            "sell-price": 325
+            "sell-price": 325,
+            "image_uri": "https://acnhapi.com/v1/images/furniture/FtrPhoneWall_Remake_0_0"
         },
         {
             "variant": "Black",
@@ -19739,7 +20153,8 @@
                 "name-EUru": "паутина"
             },
             "buy-price": 1300,
-            "sell-price": 325
+            "sell-price": 325,
+            "image_uri": "https://acnhapi.com/v1/images/furniture/FtrPhoneWall_Remake_1_0"
         },
         {
             "variant": "Silver",
@@ -19786,7 +20201,8 @@
                 "name-EUru": "паутина"
             },
             "buy-price": 1300,
-            "sell-price": 325
+            "sell-price": 325,
+            "image_uri": "https://acnhapi.com/v1/images/furniture/FtrPhoneWall_Remake_2_0"
         },
         {
             "variant": "Gray",
@@ -19833,7 +20249,8 @@
                 "name-EUru": "паутина"
             },
             "buy-price": 1300,
-            "sell-price": 325
+            "sell-price": 325,
+            "image_uri": "https://acnhapi.com/v1/images/furniture/FtrPhoneWall_Remake_3_0"
         },
         {
             "variant": "Red",
@@ -19880,7 +20297,8 @@
                 "name-EUru": "паутина"
             },
             "buy-price": 1300,
-            "sell-price": 325
+            "sell-price": 325,
+            "image_uri": "https://acnhapi.com/v1/images/furniture/FtrPhoneWall_Remake_4_0"
         },
         {
             "variant": "Blue",
@@ -19927,7 +20345,8 @@
                 "name-EUru": "паутина"
             },
             "buy-price": 1300,
-            "sell-price": 325
+            "sell-price": 325,
+            "image_uri": "https://acnhapi.com/v1/images/furniture/FtrPhoneWall_Remake_5_0"
         }
     ],
     "wall-mounted_tool_board": [
@@ -19976,7 +20395,8 @@
                 "name-EUru": "верстак из ДСП и стали"
             },
             "buy-price": 1500,
-            "sell-price": 375
+            "sell-price": 375,
+            "image_uri": "https://acnhapi.com/v1/images/furniture/FtrToolhanger_Remake_0_0"
         },
         {
             "variant": "Camel",
@@ -20023,7 +20443,8 @@
                 "name-EUru": "верстак из ДСП и стали"
             },
             "buy-price": 1500,
-            "sell-price": 375
+            "sell-price": 375,
+            "image_uri": "https://acnhapi.com/v1/images/furniture/FtrToolhanger_Remake_1_0"
         },
         {
             "variant": "Yellow",
@@ -20070,7 +20491,8 @@
                 "name-EUru": "верстак из ДСП и стали"
             },
             "buy-price": 1500,
-            "sell-price": 375
+            "sell-price": 375,
+            "image_uri": "https://acnhapi.com/v1/images/furniture/FtrToolhanger_Remake_2_0"
         },
         {
             "variant": "Red",
@@ -20117,7 +20539,8 @@
                 "name-EUru": "верстак из ДСП и стали"
             },
             "buy-price": 1500,
-            "sell-price": 375
+            "sell-price": 375,
+            "image_uri": "https://acnhapi.com/v1/images/furniture/FtrToolhanger_Remake_3_0"
         },
         {
             "variant": "Blue",
@@ -20164,7 +20587,8 @@
                 "name-EUru": "верстак из ДСП и стали"
             },
             "buy-price": 1500,
-            "sell-price": 375
+            "sell-price": 375,
+            "image_uri": "https://acnhapi.com/v1/images/furniture/FtrToolhanger_Remake_4_0"
         },
         {
             "variant": "Black",
@@ -20211,7 +20635,8 @@
                 "name-EUru": "верстак из ДСП и стали"
             },
             "buy-price": 1500,
-            "sell-price": 375
+            "sell-price": 375,
+            "image_uri": "https://acnhapi.com/v1/images/furniture/FtrToolhanger_Remake_5_0"
         }
     ],
     "wall-mounted_TV_(20_in.)": [
@@ -20260,7 +20685,8 @@
                 "name-EUru": "антикварный столик"
             },
             "buy-price": 8900,
-            "sell-price": 2225
+            "sell-price": 2225,
+            "image_uri": "https://acnhapi.com/v1/images/furniture/FtrTV20inchWall_Remake_0_0"
         },
         {
             "variant": "White",
@@ -20307,7 +20733,8 @@
                 "name-EUru": "антикварный столик"
             },
             "buy-price": 8900,
-            "sell-price": 2225
+            "sell-price": 2225,
+            "image_uri": "https://acnhapi.com/v1/images/furniture/FtrTV20inchWall_Remake_1_0"
         },
         {
             "variant": "Silver",
@@ -20354,7 +20781,8 @@
                 "name-EUru": "антикварный столик"
             },
             "buy-price": 8900,
-            "sell-price": 2225
+            "sell-price": 2225,
+            "image_uri": "https://acnhapi.com/v1/images/furniture/FtrTV20inchWall_Remake_2_0"
         },
         {
             "variant": "Red",
@@ -20401,7 +20829,8 @@
                 "name-EUru": "антикварный столик"
             },
             "buy-price": 8900,
-            "sell-price": 2225
+            "sell-price": 2225,
+            "image_uri": "https://acnhapi.com/v1/images/furniture/FtrTV20inchWall_Remake_3_0"
         },
         {
             "variant": "Yellow",
@@ -20448,7 +20877,8 @@
                 "name-EUru": "антикварный столик"
             },
             "buy-price": 8900,
-            "sell-price": 2225
+            "sell-price": 2225,
+            "image_uri": "https://acnhapi.com/v1/images/furniture/FtrTV20inchWall_Remake_4_0"
         },
         {
             "variant": "Blue",
@@ -20495,7 +20925,8 @@
                 "name-EUru": "антикварный столик"
             },
             "buy-price": 8900,
-            "sell-price": 2225
+            "sell-price": 2225,
+            "image_uri": "https://acnhapi.com/v1/images/furniture/FtrTV20inchWall_Remake_5_0"
         },
         {
             "variant": "Pink",
@@ -20542,7 +20973,8 @@
                 "name-EUru": "антикварный столик"
             },
             "buy-price": 8900,
-            "sell-price": 2225
+            "sell-price": 2225,
+            "image_uri": "https://acnhapi.com/v1/images/furniture/FtrTV20inchWall_Remake_6_0"
         },
         {
             "variant": "Light blue",
@@ -20589,7 +21021,8 @@
                 "name-EUru": "антикварный столик"
             },
             "buy-price": 8900,
-            "sell-price": 2225
+            "sell-price": 2225,
+            "image_uri": "https://acnhapi.com/v1/images/furniture/FtrTV20inchWall_Remake_7_0"
         }
     ],
     "wall-mounted_TV_(50_in.)": [
@@ -20638,7 +21071,8 @@
                 "name-EUru": "антикварный шкаф"
             },
             "buy-price": 22000,
-            "sell-price": 5500
+            "sell-price": 5500,
+            "image_uri": "https://acnhapi.com/v1/images/furniture/FtrTV50inchWall_Remake_0_0"
         },
         {
             "variant": "White",
@@ -20685,7 +21119,8 @@
                 "name-EUru": "антикварный шкаф"
             },
             "buy-price": 22000,
-            "sell-price": 5500
+            "sell-price": 5500,
+            "image_uri": "https://acnhapi.com/v1/images/furniture/FtrTV50inchWall_Remake_1_0"
         },
         {
             "variant": "Silver",
@@ -20732,7 +21167,8 @@
                 "name-EUru": "антикварный шкаф"
             },
             "buy-price": 22000,
-            "sell-price": 5500
+            "sell-price": 5500,
+            "image_uri": "https://acnhapi.com/v1/images/furniture/FtrTV50inchWall_Remake_2_0"
         },
         {
             "variant": "Red",
@@ -20779,7 +21215,8 @@
                 "name-EUru": "антикварный шкаф"
             },
             "buy-price": 22000,
-            "sell-price": 5500
+            "sell-price": 5500,
+            "image_uri": "https://acnhapi.com/v1/images/furniture/FtrTV50inchWall_Remake_3_0"
         },
         {
             "variant": "Blue",
@@ -20826,7 +21263,8 @@
                 "name-EUru": "антикварный шкаф"
             },
             "buy-price": 22000,
-            "sell-price": 5500
+            "sell-price": 5500,
+            "image_uri": "https://acnhapi.com/v1/images/furniture/FtrTV50inchWall_Remake_4_0"
         }
     ],
     "wasp-head_model": [
@@ -20875,7 +21313,8 @@
                 "name-EUru": "набор художника"
             },
             "buy-price": 2500,
-            "sell-price": 625
+            "sell-price": 625,
+            "image_uri": "https://acnhapi.com/v1/images/furniture/FtrInsectHachiFace"
         }
     ],
     "wedding_decoration": [
@@ -20924,7 +21363,8 @@
                 "name-EUru": "праздничная ель"
             },
             "buy-price": 1000,
-            "sell-price": 250
+            "sell-price": 250,
+            "image_uri": "https://acnhapi.com/v1/images/furniture/FtrWeddingFlowerWall_Remake_1_0"
         },
         {
             "variant": "Chic",
@@ -20971,7 +21411,8 @@
                 "name-EUru": "праздничная ель"
             },
             "buy-price": 1000,
-            "sell-price": 250
+            "sell-price": 250,
+            "image_uri": "https://acnhapi.com/v1/images/furniture/FtrWeddingFlowerWall_Remake_2_0"
         },
         {
             "variant": "Garden",
@@ -21018,7 +21459,8 @@
                 "name-EUru": "праздничная ель"
             },
             "buy-price": 1000,
-            "sell-price": 250
+            "sell-price": 250,
+            "image_uri": "https://acnhapi.com/v1/images/furniture/FtrWeddingFlowerWall_Remake_0_0"
         }
     ],
     "windflower_wreath": [
@@ -21067,7 +21509,8 @@
                 "name-EUru": "игрушка-сороконожка"
             },
             "buy-price": null,
-            "sell-price": 720
+            "sell-price": 720,
+            "image_uri": "https://acnhapi.com/v1/images/furniture/FtrDoorOrnamentWreathAnemone"
         }
     ],
     "wooden-block_wall_clock": [
@@ -21116,7 +21559,8 @@
                 "name-EUru": "азиатская полочка"
             },
             "buy-price": null,
-            "sell-price": 1350
+            "sell-price": 1350,
+            "image_uri": "https://acnhapi.com/v1/images/furniture/FtrBlockClock_Remake_0_0"
         },
         {
             "variant": "Mixed wood",
@@ -21163,7 +21607,8 @@
                 "name-EUru": "азиатская полочка"
             },
             "buy-price": null,
-            "sell-price": 1350
+            "sell-price": 1350,
+            "image_uri": "https://acnhapi.com/v1/images/furniture/FtrBlockClock_Remake_1_0"
         },
         {
             "variant": "Colorful",
@@ -21210,7 +21655,8 @@
                 "name-EUru": "азиатская полочка"
             },
             "buy-price": null,
-            "sell-price": 1350
+            "sell-price": 1350,
+            "image_uri": "https://acnhapi.com/v1/images/furniture/FtrBlockClock_Remake_2_0"
         },
         {
             "variant": "Pastel",
@@ -21257,7 +21703,8 @@
                 "name-EUru": "азиатская полочка"
             },
             "buy-price": null,
-            "sell-price": 1350
+            "sell-price": 1350,
+            "image_uri": "https://acnhapi.com/v1/images/furniture/FtrBlockClock_Remake_3_0"
         },
         {
             "variant": "Vivid",
@@ -21304,7 +21751,8 @@
                 "name-EUru": "азиатская полочка"
             },
             "buy-price": null,
-            "sell-price": 1350
+            "sell-price": 1350,
+            "image_uri": "https://acnhapi.com/v1/images/furniture/FtrBlockClock_Remake_4_0"
         }
     ],
     "wooden-plank_sign": [
@@ -21353,7 +21801,8 @@
                 "name-EUru": "столик-апельсин"
             },
             "buy-price": null,
-            "sell-price": 600
+            "sell-price": 600,
+            "image_uri": "https://acnhapi.com/v1/images/furniture/FtrSignboardWood_Remake_0_0"
         },
         {
             "variant": "Dark brown",
@@ -21400,7 +21849,8 @@
                 "name-EUru": "столик-апельсин"
             },
             "buy-price": null,
-            "sell-price": 600
+            "sell-price": 600,
+            "image_uri": "https://acnhapi.com/v1/images/furniture/FtrSignboardWood_Remake_1_0"
         },
         {
             "variant": "Brown",
@@ -21447,7 +21897,8 @@
                 "name-EUru": "столик-апельсин"
             },
             "buy-price": null,
-            "sell-price": 600
+            "sell-price": 600,
+            "image_uri": "https://acnhapi.com/v1/images/furniture/FtrSignboardWood_Remake_2_0"
         },
         {
             "variant": "Red",
@@ -21494,7 +21945,8 @@
                 "name-EUru": "столик-апельсин"
             },
             "buy-price": null,
-            "sell-price": 600
+            "sell-price": 600,
+            "image_uri": "https://acnhapi.com/v1/images/furniture/FtrSignboardWood_Remake_3_0"
         }
     ],
     "world_map": [
@@ -21543,7 +21995,8 @@
                 "name-EUru": "табурет из ракушки"
             },
             "buy-price": 640,
-            "sell-price": 160
+            "sell-price": 160,
+            "image_uri": "https://acnhapi.com/v1/images/furniture/FtrWorldMap_Remake_0_0"
         },
         {
             "variant": "Atlantic Ocean",
@@ -21590,7 +22043,8 @@
                 "name-EUru": "табурет из ракушки"
             },
             "buy-price": 640,
-            "sell-price": 160
+            "sell-price": 160,
+            "image_uri": "https://acnhapi.com/v1/images/furniture/FtrWorldMap_Remake_1_0"
         }
     ],
     "writing_poster": [
@@ -21639,7 +22093,8 @@
                 "name-EUru": "фонтан из ракушек"
             },
             "buy-price": 640,
-            "sell-price": 160
+            "sell-price": 160,
+            "image_uri": "https://acnhapi.com/v1/images/furniture/FtrStudyposter_Remake_0_0"
         },
         {
             "variant": "Multiplication tables",
@@ -21686,7 +22141,8 @@
                 "name-EUru": "фонтан из ракушек"
             },
             "buy-price": 640,
-            "sell-price": 160
+            "sell-price": 160,
+            "image_uri": "https://acnhapi.com/v1/images/furniture/FtrStudyposter_Remake_1_0"
         },
         {
             "variant": "Periodic table",
@@ -21733,7 +22189,8 @@
                 "name-EUru": "фонтан из ракушек"
             },
             "buy-price": 640,
-            "sell-price": 160
+            "sell-price": 160,
+            "image_uri": "https://acnhapi.com/v1/images/furniture/FtrStudyposter_Remake_2_0"
         },
         {
             "variant": "Constellations",
@@ -21780,7 +22237,8 @@
                 "name-EUru": "фонтан из ракушек"
             },
             "buy-price": 640,
-            "sell-price": 160
+            "sell-price": 160,
+            "image_uri": "https://acnhapi.com/v1/images/furniture/FtrStudyposter_Remake_3_0"
         }
     ]
 }
