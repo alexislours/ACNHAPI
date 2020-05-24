@@ -12,6 +12,15 @@ If any of the information on the website is wrong or outdated, you can either co
 
 Buy me a [coffee](https://www.buymeacoffee.com/acnhapi) or donate directly through [PayPal](https://paypal.me/acnhapi) and help contribute toward the server costs to keep this service free!
 
+### v1
+
+- All endpoints are now located on /v1/ instead of the root of the domain.
+- Language codes have been changed to match those found in the game (see [#5](https://github.com/alexislours/ACNHAPI/issues/5)).
+- Art images have been moved to /v1/images/art from /icons/art.
+- A whole lot of changes back-end to make request processing faster.
+- New Houseware, Wall mounted and Misc endpoints.
+- Hourly music endpoint has been added to the documentation.
+
 ### Usage:
 
 All the JSON data from this API is under MIT license, the images and music assets are the sole property of Nintendo.
