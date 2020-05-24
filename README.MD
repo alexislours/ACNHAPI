@@ -39,6 +39,8 @@ No authentification is required to make requests to any of the endpoints which c
 ### Other projects that can help you build your app:
 - [ACNH Item Sheet](https://tinyurl.com/acnh-sheet)
 - [ACNH Translation Sheet](https://tinyurl.com/acnh-translation) (also maintained by me).
+- [ACNH Weather Sheet](https://tinyurl.com/acnh-weather) (also datamined and maintained by me).
+- [ACNH Wedding Items Price Sheet](https://tinyurl.com/acnh-wedding) (also datamined and maintained by me).
 - [Google Sheets to JSON](https://github.com/acdb-team/google-sheets-to-json) (converts the item spreadsheet to JSON format).
 - [Translations Sheet to JSON](https://github.com/Stun3R/acnh-translations-sheet-to-json) (converts the translation spreadsheet to JSON format).
 
