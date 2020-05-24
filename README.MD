@@ -10,7 +10,7 @@ The API is free and without authentification to make it easy for anyone to start
 
 If any of the information on the website is wrong or outdated, you can either contact me on Discord (Alexis#8717) or make a pull request on this repository.
 
-Buy me a [coffee](https://www.buymeacoffee.com/acnhapi) and help contribute toward the server costs to keep this service free!
+Buy me a [coffee](https://www.buymeacoffee.com/acnhapi) or donate directly through [PayPal](https://paypal.me/acnhapi) and help contribute toward the server costs to keep this service free!
 
 ### Usage:
 
