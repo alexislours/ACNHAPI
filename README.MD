@@ -2,7 +2,7 @@
 
 ### Introduction:
 
-ACNH API is a **free RESTful API** for **critters**, **fossils**, **art**, **music** and **villagers** from Animal Crossing: New Horizons.
+ACNH API is a **free RESTful API** for **furniture**, **critters**, **fossils**, **art**, **music** and **villagers** from Animal Crossing: New Horizons.
 
 This started for me as a little side project for me but ended up getting much attraction than I ever thought it would get (~250 000 requests per day).
 
