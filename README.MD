@@ -4,7 +4,7 @@
 
 ACNH API is a **free RESTful API** for **furniture**, **critters**, **fossils**, **art**, **music** and **villagers** from Animal Crossing: New Horizons.
 
-This started for me as a little side project for me but ended up getting much attraction than I ever thought it would get (~250 000 requests per day).
+This started for me as a little side project for me but ended up getting much attraction than I ever thought it would get (~1 400 000 requests per day).
 
 The API is free and without authentification to make it easy for anyone to start developing on a subject they like.
 
@@ -14,8 +14,8 @@ Buy me a [coffee](https://www.buymeacoffee.com/acnhapi) or donate directly throu
 
 ### v1
 
-- All endpoints are now located on /v1/ instead of the root of the domain.
-- Calling the endpoints on /v1a/ instead of /v1/ return the response in a JSON array instead of a keyed JSON (see in v1a folder).
+- All endpoints are now located on **/v1/** instead of the root of the domain.
+- Calling the endpoints on **/v1a/** instead of **/v1/** return the response in a JSON array instead of a keyed JSON (see in v1a folder).
 - Language codes have been changed to match those found in the game (see [#5](https://github.com/alexislours/ACNHAPI/issues/5)).
 - Art images have been moved to /v1/images/art from /icons/art.
 - A whole lot of changes back-end to make request processing faster.
