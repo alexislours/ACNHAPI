@@ -1,0 +1,506 @@
+[
+    {
+        "id": 1,
+        "file-name": "BGM_24Hour_00_Rainy",
+        "hour": 0,
+        "weather": "Rainy",
+        "music_uri": "https://acnhapi.com/v1/hourly/1"
+    },
+    {
+        "id": 2,
+        "file-name": "BGM_24Hour_00_Snowy",
+        "hour": 0,
+        "weather": "Snowy",
+        "music_uri": "https://acnhapi.com/v1/hourly/2"
+    },
+    {
+        "id": 3,
+        "file-name": "BGM_24Hour_00_Sunny",
+        "hour": 0,
+        "weather": "Sunny",
+        "music_uri": "https://acnhapi.com/v1/hourly/3"
+    },
+    {
+        "id": 4,
+        "file-name": "BGM_24Hour_01_Rainy",
+        "hour": 1,
+        "weather": "Rainy",
+        "music_uri": "https://acnhapi.com/v1/hourly/4"
+    },
+    {
+        "id": 5,
+        "file-name": "BGM_24Hour_01_Snowy",
+        "hour": 1,
+        "weather": "Snowy",
+        "music_uri": "https://acnhapi.com/v1/hourly/5"
+    },
+    {
+        "id": 6,
+        "file-name": "BGM_24Hour_01_Sunny",
+        "hour": 1,
+        "weather": "Sunny",
+        "music_uri": "https://acnhapi.com/v1/hourly/6"
+    },
+    {
+        "id": 7,
+        "file-name": "BGM_24Hour_02_Rainy",
+        "hour": 2,
+        "weather": "Rainy",
+        "music_uri": "https://acnhapi.com/v1/hourly/7"
+    },
+    {
+        "id": 8,
+        "file-name": "BGM_24Hour_02_Snowy",
+        "hour": 2,
+        "weather": "Snowy",
+        "music_uri": "https://acnhapi.com/v1/hourly/8"
+    },
+    {
+        "id": 9,
+        "file-name": "BGM_24Hour_02_Sunny",
+        "hour": 2,
+        "weather": "Sunny",
+        "music_uri": "https://acnhapi.com/v1/hourly/9"
+    },
+    {
+        "id": 10,
+        "file-name": "BGM_24Hour_03_Rainy",
+        "hour": 3,
+        "weather": "Rainy",
+        "music_uri": "https://acnhapi.com/v1/hourly/10"
+    },
+    {
+        "id": 11,
+        "file-name": "BGM_24Hour_03_Snowy",
+        "hour": 3,
+        "weather": "Snowy",
+        "music_uri": "https://acnhapi.com/v1/hourly/11"
+    },
+    {
+        "id": 12,
+        "file-name": "BGM_24Hour_03_Sunny",
+        "hour": 3,
+        "weather": "Sunny",
+        "music_uri": "https://acnhapi.com/v1/hourly/12"
+    },
+    {
+        "id": 13,
+        "file-name": "BGM_24Hour_04_Rainy",
+        "hour": 4,
+        "weather": "Rainy",
+        "music_uri": "https://acnhapi.com/v1/hourly/13"
+    },
+    {
+        "id": 14,
+        "file-name": "BGM_24Hour_04_Snowy",
+        "hour": 4,
+        "weather": "Snowy",
+        "music_uri": "https://acnhapi.com/v1/hourly/14"
+    },
+    {
+        "id": 15,
+        "file-name": "BGM_24Hour_04_Sunny",
+        "hour": 4,
+        "weather": "Sunny",
+        "music_uri": "https://acnhapi.com/v1/hourly/15"
+    },
+    {
+        "id": 16,
+        "file-name": "BGM_24Hour_05_Rainy",
+        "hour": 5,
+        "weather": "Rainy",
+        "music_uri": "https://acnhapi.com/v1/hourly/16"
+    },
+    {
+        "id": 17,
+        "file-name": "BGM_24Hour_05_Snowy",
+        "hour": 5,
+        "weather": "Snowy",
+        "music_uri": "https://acnhapi.com/v1/hourly/17"
+    },
+    {
+        "id": 18,
+        "file-name": "BGM_24Hour_05_Sunny",
+        "hour": 5,
+        "weather": "Sunny",
+        "music_uri": "https://acnhapi.com/v1/hourly/18"
+    },
+    {
+        "id": 19,
+        "file-name": "BGM_24Hour_06_Rainy",
+        "hour": 6,
+        "weather": "Rainy",
+        "music_uri": "https://acnhapi.com/v1/hourly/19"
+    },
+    {
+        "id": 20,
+        "file-name": "BGM_24Hour_06_Snowy",
+        "hour": 6,
+        "weather": "Snowy",
+        "music_uri": "https://acnhapi.com/v1/hourly/20"
+    },
+    {
+        "id": 21,
+        "file-name": "BGM_24Hour_06_Sunny",
+        "hour": 6,
+        "weather": "Sunny",
+        "music_uri": "https://acnhapi.com/v1/hourly/21"
+    },
+    {
+        "id": 22,
+        "file-name": "BGM_24Hour_07_Rainy",
+        "hour": 7,
+        "weather": "Rainy",
+        "music_uri": "https://acnhapi.com/v1/hourly/22"
+    },
+    {
+        "id": 23,
+        "file-name": "BGM_24Hour_07_Snowy",
+        "hour": 7,
+        "weather": "Snowy",
+        "music_uri": "https://acnhapi.com/v1/hourly/23"
+    },
+    {
+        "id": 24,
+        "file-name": "BGM_24Hour_07_Sunny",
+        "hour": 7,
+        "weather": "Sunny",
+        "music_uri": "https://acnhapi.com/v1/hourly/24"
+    },
+    {
+        "id": 25,
+        "file-name": "BGM_24Hour_08_Rainy",
+        "hour": 8,
+        "weather": "Rainy",
+        "music_uri": "https://acnhapi.com/v1/hourly/25"
+    },
+    {
+        "id": 26,
+        "file-name": "BGM_24Hour_08_Snowy",
+        "hour": 8,
+        "weather": "Snowy",
+        "music_uri": "https://acnhapi.com/v1/hourly/26"
+    },
+    {
+        "id": 27,
+        "file-name": "BGM_24Hour_08_Sunny",
+        "hour": 8,
+        "weather": "Sunny",
+        "music_uri": "https://acnhapi.com/v1/hourly/27"
+    },
+    {
+        "id": 28,
+        "file-name": "BGM_24Hour_09_Rainy",
+        "hour": 9,
+        "weather": "Rainy",
+        "music_uri": "https://acnhapi.com/v1/hourly/28"
+    },
+    {
+        "id": 29,
+        "file-name": "BGM_24Hour_09_Snowy",
+        "hour": 9,
+        "weather": "Snowy",
+        "music_uri": "https://acnhapi.com/v1/hourly/29"
+    },
+    {
+        "id": 30,
+        "file-name": "BGM_24Hour_09_Sunny",
+        "hour": 9,
+        "weather": "Sunny",
+        "music_uri": "https://acnhapi.com/v1/hourly/30"
+    },
+    {
+        "id": 31,
+        "file-name": "BGM_24Hour_10_Rainy",
+        "hour": 10,
+        "weather": "Rainy",
+        "music_uri": "https://acnhapi.com/v1/hourly/31"
+    },
+    {
+        "id": 32,
+        "file-name": "BGM_24Hour_10_Snowy",
+        "hour": 10,
+        "weather": "Snowy",
+        "music_uri": "https://acnhapi.com/v1/hourly/32"
+    },
+    {
+        "id": 33,
+        "file-name": "BGM_24Hour_10_Sunny",
+        "hour": 10,
+        "weather": "Sunny",
+        "music_uri": "https://acnhapi.com/v1/hourly/33"
+    },
+    {
+        "id": 34,
+        "file-name": "BGM_24Hour_11_Rainy",
+        "hour": 11,
+        "weather": "Rainy",
+        "music_uri": "https://acnhapi.com/v1/hourly/34"
+    },
+    {
+        "id": 35,
+        "file-name": "BGM_24Hour_11_Snowy",
+        "hour": 11,
+        "weather": "Snowy",
+        "music_uri": "https://acnhapi.com/v1/hourly/35"
+    },
+    {
+        "id": 36,
+        "file-name": "BGM_24Hour_11_Sunny",
+        "hour": 11,
+        "weather": "Sunny",
+        "music_uri": "https://acnhapi.com/v1/hourly/36"
+    },
+    {
+        "id": 37,
+        "file-name": "BGM_24Hour_12_Rainy",
+        "hour": 12,
+        "weather": "Rainy",
+        "music_uri": "https://acnhapi.com/v1/hourly/37"
+    },
+    {
+        "id": 38,
+        "file-name": "BGM_24Hour_12_Snowy",
+        "hour": 12,
+        "weather": "Snowy",
+        "music_uri": "https://acnhapi.com/v1/hourly/38"
+    },
+    {
+        "id": 39,
+        "file-name": "BGM_24Hour_12_Sunny",
+        "hour": 12,
+        "weather": "Sunny",
+        "music_uri": "https://acnhapi.com/v1/hourly/39"
+    },
+    {
+        "id": 40,
+        "file-name": "BGM_24Hour_13_Rainy",
+        "hour": 13,
+        "weather": "Rainy",
+        "music_uri": "https://acnhapi.com/v1/hourly/40"
+    },
+    {
+        "id": 41,
+        "file-name": "BGM_24Hour_13_Snowy",
+        "hour": 13,
+        "weather": "Snowy",
+        "music_uri": "https://acnhapi.com/v1/hourly/41"
+    },
+    {
+        "id": 42,
+        "file-name": "BGM_24Hour_13_Sunny",
+        "hour": 13,
+        "weather": "Sunny",
+        "music_uri": "https://acnhapi.com/v1/hourly/42"
+    },
+    {
+        "id": 43,
+        "file-name": "BGM_24Hour_14_Rainy",
+        "hour": 14,
+        "weather": "Rainy",
+        "music_uri": "https://acnhapi.com/v1/hourly/43"
+    },
+    {
+        "id": 44,
+        "file-name": "BGM_24Hour_14_Snowy",
+        "hour": 14,
+        "weather": "Snowy",
+        "music_uri": "https://acnhapi.com/v1/hourly/44"
+    },
+    {
+        "id": 45,
+        "file-name": "BGM_24Hour_14_Sunny",
+        "hour": 14,
+        "weather": "Sunny",
+        "music_uri": "https://acnhapi.com/v1/hourly/45"
+    },
+    {
+        "id": 46,
+        "file-name": "BGM_24Hour_15_Rainy",
+        "hour": 15,
+        "weather": "Rainy",
+        "music_uri": "https://acnhapi.com/v1/hourly/46"
+    },
+    {
+        "id": 47,
+        "file-name": "BGM_24Hour_15_Snowy",
+        "hour": 15,
+        "weather": "Snowy",
+        "music_uri": "https://acnhapi.com/v1/hourly/47"
+    },
+    {
+        "id": 48,
+        "file-name": "BGM_24Hour_15_Sunny",
+        "hour": 15,
+        "weather": "Sunny",
+        "music_uri": "https://acnhapi.com/v1/hourly/48"
+    },
+    {
+        "id": 49,
+        "file-name": "BGM_24Hour_16_Rainy",
+        "hour": 16,
+        "weather": "Rainy",
+        "music_uri": "https://acnhapi.com/v1/hourly/49"
+    },
+    {
+        "id": 50,
+        "file-name": "BGM_24Hour_16_Snowy",
+        "hour": 16,
+        "weather": "Snowy",
+        "music_uri": "https://acnhapi.com/v1/hourly/50"
+    },
+    {
+        "id": 51,
+        "file-name": "BGM_24Hour_16_Sunny",
+        "hour": 16,
+        "weather": "Sunny",
+        "music_uri": "https://acnhapi.com/v1/hourly/51"
+    },
+    {
+        "id": 52,
+        "file-name": "BGM_24Hour_17_Rainy",
+        "hour": 17,
+        "weather": "Rainy",
+        "music_uri": "https://acnhapi.com/v1/hourly/52"
+    },
+    {
+        "id": 53,
+        "file-name": "BGM_24Hour_17_Snowy",
+        "hour": 17,
+        "weather": "Snowy",
+        "music_uri": "https://acnhapi.com/v1/hourly/53"
+    },
+    {
+        "id": 54,
+        "file-name": "BGM_24Hour_17_Sunny",
+        "hour": 17,
+        "weather": "Sunny",
+        "music_uri": "https://acnhapi.com/v1/hourly/54"
+    },
+    {
+        "id": 55,
+        "file-name": "BGM_24Hour_18_Rainy",
+        "hour": 18,
+        "weather": "Rainy",
+        "music_uri": "https://acnhapi.com/v1/hourly/55"
+    },
+    {
+        "id": 56,
+        "file-name": "BGM_24Hour_18_Snowy",
+        "hour": 18,
+        "weather": "Snowy",
+        "music_uri": "https://acnhapi.com/v1/hourly/56"
+    },
+    {
+        "id": 57,
+        "file-name": "BGM_24Hour_18_Sunny",
+        "hour": 18,
+        "weather": "Sunny",
+        "music_uri": "https://acnhapi.com/v1/hourly/57"
+    },
+    {
+        "id": 58,
+        "file-name": "BGM_24Hour_19_Rainy",
+        "hour": 19,
+        "weather": "Rainy",
+        "music_uri": "https://acnhapi.com/v1/hourly/58"
+    },
+    {
+        "id": 59,
+        "file-name": "BGM_24Hour_19_Snowy",
+        "hour": 19,
+        "weather": "Snowy",
+        "music_uri": "https://acnhapi.com/v1/hourly/59"
+    },
+    {
+        "id": 60,
+        "file-name": "BGM_24Hour_19_Sunny",
+        "hour": 19,
+        "weather": "Sunny",
+        "music_uri": "https://acnhapi.com/v1/hourly/60"
+    },
+    {
+        "id": 61,
+        "file-name": "BGM_24Hour_20_Rainy",
+        "hour": 20,
+        "weather": "Rainy",
+        "music_uri": "https://acnhapi.com/v1/hourly/61"
+    },
+    {
+        "id": 62,
+        "file-name": "BGM_24Hour_20_Snowy",
+        "hour": 20,
+        "weather": "Snowy",
+        "music_uri": "https://acnhapi.com/v1/hourly/62"
+    },
+    {
+        "id": 63,
+        "file-name": "BGM_24Hour_20_Sunny",
+        "hour": 20,
+        "weather": "Sunny",
+        "music_uri": "https://acnhapi.com/v1/hourly/63"
+    },
+    {
+        "id": 64,
+        "file-name": "BGM_24Hour_21_Rainy",
+        "hour": 21,
+        "weather": "Rainy",
+        "music_uri": "https://acnhapi.com/v1/hourly/64"
+    },
+    {
+        "id": 65,
+        "file-name": "BGM_24Hour_21_Snowy",
+        "hour": 21,
+        "weather": "Snowy",
+        "music_uri": "https://acnhapi.com/v1/hourly/65"
+    },
+    {
+        "id": 66,
+        "file-name": "BGM_24Hour_21_Sunny",
+        "hour": 21,
+        "weather": "Sunny",
+        "music_uri": "https://acnhapi.com/v1/hourly/66"
+    },
+    {
+        "id": 67,
+        "file-name": "BGM_24Hour_22_Rainy",
+        "hour": 22,
+        "weather": "Rainy",
+        "music_uri": "https://acnhapi.com/v1/hourly/67"
+    },
+    {
+        "id": 68,
+        "file-name": "BGM_24Hour_22_Snowy",
+        "hour": 22,
+        "weather": "Snowy",
+        "music_uri": "https://acnhapi.com/v1/hourly/68"
+    },
+    {
+        "id": 69,
+        "file-name": "BGM_24Hour_22_Sunny",
+        "hour": 22,
+        "weather": "Sunny",
+        "music_uri": "https://acnhapi.com/v1/hourly/69"
+    },
+    {
+        "id": 70,
+        "file-name": "BGM_24Hour_23_Rainy",
+        "hour": 23,
+        "weather": "Rainy",
+        "music_uri": "https://acnhapi.com/v1/hourly/70"
+    },
+    {
+        "id": 71,
+        "file-name": "BGM_24Hour_23_Snowy",
+        "hour": 23,
+        "weather": "Snowy",
+        "music_uri": "https://acnhapi.com/v1/hourly/71"
+    },
+    {
+        "id": 72,
+        "file-name": "BGM_24Hour_23_Sunny",
+        "hour": 23,
+        "weather": "Sunny",
+        "music_uri": "https://acnhapi.com/v1/hourly/72"
+    }
+]
