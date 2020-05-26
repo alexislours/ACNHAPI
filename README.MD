@@ -12,15 +12,8 @@ If any of the information on the website is wrong or outdated, you can either co
 
 Buy me a [coffee](https://www.buymeacoffee.com/acnhapi) or donate directly through [PayPal](https://paypal.me/acnhapi) and help contribute toward the server costs to keep this service free!
 
-### v1
-
-- All endpoints are now located on **/v1/** instead of the root of the domain.
-- Calling the endpoints on **/v1a/** instead of **/v1/** return the response in a JSON array instead of a keyed JSON (see in v1a folder).
-- Language codes have been changed to match those found in the game (see [#5](https://github.com/alexislours/ACNHAPI/issues/5)).
-- Art images have been moved to /v1/images/art from /icons/art.
-- A whole lot of changes back-end to make request processing faster.
-- New Houseware, Wall mounted and Misc endpoints.
-- Hourly music endpoint has been added to the documentation.
+### Changelog:
+See [CHANGELOG.MD](https://github.com/alexislours/ACNHAPI/blob/master/CHANGELOG.MD).
 
 ### Usage:
 
