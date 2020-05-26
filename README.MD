@@ -36,6 +36,7 @@ No authentification is required to make requests to any of the endpoints which c
 - [Critterpedia Plus](https://critterpedia-plus.mutoo.im/)
 - [AC Helper (app)](https://apps.apple.com/us/app/id1508764244)
 - [AC Helper (source)](https://github.com/Dimillian/ACHNBrowserUI)
+- AC: Community ([Japanese](https://apps.apple.com/jp/app/id1507394206), [Korean](https://apps.apple.com/kr/app/id1507394206))
 
 ### Other projects that can help you build your app:
 - [ACNH Item Sheet](https://tinyurl.com/acnh-sheet)
