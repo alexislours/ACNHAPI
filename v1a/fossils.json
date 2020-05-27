@@ -418,7 +418,7 @@
         "image_uri": "https://acnhapi.com/v1/images/fossils/dimetrodon_skull"
     },
     {
-        "file-name": "Dimetrodon_torso",
+        "file-name": "dimetrodon_torso",
         "name": {
             "name-USen": "dimetrodon torso",
             "name-EUen": "dimetrodon torso",
@@ -437,7 +437,7 @@
         },
         "price": 5000,
         "museum-phrase": "Ah, yes. Dimetrodon. Not actually a dinosaur, despite what some people may tell you. This REPTILE—Knot dinosaur is most famous for the large sail-like organ on its back. Said organ was likely useful in regulating its non-dinosaur—body temperature. Reptiles are known to be cold- blooded, but there is some debate as to whether dinosaurs were too. Dimetrodon assuredly was.",
-        "image_uri": "https://acnhapi.com/v1/images/fossils/Dimetrodon_torso"
+        "image_uri": "https://acnhapi.com/v1/images/fossils/dimetrodon_torso"
     },
     {
         "file-name": "dinosaur_track",
