@@ -24,12 +24,12 @@ The documentation for the API can be found [here](https://acnhapi.com/doc).
 No authentification is required to make requests to any of the endpoints which can be accessed over HTTP or HTTPS.
 
 ### Projects using this data: 
-- [ACNH Travel Guide](https://apps.apple.com/us/app/acnh-travel-guide/id1502818559)
-- [Nook Plaza](https://nookplaza.net/)
 - [Critterpedia Plus](https://critterpedia-plus.mutoo.im/)
 - [AC Helper (app)](https://apps.apple.com/us/app/id1508764244)
 - [AC Helper (source)](https://github.com/Dimillian/ACHNBrowserUI)
 - AC: Community ([Japanese](https://apps.apple.com/jp/app/id1507394206), [Korean](https://apps.apple.com/kr/app/id1507394206))
+- [ACNH Travel Guide](https://apps.apple.com/us/app/acnh-travel-guide/id1502818559) ([Translation Sheet Data](https://github.com/alexislours/translation-sheet-data))
+- [Nook Plaza](https://nookplaza.net/) ([Translation Sheet Data](https://github.com/alexislours/translation-sheet-data) & [Weather Sheet](https://tinyurl.com/acnh-weather))
 
 ### Other projects that can help you build your app:
 - [ACNH Item Sheet](https://tinyurl.com/acnh-sheet)
