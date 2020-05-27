@@ -1,3 +1,6 @@
+### 27/05/2020
+- Fix file-name and URI for the dimetrodon torso.
+
 ### 25/05/2020:
 - Fix the species of Curly.
 - Calling the endpoints on **/v1a/** instead of **/v1/** return the response in a JSON array instead of a keyed JSON (see in v1a folder).
