@@ -1,4 +1,5 @@
 ### 28/05/2020
+- Added a "catch-translation" object containing the translations of villager catch phrases.
 - Fix the species of Rocco.
 
 ### 27/05/2020
