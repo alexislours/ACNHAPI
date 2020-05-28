@@ -1,3 +1,6 @@
+### 28/05/2020
+- Fix the species of Rocco.
+
 ### 27/05/2020
 - The documentation should now be a valid OpenAPI doc.
 - Fix file-name and URI for the dimetrodon torso.

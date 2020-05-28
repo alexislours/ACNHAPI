@@ -28,7 +28,7 @@ No authentification is required to make requests to any of the endpoints which c
 - [AC Helper (app)](https://apps.apple.com/us/app/id1508764244)
 - [AC Helper (source)](https://github.com/Dimillian/ACHNBrowserUI)
 - AC: Community ([Japanese](https://apps.apple.com/jp/app/id1507394206), [Korean](https://apps.apple.com/kr/app/id1507394206))
-- [ACNH Travel Guide](https://apps.apple.com/us/app/acnh-travel-guide/id1502818559) ([Translation Sheet Data](https://github.com/alexislours/translation-sheet-data))
+- [ACNH Travel Guide](https://apps.apple.com/us/app/acnh-travel-guide/id1502818559) ([Translation Sheet Data](https://github.com/alexislours/translation-sheet-data) & ACNH API)
 - [Nook Plaza](https://nookplaza.net/) ([Translation Sheet Data](https://github.com/alexislours/translation-sheet-data) & [Weather Sheet](https://tinyurl.com/acnh-weather))
 
 ### Other projects that can help you build your app:
