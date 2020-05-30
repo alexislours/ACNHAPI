@@ -1,3 +1,6 @@
+### 29/05/2020
+- Compressed the K.K. Album cover from 42mb down to 12mb (with minimal quality loss) to reduce bandwidth for end users.
+
 ### 28/05/2020
 - Added a "catch-translation" object containing the translations of villager catch phrases.
 - Fix the species of Rocco.
