@@ -27,7 +27,8 @@
             "location": "Flying",
             "rarity": "Common",
             "month-array-northern": [9, 10, 11, 12, 1, 2, 3, 4, 5, 6],
-            "month-array-southern": [3, 4, 5, 6, 7, 8, 9, 10, 11, 12]
+            "month-array-southern": [3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
+            "time-array": [4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18]
         },
         "price": 160,
         "price-flick": 240,
@@ -64,7 +65,8 @@
             "location": "Flying",
             "rarity": "Common",
             "month-array-northern": [3, 4, 5, 6, 9, 10],
-            "month-array-southern": [9, 10, 11, 12, 3, 4]
+            "month-array-southern": [9, 10, 11, 12, 3, 4],
+            "time-array": [4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18]
         },
         "price": 160,
         "price-flick": 240,
@@ -101,7 +103,8 @@
             "location": "Flying",
             "rarity": "Common",
             "month-array-northern": [3, 4, 5, 6, 7, 8, 9],
-            "month-array-southern": [9, 10, 11, 12, 1, 2, 3]
+            "month-array-southern": [9, 10, 11, 12, 1, 2, 3],
+            "time-array": [4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18]
         },
         "price": 240,
         "price-flick": 360,
@@ -138,7 +141,8 @@
             "location": "Flying near hybrid flowers",
             "rarity": "Uncommon",
             "month-array-northern": [3, 4, 5, 6],
-            "month-array-southern": [9, 10, 11, 12]
+            "month-array-southern": [9, 10, 11, 12],
+            "time-array": [4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18]
         },
         "price": 2500,
         "price-flick": 3750,
@@ -175,7 +179,8 @@
             "location": "Flying",
             "rarity": "Common",
             "month-array-northern": [4, 5, 6, 7, 8],
-            "month-array-southern": [9, 10, 11, 12, 1, 2]
+            "month-array-southern": [9, 10, 11, 12, 1, 2],
+            "time-array": [4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18]
         },
         "price": 300,
         "price-flick": 450,
@@ -212,7 +217,8 @@
             "location": "Flying",
             "rarity": "Common",
             "month-array-northern": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
-            "month-array-southern": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12]
+            "month-array-southern": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
+            "time-array": [8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18]
         },
         "price": 1000,
         "price-flick": 1500,
@@ -249,7 +255,8 @@
             "location": "Flying",
             "rarity": "Rare",
             "month-array-northern": [5, 6, 7, 8],
-            "month-array-southern": [11, 12, 1, 2]
+            "month-array-southern": [11, 12, 1, 2],
+            "time-array": [4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18]
         },
         "price": 3000,
         "price-flick": 4500,
@@ -286,7 +293,8 @@
             "location": "Flying",
             "rarity": "Common",
             "month-array-northern": [9, 10, 11],
-            "month-array-southern": [3, 4, 5]
+            "month-array-southern": [3, 4, 5],
+            "time-array": [4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16]
         },
         "price": 140,
         "price-flick": 210,
@@ -323,7 +331,8 @@
             "location": "Flying",
             "rarity": "Uncommon",
             "month-array-northern": [6, 7, 8, 9, 12, 1, 2, 3],
-            "month-array-southern": [6, 7, 8, 9, 12, 1, 2, 3]
+            "month-array-southern": [6, 7, 8, 9, 12, 1, 2, 3],
+            "time-array": [17, 18, 19, 20, 21, 22, 23, 0, 1, 2, 3, 4, 5, 6, 7]
         },
         "price": 4000,
         "price-flick": 6000,
@@ -360,7 +369,8 @@
             "location": "Flying",
             "rarity": "Uncommon",
             "month-array-northern": [4, 5, 6, 7, 8, 9],
-            "month-array-southern": [10, 11, 12, 1, 2, 3]
+            "month-array-southern": [10, 11, 12, 1, 2, 3],
+            "time-array": [8, 9, 10, 11, 12, 13, 14, 15, 16]
         },
         "price": 3000,
         "price-flick": 4500,
@@ -397,7 +407,8 @@
             "location": "Flying",
             "rarity": "Uncommon",
             "month-array-northern": [4, 5, 6, 7, 8, 9, 12, 1, 2],
-            "month-array-southern": [6, 7, 8, 10, 11, 12, 1, 2, 3]
+            "month-array-southern": [6, 7, 8, 10, 11, 12, 1, 2, 3],
+            "time-array": [8, 9, 10, 11, 12, 13, 14, 15, 16]
         },
         "price": 2500,
         "price-flick": 3750,
@@ -434,7 +445,8 @@
             "location": "Flying",
             "rarity": "Rare",
             "month-array-northern": [5, 6, 7, 8, 9],
-            "month-array-southern": [11, 12, 1, 2, 3]
+            "month-array-southern": [11, 12, 1, 2, 3],
+            "time-array": [8, 9, 10, 11, 12, 13, 14, 15]
         },
         "price": 4000,
         "price-flick": 6000,
@@ -471,7 +483,8 @@
             "location": "Flying by light",
             "rarity": "Common",
             "month-array-northern": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
-            "month-array-southern": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12]
+            "month-array-southern": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
+            "time-array": [19, 20, 21, 22, 23, 0, 1, 2, 3]
         },
         "price": 130,
         "price-flick": 195,
@@ -508,7 +521,8 @@
             "location": "On trees",
             "rarity": "Uncommon",
             "month-array-northern": [4, 5, 6, 7, 8, 9],
-            "month-array-southern": [10, 11, 12, 1, 2, 3]
+            "month-array-southern": [10, 11, 12, 1, 2, 3],
+            "time-array": [19, 20, 21, 22, 23, 0, 1, 2, 3]
         },
         "price": 3000,
         "price-flick": 4500,
@@ -545,7 +559,8 @@
             "location": "Flying",
             "rarity": "Uncommon",
             "month-array-northern": [4, 5, 6, 7, 8, 9],
-            "month-array-southern": [10, 11, 12, 1, 2, 3]
+            "month-array-southern": [10, 11, 12, 1, 2, 3],
+            "time-array": [8, 9, 10, 11, 12, 13, 14, 15]
         },
         "price": 2500,
         "price-flick": 3750,
@@ -582,7 +597,8 @@
             "location": "On the ground",
             "rarity": "Common",
             "month-array-northern": [4, 5, 6, 7, 8, 9, 10, 11],
-            "month-array-southern": [10, 11, 12, 1, 2, 3, 4, 5]
+            "month-array-southern": [10, 11, 12, 1, 2, 3, 4, 5],
+            "time-array": [8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18]
         },
         "price": 200,
         "price-flick": 300,
@@ -619,7 +635,8 @@
             "location": "On the ground",
             "rarity": "Uncommon",
             "month-array-northern": [8, 9, 10, 11],
-            "month-array-southern": [2, 3, 4, 5]
+            "month-array-southern": [2, 3, 4, 5],
+            "time-array": [8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18]
         },
         "price": 600,
         "price-flick": 900,
@@ -656,7 +673,8 @@
             "location": "On the ground",
             "rarity": "Common",
             "month-array-northern": [8, 9, 10, 11],
-            "month-array-southern": [2, 3, 4, 5]
+            "month-array-southern": [2, 3, 4, 5],
+            "time-array": [8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18]
         },
         "price": 160,
         "price-flick": 240,
@@ -693,7 +711,8 @@
             "location": "On the ground",
             "rarity": "Common",
             "month-array-northern": [7, 8, 9],
-            "month-array-southern": [1, 2, 3]
+            "month-array-southern": [1, 2, 3],
+            "time-array": [8, 9, 10, 11, 12, 13, 14, 15, 16]
         },
         "price": 160,
         "price-flick": 240,
@@ -730,7 +749,8 @@
             "location": "On the ground",
             "rarity": "Common",
             "month-array-northern": [9, 10, 11],
-            "month-array-southern": [3, 4, 5]
+            "month-array-southern": [3, 4, 5],
+            "time-array": [17, 18, 19, 20, 21, 22, 23, 0, 1, 2, 3, 4, 5, 6, 7]
         },
         "price": 130,
         "price-flick": 195,
@@ -767,7 +787,8 @@
             "location": "On the ground",
             "rarity": "Common",
             "month-array-northern": [9, 10],
-            "month-array-southern": [3, 4]
+            "month-array-southern": [3, 4],
+            "time-array": [17, 18, 19, 20, 21, 22, 23, 0, 1, 2, 3, 4, 5, 6, 7]
         },
         "price": 430,
         "price-flick": 645,
@@ -804,7 +825,8 @@
             "location": "On flowers",
             "rarity": "Common",
             "month-array-northern": [3, 4, 5, 6, 7, 8, 9, 10, 11],
-            "month-array-southern": [9, 10, 11, 12, 1, 2, 3, 4, 5]
+            "month-array-southern": [9, 10, 11, 12, 1, 2, 3, 4, 5],
+            "time-array": [8, 9, 10, 11, 12, 13, 14, 15, 16]
         },
         "price": 430,
         "price-flick": 645,
@@ -841,7 +863,8 @@
             "location": "On white flowers",
             "rarity": "Uncommon",
             "month-array-northern": [3, 4, 5, 6, 7, 8, 9, 10, 11],
-            "month-array-southern": [9, 10, 11, 12, 1, 2, 3, 4, 5]
+            "month-array-southern": [9, 10, 11, 12, 1, 2, 3, 4, 5],
+            "time-array": [8, 9, 10, 11, 12, 13, 14, 15, 16]
         },
         "price": 2400,
         "price-flick": 3600,
@@ -878,7 +901,8 @@
             "location": "Flying",
             "rarity": "Common",
             "month-array-northern": [3, 4, 5, 6, 7],
-            "month-array-southern": [9, 10, 11, 12, 1]
+            "month-array-southern": [9, 10, 11, 12, 1],
+            "time-array": [8, 9, 10, 11, 12, 13, 14, 15, 16]
         },
         "price": 200,
         "price-flick": 300,
@@ -915,7 +939,8 @@
             "location": "Shaking trees",
             "rarity": "Common",
             "month-array-northern": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
-            "month-array-southern": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12]
+            "month-array-southern": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
+            "time-array": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23]
         },
         "price": 2500,
         "price-flick": 3750,
@@ -952,7 +977,8 @@
             "location": "On trees",
             "rarity": "Common",
             "month-array-northern": [7, 8],
-            "month-array-southern": [1, 2]
+            "month-array-southern": [1, 2],
+            "time-array": [8, 9, 10, 11, 12, 13, 14, 15, 16]
         },
         "price": 250,
         "price-flick": 375,
@@ -989,7 +1015,8 @@
             "location": "On trees",
             "rarity": "Common",
             "month-array-northern": [7, 8],
-            "month-array-southern": [1, 2]
+            "month-array-southern": [1, 2],
+            "time-array": [8, 9, 10, 11, 12, 13, 14, 15, 16]
         },
         "price": 300,
         "price-flick": 450,
@@ -1027,7 +1054,8 @@
             "location": "On trees",
             "rarity": "Uncommon",
             "month-array-northern": [7, 8],
-            "month-array-southern": [1, 2]
+            "month-array-southern": [1, 2],
+            "time-array": [8, 9, 10, 11, 12, 13, 14, 15, 16]
         },
         "price": 500,
         "price-flick": 750,
@@ -1065,7 +1093,8 @@
             "location": "On trees",
             "rarity": "Common",
             "month-array-northern": [8, 9],
-            "month-array-southern": [2, 3]
+            "month-array-southern": [2, 3],
+            "time-array": [8, 9, 10, 11, 12, 13, 14, 15, 16]
         },
         "price": 400,
         "price-flick": 600,
@@ -1103,7 +1132,8 @@
             "location": "On trees",
             "rarity": "Common",
             "month-array-northern": [7, 8],
-            "month-array-southern": [1, 2]
+            "month-array-southern": [1, 2],
+            "time-array": [4, 5, 6, 7, 16, 17, 18]
         },
         "price": 550,
         "price-flick": 825,
@@ -1141,7 +1171,8 @@
             "location": "On trees",
             "rarity": "Rare",
             "month-array-northern": [7, 8],
-            "month-array-southern": [1, 2]
+            "month-array-southern": [1, 2],
+            "time-array": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23]
         },
         "price": 10,
         "price-flick": 15,
@@ -1178,7 +1209,8 @@
             "location": "Flying",
             "rarity": "Common",
             "month-array-northern": [9, 10],
-            "month-array-southern": [3, 4]
+            "month-array-southern": [3, 4],
+            "time-array": [8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18]
         },
         "price": 180,
         "price-flick": 270,
@@ -1215,7 +1247,8 @@
             "location": "Flying",
             "rarity": "Common",
             "month-array-northern": [4, 5, 6, 7, 8, 9, 10],
-            "month-array-southern": [10, 11, 12, 1, 2, 3, 4]
+            "month-array-southern": [10, 11, 12, 1, 2, 3, 4],
+            "time-array": [8, 9, 10, 11, 12, 13, 14, 15, 16]
         },
         "price": 230,
         "price-flick": 345,
@@ -1252,7 +1285,8 @@
             "location": "Flying",
             "rarity": "Rare",
             "month-array-northern": [5, 6, 7, 8, 9, 10],
-            "month-array-southern": [11, 12, 1, 2, 3, 4]
+            "month-array-southern": [11, 12, 1, 2, 3, 4],
+            "time-array": [8, 9, 10, 11, 12, 13, 14, 15, 16]
         },
         "price": 4500,
         "price-flick": 6750,
@@ -1289,7 +1323,8 @@
             "location": "Flying",
             "rarity": "Common",
             "month-array-northern": [11, 12, 1, 2],
-            "month-array-southern": [5, 6, 7, 8]
+            "month-array-southern": [5, 6, 7, 8],
+            "time-array": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23]
         },
         "price": 500,
         "price-flick": 750,
@@ -1326,7 +1361,8 @@
             "location": "Flying",
             "rarity": "Common",
             "month-array-northern": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
-            "month-array-southern": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12]
+            "month-array-southern": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
+            "time-array": [19, 20, 21, 22, 23, 0, 1, 2, 3]
         },
         "price": 300,
         "price-flick": 450,
@@ -1363,7 +1399,8 @@
             "location": "Underground",
             "rarity": "Common",
             "month-array-northern": [11, 12, 1, 2, 3, 4, 5],
-            "month-array-southern": [5, 6, 7, 8, 9, 10, 11]
+            "month-array-southern": [5, 6, 7, 8, 9, 10, 11],
+            "time-array": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23]
         },
         "price": 500,
         "price-flick": 750,
@@ -1400,7 +1437,8 @@
             "location": "On ponds and rivers",
             "rarity": "Common",
             "month-array-northern": [5, 6, 7, 8, 9],
-            "month-array-southern": [11, 12, 1, 2, 3]
+            "month-array-southern": [11, 12, 1, 2, 3],
+            "time-array": [8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18]
         },
         "price": 130,
         "price-flick": 195,
@@ -1437,7 +1475,8 @@
             "location": "On ponds and rivers",
             "rarity": "Common",
             "month-array-northern": [5, 6, 7, 8, 9],
-            "month-array-southern": [11, 12, 1, 2, 3]
+            "month-array-southern": [11, 12, 1, 2, 3],
+            "time-array": [8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18]
         },
         "price": 800,
         "price-flick": 1200,
@@ -1474,7 +1513,8 @@
             "location": "On ponds and rivers",
             "rarity": "Rare",
             "month-array-northern": [4, 5, 6, 7, 8, 9],
-            "month-array-southern": [10, 11, 12, 1, 2, 3]
+            "month-array-southern": [10, 11, 12, 1, 2, 3],
+            "time-array": [19, 20, 21, 22, 23, 0, 1, 2, 3, 4, 5, 6, 7]
         },
         "price": 2000,
         "price-flick": 3000,
@@ -1511,7 +1551,8 @@
             "location": "On flowers",
             "rarity": "Common",
             "month-array-northern": [3, 4, 5, 6, 7, 8, 9, 10],
-            "month-array-southern": [9, 10, 11, 12, 1, 2, 3, 4]
+            "month-array-southern": [9, 10, 11, 12, 1, 2, 3, 4],
+            "time-array": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23]
         },
         "price": 120,
         "price-flick": 180,
@@ -1548,7 +1589,8 @@
             "location": "On flowers",
             "rarity": "Uncommon",
             "month-array-northern": [3, 4, 5, 6, 7, 8, 9, 10],
-            "month-array-southern": [9, 10, 11, 12, 1, 2, 3, 4]
+            "month-array-southern": [9, 10, 11, 12, 1, 2, 3, 4],
+            "time-array": [19, 20, 21, 22, 23, 0, 1, 2, 3, 4, 5, 6, 7]
         },
         "price": 1000,
         "price-flick": 1500,
@@ -1585,7 +1627,8 @@
             "location": "On flowers",
             "rarity": "Common",
             "month-array-northern": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
-            "month-array-southern": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12]
+            "month-array-southern": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
+            "time-array": [8, 9, 10, 11, 12, 13, 14, 15, 16]
         },
         "price": 200,
         "price-flick": 300,
@@ -1622,7 +1665,8 @@
             "location": "On the ground",
             "rarity": "Uncommon",
             "month-array-northern": [2, 3, 4, 5, 6, 7, 8, 9, 10, 11],
-            "month-array-southern": [8, 9, 10, 11, 12, 1, 2, 3, 4]
+            "month-array-southern": [8, 9, 10, 11, 12, 1, 2, 3, 4],
+            "time-array": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23]
         },
         "price": 1500,
         "price-flick": 2250,
@@ -1659,7 +1703,8 @@
             "location": "On tree stumps",
             "rarity": "Uncommon",
             "month-array-northern": [4, 5, 6, 7, 8],
-            "month-array-southern": [11, 12, 1, 2]
+            "month-array-southern": [11, 12, 1, 2],
+            "time-array": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23]
         },
         "price": 2400,
         "price-flick": 3600,
@@ -1696,7 +1741,8 @@
             "location": "On tree stumps",
             "rarity": "Common",
             "month-array-northern": [5, 6, 9, 10, 11],
-            "month-array-southern": [3, 4, 5, 11, 12]
+            "month-array-southern": [3, 4, 5, 11, 12],
+            "time-array": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23]
         },
         "price": 450,
         "price-flick": 675,
@@ -1733,7 +1779,8 @@
             "location": "On tree stumps",
             "rarity": "Common",
             "month-array-northern": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
-            "month-array-southern": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12]
+            "month-array-southern": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
+            "time-array": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23]
         },
         "price": 350,
         "price-flick": 525,
@@ -1770,7 +1817,8 @@
             "location": "On tree stumps",
             "rarity": "Uncommon",
             "month-array-northern": [5, 6, 7, 8, 9],
-            "month-array-southern": [11, 12, 1, 2, 3]
+            "month-array-southern": [11, 12, 1, 2, 3],
+            "time-array": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23]
         },
         "price": 3000,
         "price-flick": 4500,
@@ -1807,7 +1855,8 @@
             "location": "On trees",
             "rarity": "Common",
             "month-array-northern": [7, 8],
-            "month-array-southern": [1, 2]
+            "month-array-southern": [1, 2],
+            "time-array": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23]
         },
         "price": 800,
         "price-flick": 1200,
@@ -1844,7 +1893,8 @@
             "location": "On the ground",
             "rarity": "Common",
             "month-array-northern": [12, 1, 2],
-            "month-array-southern": [6, 7, 8]
+            "month-array-southern": [6, 7, 8],
+            "time-array": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23]
         },
         "price": 3000,
         "price-flick": 4500,
@@ -1881,7 +1931,8 @@
             "location": "On the ground",
             "rarity": "Common",
             "month-array-northern": [7, 8, 9],
-            "month-array-southern": [1, 2, 3]
+            "month-array-southern": [1, 2, 3],
+            "time-array": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23]
         },
         "price": 300,
         "price-flick": 450,
@@ -1918,7 +1969,8 @@
             "location": "On trees",
             "rarity": "Rare",
             "month-array-northern": [7, 8],
-            "month-array-southern": [1, 2]
+            "month-array-southern": [1, 2],
+            "time-array": [23, 0, 1, 2, 3, 4, 5, 6, 7]
         },
         "price": 10000,
         "price-flick": 15000,
@@ -1955,7 +2007,8 @@
             "location": "On trees",
             "rarity": "Common",
             "month-array-northern": [6, 7, 8],
-            "month-array-southern": [12, 1, 2]
+            "month-array-southern": [12, 1, 2],
+            "time-array": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23]
         },
         "price": 200,
         "price-flick": 300,
@@ -1992,7 +2045,8 @@
             "location": "On palm trees",
             "rarity": "Ultra-rare",
             "month-array-northern": [6, 7, 8, 9],
-            "month-array-southern": [12, 1, 2, 3]
+            "month-array-southern": [12, 1, 2, 3],
+            "time-array": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23]
         },
         "price": 8000,
         "price-flick": 12000,
@@ -2029,7 +2083,8 @@
             "location": "On trees",
             "rarity": "Common",
             "month-array-northern": [7, 8],
-            "month-array-southern": [1, 2]
+            "month-array-southern": [1, 2],
+            "time-array": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23]
         },
         "price": 2000,
         "price-flick": 3000,
@@ -2066,7 +2121,8 @@
             "location": "On trees",
             "rarity": "Common",
             "month-array-northern": [7, 8],
-            "month-array-southern": [1, 2]
+            "month-array-southern": [1, 2],
+            "time-array": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23]
         },
         "price": 1000,
         "price-flick": 1500,
@@ -2103,7 +2159,8 @@
             "location": "On trees",
             "rarity": "Rare",
             "month-array-northern": [7, 8],
-            "month-array-southern": [1, 2]
+            "month-array-southern": [1, 2],
+            "time-array": [23, 0, 1, 2, 3, 4, 5, 6, 7]
         },
         "price": 10000,
         "price-flick": 15000,
@@ -2140,7 +2197,8 @@
             "location": "On trees",
             "rarity": "Rare",
             "month-array-northern": [6, 7, 8, 9],
-            "month-array-southern": [12, 1, 2, 3]
+            "month-array-southern": [12, 1, 2, 3],
+            "time-array": [19, 20, 21, 22, 23, 0, 1, 2, 3, 4, 5, 6, 7]
         },
         "price": 6000,
         "price-flick": 9000,
@@ -2177,7 +2235,8 @@
             "location": "On palm trees",
             "rarity": "Ultra-rare",
             "month-array-northern": [7, 8],
-            "month-array-southern": [1, 2]
+            "month-array-southern": [1, 2],
+            "time-array": [17, 18, 19, 20, 21, 22, 23, 0, 1, 2, 3, 4, 5, 6, 7]
         },
         "price": 8000,
         "price-flick": 12000,
@@ -2214,7 +2273,8 @@
             "location": "On palm trees",
             "rarity": "Ultra-rare",
             "month-array-northern": [7, 8],
-            "month-array-southern": [1, 2]
+            "month-array-southern": [1, 2],
+            "time-array": [17, 18, 19, 20, 21, 22, 23, 0, 1, 2, 3, 4, 5, 6, 7]
         },
         "price": 12000,
         "price-flick": 18000,
@@ -2251,7 +2311,8 @@
             "location": "On palm trees",
             "rarity": "Ultra-rare",
             "month-array-northern": [7, 8],
-            "month-array-southern": [1, 2]
+            "month-array-southern": [1, 2],
+            "time-array": [17, 18, 19, 20, 21, 22, 23, 0, 1, 2, 3, 4, 5, 6, 7]
         },
         "price": 12000,
         "price-flick": 18000,
@@ -2288,7 +2349,8 @@
             "location": "On trees",
             "rarity": "Common",
             "month-array-northern": [7, 8],
-            "month-array-southern": [1, 2]
+            "month-array-southern": [1, 2],
+            "time-array": [17, 18, 19, 20, 21, 22, 23, 0, 1, 2, 3, 4, 5, 6, 7]
         },
         "price": 1350,
         "price-flick": 2025,
@@ -2325,7 +2387,8 @@
             "location": "On palm trees",
             "rarity": "Ultra-rare",
             "month-array-northern": [7, 8],
-            "month-array-southern": [1, 2]
+            "month-array-southern": [1, 2],
+            "time-array": [17, 18, 19, 20, 21, 22, 23, 0, 1, 2, 3, 4, 5, 6, 7]
         },
         "price": 8000,
         "price-flick": 12000,
@@ -2362,7 +2425,8 @@
             "location": "On palm trees",
             "rarity": "Ultra-rare",
             "month-array-northern": [7, 8],
-            "month-array-southern": [1, 2]
+            "month-array-southern": [1, 2],
+            "time-array": [17, 18, 19, 20, 21, 22, 23, 0, 1, 2, 3, 4, 5, 6, 7]
         },
         "price": 8000,
         "price-flick": 12000,
@@ -2399,7 +2463,8 @@
             "location": "On palm trees",
             "rarity": "Ultra-rare",
             "month-array-northern": [7, 8],
-            "month-array-southern": [1, 2]
+            "month-array-southern": [1, 2],
+            "time-array": [17, 18, 19, 20, 21, 22, 23, 0, 1, 2, 3, 4, 5, 6, 7]
         },
         "price": 12000,
         "price-flick": 18000,
@@ -2436,7 +2501,8 @@
             "location": "On trees",
             "rarity": "Uncommon",
             "month-array-northern": [7, 8, 9, 10, 11],
-            "month-array-southern": [1, 2, 3, 4, 5]
+            "month-array-southern": [1, 2, 3, 4, 5],
+            "time-array": [4, 5, 6, 7, 17, 18]
         },
         "price": 600,
         "price-flick": 900,
@@ -2473,7 +2539,8 @@
             "location": "Under trees",
             "rarity": "Uncommon",
             "month-array-northern": [7, 8, 9],
-            "month-array-southern": [1, 2, 3]
+            "month-array-southern": [1, 2, 3],
+            "time-array": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23]
         },
         "price": 600,
         "price-flick": 900,
@@ -2510,7 +2577,8 @@
             "location": "Shaking trees",
             "rarity": "Common",
             "month-array-northern": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
-            "month-array-southern": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12]
+            "month-array-southern": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
+            "time-array": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23]
         },
         "price": 600,
         "price-flick": 900,
@@ -2547,7 +2615,8 @@
             "location": "On rotten food",
             "rarity": "Common",
             "month-array-northern": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
-            "month-array-southern": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12]
+            "month-array-southern": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
+            "time-array": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23]
         },
         "price": 80,
         "price-flick": 120,
@@ -2584,7 +2653,8 @@
             "location": "On the beach",
             "rarity": "Common",
             "month-array-northern": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
-            "month-array-southern": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12]
+            "month-array-southern": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
+            "time-array": [19, 20, 21, 22, 23, 0, 1, 2, 3, 4, 5, 6, 7]
         },
         "price": 1000,
         "price-flick": 1500,
@@ -2621,7 +2691,8 @@
             "location": "On beach rocks",
             "rarity": "Common",
             "month-array-northern": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
-            "month-array-southern": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12]
+            "month-array-southern": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
+            "time-array": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23]
         },
         "price": 200,
         "price-flick": 300,
@@ -2658,7 +2729,8 @@
             "location": "Near trash",
             "rarity": "Common",
             "month-array-northern": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
-            "month-array-southern": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12]
+            "month-array-southern": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
+            "time-array": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23]
         },
         "price": 60,
         "price-flick": 90,
@@ -2695,7 +2767,8 @@
             "location": "Flying",
             "rarity": "Common",
             "month-array-northern": [6, 7, 8, 9],
-            "month-array-southern": [12, 1, 2, 3]
+            "month-array-southern": [12, 1, 2, 3],
+            "time-array": [17, 18, 19, 20, 21, 22, 23, 0, 1, 2, 3]
         },
         "price": 130,
         "price-flick": 195,
@@ -2732,7 +2805,8 @@
             "location": "On villagers",
             "rarity": "Common",
             "month-array-northern": [4, 5, 6, 7, 8, 9, 10, 11],
-            "month-array-southern": [10, 11, 12, 1, 2, 3, 4, 5]
+            "month-array-southern": [10, 11, 12, 1, 2, 3, 4, 5],
+            "time-array": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23]
         },
         "price": 70,
         "price-flick": 105,
@@ -2769,7 +2843,8 @@
             "location": "On rocks (when raining)",
             "rarity": "Common",
             "month-array-northern": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
-            "month-array-southern": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12]
+            "month-array-southern": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
+            "time-array": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23]
         },
         "price": 250,
         "price-flick": 375,
@@ -2806,7 +2881,8 @@
             "location": "Hitting rocks",
             "rarity": "Common",
             "month-array-northern": [9, 10, 11, 12, 1, 2, 3, 4, 5, 6],
-            "month-array-southern": [3, 4, 5, 6, 7, 8, 9, 10, 11, 12]
+            "month-array-southern": [3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
+            "time-array": [23, 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15]
         },
         "price": 250,
         "price-flick": 375,
@@ -2843,7 +2919,8 @@
             "location": "Hitting rocks",
             "rarity": "Common",
             "month-array-northern": [9, 10, 11, 12, 1, 2, 3, 4, 5, 6],
-            "month-array-southern": [3, 4, 5, 6, 7, 8, 9, 10, 11, 12]
+            "month-array-southern": [3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
+            "time-array": [16, 17, 18, 19, 20, 21, 22]
         },
         "price": 300,
         "price-flick": 450,
@@ -2880,7 +2957,8 @@
             "location": "",
             "rarity": "Common",
             "month-array-northern": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
-            "month-array-southern": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12]
+            "month-array-southern": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
+            "time-array": [19, 20, 21, 22, 23, 0, 1, 2, 3, 4, 5, 6, 7]
         },
         "price": 480,
         "price-flick": 720,
@@ -2917,7 +2995,8 @@
             "location": "On the ground",
             "rarity": "Common",
             "month-array-northern": [11, 12, 1, 2, 3, 4],
-            "month-array-southern": [5, 6, 7, 8, 9, 10]
+            "month-array-southern": [5, 6, 7, 8, 9, 10],
+            "time-array": [19, 20, 21, 22, 23, 0, 1, 2, 3]
         },
         "price": 8000,
         "price-flick": 12000,
@@ -2954,7 +3033,8 @@
             "location": "On the ground",
             "rarity": "Common",
             "month-array-northern": [5, 6, 7, 8, 9, 10],
-            "month-array-southern": [11, 12, 1, 2, 3, 4]
+            "month-array-southern": [11, 12, 1, 2, 3, 4],
+            "time-array": [19, 20, 21, 22, 23, 0, 1, 2, 3]
         },
         "price": 8000,
         "price-flick": 12000,
