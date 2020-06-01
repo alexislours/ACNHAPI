@@ -1,3 +1,6 @@
+### 01/06/2020
+- Added an array containing the months when a critter is available.
+
 ### 29/05/2020
 - Compressed the K.K. Album cover from 42mb down to 12mb (with minimal quality loss) to reduce bandwidth for end users.
 

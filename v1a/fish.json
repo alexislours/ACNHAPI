@@ -25,7 +25,9 @@
             "isAllDay": true,
             "isAllYear": false,
             "location": "River",
-            "rarity": "Common"
+            "rarity": "Common",
+            "month-array-northern": [11, 12, 1, 2, 3],
+            "month-array-southern": [5, 6, 7, 8, 9]
         },
         "shadow": "Smallest (1)",
         "price": 900,
@@ -61,7 +63,9 @@
             "isAllDay": false,
             "isAllYear": true,
             "location": "River",
-            "rarity": "Common"
+            "rarity": "Common",
+            "month-array-northern": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
+            "month-array-southern": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12]
         },
         "shadow": "Smallest (1)",
         "price": 200,
@@ -97,7 +101,9 @@
             "isAllDay": true,
             "isAllYear": true,
             "location": "River",
-            "rarity": "Common"
+            "rarity": "Common",
+            "month-array-northern": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
+            "month-array-southern": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12]
         },
         "shadow": "Small (2)",
         "price": 160,
@@ -133,7 +139,9 @@
             "isAllDay": false,
             "isAllYear": true,
             "location": "River",
-            "rarity": "Common"
+            "rarity": "Common",
+            "month-array-northern": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
+            "month-array-southern": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12]
         },
         "shadow": "Medium (3)",
         "price": 240,
@@ -169,7 +177,9 @@
             "isAllDay": true,
             "isAllYear": true,
             "location": "Pond",
-            "rarity": "Common"
+            "rarity": "Common",
+            "month-array-northern": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
+            "month-array-southern": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12]
         },
         "shadow": "Large (4)",
         "price": 300,
@@ -205,7 +215,9 @@
             "isAllDay": false,
             "isAllYear": true,
             "location": "Pond",
-            "rarity": "Uncommon"
+            "rarity": "Uncommon",
+            "month-array-northern": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
+            "month-array-southern": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12]
         },
         "shadow": "Large (4)",
         "price": 4000,
@@ -241,7 +253,9 @@
             "isAllDay": true,
             "isAllYear": true,
             "location": "Pond",
-            "rarity": "Common"
+            "rarity": "Common",
+            "month-array-northern": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
+            "month-array-southern": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12]
         },
         "shadow": "Smallest (1)",
         "price": 1300,
@@ -277,7 +291,9 @@
             "isAllDay": false,
             "isAllYear": true,
             "location": "Pond",
-            "rarity": "Common"
+            "rarity": "Common",
+            "month-array-northern": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
+            "month-array-southern": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12]
         },
         "shadow": "Smallest (1)",
         "price": 1300,
@@ -313,7 +329,9 @@
             "isAllDay": false,
             "isAllYear": true,
             "location": "Pond",
-            "rarity": "Uncommon"
+            "rarity": "Uncommon",
+            "month-array-northern": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
+            "month-array-southern": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12]
         },
         "shadow": "Small (2)",
         "price": 4500,
@@ -349,7 +367,9 @@
             "isAllDay": true,
             "isAllYear": false,
             "location": "Pond",
-            "rarity": "Common"
+            "rarity": "Common",
+            "month-array-northern": [4, 5, 6, 7, 8],
+            "month-array-southern": [10, 11, 12, 1, 2]
         },
         "shadow": "Smallest (1)",
         "price": 300,
@@ -385,7 +405,9 @@
             "isAllDay": true,
             "isAllYear": false,
             "location": "Pond",
-            "rarity": "Common"
+            "rarity": "Common",
+            "month-array-northern": [4, 5, 6, 7, 8, 9],
+            "month-array-southern": [10, 11, 12, 1, 2, 3]
         },
         "shadow": "Small (2)",
         "price": 200,
@@ -421,15 +443,15 @@
             "isAllDay": false,
             "isAllYear": false,
             "location": "River",
-            "rarity": "Uncommon"
+            "rarity": "Uncommon",
+            "month-array-northern": [8, 9],
+            "month-array-southern": [2, 3]
         },
         "shadow": "Medium (4)",
         "price": 3750,
         "price-cj": 5625,
         "catch-phrase": "I caught a soft-shelled turtle! I can really shell it out!",
-        "alt-catch-phrase": [
-            "I caught a soft-shelled turtle! I should take a shellfie!"
-        ],
+        "alt-catch-phrase": ["I caught a soft-shelled turtle! I should take a shellfie!"],
         "museum-phrase": "These relatives of common turtles will not let go when they decide to bite down on something. Although they can be quite shy, they will become a bit aggressive when threatened. They are often found in water and are very good swimmers because of the flat shape of their shells. They swim with their snouts over the surface of the water so they can breathe. Soft-shelled turtles aren't safe to hold because they are so prone to biting at the slightest movement. However, if one bites down on you, it will usually let go when you put it safely back in the water.",
         "image_uri": "https://acnhapi.com/v1/images/fish/12",
         "icon_uri": "https://acnhapi.com/v1/icons/fish/12"
@@ -460,7 +482,9 @@
             "isAllDay": false,
             "isAllYear": false,
             "location": "River",
-            "rarity": "Common"
+            "rarity": "Common",
+            "month-array-northern": [4, 5, 6, 7, 8, 9, 10],
+            "month-array-southern": [10, 11, 12, 1, 2, 3, 4]
         },
         "shadow": "Large (5)",
         "price": 5000,
@@ -496,7 +520,9 @@
             "isAllDay": true,
             "isAllYear": false,
             "location": "Pond",
-            "rarity": "Common"
+            "rarity": "Common",
+            "month-array-northern": [3, 4, 5, 6, 7],
+            "month-array-southern": [9, 10, 11, 12, 1]
         },
         "shadow": "Smallest (1)",
         "price": 100,
@@ -532,7 +558,9 @@
             "isAllDay": true,
             "isAllYear": false,
             "location": "Pond",
-            "rarity": "Common"
+            "rarity": "Common",
+            "month-array-northern": [5, 6, 7, 8],
+            "month-array-southern": [11, 12, 1, 2]
         },
         "shadow": "Small (2)",
         "price": 120,
@@ -568,7 +596,9 @@
             "isAllDay": false,
             "isAllYear": true,
             "location": "River",
-            "rarity": "Common"
+            "rarity": "Common",
+            "month-array-northern": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
+            "month-array-southern": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12]
         },
         "shadow": "Small (2)",
         "price": 400,
@@ -604,7 +634,9 @@
             "isAllDay": true,
             "isAllYear": false,
             "location": "River",
-            "rarity": "Common"
+            "rarity": "Common",
+            "month-array-northern": [3, 4, 5],
+            "month-array-southern": [9, 10, 11]
         },
         "shadow": "Small (2)",
         "price": 400,
@@ -640,7 +672,9 @@
             "isAllDay": false,
             "isAllYear": false,
             "location": "Pond",
-            "rarity": "Common"
+            "rarity": "Common",
+            "month-array-northern": [5, 6, 7, 8, 9, 10],
+            "month-array-southern": [11, 12, 1, 2, 3, 4]
         },
         "shadow": "Medium (4)",
         "price": 800,
@@ -676,7 +710,9 @@
             "isAllDay": false,
             "isAllYear": false,
             "location": "Pond",
-            "rarity": "Rare"
+            "rarity": "Rare",
+            "month-array-northern": [6, 7, 8],
+            "month-array-southern": [12, 1, 2]
         },
         "shadow": "Large (5)",
         "price": 5500,
@@ -712,7 +748,9 @@
             "isAllDay": false,
             "isAllYear": true,
             "location": "River",
-            "rarity": "Common"
+            "rarity": "Common",
+            "month-array-northern": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
+            "month-array-southern": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12]
         },
         "shadow": "Small (2)",
         "price": 180,
@@ -748,7 +786,9 @@
             "isAllDay": true,
             "isAllYear": false,
             "location": "River",
-            "rarity": "Common"
+            "rarity": "Common",
+            "month-array-northern": [10, 11, 12, 1, 2, 3],
+            "month-array-southern": [4, 5, 6, 7, 8, 9]
         },
         "shadow": "Medium (3)",
         "price": 300,
@@ -784,7 +824,9 @@
             "isAllDay": true,
             "isAllYear": true,
             "location": "River",
-            "rarity": "Common"
+            "rarity": "Common",
+            "month-array-northern": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
+            "month-array-southern": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12]
         },
         "shadow": "Medium (4)",
         "price": 400,
@@ -820,7 +862,9 @@
             "isAllDay": true,
             "isAllYear": false,
             "location": "River",
-            "rarity": "Common"
+            "rarity": "Common",
+            "month-array-northern": [6, 7, 8, 9, 10],
+            "month-array-southern": [12, 1, 2, 3, 4]
         },
         "shadow": "Medium (3)",
         "price": 800,
@@ -856,7 +900,9 @@
             "isAllDay": true,
             "isAllYear": false,
             "location": "River",
-            "rarity": "Uncommon"
+            "rarity": "Uncommon",
+            "month-array-northern": [9, 10, 11, 12],
+            "month-array-southern": [3, 4, 5, 6]
         },
         "shadow": "Large (5)",
         "price": 1800,
@@ -892,7 +938,9 @@
             "isAllDay": true,
             "isAllYear": false,
             "location": "River",
-            "rarity": "Common"
+            "rarity": "Common",
+            "month-array-northern": [12, 1, 2],
+            "month-array-southern": [6, 7, 8]
         },
         "shadow": "Small (2)",
         "price": 400,
@@ -928,7 +976,9 @@
             "isAllDay": true,
             "isAllYear": false,
             "location": "River",
-            "rarity": "Common"
+            "rarity": "Common",
+            "month-array-northern": [7, 8, 9],
+            "month-array-southern": [1, 2, 3]
         },
         "shadow": "Medium (3)",
         "price": 900,
@@ -964,7 +1014,9 @@
             "isAllDay": false,
             "isAllYear": false,
             "location": "River (Clifftop)",
-            "rarity": "Common"
+            "rarity": "Common",
+            "month-array-northern": [3, 4, 5, 6, 9, 10, 11],
+            "month-array-southern": [3, 4, 5, 9, 10, 11, 12]
         },
         "shadow": "Medium (3)",
         "price": 1000,
@@ -1000,7 +1052,9 @@
             "isAllDay": false,
             "isAllYear": false,
             "location": "River (Clifftop) & Pond",
-            "rarity": "Uncommon"
+            "rarity": "Uncommon",
+            "month-array-northern": [3, 4, 5, 6, 9, 10, 11],
+            "month-array-southern": [3, 4, 5, 9, 10, 11, 12]
         },
         "shadow": "Medium (3)",
         "price": 3800,
@@ -1036,7 +1090,9 @@
             "isAllDay": false,
             "isAllYear": false,
             "location": "River (Clifftop)",
-            "rarity": "Ultra-rare"
+            "rarity": "Ultra-rare",
+            "month-array-northern": [3, 4, 5, 9, 10, 11],
+            "month-array-southern": [3, 4, 5, 9, 10, 11]
         },
         "shadow": "Medium (3)",
         "price": 15000,
@@ -1072,7 +1128,9 @@
             "isAllDay": false,
             "isAllYear": false,
             "location": "River (Clifftop)",
-            "rarity": "Ultra-rare"
+            "rarity": "Ultra-rare",
+            "month-array-northern": [12, 1, 2, 3],
+            "month-array-southern": [6, 7, 8, 9]
         },
         "shadow": "Large (5)",
         "price": 15000,
@@ -1108,7 +1166,9 @@
             "isAllDay": true,
             "isAllYear": false,
             "location": "River (Mouth)",
-            "rarity": "Common"
+            "rarity": "Common",
+            "month-array-northern": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
+            "month-array-southern": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12]
         },
         "shadow": "Medium (4)",
         "price": 700,
@@ -1144,7 +1204,9 @@
             "isAllDay": true,
             "isAllYear": false,
             "location": "River (Mouth)",
-            "rarity": "Uncommon"
+            "rarity": "Uncommon",
+            "month-array-northern": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
+            "month-array-southern": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12]
         },
         "shadow": "Largest (6)",
         "price": 1800,
@@ -1180,7 +1242,9 @@
             "isAllDay": false,
             "isAllYear": false,
             "location": "River",
-            "rarity": "Uncommon"
+            "rarity": "Uncommon",
+            "month-array-northern": [9, 10, 11],
+            "month-array-southern": [3, 4, 5]
         },
         "shadow": "Small (2)",
         "price": 2000,
@@ -1216,7 +1280,9 @@
             "isAllDay": false,
             "isAllYear": false,
             "location": "River",
-            "rarity": "Common"
+            "rarity": "Common",
+            "month-array-northern": [4, 5, 6, 7, 8, 9, 10, 11],
+            "month-array-southern": [10, 11, 12, 1, 2, 3]
         },
         "shadow": "Smallest (1)",
         "price": 1300,
@@ -1252,7 +1318,9 @@
             "isAllDay": false,
             "isAllYear": false,
             "location": "River",
-            "rarity": "Uncommon"
+            "rarity": "Uncommon",
+            "month-array-northern": [5, 6, 7, 8, 9],
+            "month-array-southern": [11, 12, 1, 2, 3]
         },
         "shadow": "Smallest (1)",
         "price": 1500,
@@ -1288,7 +1356,9 @@
             "isAllDay": false,
             "isAllYear": false,
             "location": "River",
-            "rarity": "Uncommon"
+            "rarity": "Uncommon",
+            "month-array-northern": [5, 6, 7, 8, 9, 10],
+            "month-array-southern": [11, 12, 1, 2, 3, 4]
         },
         "shadow": "Small (2)",
         "price": 3000,
@@ -1324,7 +1394,9 @@
             "isAllDay": false,
             "isAllYear": false,
             "location": "River",
-            "rarity": "Uncommon"
+            "rarity": "Uncommon",
+            "month-array-northern": [5, 6, 7, 8, 9, 10],
+            "month-array-southern": [11, 12, 1, 2, 3, 4]
         },
         "shadow": "Small (2)",
         "price": 2500,
@@ -1360,7 +1432,9 @@
             "isAllDay": false,
             "isAllYear": false,
             "location": "River",
-            "rarity": "Common"
+            "rarity": "Common",
+            "month-array-northern": [4, 5, 6, 7, 8, 9, 10, 11],
+            "month-array-southern": [9, 10, 11, 12, 1, 2, 3, 4, 5]
         },
         "shadow": "Smallest (1)",
         "price": 500,
@@ -1396,7 +1470,9 @@
             "isAllDay": false,
             "isAllYear": false,
             "location": "River",
-            "rarity": "Common"
+            "rarity": "Common",
+            "month-array-northern": [5, 6, 7, 8, 9, 10],
+            "month-array-southern": [11, 12, 1, 2, 3, 4]
         },
         "shadow": "Smallest (1)",
         "price": 800,
@@ -1432,7 +1508,9 @@
             "isAllDay": false,
             "isAllYear": false,
             "location": "River",
-            "rarity": "Uncommon"
+            "rarity": "Uncommon",
+            "month-array-northern": [6, 7, 8, 9],
+            "month-array-southern": [12, 1, 2, 3]
         },
         "shadow": "Small (2)",
         "price": 2500,
@@ -1468,7 +1546,9 @@
             "isAllDay": false,
             "isAllYear": false,
             "location": "River",
-            "rarity": "Rare"
+            "rarity": "Rare",
+            "month-array-northern": [6, 7, 8, 9],
+            "month-array-southern": [12, 1, 2, 3]
         },
         "shadow": "Medium (4)",
         "price": 10000,
@@ -1504,7 +1584,9 @@
             "isAllDay": false,
             "isAllYear": false,
             "location": "River",
-            "rarity": "Ultra-rare"
+            "rarity": "Ultra-rare",
+            "month-array-northern": [6, 7, 8, 9],
+            "month-array-southern": [12, 1, 2, 3]
         },
         "shadow": "Large (5)",
         "price": 15000,
@@ -1540,7 +1622,9 @@
             "isAllDay": false,
             "isAllYear": false,
             "location": "Pond",
-            "rarity": "Rare"
+            "rarity": "Rare",
+            "month-array-northern": [6, 7, 8, 9],
+            "month-array-southern": [12, 1, 2, 3]
         },
         "shadow": "Large (5)",
         "price": 6000,
@@ -1576,7 +1660,9 @@
             "isAllDay": false,
             "isAllYear": false,
             "location": "River",
-            "rarity": "Rare"
+            "rarity": "Rare",
+            "month-array-northern": [6, 7, 8, 9],
+            "month-array-southern": [12, 1, 2, 3]
         },
         "shadow": "Largest (6)",
         "price": 10000,
@@ -1612,7 +1698,9 @@
             "isAllDay": false,
             "isAllYear": false,
             "location": "River",
-            "rarity": "Uncommon"
+            "rarity": "Uncommon",
+            "month-array-northern": [6, 7, 8, 9],
+            "month-array-southern": [12, 1, 2, 3]
         },
         "shadow": "Medium (4)",
         "price": 4000,
@@ -1648,7 +1736,9 @@
             "isAllDay": true,
             "isAllYear": false,
             "location": "River (Mouth)",
-            "rarity": "Uncommon"
+            "rarity": "Uncommon",
+            "month-array-northern": [9, 10, 11, 12, 1, 2, 3],
+            "month-array-southern": [3, 4, 5, 6, 7, 8, 9]
         },
         "shadow": "Largest (6)",
         "price": 10000,
@@ -1684,7 +1774,9 @@
             "isAllDay": true,
             "isAllYear": false,
             "location": "Sea",
-            "rarity": "Common"
+            "rarity": "Common",
+            "month-array-northern": [12, 1, 2, 3],
+            "month-array-southern": [6, 7, 8, 9]
         },
         "shadow": "Smallest (1)",
         "price": 1000,
@@ -1720,7 +1812,9 @@
             "isAllDay": true,
             "isAllYear": false,
             "location": "Sea",
-            "rarity": "Common"
+            "rarity": "Common",
+            "month-array-northern": [4, 5, 6, 7, 8, 9, 10, 11],
+            "month-array-southern": [10, 11, 12, 1, 2, 3, 4, 5]
         },
         "shadow": "Smallest (1)",
         "price": 1100,
@@ -1756,7 +1850,9 @@
             "isAllDay": true,
             "isAllYear": false,
             "location": "Sea",
-            "rarity": "Common"
+            "rarity": "Common",
+            "month-array-northern": [4, 5, 6, 7, 8, 9],
+            "month-array-southern": [10, 11, 12, 1, 2, 3]
         },
         "shadow": "Smallest (1)",
         "price": 650,
@@ -1792,7 +1888,9 @@
             "isAllDay": true,
             "isAllYear": false,
             "location": "Sea",
-            "rarity": "Common"
+            "rarity": "Common",
+            "month-array-northern": [4, 5, 6, 7, 8, 9],
+            "month-array-southern": [10, 11, 12, 1, 2, 3]
         },
         "shadow": "Small (2)",
         "price": 1000,
@@ -1828,7 +1926,9 @@
             "isAllDay": true,
             "isAllYear": false,
             "location": "Sea",
-            "rarity": "Common"
+            "rarity": "Common",
+            "month-array-northern": [4, 5, 6, 7, 8, 9],
+            "month-array-southern": [10, 11, 12, 1, 2, 3]
         },
         "shadow": "Small (2)",
         "price": 1000,
@@ -1864,7 +1964,9 @@
             "isAllDay": false,
             "isAllYear": false,
             "location": "Sea",
-            "rarity": "Rare"
+            "rarity": "Rare",
+            "month-array-northern": [7, 8],
+            "month-array-southern": [1, 2]
         },
         "shadow": "Largest (6)",
         "price": 10000,
@@ -1900,7 +2002,9 @@
             "isAllDay": true,
             "isAllYear": false,
             "location": "Sea",
-            "rarity": "Common"
+            "rarity": "Common",
+            "month-array-northern": [4, 5, 6, 7, 8, 9, 10, 11],
+            "month-array-southern": [10, 11, 12, 1, 2, 3, 4, 5]
         },
         "shadow": "Medium (3)",
         "price": 500,
@@ -1936,7 +2040,9 @@
             "isAllDay": false,
             "isAllYear": false,
             "location": "Sea",
-            "rarity": "Uncommon"
+            "rarity": "Uncommon",
+            "month-array-northern": [11, 12, 1, 2],
+            "month-array-southern": [5, 6, 7, 8]
         },
         "shadow": "Medium (3)",
         "price": 5000,
@@ -1972,7 +2078,9 @@
             "isAllDay": true,
             "isAllYear": false,
             "location": "Sea",
-            "rarity": "Common"
+            "rarity": "Common",
+            "month-array-northern": [7, 8, 9],
+            "month-array-southern": [1, 2, 3]
         },
         "shadow": "Medium (3)",
         "price": 250,
@@ -2008,7 +2116,9 @@
             "isAllDay": false,
             "isAllYear": true,
             "location": "Sea",
-            "rarity": "Common"
+            "rarity": "Common",
+            "month-array-northern": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
+            "month-array-southern": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12]
         },
         "shadow": "Small (2)",
         "price": 200,
@@ -2044,7 +2154,9 @@
             "isAllDay": true,
             "isAllYear": true,
             "location": "Sea",
-            "rarity": "Common"
+            "rarity": "Common",
+            "month-array-northern": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
+            "month-array-southern": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12]
         },
         "shadow": "Small (2)",
         "price": 150,
@@ -2080,7 +2192,9 @@
             "isAllDay": true,
             "isAllYear": false,
             "location": "Sea",
-            "rarity": "Uncommon"
+            "rarity": "Uncommon",
+            "month-array-northern": [2, 3, 4, 5, 6, 7, 8, 9, 10, 11],
+            "month-array-southern": [9, 10, 11, 12, 1, 2, 3, 4, 5]
         },
         "shadow": "Medium (3)",
         "price": 5000,
@@ -2116,7 +2230,9 @@
             "isAllDay": true,
             "isAllYear": true,
             "location": "Sea",
-            "rarity": "Common"
+            "rarity": "Common",
+            "month-array-northern": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
+            "month-array-southern": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12]
         },
         "shadow": "Large (5)",
         "price": 400,
@@ -2152,7 +2268,9 @@
             "isAllDay": true,
             "isAllYear": true,
             "location": "Sea",
-            "rarity": "Common"
+            "rarity": "Common",
+            "month-array-northern": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
+            "month-array-southern": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12]
         },
         "shadow": "Medium (4)",
         "price": 3000,
@@ -2188,7 +2306,9 @@
             "isAllDay": true,
             "isAllYear": false,
             "location": "Sea",
-            "rarity": "Common"
+            "rarity": "Common",
+            "month-array-northern": [10, 11, 12, 1, 2, 3, 4],
+            "month-array-southern": [4, 5, 6, 7, 8, 9, 10]
         },
         "shadow": "Medium (3)",
         "price": 300,
@@ -2224,7 +2344,9 @@
             "isAllDay": true,
             "isAllYear": true,
             "location": "Sea",
-            "rarity": "Common"
+            "rarity": "Common",
+            "month-array-northern": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
+            "month-array-southern": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12]
         },
         "shadow": "Large (5)",
         "price": 800,
@@ -2260,16 +2382,15 @@
             "isAllDay": true,
             "isAllYear": false,
             "location": "Sea",
-            "rarity": "Common"
+            "rarity": "Common",
+            "month-array-northern": [12, 1, 2, 3, 4, 5, 6, 7, 8],
+            "month-array-southern": [6, 7, 8, 9, 10, 11, 12, 1, 2]
         },
         "shadow": "Medium (3)",
         "price": 500,
         "price-cj": 750,
         "catch-phrase": "I caught a squid! It's off the hook!",
-        "alt-catch-phrase": [
-            "I caught a squid! I had an inkling I might!",
-            "I caught a squid! Do they...not actually \"bloop\"?"
-        ],
+        "alt-catch-phrase": ["I caught a squid! I had an inkling I might!", "I caught a squid! Do they...not actually \"bloop\"?"],
         "museum-phrase": "Well, first off, squids are members of the mollusk family, just like the octopus. Many mollusks like snails and clams have shells, but the squid's body is almost completely soft. The exception is a long, narrow bit of hard material going through its main body - the last remnant of its shell. Of course, having your shell INSIDE is not a best practice. Perhaps they lost the owner's manual!",
         "image_uri": "https://acnhapi.com/v1/images/fish/63",
         "icon_uri": "https://acnhapi.com/v1/icons/fish/63"
@@ -2300,7 +2421,9 @@
             "isAllDay": true,
             "isAllYear": false,
             "location": "Sea",
-            "rarity": "Uncommon"
+            "rarity": "Uncommon",
+            "month-array-northern": [8, 9, 10],
+            "month-array-southern": [2, 3, 4]
         },
         "shadow": "Narrow",
         "price": 2000,
@@ -2336,7 +2459,9 @@
             "isAllDay": true,
             "isAllYear": false,
             "location": "Sea",
-            "rarity": "Common"
+            "rarity": "Common",
+            "month-array-northern": [6, 7, 8, 9, 10],
+            "month-array-southern": [12, 1, 2, 3, 4]
         },
         "shadow": "Narrow",
         "price": 600,
@@ -2372,7 +2497,9 @@
             "isAllDay": true,
             "isAllYear": false,
             "location": "Pier",
-            "rarity": "Rare"
+            "rarity": "Rare",
+            "month-array-northern": [11, 12, 1, 2, 3, 4],
+            "month-array-southern": [5, 6, 7, 8, 9, 10]
         },
         "shadow": "Largest (6)",
         "price": 7000,
@@ -2408,7 +2535,9 @@
             "isAllDay": true,
             "isAllYear": false,
             "location": "Pier",
-            "rarity": "Rare"
+            "rarity": "Rare",
+            "month-array-northern": [11, 12, 1, 2, 3, 4, 7, 8, 9],
+            "month-array-southern": [5, 6, 7, 8, 9, 10, 1, 2, 3]
         },
         "shadow": "Largest (6)",
         "price": 10000,
@@ -2444,7 +2573,9 @@
             "isAllDay": true,
             "isAllYear": false,
             "location": "Pier",
-            "rarity": "Uncommon"
+            "rarity": "Uncommon",
+            "month-array-northern": [5, 6, 7, 8, 9, 10],
+            "month-array-southern": [11, 12, 1, 2, 3, 4]
         },
         "shadow": "Large (5)",
         "price": 4500,
@@ -2480,7 +2611,9 @@
             "isAllDay": true,
             "isAllYear": false,
             "location": "Pier",
-            "rarity": "Rare"
+            "rarity": "Rare",
+            "month-array-northern": [5, 6, 7, 8, 9, 10],
+            "month-array-southern": [11, 12, 1, 2, 3, 4]
         },
         "shadow": "Large (5)",
         "price": 6000,
@@ -2516,7 +2649,9 @@
             "isAllDay": false,
             "isAllYear": false,
             "location": "Sea",
-            "rarity": "Uncommon"
+            "rarity": "Uncommon",
+            "month-array-northern": [7, 8, 9],
+            "month-array-southern": [1, 2, 3]
         },
         "shadow": "Largest with fin (6)",
         "price": 4000,
@@ -2552,7 +2687,9 @@
             "isAllDay": false,
             "isAllYear": false,
             "location": "Sea",
-            "rarity": "Uncommon"
+            "rarity": "Uncommon",
+            "month-array-northern": [8, 9, 10, 11],
+            "month-array-southern": [2, 3, 4, 5]
         },
         "shadow": "Large (5)",
         "price": 3000,
@@ -2588,7 +2725,9 @@
             "isAllDay": false,
             "isAllYear": false,
             "location": "Sea",
-            "rarity": "Rare"
+            "rarity": "Rare",
+            "month-array-northern": [6, 7, 8, 9],
+            "month-array-southern": [12, 1, 2, 3]
         },
         "shadow": "Largest with fin (6)",
         "price": 12000,
@@ -2624,7 +2763,9 @@
             "isAllDay": false,
             "isAllYear": false,
             "location": "Sea",
-            "rarity": "Uncommon"
+            "rarity": "Uncommon",
+            "month-array-northern": [6, 7, 8, 9],
+            "month-array-southern": [12, 1, 2, 3]
         },
         "shadow": "Largest with fin (6)",
         "price": 8000,
@@ -2660,7 +2801,9 @@
             "isAllDay": false,
             "isAllYear": false,
             "location": "Sea",
-            "rarity": "Rare"
+            "rarity": "Rare",
+            "month-array-northern": [6, 7, 8, 9],
+            "month-array-southern": [12, 1, 2, 3]
         },
         "shadow": "Largest with fin (6)",
         "price": 15000,
@@ -2696,7 +2839,9 @@
             "isAllDay": true,
             "isAllYear": false,
             "location": "Sea",
-            "rarity": "Rare"
+            "rarity": "Rare",
+            "month-array-northern": [6, 7, 8, 9],
+            "month-array-southern": [12, 1, 2, 3]
         },
         "shadow": "Largest with fin (6)",
         "price": 13000,
@@ -2732,7 +2877,9 @@
             "isAllDay": true,
             "isAllYear": false,
             "location": "Sea",
-            "rarity": "Uncommon"
+            "rarity": "Uncommon",
+            "month-array-northern": [6, 7, 8, 9],
+            "month-array-southern": [12, 1, 2, 3]
         },
         "shadow": "Medium with fin (4)",
         "price": 1500,
@@ -2768,7 +2915,9 @@
             "isAllDay": false,
             "isAllYear": false,
             "location": "Sea",
-            "rarity": "Uncommon"
+            "rarity": "Uncommon",
+            "month-array-northern": [11, 12, 1, 2, 3],
+            "month-array-southern": [5, 6, 7, 8, 9]
         },
         "shadow": "Medium (4)",
         "price": 2500,
@@ -2804,7 +2953,9 @@
             "isAllDay": true,
             "isAllYear": false,
             "location": "Sea",
-            "rarity": "Rare"
+            "rarity": "Rare",
+            "month-array-northern": [12, 1, 2, 3, 4, 5],
+            "month-array-southern": [6, 7, 8, 9, 10, 11]
         },
         "shadow": "Largest (6)",
         "price": 9000,
@@ -2840,7 +2991,9 @@
             "isAllDay": false,
             "isAllYear": true,
             "location": "Sea",
-            "rarity": "Ultra-rare"
+            "rarity": "Ultra-rare",
+            "month-array-northern": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
+            "month-array-southern": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12]
         },
         "shadow": "Small (2)",
         "price": 15000,
@@ -2876,7 +3029,9 @@
             "isAllDay": true,
             "isAllYear": true,
             "location": "Sea (when raining or snowing)",
-            "rarity": "Ultra-rare"
+            "rarity": "Ultra-rare",
+            "month-array-northern": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
+            "month-array-southern": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12]
         },
         "shadow": "Largest (6)",
         "price": 15000,
