@@ -45,6 +45,9 @@ For keeping the project free and available to all:
 
 - [Dimillian (AC Helper)](https://github.com/Dimillian)
 - [Kuma](https://github.com/kuma)
+- [Nookipedia](https://nookipedia.com/wiki/Main_Page)
 
 #### Disclaimer: 
-ACNH API is a fan made API/Website and claims no ownership of any intellectual property associated with Nintendo or Animal Crossing.
+ACNH API is a fan made API/Website and claims no ownership of any intellectual property associated with Nintendo or Animal Crossing. All assets found on the site and the repository are the sole property of Nintendo and are only used for non-commercial and educational purpose.
+
+Contact: admin@acnhapi.com
