@@ -1,3 +1,7 @@
+## 04/07/2020
+- Added Sea Creatures endpoint
+- Updated furnitures for 1.3.0
+
 ### 01/06/2020
 - Added an array containing the months when a critter is available.
 - Added an array containing the hours (24h format) when a critter is available.

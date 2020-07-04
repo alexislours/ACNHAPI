@@ -1,5 +1,7 @@
 # ACNH API
 
+### Updated for 1.3.0 (Summer Update 1)
+
 ### Introduction:
 
 ACNH API is a **free RESTful API** for **furniture**, **critters**, **fossils**, **art**, **music** and **villagers** from Animal Crossing: New Horizons.
