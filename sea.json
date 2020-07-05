@@ -31,6 +31,7 @@
         "speed": "Stationary",
         "shadow": "Large",
         "price": 600,
+        "catch-phrase": "I got some seaweed! I couldn't kelp myself.",
         "image_uri": "https://acnhapi.com/v1/images/sea/1",
         "icon_uri": "https://acnhapi.com/v1/icons/sea/1"
     },
@@ -66,6 +67,7 @@
         "speed": "Stationary",
         "shadow": "Small",
         "price": 900,
+        "catch-phrase": "I got some sea grapes! Can't let these go sour.",
         "image_uri": "https://acnhapi.com/v1/images/sea/2",
         "icon_uri": "https://acnhapi.com/v1/icons/sea/2"
     },
@@ -101,6 +103,7 @@
         "speed": "Very slow",
         "shadow": "Medium",
         "price": 500,
+        "catch-phrase": "I got a sea cucumber! It's a bit cumbersome",
         "image_uri": "https://acnhapi.com/v1/images/sea/3",
         "icon_uri": "https://acnhapi.com/v1/icons/sea/3"
     },
@@ -136,6 +139,7 @@
         "speed": "Very fast",
         "shadow": "Small",
         "price": 10000,
+        "catch-phrase": "I got a sea pig! What's next? Air pigs?",
         "image_uri": "https://acnhapi.com/v1/images/sea/4",
         "icon_uri": "https://acnhapi.com/v1/icons/sea/4"
     },
@@ -171,6 +175,7 @@
         "speed": "Very slow",
         "shadow": "Small",
         "price": 500,
+        "catch-phrase": "I got a sea star! Maybe it'll give me an autograph!",
         "image_uri": "https://acnhapi.com/v1/images/sea/5",
         "icon_uri": "https://acnhapi.com/v1/icons/sea/5"
     },
@@ -206,6 +211,7 @@
         "speed": "Slow",
         "shadow": "Small",
         "price": 1700,
+        "catch-phrase": "I got a sea urchin! Wasn't even 'earchin for it.",
         "image_uri": "https://acnhapi.com/v1/images/sea/6",
         "icon_uri": "https://acnhapi.com/v1/icons/sea/6"
     },
@@ -241,6 +247,7 @@
         "speed": "Medium",
         "shadow": "Medium",
         "price": 2000,
+        "catch-phrase": "I got a slate pencil urchin! Its handwriting is gorgeous.",
         "image_uri": "https://acnhapi.com/v1/images/sea/7",
         "icon_uri": "https://acnhapi.com/v1/icons/sea/7"
     },
@@ -276,6 +283,7 @@
         "speed": "Stationary",
         "shadow": "Large",
         "price": 500,
+        "catch-phrase": "I got a sea anemone! The enemy of my anemone is my afrenome!",
         "image_uri": "https://acnhapi.com/v1/images/sea/8",
         "icon_uri": "https://acnhapi.com/v1/icons/sea/8"
     },
@@ -311,6 +319,7 @@
         "speed": "Very slow",
         "shadow": "Small",
         "price": 600,
+        "catch-phrase": "I got a moon jellyfish! Now to find a sun peanutbutterfish.",
         "image_uri": "https://acnhapi.com/v1/images/sea/9",
         "icon_uri": "https://acnhapi.com/v1/icons/sea/9"
     },
@@ -346,6 +355,7 @@
         "speed": "Very slow",
         "shadow": "Smallest",
         "price": 600,
+        "catch-phrase": "I got a sea slug! It's kinda salty about that.",
         "image_uri": "https://acnhapi.com/v1/images/sea/10",
         "icon_uri": "https://acnhapi.com/v1/icons/sea/10"
     },
@@ -381,6 +391,7 @@
         "speed": "Medium",
         "shadow": "Small",
         "price": 2800,
+        "catch-phrase": "I got a pearl oyster! Aw, shucks. Don't clam up now!",
         "image_uri": "https://acnhapi.com/v1/images/sea/11",
         "icon_uri": "https://acnhapi.com/v1/icons/sea/11"
     },
@@ -416,6 +427,7 @@
         "speed": "Slow",
         "shadow": "Small",
         "price": 1500,
+        "catch-phrase": "I got a mussel! It's been working out",
         "image_uri": "https://acnhapi.com/v1/images/sea/12",
         "icon_uri": "https://acnhapi.com/v1/icons/sea/12"
     },
@@ -451,6 +463,7 @@
         "speed": "Slow",
         "shadow": "Small",
         "price": 1100,
+        "catch-phrase": "I got an oyster! It's a little shellfish.",
         "image_uri": "https://acnhapi.com/v1/images/sea/13",
         "icon_uri": "https://acnhapi.com/v1/icons/sea/13"
     },
@@ -486,6 +499,7 @@
         "speed": "Slow",
         "shadow": "Medium",
         "price": 1200,
+        "catch-phrase": "I got a scallop! It otter be savored.",
         "image_uri": "https://acnhapi.com/v1/images/sea/14",
         "icon_uri": "https://acnhapi.com/v1/icons/sea/14"
     },
@@ -521,6 +535,7 @@
         "speed": "Slow",
         "shadow": "Small",
         "price": 1000,
+        "catch-phrase": "I got a whelk! Happy snails to ya.",
         "image_uri": "https://acnhapi.com/v1/images/sea/15",
         "icon_uri": "https://acnhapi.com/v1/icons/sea/15"
     },
@@ -556,6 +571,7 @@
         "speed": "Slow",
         "shadow": "Small",
         "price": 1000,
+        "catch-phrase": "I got a turban shell! It's totally TURB...ular!",
         "image_uri": "https://acnhapi.com/v1/images/sea/16",
         "icon_uri": "https://acnhapi.com/v1/icons/sea/16"
     },
@@ -591,6 +607,7 @@
         "speed": "Medium",
         "shadow": "Medium",
         "price": 2000,
+        "catch-phrase": "I got an abalone! Why do I want a sandwich now?",
         "image_uri": "https://acnhapi.com/v1/images/sea/17",
         "icon_uri": "https://acnhapi.com/v1/icons/sea/17"
     },
@@ -626,6 +643,7 @@
         "speed": "Very fast",
         "shadow": "Largest",
         "price": 15000,
+        "catch-phrase": "I got a gigas giant clam! It's kind of a big deal.",
         "image_uri": "https://acnhapi.com/v1/images/sea/18",
         "icon_uri": "https://acnhapi.com/v1/icons/sea/18"
     },
@@ -661,6 +679,7 @@
         "speed": "Medium",
         "shadow": "Medium",
         "price": 1800,
+        "catch-phrase": "I got a chambered nautilus! Is it on the naughty list?",
         "image_uri": "https://acnhapi.com/v1/images/sea/19",
         "icon_uri": "https://acnhapi.com/v1/icons/sea/19"
     },
@@ -696,6 +715,7 @@
         "speed": "Slow",
         "shadow": "Medium",
         "price": 1200,
+        "catch-phrase": "I got an octopus! It can give four hugs at once!",
         "image_uri": "https://acnhapi.com/v1/images/sea/20",
         "icon_uri": "https://acnhapi.com/v1/icons/sea/20"
     },
@@ -731,6 +751,7 @@
         "speed": "Fast",
         "shadow": "Small",
         "price": 6000,
+        "catch-phrase": "I got an umbrella octopus! Too bad I'm already soaked.",
         "image_uri": "https://acnhapi.com/v1/images/sea/21",
         "icon_uri": "https://acnhapi.com/v1/icons/sea/21"
     },
@@ -766,6 +787,7 @@
         "speed": "Very fast",
         "shadow": "Medium",
         "price": 10000,
+        "catch-phrase": "I got a vampire squid! A lot was at stake.",
         "image_uri": "https://acnhapi.com/v1/images/sea/22",
         "icon_uri": "https://acnhapi.com/v1/icons/sea/22"
     },
@@ -801,6 +823,7 @@
         "speed": "Slow",
         "shadow": "Smallest",
         "price": 1400,
+        "catch-phrase": "I got a firefly squid! More like a glowswim squid.",
         "image_uri": "https://acnhapi.com/v1/images/sea/23",
         "icon_uri": "https://acnhapi.com/v1/icons/sea/23"
     },
@@ -836,6 +859,7 @@
         "speed": "Medium",
         "shadow": "Medium",
         "price": 2200,
+        "catch-phrase": "I got a gazami crab! What a gripping find!",
         "image_uri": "https://acnhapi.com/v1/images/sea/24",
         "icon_uri": "https://acnhapi.com/v1/icons/sea/24"
     },
@@ -871,6 +895,7 @@
         "speed": "Medium",
         "shadow": "Medium",
         "price": 1900,
+        "catch-phrase": "I got a Dungeness crab! Dun dun duuuun...geness.",
         "image_uri": "https://acnhapi.com/v1/images/sea/25",
         "icon_uri": "https://acnhapi.com/v1/icons/sea/25"
     },
@@ -906,6 +931,7 @@
         "speed": "Fast",
         "shadow": "Large",
         "price": 6000,
+        "catch-phrase": "I got a snow crab! It's giving me the cold shoulder.",
         "image_uri": "https://acnhapi.com/v1/images/sea/26",
         "icon_uri": "https://acnhapi.com/v1/icons/sea/26"
     },
@@ -941,6 +967,7 @@
         "speed": "Very fast",
         "shadow": "Large",
         "price": 8000,
+        "catch-phrase": "I caught a red king crab! It's royally flushed.",
         "image_uri": "https://acnhapi.com/v1/images/sea/27",
         "icon_uri": "https://acnhapi.com/v1/icons/sea/27"
     },
@@ -976,6 +1003,7 @@
         "speed": "Stationary",
         "shadow": "Smallest",
         "price": 600,
+        "catch-phrase": "I got an acorn barnacle! Will it grow into an oak barnacle?",
         "image_uri": "https://acnhapi.com/v1/images/sea/28",
         "icon_uri": "https://acnhapi.com/v1/icons/sea/28"
     },
@@ -1011,6 +1039,7 @@
         "speed": "Very fast",
         "shadow": "Largest",
         "price": 12000,
+        "catch-phrase": "I got a spider crab! Water bugs can rest easy.",
         "image_uri": "https://acnhapi.com/v1/images/sea/29",
         "icon_uri": "https://acnhapi.com/v1/icons/sea/29"
     },
@@ -1046,6 +1075,7 @@
         "speed": "Medium",
         "shadow": "Small",
         "price": 3000,
+        "catch-phrase": "I got a tiger prawn! I ain't lion!",
         "image_uri": "https://acnhapi.com/v1/images/sea/30",
         "icon_uri": "https://acnhapi.com/v1/icons/sea/30"
     },
@@ -1081,6 +1111,7 @@
         "speed": "Slow",
         "shadow": "Small",
         "price": 1400,
+        "catch-phrase": "I got a sweet shrimp! It's being very considerate.",
         "image_uri": "https://acnhapi.com/v1/images/sea/31",
         "icon_uri": "https://acnhapi.com/v1/icons/sea/31"
     },
@@ -1116,6 +1147,7 @@
         "speed": "Medium",
         "shadow": "Small",
         "price": 2500,
+        "catch-phrase": "I got a mantis shrimp! Shrimply amazing!",
         "image_uri": "https://acnhapi.com/v1/images/sea/32",
         "icon_uri": "https://acnhapi.com/v1/icons/sea/32"
     },
@@ -1151,6 +1183,7 @@
         "speed": "Fast",
         "shadow": "Large",
         "price": 5000,
+        "catch-phrase": "I got a spiny lobster! It's got a lot of backbone!",
         "image_uri": "https://acnhapi.com/v1/images/sea/33",
         "icon_uri": "https://acnhapi.com/v1/icons/sea/33"
     },
@@ -1186,6 +1219,7 @@
         "speed": "Fast",
         "shadow": "Large",
         "price": 4500,
+        "catch-phrase": "I got a lobster! Lobjective complete.",
         "image_uri": "https://acnhapi.com/v1/images/sea/34",
         "icon_uri": "https://acnhapi.com/v1/icons/sea/34"
     },
@@ -1221,6 +1255,7 @@
         "speed": "Very fast",
         "shadow": "Medium",
         "price": 12000,
+        "catch-phrase": "GAAAAH! I got a giant isopod! It's the crustodian of the sea.",
         "image_uri": "https://acnhapi.com/v1/images/sea/35",
         "icon_uri": "https://acnhapi.com/v1/icons/sea/35"
     },
@@ -1256,6 +1291,7 @@
         "speed": "Medium",
         "shadow": "Medium",
         "price": 2500,
+        "catch-phrase": "I got a horseshoe crab! I hope it's lucky!",
         "image_uri": "https://acnhapi.com/v1/images/sea/36",
         "icon_uri": "https://acnhapi.com/v1/icons/sea/36"
     },
@@ -1291,6 +1327,7 @@
         "speed": "Slow",
         "shadow": "Small",
         "price": 1500,
+        "catch-phrase": "I got a sea pineapple! Your move, sea pizzas.",
         "image_uri": "https://acnhapi.com/v1/images/sea/37",
         "icon_uri": "https://acnhapi.com/v1/icons/sea/37"
     },
@@ -1326,6 +1363,7 @@
         "speed": "Slow",
         "shadow": "Small",
         "price": 1100,
+        "catch-phrase": "I got a spotted garden eel! Was it un-spotted before I saw it?",
         "image_uri": "https://acnhapi.com/v1/images/sea/38",
         "icon_uri": "https://acnhapi.com/v1/icons/sea/38"
     },
@@ -1361,6 +1399,7 @@
         "speed": "Very slow",
         "shadow": "Smallest",
         "price": 700,
+        "catch-phrase": "I got a flatworm! Guess it forgot its spareworm.",
         "image_uri": "https://acnhapi.com/v1/images/sea/39",
         "icon_uri": "https://acnhapi.com/v1/icons/sea/39"
     },
@@ -1396,6 +1435,7 @@
         "speed": "Fast",
         "shadow": "Medium",
         "price": 5000,
+        "catch-phrase": "I got a Venus' flower basket! Why was she picking flowers here?",
         "image_uri": "https://acnhapi.com/v1/images/sea/40",
         "icon_uri": "https://acnhapi.com/v1/icons/sea/40"
     }

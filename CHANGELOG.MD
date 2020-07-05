@@ -1,3 +1,6 @@
+## 05/07/2020
+- Added sea creatures catch-phrase.
+
 ## 04/07/2020
 - Added Sea Creatures endpoint
 - Updated furnitures for 1.3.0
