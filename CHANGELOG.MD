@@ -1,3 +1,7 @@
+## 06/07/2020
+- Added the museum description for arts.
+- Added Blather's facts for sea creatures.
+
 ## 05/07/2020
 - Added sea creatures catch-phrase.
 

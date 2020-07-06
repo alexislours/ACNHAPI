@@ -21,6 +21,8 @@ See [CHANGELOG.MD](https://github.com/alexislours/ACNHAPI/blob/master/CHANGELOG.
 
 All the JSON data from this API is under MIT license, the images and music assets are the sole property of Nintendo.
 
+The data can be obtained as an object array instead of a nested JSON by doing requests on `https://acnhapi.com/v1a/` instead of `https://acnhapi.com/v1/`.
+
 The documentation for the API can be found [here](https://acnhapi.com/doc).
 
 No authentification is required to make requests to any of the endpoints which can be accessed over HTTP or HTTPS.
