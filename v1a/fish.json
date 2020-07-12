@@ -1307,14 +1307,14 @@
     },
     "availability": {
         "month-northern": "4-11",
-        "month-southern": "10-3",
+        "month-southern": "10-5",
         "time": "9am - 4pm",
         "isAllDay": false,
         "isAllYear": false,
         "location": "River",
         "rarity": "Common",
         "month-array-northern": [4, 5, 6, 7, 8, 9, 10, 11],
-        "month-array-southern": [10, 11, 12, 1, 2, 3],
+        "month-array-southern": [10, 11, 12, 1, 2, 3, 4, 5],
         "time-array": [9, 10, 11, 12, 13, 14, 15]
     },
     "shadow": "Smallest (1)",
@@ -1463,14 +1463,14 @@
     },
     "availability": {
         "month-northern": "4-11",
-        "month-southern": "9-5",
+        "month-southern": "10-5",
         "time": "9am - 4pm",
         "isAllDay": false,
         "isAllYear": false,
         "location": "River",
         "rarity": "Common",
         "month-array-northern": [4, 5, 6, 7, 8, 9, 10, 11],
-        "month-array-southern": [9, 10, 11, 12, 1, 2, 3, 4, 5],
+        "month-array-southern": [10, 11, 12, 1, 2, 3, 4, 5],
         "time-array": [9, 10, 11, 12, 13, 14, 15]
     },
     "shadow": "Smallest (1)",
@@ -2242,14 +2242,14 @@
         "name-EUru": "полосатый оплегнат"
     },
     "availability": {
-        "month-northern": "2-11",
+        "month-northern": "3-11",
         "month-southern": "9-5",
         "time": "",
         "isAllDay": true,
         "isAllYear": false,
         "location": "Sea",
         "rarity": "Uncommon",
-        "month-array-northern": [2, 3, 4, 5, 6, 7, 8, 9, 10, 11],
+        "month-array-northern": [3, 4, 5, 6, 7, 8, 9, 10, 11],
         "month-array-southern": [9, 10, 11, 12, 1, 2, 3, 4, 5],
         "time-array": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23]
     },
