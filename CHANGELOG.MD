@@ -1,3 +1,6 @@
+## 13/07/2020
+- Fix the month array for single month fish and bugs.
+
 ## 06/07/2020
 - Added the museum description for arts.
 - Added Blather's facts for sea creatures.
