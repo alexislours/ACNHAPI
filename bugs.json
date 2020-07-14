@@ -2046,7 +2046,7 @@
             "rarity": "Ultra-rare",
             "month-array-northern": [6, 7, 8, 9],
             "month-array-southern": [12, 1, 2, 3],
-            "time-array": [17, 18, 19]
+            "time-array": [17, 18, 19, 20, 21, 22, 23, 0, 1, 2, 3, 4, 5, 6, 7]
         },
         "price": 8000,
         "price-flick": 12000,
