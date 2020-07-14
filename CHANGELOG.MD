@@ -1,3 +1,6 @@
+## 14/07/2020
+- Fix time array for goliath beetle.
+
 ## 13/07/2020
 - Fix the month array for single month fish and bugs.
 
