@@ -1,3 +1,7 @@
+## 15/07/2020
+- Fix the time array for giant isopod
+- Fix the month array for gigas giant clam
+
 ## 14/07/2020
 - Fix time array for goliath beetle.
 
