@@ -1,4 +1,5 @@
 ## 15/07/2020
+- Fix goliath beetle availability string.
 - Fix the time array for giant isopod
 - Fix the month array for gigas giant clam
 
