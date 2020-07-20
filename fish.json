@@ -186,7 +186,7 @@
             "month-array-southern": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
             "time-array": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23]
         },
-        "shadow": "Large (4)",
+        "shadow": "Medium (4)",
         "price": 300,
         "price-cj": 450,
         "catch-phrase": "I caught a carp! If I catch another they can carpool!",
@@ -225,7 +225,7 @@
             "month-array-southern": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
             "time-array": [16, 17, 18, 19, 20, 21, 22, 23, 0, 1, 2, 3, 4, 5, 6, 7, 8]
         },
-        "shadow": "Large (4)",
+        "shadow": "Medium (4)",
         "price": 4000,
         "price-cj": 6000,
         "catch-phrase": "I caught a koi! I don't know why it's so shy... or such a bad speller...",

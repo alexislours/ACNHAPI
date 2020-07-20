@@ -1,3 +1,6 @@
+## 20/07/2020
+- Fix the shadow size for the koi and the carp.
+
 ## 15/07/2020
 - Fix goliath beetle availability string.
 - Fix the time array for giant isopod
