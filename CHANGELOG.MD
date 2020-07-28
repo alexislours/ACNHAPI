@@ -1,3 +1,6 @@
+## 28/07/2020
+- Fix the location string for the spider.
+
 ## 20/07/2020
 - Fix the shadow size for the koi and the carp.
 
