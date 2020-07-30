@@ -1,6 +1,6 @@
 # ACNH API
 
-### Updated for 1.3.0 (Summer Update 1)
+### Updated for 1.4.0 (Summer Update 2)
 
 ### Introduction:
 
