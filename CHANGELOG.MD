@@ -1,3 +1,6 @@
+## 30/07/2020
+- 1.4.0 furnitures
+
 ## 28/07/2020
 - Fix the location string for the spider.
 
