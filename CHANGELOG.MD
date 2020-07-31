@@ -1,3 +1,6 @@
+## 31/07/2020
+- A few fixes related to bugs and fish.
+
 ## 30/07/2020
 - 1.4.0 furnitures
 

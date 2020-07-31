@@ -1546,7 +1546,7 @@
         "isAllDay": false,
         "isAllYear": false,
         "location": "River",
-        "rarity": "Uncommon",
+        "rarity": "Rare",
         "month-array-northern": [6, 7, 8, 9],
         "month-array-southern": [12, 1, 2, 3],
         "time-array": [9, 10, 11, 12, 13, 14, 15, 21, 22, 23, 0, 1, 2, 3]
