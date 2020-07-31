@@ -1,5 +1,6 @@
 [
     {
+        "id": 1,
         "file-name": "acanthostega",
         "name": {
             "name-USen": "acanthostega",
@@ -23,6 +24,7 @@
         "part-of": ""
     },
     {
+        "id": 2,
         "file-name": "amber",
         "name": {
             "name-USen": "amber",
@@ -46,6 +48,7 @@
         "part-of": ""
     },
     {
+        "id": 3,
         "file-name": "ammonite",
         "name": {
             "name-USen": "ammonite",
@@ -69,6 +72,7 @@
         "part-of": ""
     },
     {
+        "id": 4,
         "file-name": "ankylo_skull",
         "name": {
             "name-USen": "ankylo skull",
@@ -92,6 +96,7 @@
         "part-of": "ankylosaurus"
     },
     {
+        "id": 5,
         "file-name": "ankylo_tail",
         "name": {
             "name-USen": "ankylo tail",
@@ -115,6 +120,7 @@
         "part-of": "ankylosaurus"
     },
     {
+        "id": 6,
         "file-name": "ankylo_torso",
         "name": {
             "name-USen": "ankylo torso",
@@ -138,6 +144,7 @@
         "part-of": "ankylosaurus"
     },
     {
+        "id": 7,
         "file-name": "anomalocaris",
         "name": {
             "name-USen": "anomalocaris",
@@ -161,6 +168,7 @@
         "part-of": ""
     },
     {
+        "id": 8,
         "file-name": "archaeopteryx",
         "name": {
             "name-USen": "archaeopteryx",
@@ -184,6 +192,7 @@
         "part-of": ""
     },
     {
+        "id": 9,
         "file-name": "archelon_skull",
         "name": {
             "name-USen": "archelon skull",
@@ -207,6 +216,7 @@
         "part-of": "archelon"
     },
     {
+        "id": 10,
         "file-name": "archelon_tail",
         "name": {
             "name-USen": "archelon tail",
@@ -230,6 +240,7 @@
         "part-of": "archelon"
     },
     {
+        "id": 11,
         "file-name": "australopith",
         "name": {
             "name-USen": "australopith",
@@ -253,6 +264,7 @@
         "part-of": ""
     },
     {
+        "id": 12,
         "file-name": "brachio_chest",
         "name": {
             "name-USen": "brachio chest",
@@ -276,6 +288,7 @@
         "part-of": "brachiosaurus"
     },
     {
+        "id": 13,
         "file-name": "brachio_pelvis",
         "name": {
             "name-USen": "brachio pelvis",
@@ -299,6 +312,7 @@
         "part-of": "brachiosaurus"
     },
     {
+        "id": 14,
         "file-name": "brachio_skull",
         "name": {
             "name-USen": "brachio skull",
@@ -322,6 +336,7 @@
         "part-of": "brachiosaurus"
     },
     {
+        "id": 15,
         "file-name": "brachio_tail",
         "name": {
             "name-USen": "brachio tail",
@@ -345,6 +360,7 @@
         "part-of": "brachiosaurus"
     },
     {
+        "id": 16,
         "file-name": "coprolite",
         "name": {
             "name-USen": "coprolite",
@@ -368,6 +384,7 @@
         "part-of": ""
     },
     {
+        "id": 17,
         "file-name": "deinony_tail",
         "name": {
             "name-USen": "deinony tail",
@@ -391,6 +408,7 @@
         "part-of": "deinonychus"
     },
     {
+        "id": 18,
         "file-name": "deinony_torso",
         "name": {
             "name-USen": "deinony torso",
@@ -414,6 +432,7 @@
         "part-of": "deinonychus"
     },
     {
+        "id": 19,
         "file-name": "dimetrodon_skull",
         "name": {
             "name-USen": "dimetrodon skull",
@@ -437,6 +456,7 @@
         "part-of": "dimetrodon"
     },
     {
+        "id": 20,
         "file-name": "dimetrodon_torso",
         "name": {
             "name-USen": "dimetrodon torso",
@@ -460,6 +480,7 @@
         "part-of": "dimetrodon"
     },
     {
+        "id": 21,
         "file-name": "dinosaur_track",
         "name": {
             "name-USen": "dinosaur track",
@@ -483,6 +504,7 @@
         "part-of": ""
     },
     {
+        "id": 22,
         "file-name": "diplo_chest",
         "name": {
             "name-USen": "diplo chest",
@@ -506,6 +528,7 @@
         "part-of": "diplodocus"
     },
     {
+        "id": 23,
         "file-name": "diplo_neck",
         "name": {
             "name-USen": "diplo neck",
@@ -529,6 +552,7 @@
         "part-of": "diplodocus"
     },
     {
+        "id": 24,
         "file-name": "diplo_pelvis",
         "name": {
             "name-USen": "diplo pelvis",
@@ -552,6 +576,7 @@
         "part-of": "diplodocus"
     },
     {
+        "id": 25,
         "file-name": "diplo_skull",
         "name": {
             "name-USen": "diplo skull",
@@ -575,6 +600,7 @@
         "part-of": "diplodocus"
     },
     {
+        "id": 26,
         "file-name": "diplo_tail",
         "name": {
             "name-USen": "diplo tail",
@@ -598,6 +624,7 @@
         "part-of": "diplodocus"
     },
     {
+        "id": 27,
         "file-name": "diplo_tail_tip",
         "name": {
             "name-USen": "diplo tail tip",
@@ -621,6 +648,7 @@
         "part-of": "diplodocus"
     },
     {
+        "id": 28,
         "file-name": "dunkleosteus",
         "name": {
             "name-USen": "dunkleosteus",
@@ -644,6 +672,7 @@
         "part-of": ""
     },
     {
+        "id": 29,
         "file-name": "eusthenopteron",
         "name": {
             "name-USen": "eusthenopteron",
@@ -667,6 +696,7 @@
         "part-of": ""
     },
     {
+        "id": 30,
         "file-name": "iguanodon_skull",
         "name": {
             "name-USen": "iguanodon skull",
@@ -690,6 +720,7 @@
         "part-of": "iguanodon"
     },
     {
+        "id": 31,
         "file-name": "iguanodon_tail",
         "name": {
             "name-USen": "iguanodon tail",
@@ -713,6 +744,7 @@
         "part-of": "iguanodon"
     },
     {
+        "id": 32,
         "file-name": "iguanodon_torso",
         "name": {
             "name-USen": "iguanodon torso",
@@ -736,6 +768,7 @@
         "part-of": "iguanodon"
     },
     {
+        "id": 33,
         "file-name": "juramaia",
         "name": {
             "name-USen": "juramaia",
@@ -759,6 +792,7 @@
         "part-of": ""
     },
     {
+        "id": 34,
         "file-name": "left_megalo_side",
         "name": {
             "name-USen": "left megalo side",
@@ -782,6 +816,7 @@
         "part-of": "megaloceros"
     },
     {
+        "id": 35,
         "file-name": "left_ptera_wing",
         "name": {
             "name-USen": "left ptera wing",
@@ -805,6 +840,7 @@
         "part-of": "pteranodon"
     },
     {
+        "id": 36,
         "file-name": "left_quetzal_wing",
         "name": {
             "name-USen": "left quetzal wing",
@@ -828,6 +864,7 @@
         "part-of": "quetzalcoatlus"
     },
     {
+        "id": 37,
         "file-name": "mammoth_skull",
         "name": {
             "name-USen": "mammoth skull",
@@ -851,6 +888,7 @@
         "part-of": "mammoth"
     },
     {
+        "id": 38,
         "file-name": "mammoth_torso",
         "name": {
             "name-USen": "mammoth torso",
@@ -874,6 +912,7 @@
         "part-of": "mammoth"
     },
     {
+        "id": 39,
         "file-name": "megacero_skull",
         "name": {
             "name-USen": "megacero skull",
@@ -897,6 +936,7 @@
         "part-of": "megacerops"
     },
     {
+        "id": 40,
         "file-name": "megacero_tail",
         "name": {
             "name-USen": "megacero tail",
@@ -920,6 +960,7 @@
         "part-of": "megacerops"
     },
     {
+        "id": 41,
         "file-name": "megacero_torso",
         "name": {
             "name-USen": "megacero torso",
@@ -943,6 +984,7 @@
         "part-of": "megacerops"
     },
     {
+        "id": 42,
         "file-name": "myllokunmingia",
         "name": {
             "name-USen": "myllokunmingia",
@@ -966,6 +1008,7 @@
         "part-of": ""
     },
     {
+        "id": 43,
         "file-name": "ophthalmo_skull",
         "name": {
             "name-USen": "ophthalmo skull",
@@ -989,6 +1032,7 @@
         "part-of": "ophthalmosaurus"
     },
     {
+        "id": 44,
         "file-name": "ophthalmo_torso",
         "name": {
             "name-USen": "ophthalmo torso",
@@ -1012,6 +1056,7 @@
         "part-of": "ophthalmosaurus"
     },
     {
+        "id": 45,
         "file-name": "pachysaurus_skull",
         "name": {
             "name-USen": "pachy skull",
@@ -1035,6 +1080,7 @@
         "part-of": "pachycephalosaurus"
     },
     {
+        "id": 46,
         "file-name": "pachysaurus_tail",
         "name": {
             "name-USen": "pachy tail",
@@ -1058,6 +1104,7 @@
         "part-of": "pachycephalosaurus"
     },
     {
+        "id": 47,
         "file-name": "parasaur_skull",
         "name": {
             "name-USen": "parasaur skull",
@@ -1081,6 +1128,7 @@
         "part-of": "parasaurolophus"
     },
     {
+        "id": 48,
         "file-name": "parasaur_tail",
         "name": {
             "name-USen": "parasaur tail",
@@ -1104,6 +1152,7 @@
         "part-of": "parasaurolophus"
     },
     {
+        "id": 49,
         "file-name": "parasaur_torso",
         "name": {
             "name-USen": "parasaur torso",
@@ -1127,6 +1176,7 @@
         "part-of": "parasaurolophus"
     },
     {
+        "id": 50,
         "file-name": "plesio_body",
         "name": {
             "name-USen": "plesio torso",
@@ -1150,6 +1200,7 @@
         "part-of": "plesiosaurus"
     },
     {
+        "id": 51,
         "file-name": "plesio_skull",
         "name": {
             "name-USen": "plesio skull",
@@ -1173,6 +1224,7 @@
         "part-of": "plesiosaurus"
     },
     {
+        "id": 52,
         "file-name": "plesio_tail",
         "name": {
             "name-USen": "plesio tail",
@@ -1196,6 +1248,7 @@
         "part-of": "plesiosaurus"
     },
     {
+        "id": 53,
         "file-name": "ptera_body",
         "name": {
             "name-USen": "ptera body",
@@ -1219,6 +1272,7 @@
         "part-of": "pteranodon"
     },
     {
+        "id": 54,
         "file-name": "quetzal_torso",
         "name": {
             "name-USen": "quetzal torso",
@@ -1242,6 +1296,7 @@
         "part-of": "quetzalcoatlus"
     },
     {
+        "id": 55,
         "file-name": "right_megalo_side",
         "name": {
             "name-USen": "right megalo side",
@@ -1265,6 +1320,7 @@
         "part-of": "megaloceros"
     },
     {
+        "id": 56,
         "file-name": "right_ptera_wing",
         "name": {
             "name-USen": "right ptera wing",
@@ -1288,6 +1344,7 @@
         "part-of": "pteranodon"
     },
     {
+        "id": 57,
         "file-name": "right_quetzal_wing",
         "name": {
             "name-USen": "right quetzal wing",
@@ -1311,6 +1368,7 @@
         "part-of": "quetzalcoatlus"
     },
     {
+        "id": 58,
         "file-name": "sabertooth_skull",
         "name": {
             "name-USen": "sabertooth skull",
@@ -1334,6 +1392,7 @@
         "part-of": "sabertooth tiger"
     },
     {
+        "id": 59,
         "file-name": "sabertooth_tail",
         "name": {
             "name-USen": "sabertooth tail",
@@ -1357,6 +1416,7 @@
         "part-of": "sabertooth tiger"
     },
     {
+        "id": 60,
         "file-name": "shark-tooth_pattern",
         "name": {
             "name-USen": "shark-tooth pattern",
@@ -1380,6 +1440,7 @@
         "part-of": ""
     },
     {
+        "id": 61,
         "file-name": "spino_skull",
         "name": {
             "name-USen": "spino skull",
@@ -1403,6 +1464,7 @@
         "part-of": "spinosaurus"
     },
     {
+        "id": 62,
         "file-name": "spino_tail",
         "name": {
             "name-USen": "spino tail",
@@ -1426,6 +1488,7 @@
         "part-of": "spinosaurus"
     },
     {
+        "id": 63,
         "file-name": "spino_torso",
         "name": {
             "name-USen": "spino torso",
@@ -1449,6 +1512,7 @@
         "part-of": "spinosaurus"
     },
     {
+        "id": 64,
         "file-name": "stego_skull",
         "name": {
             "name-USen": "stego skull",
@@ -1472,6 +1536,7 @@
         "part-of": "stegosaurus"
     },
     {
+        "id": 65,
         "file-name": "stego_tail",
         "name": {
             "name-USen": "stego tail",
@@ -1495,6 +1560,7 @@
         "part-of": "stegosaurus"
     },
     {
+        "id": 66,
         "file-name": "stego_torso",
         "name": {
             "name-USen": "stego torso",
@@ -1518,6 +1584,7 @@
         "part-of": "stegosaurus"
     },
     {
+        "id": 67,
         "file-name": "trex_skull",
         "name": {
             "name-USen": "T. rex skull",
@@ -1541,6 +1608,7 @@
         "part-of": "tyrannosaurus rex"
     },
     {
+        "id": 68,
         "file-name": "trex_tail",
         "name": {
             "name-USen": "T. rex tail",
@@ -1564,6 +1632,7 @@
         "part-of": "tyrannosaurus rex"
     },
     {
+        "id": 69,
         "file-name": "trex_torso",
         "name": {
             "name-USen": "T. rex torso",
@@ -1587,6 +1656,7 @@
         "part-of": "tyrannosaurus rex"
     },
     {
+        "id": 70,
         "file-name": "tricera_skull",
         "name": {
             "name-USen": "tricera skull",
@@ -1610,6 +1680,7 @@
         "part-of": "triceratops"
     },
     {
+        "id": 71,
         "file-name": "tricera_tail",
         "name": {
             "name-USen": "tricera tail",
@@ -1633,6 +1704,7 @@
         "part-of": "triceratops"
     },
     {
+        "id": 72,
         "file-name": "tricera_torso",
         "name": {
             "name-USen": "tricera torso",
@@ -1656,6 +1728,7 @@
         "part-of": "triceratops"
     },
     {
+        "id": 73,
         "file-name": "trilobite",
         "name": {
             "name-USen": "trilobite",
