@@ -1,37 +1,38 @@
-## 02/08/2020
+### 02/08/2020
 - See the status update in the README.
+- Fixed the formatting of the changelog.
 
-## 31/07/2020
+### 31/07/2020
 - A few fixes related to bugs and fish.
 
-## 30/07/2020
+### 30/07/2020
 - 1.4.0 furnitures
 
-## 28/07/2020
+### 28/07/2020
 - Fix the location string for the spider.
 
-## 20/07/2020
+### 20/07/2020
 - Fix the shadow size for the koi and the carp.
 
-## 15/07/2020
+### 15/07/2020
 - Fix goliath beetle availability string.
 - Fix the time array for giant isopod
 - Fix the month array for gigas giant clam
 
-## 14/07/2020
+### 14/07/2020
 - Fix time array for goliath beetle.
 
-## 13/07/2020
+### 13/07/2020
 - Fix the month array for single month fish and bugs.
 
-## 06/07/2020
+### 06/07/2020
 - Added the museum description for arts.
 - Added Blather's facts for sea creatures.
 
-## 05/07/2020
+### 05/07/2020
 - Added sea creatures catch-phrase.
 
-## 04/07/2020
+### 04/07/2020
 - Added Sea Creatures endpoint
 - Updated furnitures for 1.3.0
 
