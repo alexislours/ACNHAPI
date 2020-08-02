@@ -1,6 +1,7 @@
 ### 02/08/2020
 - See the status update in the README.
 - Fixed the formatting of the changelog.
+- Updated fossils, added part-of to every fossils following the strings found in the game files. Renamed plesio_body to plesio_torso to reflect the changes in game.
 
 ### 31/07/2020
 - A few fixes related to bugs and fish.
