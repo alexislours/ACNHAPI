@@ -1,3 +1,6 @@
+## 02/08/2020
+- See the status update in the README.
+
 ## 31/07/2020
 - A few fixes related to bugs and fish.
 
