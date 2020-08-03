@@ -1,6 +1,7 @@
 ### 03/08/2020
 - More changes to furniture.
 - Fixes to fossils image uri.
+- Switched villagers to new parser.
 
 ### 02/08/2020
 - See the status update in the README.
