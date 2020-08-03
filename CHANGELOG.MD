@@ -1,5 +1,6 @@
 ### 03/08/2020
-- More changes to furniture
+- More changes to furniture.
+- Fixes to fossils image uri.
 
 ### 02/08/2020
 - See the status update in the README.
