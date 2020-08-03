@@ -3,6 +3,7 @@
 - Fixes to fossils image uri.
 - Switched villagers to new parser.
 - Add the `text-color` and `bubble-color` keys which give the hex value of a villager's speach bubble.
+- Add the saying, subtype and hobby of villagers.
 
 ### 02/08/2020
 - See the status update in the README.
