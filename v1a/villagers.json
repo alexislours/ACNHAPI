@@ -26,6 +26,8 @@
       "catch-phrase": "ah-CHOO",
       "icon_uri": "https://acnhapi.com/v1/icons/villagers/1",
       "image_uri": "https://acnhapi.com/v1/images/villagers/1",
+      "bubble-color": "#194c89",
+      "text-color": "#fffad4",
       "catch-translations": {
         "catch-USen": "ah-CHOO",
         "catch-EUen": "ah-CHOO",
@@ -70,6 +72,8 @@
       "catch-phrase": "honk",
       "icon_uri": "https://acnhapi.com/v1/icons/villagers/2",
       "image_uri": "https://acnhapi.com/v1/images/villagers/2",
+      "bubble-color": "#fff98f",
+      "text-color": "#879b96",
       "catch-translations": {
         "catch-USen": "honk",
         "catch-EUen": "honk",
@@ -114,6 +118,8 @@
       "catch-phrase": "snooooof",
       "icon_uri": "https://acnhapi.com/v1/icons/villagers/3",
       "image_uri": "https://acnhapi.com/v1/images/villagers/3",
+      "bubble-color": "#00d1bd",
+      "text-color": "#fffce9",
       "catch-translations": {
         "catch-USen": "snooooof",
         "catch-EUen": "snooooof",
@@ -158,6 +164,8 @@
       "catch-phrase": "snorty",
       "icon_uri": "https://acnhapi.com/v1/icons/villagers/4",
       "image_uri": "https://acnhapi.com/v1/images/villagers/4",
+      "bubble-color": "#ff791f",
+      "text-color": "#fff2bb",
       "catch-translations": {
         "catch-USen": "snorty",
         "catch-EUen": "snorty",
@@ -202,6 +210,8 @@
       "catch-phrase": "sniffff",
       "icon_uri": "https://acnhapi.com/v1/icons/villagers/5",
       "image_uri": "https://acnhapi.com/v1/images/villagers/5",
+      "bubble-color": "#f2bdc7",
+      "text-color": "#634b4b",
       "catch-translations": {
         "catch-USen": "sniffff",
         "catch-EUen": "sniffff",
@@ -246,6 +256,8 @@
       "catch-phrase": "gumdrop",
       "icon_uri": "https://acnhapi.com/v1/icons/villagers/6",
       "image_uri": "https://acnhapi.com/v1/images/villagers/6",
+      "bubble-color": "#ffffff",
+      "text-color": "#848484",
       "catch-translations": {
         "catch-USen": "gumdrop",
         "catch-EUen": "gumdrop",
@@ -290,6 +302,8 @@
       "catch-phrase": "whiffa",
       "icon_uri": "https://acnhapi.com/v1/icons/villagers/7",
       "image_uri": "https://acnhapi.com/v1/images/villagers/7",
+      "bubble-color": "#ff791f",
+      "text-color": "#fff2bb",
       "catch-translations": {
         "catch-USen": "whiffa",
         "catch-EUen": "whiffa",
@@ -334,6 +348,8 @@
       "catch-phrase": "grooof",
       "icon_uri": "https://acnhapi.com/v1/icons/villagers/8",
       "image_uri": "https://acnhapi.com/v1/images/villagers/8",
+      "bubble-color": "#ff791f",
+      "text-color": "#fff2bb",
       "catch-translations": {
         "catch-USen": "grooof",
         "catch-EUen": "grooof",
@@ -378,6 +394,8 @@
       "catch-phrase": "wah",
       "icon_uri": "https://acnhapi.com/v1/icons/villagers/9",
       "image_uri": "https://acnhapi.com/v1/images/villagers/9",
+      "bubble-color": "#fff98f",
+      "text-color": "#879b96",
       "catch-translations": {
         "catch-USen": "wah",
         "catch-EUen": "wah",
@@ -422,6 +440,8 @@
       "catch-phrase": "fuzzball",
       "icon_uri": "https://acnhapi.com/v1/icons/villagers/10",
       "image_uri": "https://acnhapi.com/v1/images/villagers/10",
+      "bubble-color": "#515151",
+      "text-color": "#fffce9",
       "catch-translations": {
         "catch-USen": "fuzzball",
         "catch-EUen": "fuzzball",
@@ -466,6 +486,8 @@
       "catch-phrase": "aiya",
       "icon_uri": "https://acnhapi.com/v1/icons/villagers/11",
       "image_uri": "https://acnhapi.com/v1/images/villagers/11",
+      "bubble-color": "#f2bdc7",
+      "text-color": "#634b4b",
       "catch-translations": {
         "catch-USen": "aiya",
         "catch-EUen": "aiya",
@@ -510,6 +532,8 @@
       "catch-phrase": "yawwwn",
       "icon_uri": "https://acnhapi.com/v1/icons/villagers/12",
       "image_uri": "https://acnhapi.com/v1/images/villagers/12",
+      "bubble-color": "#e8b010",
+      "text-color": "#fffce9",
       "catch-translations": {
         "catch-USen": "yawwwn",
         "catch-EUen": "yawwwn",
@@ -554,6 +578,8 @@
       "catch-phrase": "grumble",
       "icon_uri": "https://acnhapi.com/v1/icons/villagers/13",
       "image_uri": "https://acnhapi.com/v1/images/villagers/13",
+      "bubble-color": "#194c89",
+      "text-color": "#fffad4",
       "catch-translations": {
         "catch-USen": "grumble",
         "catch-EUen": "grumble",
@@ -598,6 +624,8 @@
       "catch-phrase": "twinkles",
       "icon_uri": "https://acnhapi.com/v1/icons/villagers/14",
       "image_uri": "https://acnhapi.com/v1/images/villagers/14",
+      "bubble-color": "#ffffff",
+      "text-color": "#848484",
       "catch-translations": {
         "catch-USen": "twinkles",
         "catch-EUen": "twinkles",
@@ -642,6 +670,8 @@
       "catch-phrase": "grooomph",
       "icon_uri": "https://acnhapi.com/v1/icons/villagers/15",
       "image_uri": "https://acnhapi.com/v1/images/villagers/15",
+      "bubble-color": "#f2bdc7",
+      "text-color": "#634b4b",
       "catch-translations": {
         "catch-USen": "grooomph",
         "catch-EUen": "grooomph",
@@ -686,6 +716,8 @@
       "catch-phrase": "grrr",
       "icon_uri": "https://acnhapi.com/v1/icons/villagers/16",
       "image_uri": "https://acnhapi.com/v1/images/villagers/16",
+      "bubble-color": "#7c6559",
+      "text-color": "#eac113",
       "catch-translations": {
         "catch-USen": "grrr",
         "catch-EUen": "grrr",
@@ -730,6 +762,8 @@
       "catch-phrase": "yodelay",
       "icon_uri": "https://acnhapi.com/v1/icons/villagers/17",
       "image_uri": "https://acnhapi.com/v1/images/villagers/17",
+      "bubble-color": "#e8b010",
+      "text-color": "#fffce9",
       "catch-translations": {
         "catch-USen": "yodelay",
         "catch-EUen": "yodelay",
@@ -774,6 +808,8 @@
       "catch-phrase": "roadie",
       "icon_uri": "https://acnhapi.com/v1/icons/villagers/18",
       "image_uri": "https://acnhapi.com/v1/images/villagers/18",
+      "bubble-color": "#4c3317",
+      "text-color": "#fffce9",
       "catch-translations": {
         "catch-USen": "roadie",
         "catch-EUen": "roadie",
@@ -818,6 +854,8 @@
       "catch-phrase": "urgh",
       "icon_uri": "https://acnhapi.com/v1/icons/villagers/19",
       "image_uri": "https://acnhapi.com/v1/images/villagers/19",
+      "bubble-color": "#78dd62",
+      "text-color": "#28665a",
       "catch-translations": {
         "catch-USen": "urgh",
         "catch-EUen": "urgh",
@@ -862,6 +900,8 @@
       "catch-phrase": "whiskers",
       "icon_uri": "https://acnhapi.com/v1/icons/villagers/20",
       "image_uri": "https://acnhapi.com/v1/images/villagers/20",
+      "bubble-color": "#3fd8e0",
+      "text-color": "#fffce9",
       "catch-translations": {
         "catch-USen": "whiskers",
         "catch-EUen": "whiskers",
@@ -906,6 +946,8 @@
       "catch-phrase": "strudel",
       "icon_uri": "https://acnhapi.com/v1/icons/villagers/21",
       "image_uri": "https://acnhapi.com/v1/images/villagers/21",
+      "bubble-color": "#acc8cf",
+      "text-color": "#498992",
       "catch-translations": {
         "catch-USen": "strudel",
         "catch-EUen": "strudel",
@@ -950,6 +992,8 @@
       "catch-phrase": "sundae",
       "icon_uri": "https://acnhapi.com/v1/icons/villagers/22",
       "image_uri": "https://acnhapi.com/v1/images/villagers/22",
+      "bubble-color": "#ec7efc",
+      "text-color": "#fffce9",
       "catch-translations": {
         "catch-USen": "sundae",
         "catch-EUen": "sundae",
@@ -994,6 +1038,8 @@
       "catch-phrase": "heeeeeyy",
       "icon_uri": "https://acnhapi.com/v1/icons/villagers/23",
       "image_uri": "https://acnhapi.com/v1/images/villagers/23",
+      "bubble-color": "#6b75ce",
+      "text-color": "#9ae8df",
       "catch-translations": {
         "catch-USen": "heeeeeyy",
         "catch-EUen": "heeeeeyy",
@@ -1038,6 +1084,8 @@
       "catch-phrase": "la-di-da",
       "icon_uri": "https://acnhapi.com/v1/icons/villagers/24",
       "image_uri": "https://acnhapi.com/v1/images/villagers/24",
+      "bubble-color": "#6b75ce",
+      "text-color": "#9ae8df",
       "catch-translations": {
         "catch-USen": "la-di-da",
         "catch-EUen": "la-di-da",
@@ -1082,6 +1130,8 @@
       "catch-phrase": "chuurp",
       "icon_uri": "https://acnhapi.com/v1/icons/villagers/25",
       "image_uri": "https://acnhapi.com/v1/images/villagers/25",
+      "bubble-color": "#d86808",
+      "text-color": "#fffce9",
       "catch-translations": {
         "catch-USen": "chuurp",
         "catch-EUen": "chuurp",
@@ -1126,6 +1176,8 @@
       "catch-phrase": "cheepers",
       "icon_uri": "https://acnhapi.com/v1/icons/villagers/26",
       "image_uri": "https://acnhapi.com/v1/images/villagers/26",
+      "bubble-color": "#fff80d",
+      "text-color": "#9b8986",
       "catch-translations": {
         "catch-USen": "cheepers",
         "catch-EUen": "cheepers",
@@ -1170,6 +1222,8 @@
       "catch-phrase": "bzzert",
       "icon_uri": "https://acnhapi.com/v1/icons/villagers/27",
       "image_uri": "https://acnhapi.com/v1/images/villagers/27",
+      "bubble-color": "#78dd62",
+      "text-color": "#28665a",
       "catch-translations": {
         "catch-USen": "bzzert",
         "catch-EUen": "bzzert",
@@ -1214,6 +1268,8 @@
       "catch-phrase": "chickadee",
       "icon_uri": "https://acnhapi.com/v1/icons/villagers/28",
       "image_uri": "https://acnhapi.com/v1/images/villagers/28",
+      "bubble-color": "#ffffff",
+      "text-color": "#848484",
       "catch-translations": {
         "catch-USen": "chickadee",
         "catch-EUen": "chickadee",
@@ -1258,6 +1314,8 @@
       "catch-phrase": "aye aye",
       "icon_uri": "https://acnhapi.com/v1/icons/villagers/29",
       "image_uri": "https://acnhapi.com/v1/images/villagers/29",
+      "bubble-color": "#0ca54a",
+      "text-color": "#fffce9",
       "catch-translations": {
         "catch-USen": "aye aye",
         "catch-EUen": "aye aye",
@@ -1302,6 +1360,8 @@
       "catch-phrase": "tweedledee",
       "icon_uri": "https://acnhapi.com/v1/icons/villagers/30",
       "image_uri": "https://acnhapi.com/v1/images/villagers/30",
+      "bubble-color": "#ec7efc",
+      "text-color": "#fffce9",
       "catch-translations": {
         "catch-USen": "tweedledee",
         "catch-EUen": "tweedledee",
@@ -1346,6 +1406,8 @@
       "catch-phrase": "ya feel",
       "icon_uri": "https://acnhapi.com/v1/icons/villagers/31",
       "image_uri": "https://acnhapi.com/v1/images/villagers/31",
+      "bubble-color": "#ffffff",
+      "text-color": "#848484",
       "catch-translations": {
         "catch-USen": "ya feel",
         "catch-EUen": "ya feel",
@@ -1390,6 +1452,8 @@
       "catch-phrase": "cacaw",
       "icon_uri": "https://acnhapi.com/v1/icons/villagers/32",
       "image_uri": "https://acnhapi.com/v1/images/villagers/32",
+      "bubble-color": "#ff4040",
+      "text-color": "#fffad4",
       "catch-translations": {
         "catch-USen": "cacaw",
         "catch-EUen": "cacaw",
@@ -1434,6 +1498,8 @@
       "catch-phrase": "zut alors",
       "icon_uri": "https://acnhapi.com/v1/icons/villagers/33",
       "image_uri": "https://acnhapi.com/v1/images/villagers/33",
+      "bubble-color": "#194c89",
+      "text-color": "#fffad4",
       "catch-translations": {
         "catch-USen": "zut alors",
         "catch-EUen": "zut alors",
@@ -1478,6 +1544,8 @@
       "catch-phrase": "crunch",
       "icon_uri": "https://acnhapi.com/v1/icons/villagers/34",
       "image_uri": "https://acnhapi.com/v1/images/villagers/34",
+      "bubble-color": "#4c3317",
+      "text-color": "#fffce9",
       "catch-translations": {
         "catch-USen": "crunch",
         "catch-EUen": "crunch",
@@ -1522,6 +1590,8 @@
       "catch-phrase": "like whoa",
       "icon_uri": "https://acnhapi.com/v1/icons/villagers/35",
       "image_uri": "https://acnhapi.com/v1/images/villagers/35",
+      "bubble-color": "#7a2500",
+      "text-color": "#fffce9",
       "catch-translations": {
         "catch-USen": "like whoa",
         "catch-EUen": "like whoa",
@@ -1566,6 +1636,8 @@
       "catch-phrase": "macmoo",
       "icon_uri": "https://acnhapi.com/v1/icons/villagers/36",
       "image_uri": "https://acnhapi.com/v1/images/villagers/36",
+      "bubble-color": "#ff791f",
+      "text-color": "#fff2bb",
       "catch-translations": {
         "catch-USen": "macmoo",
         "catch-EUen": "macmoo",
@@ -1610,6 +1682,8 @@
       "catch-phrase": "chaps",
       "icon_uri": "https://acnhapi.com/v1/icons/villagers/37",
       "image_uri": "https://acnhapi.com/v1/images/villagers/37",
+      "bubble-color": "#515151",
+      "text-color": "#fffce9",
       "catch-translations": {
         "catch-USen": "chaps",
         "catch-EUen": "chaps",
@@ -1654,6 +1728,8 @@
       "catch-phrase": "mrooooo",
       "icon_uri": "https://acnhapi.com/v1/icons/villagers/38",
       "image_uri": "https://acnhapi.com/v1/images/villagers/38",
+      "bubble-color": "#6b75ce",
+      "text-color": "#9ae8df",
       "catch-translations": {
         "catch-USen": "mrooooo",
         "catch-EUen": "mrooooo",
@@ -1698,6 +1774,8 @@
       "catch-phrase": "moocher",
       "icon_uri": "https://acnhapi.com/v1/icons/villagers/39",
       "image_uri": "https://acnhapi.com/v1/images/villagers/39",
+      "bubble-color": "#acc8cf",
+      "text-color": "#498992",
       "catch-translations": {
         "catch-USen": "moocher",
         "catch-EUen": "moocher",
@@ -1742,6 +1820,8 @@
       "catch-phrase": "stubble",
       "icon_uri": "https://acnhapi.com/v1/icons/villagers/40",
       "image_uri": "https://acnhapi.com/v1/images/villagers/40",
+      "bubble-color": "#ffd00d",
+      "text-color": "#9b553a",
       "catch-translations": {
         "catch-USen": "stubble",
         "catch-EUen": "stubble",
@@ -1786,6 +1866,8 @@
       "catch-phrase": "cud",
       "icon_uri": "https://acnhapi.com/v1/icons/villagers/41",
       "image_uri": "https://acnhapi.com/v1/images/villagers/41",
+      "bubble-color": "#c0ab72",
+      "text-color": "#fffce9",
       "catch-translations": {
         "catch-USen": "cud",
         "catch-EUen": "cud",
@@ -1830,6 +1912,8 @@
       "catch-phrase": "pthhpth",
       "icon_uri": "https://acnhapi.com/v1/icons/villagers/42",
       "image_uri": "https://acnhapi.com/v1/images/villagers/42",
+      "bubble-color": "#a06fce",
+      "text-color": "#fffce9",
       "catch-translations": {
         "catch-USen": "pthhpth",
         "catch-EUen": "pthhpth",
@@ -1874,6 +1958,8 @@
       "catch-phrase": "mew",
       "icon_uri": "https://acnhapi.com/v1/icons/villagers/43",
       "image_uri": "https://acnhapi.com/v1/images/villagers/43",
+      "bubble-color": "#7fa9ff",
+      "text-color": "#fffce9",
       "catch-translations": {
         "catch-USen": "mew",
         "catch-EUen": "mew",
@@ -1918,6 +2004,8 @@
       "catch-phrase": "silly",
       "icon_uri": "https://acnhapi.com/v1/icons/villagers/44",
       "image_uri": "https://acnhapi.com/v1/images/villagers/44",
+      "bubble-color": "#7fa9ff",
+      "text-color": "#fffce9",
       "catch-translations": {
         "catch-USen": "silly",
         "catch-EUen": "silly",
@@ -1962,6 +2050,8 @@
       "catch-phrase": "purrr",
       "icon_uri": "https://acnhapi.com/v1/icons/villagers/45",
       "image_uri": "https://acnhapi.com/v1/images/villagers/45",
+      "bubble-color": "#ffffff",
+      "text-color": "#848484",
       "catch-translations": {
         "catch-USen": "purrr",
         "catch-EUen": "purrr",
@@ -2006,6 +2096,8 @@
       "catch-phrase": "kitty cat",
       "icon_uri": "https://acnhapi.com/v1/icons/villagers/46",
       "image_uri": "https://acnhapi.com/v1/images/villagers/46",
+      "bubble-color": "#515151",
+      "text-color": "#fffce9",
       "catch-translations": {
         "catch-USen": "kitty cat",
         "catch-EUen": "kitty cat",
@@ -2050,6 +2142,8 @@
       "catch-phrase": "reeeeOWR",
       "icon_uri": "https://acnhapi.com/v1/icons/villagers/47",
       "image_uri": "https://acnhapi.com/v1/images/villagers/47",
+      "bubble-color": "#ffd00d",
+      "text-color": "#9b553a",
       "catch-translations": {
         "catch-USen": "reeeeOWR",
         "catch-EUen": "reeeeOWR",
@@ -2094,6 +2188,8 @@
       "catch-phrase": "mrmpht",
       "icon_uri": "https://acnhapi.com/v1/icons/villagers/48",
       "image_uri": "https://acnhapi.com/v1/images/villagers/48",
+      "bubble-color": "#ffffff",
+      "text-color": "#848484",
       "catch-translations": {
         "catch-USen": "mrmpht",
         "catch-EUen": "mrmpht",
@@ -2138,6 +2234,8 @@
       "catch-phrase": "kitten",
       "icon_uri": "https://acnhapi.com/v1/icons/villagers/49",
       "image_uri": "https://acnhapi.com/v1/images/villagers/49",
+      "bubble-color": "#ffffff",
+      "text-color": "#848484",
       "catch-translations": {
         "catch-USen": "kitten",
         "catch-EUen": "kitten",
@@ -2182,6 +2280,8 @@
       "catch-phrase": "myawn",
       "icon_uri": "https://acnhapi.com/v1/icons/villagers/50",
       "image_uri": "https://acnhapi.com/v1/images/villagers/50",
+      "bubble-color": "#0961f6",
+      "text-color": "#fffce9",
       "catch-translations": {
         "catch-USen": "myawn",
         "catch-EUen": "myawn",
@@ -2226,6 +2326,8 @@
       "catch-phrase": "meooo-OH",
       "icon_uri": "https://acnhapi.com/v1/icons/villagers/51",
       "image_uri": "https://acnhapi.com/v1/images/villagers/51",
+      "bubble-color": "#ffffff",
+      "text-color": "#848484",
       "catch-translations": {
         "catch-USen": "meooo-OH",
         "catch-EUen": "meooo-OH",
@@ -2270,6 +2372,8 @@
       "catch-phrase": "psst",
       "icon_uri": "https://acnhapi.com/v1/icons/villagers/52",
       "image_uri": "https://acnhapi.com/v1/images/villagers/52",
+      "bubble-color": "#ff4040",
+      "text-color": "#fffad4",
       "catch-translations": {
         "catch-USen": "psst",
         "catch-EUen": "psst",
@@ -2314,6 +2418,8 @@
       "catch-phrase": "pffffft",
       "icon_uri": "https://acnhapi.com/v1/icons/villagers/53",
       "image_uri": "https://acnhapi.com/v1/images/villagers/53",
+      "bubble-color": "#fff98f",
+      "text-color": "#879b96",
       "catch-translations": {
         "catch-USen": "pffffft",
         "catch-EUen": "pffffft",
@@ -2358,6 +2464,8 @@
       "catch-phrase": "me-WOW",
       "icon_uri": "https://acnhapi.com/v1/icons/villagers/54",
       "image_uri": "https://acnhapi.com/v1/images/villagers/54",
+      "bubble-color": "#ff791f",
+      "text-color": "#fff2bb",
       "catch-translations": {
         "catch-USen": "me-WOW",
         "catch-EUen": "me-WOW",
@@ -2402,6 +2510,8 @@
       "catch-phrase": "GAAHHH",
       "icon_uri": "https://acnhapi.com/v1/icons/villagers/55",
       "image_uri": "https://acnhapi.com/v1/images/villagers/55",
+      "bubble-color": "#d8cc39",
+      "text-color": "#8b5f57",
       "catch-translations": {
         "catch-USen": "GAAHHH",
         "catch-EUen": "GAAHHH",
@@ -2446,6 +2556,8 @@
       "catch-phrase": "mrowrr",
       "icon_uri": "https://acnhapi.com/v1/icons/villagers/56",
       "image_uri": "https://acnhapi.com/v1/images/villagers/56",
+      "bubble-color": "#c0ab72",
+      "text-color": "#fffce9",
       "catch-translations": {
         "catch-USen": "mrowrr",
         "catch-EUen": "mrowrr",
@@ -2490,6 +2602,8 @@
       "catch-phrase": "me-YOWZA",
       "icon_uri": "https://acnhapi.com/v1/icons/villagers/57",
       "image_uri": "https://acnhapi.com/v1/images/villagers/57",
+      "bubble-color": "#0961f6",
+      "text-color": "#fffce9",
       "catch-translations": {
         "catch-USen": "me-YOWZA",
         "catch-EUen": "me-YOWZA",
@@ -2534,6 +2648,8 @@
       "catch-phrase": "mweee",
       "icon_uri": "https://acnhapi.com/v1/icons/villagers/58",
       "image_uri": "https://acnhapi.com/v1/images/villagers/58",
+      "bubble-color": "#fff98f",
+      "text-color": "#879b96",
       "catch-translations": {
         "catch-USen": "mweee",
         "catch-EUen": "mweee",
@@ -2578,6 +2694,8 @@
       "catch-phrase": "mimimi",
       "icon_uri": "https://acnhapi.com/v1/icons/villagers/59",
       "image_uri": "https://acnhapi.com/v1/images/villagers/59",
+      "bubble-color": "#fff98f",
+      "text-color": "#879b96",
       "catch-translations": {
         "catch-USen": "mimimi",
         "catch-EUen": "mimimi",
@@ -2622,6 +2740,8 @@
       "catch-phrase": "bonbon",
       "icon_uri": "https://acnhapi.com/v1/icons/villagers/60",
       "image_uri": "https://acnhapi.com/v1/images/villagers/60",
+      "bubble-color": "#bff2ff",
+      "text-color": "#85a2af",
       "catch-translations": {
         "catch-USen": "bonbon",
         "catch-EUen": "bonbon",
@@ -2666,6 +2786,8 @@
       "catch-phrase": "me meow",
       "icon_uri": "https://acnhapi.com/v1/icons/villagers/61",
       "image_uri": "https://acnhapi.com/v1/images/villagers/61",
+      "bubble-color": "#fff80d",
+      "text-color": "#9b8986",
       "catch-translations": {
         "catch-USen": "me meow",
         "catch-EUen": "me meow",
@@ -2710,6 +2832,8 @@
       "catch-phrase": "mush",
       "icon_uri": "https://acnhapi.com/v1/icons/villagers/62",
       "image_uri": "https://acnhapi.com/v1/images/villagers/62",
+      "bubble-color": "#7a2500",
+      "text-color": "#fffce9",
       "catch-translations": {
         "catch-USen": "mush",
         "catch-EUen": "mush",
@@ -2754,6 +2878,8 @@
       "catch-phrase": "purrty",
       "icon_uri": "https://acnhapi.com/v1/icons/villagers/63",
       "image_uri": "https://acnhapi.com/v1/images/villagers/63",
+      "bubble-color": "#a87850",
+      "text-color": "#fffce9",
       "catch-translations": {
         "catch-USen": "purrty",
         "catch-EUen": "purrty",
@@ -2798,6 +2924,8 @@
       "catch-phrase": "crisp",
       "icon_uri": "https://acnhapi.com/v1/icons/villagers/64",
       "image_uri": "https://acnhapi.com/v1/images/villagers/64",
+      "bubble-color": "#acc8cf",
+      "text-color": "#498992",
       "catch-translations": {
         "catch-USen": "crisp",
         "catch-EUen": "crisp",
@@ -2842,6 +2970,8 @@
       "catch-phrase": "peach",
       "icon_uri": "https://acnhapi.com/v1/icons/villagers/65",
       "image_uri": "https://acnhapi.com/v1/images/villagers/65",
+      "bubble-color": "#3fd8e0",
+      "text-color": "#fffce9",
       "catch-translations": {
         "catch-USen": "peach",
         "catch-EUen": "peach",
@@ -2886,6 +3016,8 @@
       "catch-phrase": "honey",
       "icon_uri": "https://acnhapi.com/v1/icons/villagers/66",
       "image_uri": "https://acnhapi.com/v1/images/villagers/66",
+      "bubble-color": "#a87850",
+      "text-color": "#fffce9",
       "catch-translations": {
         "catch-USen": "honey",
         "catch-EUen": "honey",
@@ -2930,6 +3062,8 @@
       "catch-phrase": "li'l bear",
       "icon_uri": "https://acnhapi.com/v1/icons/villagers/67",
       "image_uri": "https://acnhapi.com/v1/images/villagers/67",
+      "bubble-color": "#194c89",
+      "text-color": "#fffad4",
       "catch-translations": {
         "catch-USen": "li'l bear",
         "catch-EUen": "li'l bear",
@@ -2974,6 +3108,8 @@
       "catch-phrase": "golly",
       "icon_uri": "https://acnhapi.com/v1/icons/villagers/68",
       "image_uri": "https://acnhapi.com/v1/images/villagers/68",
+      "bubble-color": "#ff791f",
+      "text-color": "#fff2bb",
       "catch-translations": {
         "catch-USen": "golly",
         "catch-EUen": "golly",
@@ -3018,6 +3154,8 @@
       "catch-phrase": "grah grah",
       "icon_uri": "https://acnhapi.com/v1/icons/villagers/69",
       "image_uri": "https://acnhapi.com/v1/images/villagers/69",
+      "bubble-color": "#55cfff",
+      "text-color": "#fffce9",
       "catch-translations": {
         "catch-USen": "grah grah",
         "catch-EUen": "grah grah",
@@ -3062,6 +3200,8 @@
       "catch-phrase": "stuffin'",
       "icon_uri": "https://acnhapi.com/v1/icons/villagers/70",
       "image_uri": "https://acnhapi.com/v1/images/villagers/70",
+      "bubble-color": "#ffaa3b",
+      "text-color": "#874c25",
       "catch-translations": {
         "catch-USen": "stuffin'",
         "catch-EUen": "stuffin'",
@@ -3106,6 +3246,8 @@
       "catch-phrase": "nyet",
       "icon_uri": "https://acnhapi.com/v1/icons/villagers/71",
       "image_uri": "https://acnhapi.com/v1/images/villagers/71",
+      "bubble-color": "#ff6183",
+      "text-color": "#fffce9",
       "catch-translations": {
         "catch-USen": "nyet",
         "catch-EUen": "nyet",
@@ -3150,6 +3292,8 @@
       "catch-phrase": "malarkey",
       "icon_uri": "https://acnhapi.com/v1/icons/villagers/72",
       "image_uri": "https://acnhapi.com/v1/images/villagers/72",
+      "bubble-color": "#78dd62",
+      "text-color": "#28665a",
       "catch-translations": {
         "catch-USen": "malarkey",
         "catch-EUen": "malarkey",
@@ -3194,6 +3338,8 @@
       "catch-phrase": "sweet pea",
       "icon_uri": "https://acnhapi.com/v1/icons/villagers/73",
       "image_uri": "https://acnhapi.com/v1/images/villagers/73",
+      "bubble-color": "#bfbfbf",
+      "text-color": "#5e5e5e",
       "catch-translations": {
         "catch-USen": "sweet pea",
         "catch-EUen": "sweet pea",
@@ -3238,6 +3384,8 @@
       "catch-phrase": "tralala",
       "icon_uri": "https://acnhapi.com/v1/icons/villagers/74",
       "image_uri": "https://acnhapi.com/v1/images/villagers/74",
+      "bubble-color": "#db6161",
+      "text-color": "#fffce9",
       "catch-translations": {
         "catch-USen": "tralala",
         "catch-EUen": "tralala",
@@ -3282,6 +3430,8 @@
       "catch-phrase": "rainbow",
       "icon_uri": "https://acnhapi.com/v1/icons/villagers/75",
       "image_uri": "https://acnhapi.com/v1/images/villagers/75",
+      "bubble-color": "#c0ab72",
+      "text-color": "#fffce9",
       "catch-translations": {
         "catch-USen": "rainbow",
         "catch-EUen": "rainbow",
@@ -3326,6 +3476,8 @@
       "catch-phrase": "bud",
       "icon_uri": "https://acnhapi.com/v1/icons/villagers/76",
       "image_uri": "https://acnhapi.com/v1/images/villagers/76",
+      "bubble-color": "#ffffff",
+      "text-color": "#848484",
       "catch-translations": {
         "catch-USen": "bud",
         "catch-EUen": "bud",
@@ -3370,6 +3522,8 @@
       "catch-phrase": "rookie",
       "icon_uri": "https://acnhapi.com/v1/icons/villagers/77",
       "image_uri": "https://acnhapi.com/v1/images/villagers/77",
+      "bubble-color": "#ffffff",
+      "text-color": "#848484",
       "catch-translations": {
         "catch-USen": "rookie",
         "catch-EUen": "rookie",
@@ -3414,6 +3568,8 @@
       "catch-phrase": "cubby",
       "icon_uri": "https://acnhapi.com/v1/icons/villagers/78",
       "image_uri": "https://acnhapi.com/v1/images/villagers/78",
+      "bubble-color": "#bfbfbf",
+      "text-color": "#5e5e5e",
       "catch-translations": {
         "catch-USen": "cubby",
         "catch-EUen": "cubby",
@@ -3458,6 +3614,8 @@
       "catch-phrase": "ya heard",
       "icon_uri": "https://acnhapi.com/v1/icons/villagers/79",
       "image_uri": "https://acnhapi.com/v1/images/villagers/79",
+      "bubble-color": "#fff80d",
+      "text-color": "#9b8986",
       "catch-translations": {
         "catch-USen": "ya heard",
         "catch-EUen": "ya heard",
@@ -3502,6 +3660,8 @@
       "catch-phrase": "myohmy",
       "icon_uri": "https://acnhapi.com/v1/icons/villagers/80",
       "image_uri": "https://acnhapi.com/v1/images/villagers/80",
+      "bubble-color": "#ffebff",
+      "text-color": "#725661",
       "catch-translations": {
         "catch-USen": "myohmy",
         "catch-EUen": "myohmy",
@@ -3546,6 +3706,8 @@
       "catch-phrase": "buh-kay",
       "icon_uri": "https://acnhapi.com/v1/icons/villagers/81",
       "image_uri": "https://acnhapi.com/v1/images/villagers/81",
+      "bubble-color": "#ffffff",
+      "text-color": "#848484",
       "catch-translations": {
         "catch-USen": "buh-kay",
         "catch-EUen": "buh-kay",
@@ -3590,6 +3752,8 @@
       "catch-phrase": "uh-hoo",
       "icon_uri": "https://acnhapi.com/v1/icons/villagers/82",
       "image_uri": "https://acnhapi.com/v1/images/villagers/82",
+      "bubble-color": "#ff4040",
+      "text-color": "#fffad4",
       "catch-translations": {
         "catch-USen": "uh-hoo",
         "catch-EUen": "uh-hoo",
@@ -3634,6 +3798,8 @@
       "catch-phrase": "doodle-duh",
       "icon_uri": "https://acnhapi.com/v1/icons/villagers/83",
       "image_uri": "https://acnhapi.com/v1/images/villagers/83",
+      "bubble-color": "#ffd00d",
+      "text-color": "#9b553a",
       "catch-translations": {
         "catch-USen": "doodle-duh",
         "catch-EUen": "doodle-duh",
@@ -3678,6 +3844,8 @@
       "catch-phrase": "beaker",
       "icon_uri": "https://acnhapi.com/v1/icons/villagers/84",
       "image_uri": "https://acnhapi.com/v1/images/villagers/84",
+      "bubble-color": "#e8b010",
+      "text-color": "#fffce9",
       "catch-translations": {
         "catch-USen": "beaker",
         "catch-EUen": "beaker",
@@ -3722,6 +3890,8 @@
       "catch-phrase": "chicklet",
       "icon_uri": "https://acnhapi.com/v1/icons/villagers/85",
       "image_uri": "https://acnhapi.com/v1/images/villagers/85",
+      "bubble-color": "#a06fce",
+      "text-color": "#fffce9",
       "catch-translations": {
         "catch-USen": "chicklet",
         "catch-EUen": "chicklet",
@@ -3766,6 +3936,8 @@
       "catch-phrase": "chicky-poo",
       "icon_uri": "https://acnhapi.com/v1/icons/villagers/86",
       "image_uri": "https://acnhapi.com/v1/images/villagers/86",
+      "bubble-color": "#7c6559",
+      "text-color": "#eac113",
       "catch-translations": {
         "catch-USen": "chicky-poo",
         "catch-EUen": "chicky-poo",
@@ -3810,6 +3982,8 @@
       "catch-phrase": "cluckling",
       "icon_uri": "https://acnhapi.com/v1/icons/villagers/87",
       "image_uri": "https://acnhapi.com/v1/images/villagers/87",
+      "bubble-color": "#d8cc39",
+      "text-color": "#8b5f57",
       "catch-translations": {
         "catch-USen": "cluckling",
         "catch-EUen": "cluckling",
@@ -3854,6 +4028,8 @@
       "catch-phrase": "cluckadoo",
       "icon_uri": "https://acnhapi.com/v1/icons/villagers/88",
       "image_uri": "https://acnhapi.com/v1/images/villagers/88",
+      "bubble-color": "#ff791f",
+      "text-color": "#fff2bb",
       "catch-translations": {
         "catch-USen": "cluckadoo",
         "catch-EUen": "cluckadoo",
@@ -3898,6 +4074,8 @@
       "catch-phrase": "no doubt",
       "icon_uri": "https://acnhapi.com/v1/icons/villagers/89",
       "image_uri": "https://acnhapi.com/v1/images/villagers/89",
+      "bubble-color": "#6b75ce",
+      "text-color": "#9ae8df",
       "catch-translations": {
         "catch-USen": "no doubt",
         "catch-EUen": "no doubt",
@@ -3942,6 +4120,8 @@
       "catch-phrase": "how-now",
       "icon_uri": "https://acnhapi.com/v1/icons/villagers/90",
       "image_uri": "https://acnhapi.com/v1/images/villagers/90",
+      "bubble-color": "#7a2500",
+      "text-color": "#fffce9",
       "catch-translations": {
         "catch-USen": "how-now",
         "catch-EUen": "how-now",
@@ -3986,6 +4166,8 @@
       "catch-phrase": "pushy",
       "icon_uri": "https://acnhapi.com/v1/icons/villagers/91",
       "image_uri": "https://acnhapi.com/v1/images/villagers/91",
+      "bubble-color": "#ffffff",
+      "text-color": "#848484",
       "catch-translations": {
         "catch-USen": "pushy",
         "catch-EUen": "pushy",
@@ -4030,6 +4212,8 @@
       "catch-phrase": "hoof hoo",
       "icon_uri": "https://acnhapi.com/v1/icons/villagers/92",
       "image_uri": "https://acnhapi.com/v1/images/villagers/92",
+      "bubble-color": "#f2bdc7",
+      "text-color": "#634b4b",
       "catch-translations": {
         "catch-USen": "hoof hoo",
         "catch-EUen": "hoof hoo",
@@ -4074,6 +4258,8 @@
       "catch-phrase": "moolah",
       "icon_uri": "https://acnhapi.com/v1/icons/villagers/93",
       "image_uri": "https://acnhapi.com/v1/images/villagers/93",
+      "bubble-color": "#3fd8e0",
+      "text-color": "#fffce9",
       "catch-translations": {
         "catch-USen": "moolah",
         "catch-EUen": "moolah",
@@ -4118,6 +4304,8 @@
       "catch-phrase": "it'sa me",
       "icon_uri": "https://acnhapi.com/v1/icons/villagers/94",
       "image_uri": "https://acnhapi.com/v1/images/villagers/94",
+      "bubble-color": "#e8b010",
+      "text-color": "#fffce9",
       "catch-translations": {
         "catch-USen": "it'sa me",
         "catch-EUen": "it'sa me",
@@ -4162,6 +4350,8 @@
       "catch-phrase": "graaagh",
       "icon_uri": "https://acnhapi.com/v1/icons/villagers/95",
       "image_uri": "https://acnhapi.com/v1/images/villagers/95",
+      "bubble-color": "#3fd8e0",
+      "text-color": "#fffce9",
       "catch-translations": {
         "catch-USen": "graaagh",
         "catch-EUen": "graaagh",
@@ -4206,6 +4396,8 @@
       "catch-phrase": "munchie",
       "icon_uri": "https://acnhapi.com/v1/icons/villagers/96",
       "image_uri": "https://acnhapi.com/v1/images/villagers/96",
+      "bubble-color": "#0ca54a",
+      "text-color": "#fffce9",
       "catch-translations": {
         "catch-USen": "munchie",
         "catch-EUen": "munchie",
@@ -4250,6 +4442,8 @@
       "catch-phrase": "gronk",
       "icon_uri": "https://acnhapi.com/v1/icons/villagers/97",
       "image_uri": "https://acnhapi.com/v1/images/villagers/97",
+      "bubble-color": "#6b75ce",
+      "text-color": "#9ae8df",
       "catch-translations": {
         "catch-USen": "gronk",
         "catch-EUen": "gronk",
@@ -4294,6 +4488,8 @@
       "catch-phrase": "hoo-rah",
       "icon_uri": "https://acnhapi.com/v1/icons/villagers/98",
       "image_uri": "https://acnhapi.com/v1/images/villagers/98",
+      "bubble-color": "#e8b010",
+      "text-color": "#fffce9",
       "catch-translations": {
         "catch-USen": "hoo-rah",
         "catch-EUen": "hoo-rah",
@@ -4338,6 +4534,8 @@
       "catch-phrase": "snacky",
       "icon_uri": "https://acnhapi.com/v1/icons/villagers/99",
       "image_uri": "https://acnhapi.com/v1/images/villagers/99",
+      "bubble-color": "#f993ce",
+      "text-color": "#fffce9",
       "catch-translations": {
         "catch-USen": "snacky",
         "catch-EUen": "snacky",
@@ -4382,6 +4580,8 @@
       "catch-phrase": "burrrn",
       "icon_uri": "https://acnhapi.com/v1/icons/villagers/100",
       "image_uri": "https://acnhapi.com/v1/images/villagers/100",
+      "bubble-color": "#78dd62",
+      "text-color": "#28665a",
       "catch-translations": {
         "catch-USen": "burrrn",
         "catch-EUen": "burrrn",
@@ -4426,6 +4626,8 @@
       "catch-phrase": "dearie",
       "icon_uri": "https://acnhapi.com/v1/icons/villagers/101",
       "image_uri": "https://acnhapi.com/v1/images/villagers/101",
+      "bubble-color": "#7a2500",
+      "text-color": "#fffce9",
       "catch-translations": {
         "catch-USen": "dearie",
         "catch-EUen": "dearie",
@@ -4470,6 +4672,8 @@
       "catch-phrase": "kablang",
       "icon_uri": "https://acnhapi.com/v1/icons/villagers/102",
       "image_uri": "https://acnhapi.com/v1/images/villagers/102",
+      "bubble-color": "#0961f6",
+      "text-color": "#fffce9",
       "catch-translations": {
         "catch-USen": "kablang",
         "catch-EUen": "kablang",
@@ -4514,6 +4718,8 @@
       "catch-phrase": "pronk",
       "icon_uri": "https://acnhapi.com/v1/icons/villagers/103",
       "image_uri": "https://acnhapi.com/v1/images/villagers/103",
+      "bubble-color": "#4c3317",
+      "text-color": "#fffce9",
       "catch-translations": {
         "catch-USen": "pronk",
         "catch-EUen": "pronk",
@@ -4558,6 +4764,8 @@
       "catch-phrase": "gruff",
       "icon_uri": "https://acnhapi.com/v1/icons/villagers/104",
       "image_uri": "https://acnhapi.com/v1/images/villagers/104",
+      "bubble-color": "#459aba",
+      "text-color": "#fffce9",
       "catch-translations": {
         "catch-USen": "gruff",
         "catch-EUen": "gruff",
@@ -4602,6 +4810,8 @@
       "catch-phrase": "whatevs",
       "icon_uri": "https://acnhapi.com/v1/icons/villagers/105",
       "image_uri": "https://acnhapi.com/v1/images/villagers/105",
+      "bubble-color": "#ddcdca",
+      "text-color": "#4b4496",
       "catch-translations": {
         "catch-USen": "whatevs",
         "catch-EUen": "whatevs",
@@ -4646,6 +4856,8 @@
       "catch-phrase": "badoom",
       "icon_uri": "https://acnhapi.com/v1/icons/villagers/106",
       "image_uri": "https://acnhapi.com/v1/images/villagers/106",
+      "bubble-color": "#e8b010",
+      "text-color": "#fffce9",
       "catch-translations": {
         "catch-USen": "badoom",
         "catch-EUen": "badoom",
@@ -4690,6 +4902,8 @@
       "catch-phrase": "precious",
       "icon_uri": "https://acnhapi.com/v1/icons/villagers/107",
       "image_uri": "https://acnhapi.com/v1/images/villagers/107",
+      "bubble-color": "#f993ce",
+      "text-color": "#fffce9",
       "catch-translations": {
         "catch-USen": "precious",
         "catch-EUen": "precious",
@@ -4734,6 +4948,8 @@
       "catch-phrase": "saltlick",
       "icon_uri": "https://acnhapi.com/v1/icons/villagers/108",
       "image_uri": "https://acnhapi.com/v1/images/villagers/108",
+      "bubble-color": "#ff791f",
+      "text-color": "#fff2bb",
       "catch-translations": {
         "catch-USen": "saltlick",
         "catch-EUen": "saltlick",
@@ -4778,6 +4994,8 @@
       "catch-phrase": "no doy",
       "icon_uri": "https://acnhapi.com/v1/icons/villagers/109",
       "image_uri": "https://acnhapi.com/v1/images/villagers/109",
+      "bubble-color": "#ffebff",
+      "text-color": "#725661",
       "catch-translations": {
         "catch-USen": "no doy",
         "catch-EUen": "no doy",
@@ -4822,6 +5040,8 @@
       "catch-phrase": "chow down",
       "icon_uri": "https://acnhapi.com/v1/icons/villagers/110",
       "image_uri": "https://acnhapi.com/v1/images/villagers/110",
+      "bubble-color": "#e8b010",
+      "text-color": "#fffce9",
       "catch-translations": {
         "catch-USen": "chow down",
         "catch-EUen": "chow down",
@@ -4866,6 +5086,8 @@
       "catch-phrase": "woof",
       "icon_uri": "https://acnhapi.com/v1/icons/villagers/111",
       "image_uri": "https://acnhapi.com/v1/images/villagers/111",
+      "bubble-color": "#fff98f",
+      "text-color": "#879b96",
       "catch-translations": {
         "catch-USen": "woof",
         "catch-EUen": "woof",
@@ -4910,6 +5132,8 @@
       "catch-phrase": "ROOOOOWF",
       "icon_uri": "https://acnhapi.com/v1/icons/villagers/112",
       "image_uri": "https://acnhapi.com/v1/images/villagers/112",
+      "bubble-color": "#ffaa3b",
+      "text-color": "#874c25",
       "catch-translations": {
         "catch-USen": "ROOOOOWF",
         "catch-EUen": "ROOOOOWF",
@@ -4954,6 +5178,8 @@
       "catch-phrase": "rrr-owch",
       "icon_uri": "https://acnhapi.com/v1/icons/villagers/113",
       "image_uri": "https://acnhapi.com/v1/images/villagers/113",
+      "bubble-color": "#ffffff",
+      "text-color": "#848484",
       "catch-translations": {
         "catch-USen": "rrr-owch",
         "catch-EUen": "rrr-owch",
@@ -4998,6 +5224,8 @@
       "catch-phrase": "dawg",
       "icon_uri": "https://acnhapi.com/v1/icons/villagers/114",
       "image_uri": "https://acnhapi.com/v1/images/villagers/114",
+      "bubble-color": "#ffaa3b",
+      "text-color": "#874c25",
       "catch-translations": {
         "catch-USen": "dawg",
         "catch-EUen": "dawg",
@@ -5042,6 +5270,8 @@
       "catch-phrase": "yip yip",
       "icon_uri": "https://acnhapi.com/v1/icons/villagers/115",
       "image_uri": "https://acnhapi.com/v1/images/villagers/115",
+      "bubble-color": "#ffffff",
+      "text-color": "#848484",
       "catch-translations": {
         "catch-USen": "yip yip",
         "catch-EUen": "yip yip",
@@ -5086,6 +5316,8 @@
       "catch-phrase": "ruffian",
       "icon_uri": "https://acnhapi.com/v1/icons/villagers/116",
       "image_uri": "https://acnhapi.com/v1/images/villagers/116",
+      "bubble-color": "#ffffff",
+      "text-color": "#848484",
       "catch-translations": {
         "catch-USen": "ruffian",
         "catch-EUen": "ruffian",
@@ -5130,6 +5362,8 @@
       "catch-phrase": "wuh",
       "icon_uri": "https://acnhapi.com/v1/icons/villagers/117",
       "image_uri": "https://acnhapi.com/v1/images/villagers/117",
+      "bubble-color": "#ffffff",
+      "text-color": "#848484",
       "catch-translations": {
         "catch-USen": "wuh",
         "catch-EUen": "wuh",
@@ -5174,6 +5408,8 @@
       "catch-phrase": "bow-WOW",
       "icon_uri": "https://acnhapi.com/v1/icons/villagers/118",
       "image_uri": "https://acnhapi.com/v1/images/villagers/118",
+      "bubble-color": "#fff98f",
+      "text-color": "#879b96",
       "catch-translations": {
         "catch-USen": "bow-WOW",
         "catch-EUen": "bow-WOW",
@@ -5218,6 +5454,8 @@
       "catch-phrase": "arfer",
       "icon_uri": "https://acnhapi.com/v1/icons/villagers/119",
       "image_uri": "https://acnhapi.com/v1/images/villagers/119",
+      "bubble-color": "#f993ce",
+      "text-color": "#fffce9",
       "catch-translations": {
         "catch-USen": "arfer",
         "catch-EUen": "arfer",
@@ -5262,6 +5500,8 @@
       "catch-phrase": "yippee",
       "icon_uri": "https://acnhapi.com/v1/icons/villagers/120",
       "image_uri": "https://acnhapi.com/v1/images/villagers/120",
+      "bubble-color": "#e8b010",
+      "text-color": "#fffce9",
       "catch-translations": {
         "catch-USen": "yippee",
         "catch-EUen": "yippee",
@@ -5306,6 +5546,8 @@
       "catch-phrase": "bingo",
       "icon_uri": "https://acnhapi.com/v1/icons/villagers/121",
       "image_uri": "https://acnhapi.com/v1/images/villagers/121",
+      "bubble-color": "#a87850",
+      "text-color": "#fffce9",
       "catch-translations": {
         "catch-USen": "bingo",
         "catch-EUen": "bingo",
@@ -5350,6 +5592,8 @@
       "catch-phrase": "woo woof",
       "icon_uri": "https://acnhapi.com/v1/icons/villagers/122",
       "image_uri": "https://acnhapi.com/v1/images/villagers/122",
+      "bubble-color": "#e8b010",
+      "text-color": "#fffce9",
       "catch-translations": {
         "catch-USen": "woo woof",
         "catch-EUen": "woo woof",
@@ -5394,6 +5638,8 @@
       "catch-phrase": "non",
       "icon_uri": "https://acnhapi.com/v1/icons/villagers/123",
       "image_uri": "https://acnhapi.com/v1/images/villagers/123",
+      "bubble-color": "#ffffff",
+      "text-color": "#848484",
       "catch-translations": {
         "catch-USen": "non",
         "catch-EUen": "non",
@@ -5438,6 +5684,8 @@
       "catch-phrase": "alrighty",
       "icon_uri": "https://acnhapi.com/v1/icons/villagers/124",
       "image_uri": "https://acnhapi.com/v1/images/villagers/124",
+      "bubble-color": "#ffd00d",
+      "text-color": "#9b553a",
       "catch-translations": {
         "catch-USen": "alrighty",
         "catch-EUen": "alrighty",
@@ -5482,6 +5730,8 @@
       "catch-phrase": "what what",
       "icon_uri": "https://acnhapi.com/v1/icons/villagers/125",
       "image_uri": "https://acnhapi.com/v1/images/villagers/125",
+      "bubble-color": "#ff6183",
+      "text-color": "#fffce9",
       "catch-translations": {
         "catch-USen": "what what",
         "catch-EUen": "what what",
@@ -5526,6 +5776,8 @@
       "catch-phrase": "baa baa baa",
       "icon_uri": "https://acnhapi.com/v1/icons/villagers/126",
       "image_uri": "https://acnhapi.com/v1/images/villagers/126",
+      "bubble-color": "#c0ab72",
+      "text-color": "#fffce9",
       "catch-translations": {
         "catch-USen": "baa baa baa",
         "catch-EUen": "baa baa baa",
@@ -5570,6 +5822,8 @@
       "catch-phrase": "quacko",
       "icon_uri": "https://acnhapi.com/v1/icons/villagers/127",
       "image_uri": "https://acnhapi.com/v1/images/villagers/127",
+      "bubble-color": "#7a2500",
+      "text-color": "#fffce9",
       "catch-translations": {
         "catch-USen": "quacko",
         "catch-EUen": "quacko",
@@ -5614,6 +5868,8 @@
       "catch-phrase": "bleeeeeck",
       "icon_uri": "https://acnhapi.com/v1/icons/villagers/128",
       "image_uri": "https://acnhapi.com/v1/images/villagers/128",
+      "bubble-color": "#ffd00d",
+      "text-color": "#9b553a",
       "catch-translations": {
         "catch-USen": "bleeeeeck",
         "catch-EUen": "bleeeeeck",
@@ -5658,6 +5914,8 @@
       "catch-phrase": "quackle",
       "icon_uri": "https://acnhapi.com/v1/icons/villagers/129",
       "image_uri": "https://acnhapi.com/v1/images/villagers/129",
+      "bubble-color": "#8bcdea",
+      "text-color": "#fffad4",
       "catch-translations": {
         "catch-USen": "quackle",
         "catch-EUen": "quackle",
@@ -5702,6 +5960,8 @@
       "catch-phrase": "duckling",
       "icon_uri": "https://acnhapi.com/v1/icons/villagers/130",
       "image_uri": "https://acnhapi.com/v1/images/villagers/130",
+      "bubble-color": "#ffd00d",
+      "text-color": "#9b553a",
       "catch-translations": {
         "catch-USen": "duckling",
         "catch-EUen": "duckling",
@@ -5746,6 +6006,8 @@
       "catch-phrase": "woowoo",
       "icon_uri": "https://acnhapi.com/v1/icons/villagers/131",
       "image_uri": "https://acnhapi.com/v1/images/villagers/131",
+      "bubble-color": "#798040",
+      "text-color": "#fffad4",
       "catch-translations": {
         "catch-USen": "woowoo",
         "catch-EUen": "woowoo",
@@ -5790,6 +6052,8 @@
       "catch-phrase": "rah rah",
       "icon_uri": "https://acnhapi.com/v1/icons/villagers/132",
       "image_uri": "https://acnhapi.com/v1/images/villagers/132",
+      "bubble-color": "#ffffff",
+      "text-color": "#848484",
       "catch-translations": {
         "catch-USen": "rah rah",
         "catch-EUen": "rah rah",
@@ -5834,6 +6098,8 @@
       "catch-phrase": "quackpth",
       "icon_uri": "https://acnhapi.com/v1/icons/villagers/133",
       "image_uri": "https://acnhapi.com/v1/images/villagers/133",
+      "bubble-color": "#a06fce",
+      "text-color": "#fffce9",
       "catch-translations": {
         "catch-USen": "quackpth",
         "catch-EUen": "quackpth",
@@ -5878,6 +6144,8 @@
       "catch-phrase": "ducky",
       "icon_uri": "https://acnhapi.com/v1/icons/villagers/134",
       "image_uri": "https://acnhapi.com/v1/images/villagers/134",
+      "bubble-color": "#ff6183",
+      "text-color": "#fffce9",
       "catch-translations": {
         "catch-USen": "ducky",
         "catch-EUen": "ducky",
@@ -5922,6 +6190,8 @@
       "catch-phrase": "derrrr",
       "icon_uri": "https://acnhapi.com/v1/icons/villagers/135",
       "image_uri": "https://acnhapi.com/v1/images/villagers/135",
+      "bubble-color": "#0961f6",
+      "text-color": "#fffce9",
       "catch-translations": {
         "catch-USen": "derrrr",
         "catch-EUen": "derrrr",
@@ -5966,6 +6236,8 @@
       "catch-phrase": "quacko",
       "icon_uri": "https://acnhapi.com/v1/icons/villagers/136",
       "image_uri": "https://acnhapi.com/v1/images/villagers/136",
+      "bubble-color": "#459aba",
+      "text-color": "#fffce9",
       "catch-translations": {
         "catch-USen": "quacko",
         "catch-EUen": "quacko",
@@ -6010,6 +6282,8 @@
       "catch-phrase": "zip zoom",
       "icon_uri": "https://acnhapi.com/v1/icons/villagers/137",
       "image_uri": "https://acnhapi.com/v1/images/villagers/137",
+      "bubble-color": "#78dd62",
+      "text-color": "#28665a",
       "catch-translations": {
         "catch-USen": "zip zoom",
         "catch-EUen": "zip zoom",
@@ -6054,6 +6328,8 @@
       "catch-phrase": "quaa",
       "icon_uri": "https://acnhapi.com/v1/icons/villagers/138",
       "image_uri": "https://acnhapi.com/v1/images/villagers/138",
+      "bubble-color": "#a87850",
+      "text-color": "#fffce9",
       "catch-translations": {
         "catch-USen": "quaa",
         "catch-EUen": "quaa",
@@ -6098,6 +6374,8 @@
       "catch-phrase": "quackulous",
       "icon_uri": "https://acnhapi.com/v1/icons/villagers/139",
       "image_uri": "https://acnhapi.com/v1/images/villagers/139",
+      "bubble-color": "#ec7efc",
+      "text-color": "#fffce9",
       "catch-translations": {
         "catch-USen": "quackulous",
         "catch-EUen": "quackulous",
@@ -6142,6 +6420,8 @@
       "catch-phrase": "bitty",
       "icon_uri": "https://acnhapi.com/v1/icons/villagers/140",
       "image_uri": "https://acnhapi.com/v1/images/villagers/140",
+      "bubble-color": "#ff4040",
+      "text-color": "#fffad4",
       "catch-translations": {
         "catch-USen": "bitty",
         "catch-EUen": "bitty",
@@ -6186,6 +6466,8 @@
       "catch-phrase": "quacker",
       "icon_uri": "https://acnhapi.com/v1/icons/villagers/141",
       "image_uri": "https://acnhapi.com/v1/images/villagers/141",
+      "bubble-color": "#ffffff",
+      "text-color": "#848484",
       "catch-translations": {
         "catch-USen": "quacker",
         "catch-EUen": "quacker",
@@ -6230,6 +6512,8 @@
       "catch-phrase": "quackidee",
       "icon_uri": "https://acnhapi.com/v1/icons/villagers/142",
       "image_uri": "https://acnhapi.com/v1/images/villagers/142",
+      "bubble-color": "#e8b010",
+      "text-color": "#fffce9",
       "catch-translations": {
         "catch-USen": "quackidee",
         "catch-EUen": "quackidee",
@@ -6274,6 +6558,8 @@
       "catch-phrase": "ridukulous",
       "icon_uri": "https://acnhapi.com/v1/icons/villagers/143",
       "image_uri": "https://acnhapi.com/v1/images/villagers/143",
+      "bubble-color": "#76b788",
+      "text-color": "#fffce9",
       "catch-translations": {
         "catch-USen": "ridukulous",
         "catch-EUen": "ridukulous",
@@ -6318,6 +6604,8 @@
       "catch-phrase": "snoot",
       "icon_uri": "https://acnhapi.com/v1/icons/villagers/144",
       "image_uri": "https://acnhapi.com/v1/images/villagers/144",
+      "bubble-color": "#87e0a9",
+      "text-color": "#219479",
       "catch-translations": {
         "catch-USen": "snoot",
         "catch-EUen": "snoot",
@@ -6362,6 +6650,8 @@
       "catch-phrase": "woo-oo",
       "icon_uri": "https://acnhapi.com/v1/icons/villagers/145",
       "image_uri": "https://acnhapi.com/v1/images/villagers/145",
+      "bubble-color": "#7fa9ff",
+      "text-color": "#fffce9",
       "catch-translations": {
         "catch-USen": "woo-oo",
         "catch-EUen": "woo-oo",
@@ -6406,6 +6696,8 @@
       "catch-phrase": "villain",
       "icon_uri": "https://acnhapi.com/v1/icons/villagers/146",
       "image_uri": "https://acnhapi.com/v1/images/villagers/146",
+      "bubble-color": "#78dd62",
+      "text-color": "#28665a",
       "catch-translations": {
         "catch-USen": "villain",
         "catch-EUen": "villain",
@@ -6450,6 +6742,8 @@
       "catch-phrase": "tooooot",
       "icon_uri": "https://acnhapi.com/v1/icons/villagers/147",
       "image_uri": "https://acnhapi.com/v1/images/villagers/147",
+      "bubble-color": "#ffd00d",
+      "text-color": "#9b553a",
       "catch-translations": {
         "catch-USen": "tooooot",
         "catch-EUen": "tooooot",
@@ -6494,6 +6788,8 @@
       "catch-phrase": "tootie",
       "icon_uri": "https://acnhapi.com/v1/icons/villagers/148",
       "image_uri": "https://acnhapi.com/v1/images/villagers/148",
+      "bubble-color": "#ffffff",
+      "text-color": "#848484",
       "catch-translations": {
         "catch-USen": "tootie",
         "catch-EUen": "tootie",
@@ -6538,6 +6834,8 @@
       "catch-phrase": "pal",
       "icon_uri": "https://acnhapi.com/v1/icons/villagers/149",
       "image_uri": "https://acnhapi.com/v1/images/villagers/149",
+      "bubble-color": "#f993ce",
+      "text-color": "#fffce9",
       "catch-translations": {
         "catch-USen": "pal",
         "catch-EUen": "pal",
@@ -6582,6 +6880,8 @@
       "catch-phrase": "WHONK",
       "icon_uri": "https://acnhapi.com/v1/icons/villagers/150",
       "image_uri": "https://acnhapi.com/v1/images/villagers/150",
+      "bubble-color": "#459aba",
+      "text-color": "#fffce9",
       "catch-translations": {
         "catch-USen": "WHONK",
         "catch-EUen": "WHONK",
@@ -6626,6 +6926,8 @@
       "catch-phrase": "li'l one",
       "icon_uri": "https://acnhapi.com/v1/icons/villagers/151",
       "image_uri": "https://acnhapi.com/v1/images/villagers/151",
+      "bubble-color": "#c0ab72",
+      "text-color": "#fffce9",
       "catch-translations": {
         "catch-USen": "li'l one",
         "catch-EUen": "li'l one",
@@ -6670,6 +6972,8 @@
       "catch-phrase": "fuzzers",
       "icon_uri": "https://acnhapi.com/v1/icons/villagers/152",
       "image_uri": "https://acnhapi.com/v1/images/villagers/152",
+      "bubble-color": "#e8b010",
+      "text-color": "#fffce9",
       "catch-translations": {
         "catch-USen": "fuzzers",
         "catch-EUen": "fuzzers",
@@ -6714,6 +7018,8 @@
       "catch-phrase": "teacup",
       "icon_uri": "https://acnhapi.com/v1/icons/villagers/153",
       "image_uri": "https://acnhapi.com/v1/images/villagers/153",
+      "bubble-color": "#ffffff",
+      "text-color": "#848484",
       "catch-translations": {
         "catch-USen": "teacup",
         "catch-EUen": "teacup",
@@ -6758,6 +7064,8 @@
       "catch-phrase": "rockin'",
       "icon_uri": "https://acnhapi.com/v1/icons/villagers/154",
       "image_uri": "https://acnhapi.com/v1/images/villagers/154",
+      "bubble-color": "#ff4040",
+      "text-color": "#fffad4",
       "catch-translations": {
         "catch-USen": "rockin'",
         "catch-EUen": "rockin'",
@@ -6802,6 +7110,8 @@
       "catch-phrase": "toady",
       "icon_uri": "https://acnhapi.com/v1/icons/villagers/155",
       "image_uri": "https://acnhapi.com/v1/images/villagers/155",
+      "bubble-color": "#00d1bd",
+      "text-color": "#fffce9",
       "catch-translations": {
         "catch-USen": "toady",
         "catch-EUen": "toady",
@@ -6846,6 +7156,8 @@
       "catch-phrase": "zzrrbbitt",
       "icon_uri": "https://acnhapi.com/v1/icons/villagers/156",
       "image_uri": "https://acnhapi.com/v1/images/villagers/156",
+      "bubble-color": "#bfbfbf",
+      "text-color": "#5e5e5e",
       "catch-translations": {
         "catch-USen": "zzrrbbitt",
         "catch-EUen": "zzrrbbitt",
@@ -6890,6 +7202,8 @@
       "catch-phrase": "fribbit",
       "icon_uri": "https://acnhapi.com/v1/icons/villagers/157",
       "image_uri": "https://acnhapi.com/v1/images/villagers/157",
+      "bubble-color": "#87e0a9",
+      "text-color": "#219479",
       "catch-translations": {
         "catch-USen": "fribbit",
         "catch-EUen": "fribbit",
@@ -6934,6 +7248,8 @@
       "catch-phrase": "ten-hut",
       "icon_uri": "https://acnhapi.com/v1/icons/villagers/158",
       "image_uri": "https://acnhapi.com/v1/images/villagers/158",
+      "bubble-color": "#76b788",
+      "text-color": "#fffce9",
       "catch-translations": {
         "catch-USen": "ten-hut",
         "catch-EUen": "ten-hut",
@@ -6978,6 +7294,8 @@
       "catch-phrase": "dribbit",
       "icon_uri": "https://acnhapi.com/v1/icons/villagers/159",
       "image_uri": "https://acnhapi.com/v1/images/villagers/159",
+      "bubble-color": "#ff791f",
+      "text-color": "#fff2bb",
       "catch-translations": {
         "catch-USen": "dribbit",
         "catch-EUen": "dribbit",
@@ -7022,6 +7340,8 @@
       "catch-phrase": "grr-ribbit",
       "icon_uri": "https://acnhapi.com/v1/icons/villagers/160",
       "image_uri": "https://acnhapi.com/v1/images/villagers/160",
+      "bubble-color": "#d86808",
+      "text-color": "#fffce9",
       "catch-translations": {
         "catch-USen": "grr-ribbit",
         "catch-EUen": "grr-ribbit",
@@ -7066,6 +7386,8 @@
       "catch-phrase": "splish",
       "icon_uri": "https://acnhapi.com/v1/icons/villagers/161",
       "image_uri": "https://acnhapi.com/v1/images/villagers/161",
+      "bubble-color": "#ff6183",
+      "text-color": "#fffce9",
       "catch-translations": {
         "catch-USen": "splish",
         "catch-EUen": "splish",
@@ -7110,6 +7432,8 @@
       "catch-phrase": "nee-deep",
       "icon_uri": "https://acnhapi.com/v1/icons/villagers/162",
       "image_uri": "https://acnhapi.com/v1/images/villagers/162",
+      "bubble-color": "#55cfff",
+      "text-color": "#fffce9",
       "catch-translations": {
         "catch-USen": "nee-deep",
         "catch-EUen": "nee-deep",
@@ -7154,6 +7478,8 @@
       "catch-phrase": "sluuuurp",
       "icon_uri": "https://acnhapi.com/v1/icons/villagers/163",
       "image_uri": "https://acnhapi.com/v1/images/villagers/163",
+      "bubble-color": "#76b788",
+      "text-color": "#fffce9",
       "catch-translations": {
         "catch-USen": "sluuuurp",
         "catch-EUen": "sluuuurp",
@@ -7198,6 +7524,8 @@
       "catch-phrase": "oui oui",
       "icon_uri": "https://acnhapi.com/v1/icons/villagers/164",
       "image_uri": "https://acnhapi.com/v1/images/villagers/164",
+      "bubble-color": "#ffd00d",
+      "text-color": "#9b553a",
       "catch-translations": {
         "catch-USen": "oui oui",
         "catch-EUen": "oui oui",
@@ -7242,6 +7570,8 @@
       "catch-phrase": "hopper",
       "icon_uri": "https://acnhapi.com/v1/icons/villagers/165",
       "image_uri": "https://acnhapi.com/v1/images/villagers/165",
+      "bubble-color": "#515151",
+      "text-color": "#fffce9",
       "catch-translations": {
         "catch-USen": "hopper",
         "catch-EUen": "hopper",
@@ -7286,6 +7616,8 @@
       "catch-phrase": "burrup",
       "icon_uri": "https://acnhapi.com/v1/icons/villagers/166",
       "image_uri": "https://acnhapi.com/v1/images/villagers/166",
+      "bubble-color": "#78dd62",
+      "text-color": "#28665a",
       "catch-translations": {
         "catch-USen": "burrup",
         "catch-EUen": "burrup",
@@ -7330,6 +7662,8 @@
       "catch-phrase": "croak-kay",
       "icon_uri": "https://acnhapi.com/v1/icons/villagers/167",
       "image_uri": "https://acnhapi.com/v1/images/villagers/167",
+      "bubble-color": "#0ca54a",
+      "text-color": "#fffce9",
       "catch-translations": {
         "catch-USen": "croak-kay",
         "catch-EUen": "croak-kay",
@@ -7374,6 +7708,8 @@
       "catch-phrase": "aaach—",
       "icon_uri": "https://acnhapi.com/v1/icons/villagers/168",
       "image_uri": "https://acnhapi.com/v1/images/villagers/168",
+      "bubble-color": "#515151",
+      "text-color": "#fffce9",
       "catch-translations": {
         "catch-USen": "aaach—",
         "catch-EUen": "aaach—",
@@ -7418,6 +7754,8 @@
       "catch-phrase": "ribbette",
       "icon_uri": "https://acnhapi.com/v1/icons/villagers/169",
       "image_uri": "https://acnhapi.com/v1/images/villagers/169",
+      "bubble-color": "#a06fce",
+      "text-color": "#fffce9",
       "catch-translations": {
         "catch-USen": "ribbette",
         "catch-EUen": "ribbette",
@@ -7462,6 +7800,8 @@
       "catch-phrase": "as if",
       "icon_uri": "https://acnhapi.com/v1/icons/villagers/170",
       "image_uri": "https://acnhapi.com/v1/images/villagers/170",
+      "bubble-color": "#ff791f",
+      "text-color": "#fff2bb",
       "catch-translations": {
         "catch-USen": "as if",
         "catch-EUen": "as if",
@@ -7506,6 +7846,8 @@
       "catch-phrase": "ya know",
       "icon_uri": "https://acnhapi.com/v1/icons/villagers/171",
       "image_uri": "https://acnhapi.com/v1/images/villagers/171",
+      "bubble-color": "#a06fce",
+      "text-color": "#fffce9",
       "catch-translations": {
         "catch-USen": "ya know",
         "catch-EUen": "ya know",
@@ -7550,6 +7892,8 @@
       "catch-phrase": "snoozit",
       "icon_uri": "https://acnhapi.com/v1/icons/villagers/172",
       "image_uri": "https://acnhapi.com/v1/images/villagers/172",
+      "bubble-color": "#78dd62",
+      "text-color": "#28665a",
       "catch-translations": {
         "catch-USen": "snoozit",
         "catch-EUen": "snoozit",
@@ -7594,6 +7938,8 @@
       "catch-phrase": "la baa",
       "icon_uri": "https://acnhapi.com/v1/icons/villagers/173",
       "image_uri": "https://acnhapi.com/v1/images/villagers/173",
+      "bubble-color": "#ffffff",
+      "text-color": "#848484",
       "catch-translations": {
         "catch-USen": "la baa",
         "catch-EUen": "la baa",
@@ -7638,6 +7984,8 @@
       "catch-phrase": "kid",
       "icon_uri": "https://acnhapi.com/v1/icons/villagers/174",
       "image_uri": "https://acnhapi.com/v1/images/villagers/174",
+      "bubble-color": "#515151",
+      "text-color": "#fffce9",
       "catch-translations": {
         "catch-USen": "kid",
         "catch-EUen": "kid",
@@ -7682,6 +8030,8 @@
       "catch-phrase": "dagnaabit",
       "icon_uri": "https://acnhapi.com/v1/icons/villagers/175",
       "image_uri": "https://acnhapi.com/v1/images/villagers/175",
+      "bubble-color": "#d86808",
+      "text-color": "#fffce9",
       "catch-translations": {
         "catch-USen": "dagnaabit",
         "catch-EUen": "dagnaabit",
@@ -7726,6 +8076,8 @@
       "catch-phrase": "bleh eh eh",
       "icon_uri": "https://acnhapi.com/v1/icons/villagers/176",
       "image_uri": "https://acnhapi.com/v1/images/villagers/176",
+      "bubble-color": "#78dd62",
+      "text-color": "#28665a",
       "catch-translations": {
         "catch-USen": "bleh eh eh",
         "catch-EUen": "bleh eh eh",
@@ -7770,6 +8122,8 @@
       "catch-phrase": "blih",
       "icon_uri": "https://acnhapi.com/v1/icons/villagers/177",
       "image_uri": "https://acnhapi.com/v1/images/villagers/177",
+      "bubble-color": "#ff6183",
+      "text-color": "#fffce9",
       "catch-translations": {
         "catch-USen": "blih",
         "catch-EUen": "blih",
@@ -7814,6 +8168,8 @@
       "catch-phrase": "wut",
       "icon_uri": "https://acnhapi.com/v1/icons/villagers/178",
       "image_uri": "https://acnhapi.com/v1/images/villagers/178",
+      "bubble-color": "#d9d9ff",
+      "text-color": "#4f5d72",
       "catch-translations": {
         "catch-USen": "wut",
         "catch-EUen": "wut",
@@ -7858,6 +8214,8 @@
       "catch-phrase": "kidders",
       "icon_uri": "https://acnhapi.com/v1/icons/villagers/179",
       "image_uri": "https://acnhapi.com/v1/images/villagers/179",
+      "bubble-color": "#e2856b",
+      "text-color": "#fffce9",
       "catch-translations": {
         "catch-USen": "kidders",
         "catch-EUen": "kidders",
@@ -7902,6 +8260,8 @@
       "catch-phrase": "bawwww",
       "icon_uri": "https://acnhapi.com/v1/icons/villagers/180",
       "image_uri": "https://acnhapi.com/v1/images/villagers/180",
+      "bubble-color": "#bff2ff",
+      "text-color": "#85a2af",
       "catch-translations": {
         "catch-USen": "bawwww",
         "catch-EUen": "bawwww",
@@ -7946,6 +8306,8 @@
       "catch-phrase": "highness",
       "icon_uri": "https://acnhapi.com/v1/icons/villagers/181",
       "image_uri": "https://acnhapi.com/v1/images/villagers/181",
+      "bubble-color": "#ff791f",
+      "text-color": "#fff2bb",
       "catch-translations": {
         "catch-USen": "highness",
         "catch-EUen": "highness",
@@ -7990,6 +8352,8 @@
       "catch-phrase": "li'l bitty baby",
       "icon_uri": "https://acnhapi.com/v1/icons/villagers/182",
       "image_uri": "https://acnhapi.com/v1/images/villagers/182",
+      "bubble-color": "#7fa9ff",
+      "text-color": "#fffce9",
       "catch-translations": {
         "catch-USen": "li'l bitty baby",
         "catch-EUen": "li'l bitty baby",
@@ -8034,6 +8398,8 @@
       "catch-phrase": "baboom",
       "icon_uri": "https://acnhapi.com/v1/icons/villagers/183",
       "image_uri": "https://acnhapi.com/v1/images/villagers/183",
+      "bubble-color": "#ffaa3b",
+      "text-color": "#874c25",
       "catch-translations": {
         "catch-USen": "baboom",
         "catch-EUen": "baboom",
@@ -8078,6 +8444,8 @@
       "catch-phrase": "hoo hoo ha",
       "icon_uri": "https://acnhapi.com/v1/icons/villagers/184",
       "image_uri": "https://acnhapi.com/v1/images/villagers/184",
+      "bubble-color": "#d86808",
+      "text-color": "#fffce9",
       "catch-translations": {
         "catch-USen": "hoo hoo ha",
         "catch-EUen": "hoo hoo ha",
@@ -8122,6 +8490,8 @@
       "catch-phrase": "uh-oh",
       "icon_uri": "https://acnhapi.com/v1/icons/villagers/185",
       "image_uri": "https://acnhapi.com/v1/images/villagers/185",
+      "bubble-color": "#7a2500",
+      "text-color": "#fffce9",
       "catch-translations": {
         "catch-USen": "uh-oh",
         "catch-EUen": "uh-oh",
@@ -8166,6 +8536,8 @@
       "catch-phrase": "sweetie",
       "icon_uri": "https://acnhapi.com/v1/icons/villagers/186",
       "image_uri": "https://acnhapi.com/v1/images/villagers/186",
+      "bubble-color": "#ec7efc",
+      "text-color": "#fffce9",
       "catch-translations": {
         "catch-USen": "sweetie",
         "catch-EUen": "sweetie",
@@ -8210,6 +8582,8 @@
       "catch-phrase": "ayyyeee",
       "icon_uri": "https://acnhapi.com/v1/icons/villagers/187",
       "image_uri": "https://acnhapi.com/v1/images/villagers/187",
+      "bubble-color": "#798040",
+      "text-color": "#fffad4",
       "catch-translations": {
         "catch-USen": "ayyyeee",
         "catch-EUen": "ayyyeee",
@@ -8254,6 +8628,8 @@
       "catch-phrase": "vroom",
       "icon_uri": "https://acnhapi.com/v1/icons/villagers/188",
       "image_uri": "https://acnhapi.com/v1/images/villagers/188",
+      "bubble-color": "#f993ce",
+      "text-color": "#fffce9",
       "catch-translations": {
         "catch-USen": "vroom",
         "catch-EUen": "vroom",
@@ -8298,6 +8674,8 @@
       "catch-phrase": "groovy",
       "icon_uri": "https://acnhapi.com/v1/icons/villagers/189",
       "image_uri": "https://acnhapi.com/v1/images/villagers/189",
+      "bubble-color": "#ffffff",
+      "text-color": "#848484",
       "catch-translations": {
         "catch-USen": "groovy",
         "catch-EUen": "groovy",
@@ -8342,6 +8720,8 @@
       "catch-phrase": "hammie",
       "icon_uri": "https://acnhapi.com/v1/icons/villagers/190",
       "image_uri": "https://acnhapi.com/v1/images/villagers/190",
+      "bubble-color": "#ffd00d",
+      "text-color": "#9b553a",
       "catch-translations": {
         "catch-USen": "hammie",
         "catch-EUen": "hammie",
@@ -8386,6 +8766,8 @@
       "catch-phrase": "cheekers",
       "icon_uri": "https://acnhapi.com/v1/icons/villagers/191",
       "image_uri": "https://acnhapi.com/v1/images/villagers/191",
+      "bubble-color": "#ff6183",
+      "text-color": "#fffce9",
       "catch-translations": {
         "catch-USen": "cheekers",
         "catch-EUen": "cheekers",
@@ -8430,6 +8812,8 @@
       "catch-phrase": "indeed",
       "icon_uri": "https://acnhapi.com/v1/icons/villagers/192",
       "image_uri": "https://acnhapi.com/v1/images/villagers/192",
+      "bubble-color": "#ffd00d",
+      "text-color": "#9b553a",
       "catch-translations": {
         "catch-USen": "indeed",
         "catch-EUen": "indeed",
@@ -8474,6 +8858,8 @@
       "catch-phrase": "le ham",
       "icon_uri": "https://acnhapi.com/v1/icons/villagers/193",
       "image_uri": "https://acnhapi.com/v1/images/villagers/193",
+      "bubble-color": "#459aba",
+      "text-color": "#fffce9",
       "catch-translations": {
         "catch-USen": "le ham",
         "catch-EUen": "le ham",
@@ -8518,6 +8904,8 @@
       "catch-phrase": "tarnation",
       "icon_uri": "https://acnhapi.com/v1/icons/villagers/194",
       "image_uri": "https://acnhapi.com/v1/images/villagers/194",
+      "bubble-color": "#ff791f",
+      "text-color": "#fff2bb",
       "catch-translations": {
         "catch-USen": "tarnation",
         "catch-EUen": "tarnation",
@@ -8562,6 +8950,8 @@
       "catch-phrase": "thump",
       "icon_uri": "https://acnhapi.com/v1/icons/villagers/195",
       "image_uri": "https://acnhapi.com/v1/images/villagers/195",
+      "bubble-color": "#7a2500",
+      "text-color": "#fffce9",
       "catch-translations": {
         "catch-USen": "thump",
         "catch-EUen": "thump",
@@ -8606,6 +8996,8 @@
       "catch-phrase": "powderpuff",
       "icon_uri": "https://acnhapi.com/v1/icons/villagers/196",
       "image_uri": "https://acnhapi.com/v1/images/villagers/196",
+      "bubble-color": "#ffffff",
+      "text-color": "#848484",
       "catch-translations": {
         "catch-USen": "powderpuff",
         "catch-EUen": "powderpuff",
@@ -8650,6 +9042,8 @@
       "catch-phrase": "snort",
       "icon_uri": "https://acnhapi.com/v1/icons/villagers/197",
       "image_uri": "https://acnhapi.com/v1/images/villagers/197",
+      "bubble-color": "#515151",
+      "text-color": "#fffce9",
       "catch-translations": {
         "catch-USen": "snort",
         "catch-EUen": "snort",
@@ -8694,6 +9088,8 @@
       "catch-phrase": "hippie",
       "icon_uri": "https://acnhapi.com/v1/icons/villagers/198",
       "image_uri": "https://acnhapi.com/v1/images/villagers/198",
+      "bubble-color": "#87e0a9",
+      "text-color": "#219479",
       "catch-translations": {
         "catch-USen": "hippie",
         "catch-EUen": "hippie",
@@ -8738,6 +9134,8 @@
       "catch-phrase": "hipster",
       "icon_uri": "https://acnhapi.com/v1/icons/villagers/199",
       "image_uri": "https://acnhapi.com/v1/images/villagers/199",
+      "bubble-color": "#e8b010",
+      "text-color": "#fffce9",
       "catch-translations": {
         "catch-USen": "hipster",
         "catch-EUen": "hipster",
@@ -8782,6 +9180,8 @@
       "catch-phrase": "bloop",
       "icon_uri": "https://acnhapi.com/v1/icons/villagers/200",
       "image_uri": "https://acnhapi.com/v1/images/villagers/200",
+      "bubble-color": "#00d1bd",
+      "text-color": "#fffce9",
       "catch-translations": {
         "catch-USen": "bloop",
         "catch-EUen": "bloop",
@@ -8826,6 +9226,8 @@
       "catch-phrase": "squirt",
       "icon_uri": "https://acnhapi.com/v1/icons/villagers/201",
       "image_uri": "https://acnhapi.com/v1/images/villagers/201",
+      "bubble-color": "#7a2500",
+      "text-color": "#fffce9",
       "catch-translations": {
         "catch-USen": "squirt",
         "catch-EUen": "squirt",
@@ -8870,6 +9272,8 @@
       "catch-phrase": "my dear",
       "icon_uri": "https://acnhapi.com/v1/icons/villagers/202",
       "image_uri": "https://acnhapi.com/v1/images/villagers/202",
+      "bubble-color": "#f993ce",
+      "text-color": "#fffce9",
       "catch-translations": {
         "catch-USen": "my dear",
         "catch-EUen": "my dear",
@@ -8914,6 +9318,8 @@
       "catch-phrase": "beach bum",
       "icon_uri": "https://acnhapi.com/v1/icons/villagers/203",
       "image_uri": "https://acnhapi.com/v1/images/villagers/203",
+      "bubble-color": "#e8b010",
+      "text-color": "#fffce9",
       "catch-translations": {
         "catch-USen": "beach bum",
         "catch-EUen": "beach bum",
@@ -8958,6 +9364,8 @@
       "catch-phrase": "natch",
       "icon_uri": "https://acnhapi.com/v1/icons/villagers/204",
       "image_uri": "https://acnhapi.com/v1/images/villagers/204",
+      "bubble-color": "#d8cc39",
+      "text-color": "#8b5f57",
       "catch-translations": {
         "catch-USen": "natch",
         "catch-EUen": "natch",
@@ -9002,6 +9410,8 @@
       "catch-phrase": "pardner",
       "icon_uri": "https://acnhapi.com/v1/icons/villagers/205",
       "image_uri": "https://acnhapi.com/v1/images/villagers/205",
+      "bubble-color": "#798040",
+      "text-color": "#fffad4",
       "catch-translations": {
         "catch-USen": "pardner",
         "catch-EUen": "pardner",
@@ -9046,6 +9456,8 @@
       "catch-phrase": "sugar cube",
       "icon_uri": "https://acnhapi.com/v1/icons/villagers/206",
       "image_uri": "https://acnhapi.com/v1/images/villagers/206",
+      "bubble-color": "#d8cc39",
+      "text-color": "#8b5f57",
       "catch-translations": {
         "catch-USen": "sugar cube",
         "catch-EUen": "sugar cube",
@@ -9090,6 +9502,8 @@
       "catch-phrase": "y'all",
       "icon_uri": "https://acnhapi.com/v1/icons/villagers/207",
       "image_uri": "https://acnhapi.com/v1/images/villagers/207",
+      "bubble-color": "#ffffff",
+      "text-color": "#848484",
       "catch-translations": {
         "catch-USen": "y'all",
         "catch-EUen": "y'all",
@@ -9134,6 +9548,8 @@
       "catch-phrase": "tenderfoot",
       "icon_uri": "https://acnhapi.com/v1/icons/villagers/208",
       "image_uri": "https://acnhapi.com/v1/images/villagers/208",
+      "bubble-color": "#d86808",
+      "text-color": "#fffce9",
       "catch-translations": {
         "catch-USen": "tenderfoot",
         "catch-EUen": "tenderfoot",
@@ -9178,6 +9594,8 @@
       "catch-phrase": "nay",
       "icon_uri": "https://acnhapi.com/v1/icons/villagers/209",
       "image_uri": "https://acnhapi.com/v1/images/villagers/209",
+      "bubble-color": "#515151",
+      "text-color": "#fffce9",
       "catch-translations": {
         "catch-USen": "nay",
         "catch-EUen": "nay",
@@ -9222,6 +9640,8 @@
       "catch-phrase": "hay-OK",
       "icon_uri": "https://acnhapi.com/v1/icons/villagers/210",
       "image_uri": "https://acnhapi.com/v1/images/villagers/210",
+      "bubble-color": "#c0ab72",
+      "text-color": "#fffce9",
       "catch-translations": {
         "catch-USen": "hay-OK",
         "catch-EUen": "hay-OK",
@@ -9266,6 +9686,8 @@
       "catch-phrase": "greenhorn",
       "icon_uri": "https://acnhapi.com/v1/icons/villagers/211",
       "image_uri": "https://acnhapi.com/v1/images/villagers/211",
+      "bubble-color": "#55cfff",
+      "text-color": "#fffce9",
       "catch-translations": {
         "catch-USen": "greenhorn",
         "catch-EUen": "greenhorn",
@@ -9310,6 +9732,8 @@
       "catch-phrase": "sugar",
       "icon_uri": "https://acnhapi.com/v1/icons/villagers/212",
       "image_uri": "https://acnhapi.com/v1/images/villagers/212",
+      "bubble-color": "#a06fce",
+      "text-color": "#fffce9",
       "catch-translations": {
         "catch-USen": "sugar",
         "catch-EUen": "sugar",
@@ -9354,6 +9778,8 @@
       "catch-phrase": "neighbor",
       "icon_uri": "https://acnhapi.com/v1/icons/villagers/213",
       "image_uri": "https://acnhapi.com/v1/images/villagers/213",
+      "bubble-color": "#f993ce",
+      "text-color": "#fffce9",
       "catch-translations": {
         "catch-USen": "neighbor",
         "catch-EUen": "neighbor",
@@ -9398,6 +9824,8 @@
       "catch-phrase": "nipper",
       "icon_uri": "https://acnhapi.com/v1/icons/villagers/214",
       "image_uri": "https://acnhapi.com/v1/images/villagers/214",
+      "bubble-color": "#7c6559",
+      "text-color": "#eac113",
       "catch-translations": {
         "catch-USen": "nipper",
         "catch-EUen": "nipper",
@@ -9442,6 +9870,8 @@
       "catch-phrase": "clip clawp",
       "icon_uri": "https://acnhapi.com/v1/icons/villagers/215",
       "image_uri": "https://acnhapi.com/v1/images/villagers/215",
+      "bubble-color": "#d8cc39",
+      "text-color": "#8b5f57",
       "catch-translations": {
         "catch-USen": "clip clawp",
         "catch-EUen": "clip clawp",
@@ -9486,6 +9916,8 @@
       "catch-phrase": "check it",
       "icon_uri": "https://acnhapi.com/v1/icons/villagers/216",
       "image_uri": "https://acnhapi.com/v1/images/villagers/216",
+      "bubble-color": "#ffffff",
+      "text-color": "#848484",
       "catch-translations": {
         "catch-USen": "check it",
         "catch-EUen": "check it",
@@ -9530,6 +9962,8 @@
       "catch-phrase": "haaay",
       "icon_uri": "https://acnhapi.com/v1/icons/villagers/217",
       "image_uri": "https://acnhapi.com/v1/images/villagers/217",
+      "bubble-color": "#d86808",
+      "text-color": "#fffce9",
       "catch-translations": {
         "catch-USen": "haaay",
         "catch-EUen": "haaay",
@@ -9574,6 +10008,8 @@
       "catch-phrase": "glitter",
       "icon_uri": "https://acnhapi.com/v1/icons/villagers/218",
       "image_uri": "https://acnhapi.com/v1/images/villagers/218",
+      "bubble-color": "#3fd8e0",
+      "text-color": "#fffce9",
       "catch-translations": {
         "catch-USen": "glitter",
         "catch-EUen": "glitter",
@@ -9618,6 +10054,8 @@
       "catch-phrase": "ayup yup",
       "icon_uri": "https://acnhapi.com/v1/icons/villagers/219",
       "image_uri": "https://acnhapi.com/v1/images/villagers/219",
+      "bubble-color": "#76494e",
+      "text-color": "#fffce9",
       "catch-translations": {
         "catch-USen": "ayup yup",
         "catch-EUen": "ayup yup",
@@ -9662,6 +10100,8 @@
       "catch-phrase": "tsk tsk",
       "icon_uri": "https://acnhapi.com/v1/icons/villagers/220",
       "image_uri": "https://acnhapi.com/v1/images/villagers/220",
+      "bubble-color": "#194c89",
+      "text-color": "#fffad4",
       "catch-translations": {
         "catch-USen": "tsk tsk",
         "catch-EUen": "tsk tsk",
@@ -9706,6 +10146,8 @@
       "catch-phrase": "guvnor",
       "icon_uri": "https://acnhapi.com/v1/icons/villagers/221",
       "image_uri": "https://acnhapi.com/v1/images/villagers/221",
+      "bubble-color": "#e8b010",
+      "text-color": "#fffce9",
       "catch-translations": {
         "catch-USen": "guvnor",
         "catch-EUen": "guvnor",
@@ -9750,6 +10192,8 @@
       "catch-phrase": "toasty",
       "icon_uri": "https://acnhapi.com/v1/icons/villagers/222",
       "image_uri": "https://acnhapi.com/v1/images/villagers/222",
+      "bubble-color": "#e4b887",
+      "text-color": "#fffce9",
       "catch-translations": {
         "catch-USen": "toasty",
         "catch-EUen": "toasty",
@@ -9794,6 +10238,8 @@
       "catch-phrase": "sunshine",
       "icon_uri": "https://acnhapi.com/v1/icons/villagers/223",
       "image_uri": "https://acnhapi.com/v1/images/villagers/223",
+      "bubble-color": "#7352e8",
+      "text-color": "#fffce9",
       "catch-translations": {
         "catch-USen": "sunshine",
         "catch-EUen": "sunshine",
@@ -9838,6 +10284,8 @@
       "catch-phrase": "mate",
       "icon_uri": "https://acnhapi.com/v1/icons/villagers/224",
       "image_uri": "https://acnhapi.com/v1/images/villagers/224",
+      "bubble-color": "#bfbfbf",
+      "text-color": "#5e5e5e",
       "catch-translations": {
         "catch-USen": "mate",
         "catch-EUen": "mate",
@@ -9882,6 +10330,8 @@
       "catch-phrase": "ol' bear",
       "icon_uri": "https://acnhapi.com/v1/icons/villagers/225",
       "image_uri": "https://acnhapi.com/v1/images/villagers/225",
+      "bubble-color": "#bfbfbf",
+      "text-color": "#5e5e5e",
       "catch-translations": {
         "catch-USen": "ol' bear",
         "catch-EUen": "ol' bear",
@@ -9926,6 +10376,8 @@
       "catch-phrase": "nuh uh",
       "icon_uri": "https://acnhapi.com/v1/icons/villagers/226",
       "image_uri": "https://acnhapi.com/v1/images/villagers/226",
+      "bubble-color": "#ff791f",
+      "text-color": "#fff2bb",
       "catch-translations": {
         "catch-USen": "nuh uh",
         "catch-EUen": "nuh uh",
@@ -9970,6 +10422,8 @@
       "catch-phrase": "chips",
       "icon_uri": "https://acnhapi.com/v1/icons/villagers/227",
       "image_uri": "https://acnhapi.com/v1/images/villagers/227",
+      "bubble-color": "#a8e989",
+      "text-color": "#878e86",
       "catch-translations": {
         "catch-USen": "chips",
         "catch-EUen": "chips",
@@ -10014,6 +10468,8 @@
       "catch-phrase": "yeah buddy",
       "icon_uri": "https://acnhapi.com/v1/icons/villagers/228",
       "image_uri": "https://acnhapi.com/v1/images/villagers/228",
+      "bubble-color": "#4c3317",
+      "text-color": "#fffce9",
       "catch-translations": {
         "catch-USen": "yeah buddy",
         "catch-EUen": "yeah buddy",
@@ -10058,6 +10514,8 @@
       "catch-phrase": "child",
       "icon_uri": "https://acnhapi.com/v1/icons/villagers/229",
       "image_uri": "https://acnhapi.com/v1/images/villagers/229",
+      "bubble-color": "#c0ab72",
+      "text-color": "#fffce9",
       "catch-translations": {
         "catch-USen": "child",
         "catch-EUen": "child",
@@ -10102,6 +10560,8 @@
       "catch-phrase": "wee baby",
       "icon_uri": "https://acnhapi.com/v1/icons/villagers/230",
       "image_uri": "https://acnhapi.com/v1/images/villagers/230",
+      "bubble-color": "#515151",
+      "text-color": "#fffce9",
       "catch-translations": {
         "catch-USen": "wee baby",
         "catch-EUen": "wee baby",
@@ -10146,6 +10606,8 @@
       "catch-phrase": "little one",
       "icon_uri": "https://acnhapi.com/v1/icons/villagers/231",
       "image_uri": "https://acnhapi.com/v1/images/villagers/231",
+      "bubble-color": "#e8b010",
+      "text-color": "#fffce9",
       "catch-translations": {
         "catch-USen": "little one",
         "catch-EUen": "little one",
@@ -10190,6 +10652,8 @@
       "catch-phrase": "my pet",
       "icon_uri": "https://acnhapi.com/v1/icons/villagers/232",
       "image_uri": "https://acnhapi.com/v1/images/villagers/232",
+      "bubble-color": "#ffffff",
+      "text-color": "#848484",
       "catch-translations": {
         "catch-USen": "my pet",
         "catch-EUen": "my pet",
@@ -10234,6 +10698,8 @@
       "catch-phrase": "boing",
       "icon_uri": "https://acnhapi.com/v1/icons/villagers/233",
       "image_uri": "https://acnhapi.com/v1/images/villagers/233",
+      "bubble-color": "#a06fce",
+      "text-color": "#fffce9",
       "catch-translations": {
         "catch-USen": "boing",
         "catch-EUen": "boing",
@@ -10278,6 +10744,8 @@
       "catch-phrase": "pockets",
       "icon_uri": "https://acnhapi.com/v1/icons/villagers/234",
       "image_uri": "https://acnhapi.com/v1/images/villagers/234",
+      "bubble-color": "#acc8cf",
+      "text-color": "#498992",
       "catch-translations": {
         "catch-USen": "pockets",
         "catch-EUen": "pockets",
@@ -10322,6 +10790,8 @@
       "catch-phrase": "punches",
       "icon_uri": "https://acnhapi.com/v1/icons/villagers/235",
       "image_uri": "https://acnhapi.com/v1/images/villagers/235",
+      "bubble-color": "#3fd8e0",
+      "text-color": "#fffce9",
       "catch-translations": {
         "catch-USen": "punches",
         "catch-EUen": "punches",
@@ -10366,6 +10836,8 @@
       "catch-phrase": "pouches",
       "icon_uri": "https://acnhapi.com/v1/icons/villagers/236",
       "image_uri": "https://acnhapi.com/v1/images/villagers/236",
+      "bubble-color": "#f993ce",
+      "text-color": "#fffce9",
       "catch-translations": {
         "catch-USen": "pouches",
         "catch-EUen": "pouches",
@@ -10410,6 +10882,8 @@
       "catch-phrase": "shredded",
       "icon_uri": "https://acnhapi.com/v1/icons/villagers/237",
       "image_uri": "https://acnhapi.com/v1/images/villagers/237",
+      "bubble-color": "#d86808",
+      "text-color": "#fffce9",
       "catch-translations": {
         "catch-USen": "shredded",
         "catch-EUen": "shredded",
@@ -10454,6 +10928,8 @@
       "catch-phrase": "unh-hunh",
       "icon_uri": "https://acnhapi.com/v1/icons/villagers/238",
       "image_uri": "https://acnhapi.com/v1/images/villagers/238",
+      "bubble-color": "#ffd00d",
+      "text-color": "#9b553a",
       "catch-translations": {
         "catch-USen": "unh-hunh",
         "catch-EUen": "unh-hunh",
@@ -10498,6 +10974,8 @@
       "catch-phrase": "cool cat",
       "icon_uri": "https://acnhapi.com/v1/icons/villagers/239",
       "image_uri": "https://acnhapi.com/v1/images/villagers/239",
+      "bubble-color": "#ffaa3b",
+      "text-color": "#874c25",
       "catch-translations": {
         "catch-USen": "cool cat",
         "catch-EUen": "cool cat",
@@ -10542,6 +11020,8 @@
       "catch-phrase": "lion cub",
       "icon_uri": "https://acnhapi.com/v1/icons/villagers/240",
       "image_uri": "https://acnhapi.com/v1/images/villagers/240",
+      "bubble-color": "#e4b887",
+      "text-color": "#fffce9",
       "catch-translations": {
         "catch-USen": "lion cub",
         "catch-EUen": "lion cub",
@@ -10586,6 +11066,8 @@
       "catch-phrase": "cagey",
       "icon_uri": "https://acnhapi.com/v1/icons/villagers/241",
       "image_uri": "https://acnhapi.com/v1/images/villagers/241",
+      "bubble-color": "#d8cc39",
+      "text-color": "#8b5f57",
       "catch-translations": {
         "catch-USen": "cagey",
         "catch-EUen": "cagey",
@@ -10630,6 +11112,8 @@
       "catch-phrase": "capital",
       "icon_uri": "https://acnhapi.com/v1/icons/villagers/242",
       "image_uri": "https://acnhapi.com/v1/images/villagers/242",
+      "bubble-color": "#ff791f",
+      "text-color": "#fff2bb",
       "catch-translations": {
         "catch-USen": "capital",
         "catch-EUen": "capital",
@@ -10674,6 +11158,8 @@
       "catch-phrase": "precisely",
       "icon_uri": "https://acnhapi.com/v1/icons/villagers/243",
       "image_uri": "https://acnhapi.com/v1/images/villagers/243",
+      "bubble-color": "#e4b887",
+      "text-color": "#fffce9",
       "catch-translations": {
         "catch-USen": "precisely",
         "catch-EUen": "precisely",
@@ -10718,6 +11204,8 @@
       "catch-phrase": "po po",
       "icon_uri": "https://acnhapi.com/v1/icons/villagers/244",
       "image_uri": "https://acnhapi.com/v1/images/villagers/244",
+      "bubble-color": "#ec7efc",
+      "text-color": "#fffce9",
       "catch-translations": {
         "catch-USen": "po po",
         "catch-EUen": "po po",
@@ -10762,6 +11250,8 @@
       "catch-phrase": "zzzook",
       "icon_uri": "https://acnhapi.com/v1/icons/villagers/245",
       "image_uri": "https://acnhapi.com/v1/images/villagers/245",
+      "bubble-color": "#d8cc39",
+      "text-color": "#8b5f57",
       "catch-translations": {
         "catch-USen": "zzzook",
         "catch-EUen": "zzzook",
@@ -10806,6 +11296,8 @@
       "catch-phrase": "chimpy",
       "icon_uri": "https://acnhapi.com/v1/icons/villagers/246",
       "image_uri": "https://acnhapi.com/v1/images/villagers/246",
+      "bubble-color": "#ffd00d",
+      "text-color": "#9b553a",
       "catch-translations": {
         "catch-USen": "chimpy",
         "catch-EUen": "chimpy",
@@ -10850,6 +11342,8 @@
       "catch-phrase": "g'tang",
       "icon_uri": "https://acnhapi.com/v1/icons/villagers/247",
       "image_uri": "https://acnhapi.com/v1/images/villagers/247",
+      "bubble-color": "#acc8cf",
+      "text-color": "#498992",
       "catch-translations": {
         "catch-USen": "g'tang",
         "catch-EUen": "g'tang",
@@ -10894,6 +11388,8 @@
       "catch-phrase": "puh-lease",
       "icon_uri": "https://acnhapi.com/v1/icons/villagers/248",
       "image_uri": "https://acnhapi.com/v1/images/villagers/248",
+      "bubble-color": "#d8cc39",
+      "text-color": "#8b5f57",
       "catch-translations": {
         "catch-USen": "puh-lease",
         "catch-EUen": "puh-lease",
@@ -10938,6 +11434,8 @@
       "catch-phrase": "rerack",
       "icon_uri": "https://acnhapi.com/v1/icons/villagers/249",
       "image_uri": "https://acnhapi.com/v1/images/villagers/249",
+      "bubble-color": "#ff791f",
+      "text-color": "#fff2bb",
       "catch-translations": {
         "catch-USen": "rerack",
         "catch-EUen": "rerack",
@@ -10982,6 +11480,8 @@
       "catch-phrase": "cheeky",
       "icon_uri": "https://acnhapi.com/v1/icons/villagers/250",
       "image_uri": "https://acnhapi.com/v1/images/villagers/250",
+      "bubble-color": "#bfbfbf",
+      "text-color": "#5e5e5e",
       "catch-translations": {
         "catch-USen": "cheeky",
         "catch-EUen": "cheeky",
@@ -11026,6 +11526,8 @@
       "catch-phrase": "monch",
       "icon_uri": "https://acnhapi.com/v1/icons/villagers/251",
       "image_uri": "https://acnhapi.com/v1/images/villagers/251",
+      "bubble-color": "#c0ab72",
+      "text-color": "#fffce9",
       "catch-translations": {
         "catch-USen": "monch",
         "catch-EUen": "monch",
@@ -11070,6 +11572,8 @@
       "catch-phrase": "squeaky",
       "icon_uri": "https://acnhapi.com/v1/icons/villagers/252",
       "image_uri": "https://acnhapi.com/v1/images/villagers/252",
+      "bubble-color": "#ffffff",
+      "text-color": "#848484",
       "catch-translations": {
         "catch-USen": "squeaky",
         "catch-EUen": "squeaky",
@@ -11114,6 +11618,8 @@
       "catch-phrase": "squinky",
       "icon_uri": "https://acnhapi.com/v1/icons/villagers/253",
       "image_uri": "https://acnhapi.com/v1/images/villagers/253",
+      "bubble-color": "#ffaa3b",
+      "text-color": "#874c25",
       "catch-translations": {
         "catch-USen": "squinky",
         "catch-EUen": "squinky",
@@ -11158,6 +11664,8 @@
       "catch-phrase": "eeks",
       "icon_uri": "https://acnhapi.com/v1/icons/villagers/254",
       "image_uri": "https://acnhapi.com/v1/images/villagers/254",
+      "bubble-color": "#ffffff",
+      "text-color": "#848484",
       "catch-translations": {
         "catch-USen": "eeks",
         "catch-EUen": "eeks",
@@ -11202,6 +11710,8 @@
       "catch-phrase": "cheeseball",
       "icon_uri": "https://acnhapi.com/v1/icons/villagers/255",
       "image_uri": "https://acnhapi.com/v1/images/villagers/255",
+      "bubble-color": "#ffffff",
+      "text-color": "#848484",
       "catch-translations": {
         "catch-USen": "cheeseball",
         "catch-EUen": "cheeseball",
@@ -11246,6 +11756,8 @@
       "catch-phrase": "pipsqueak",
       "icon_uri": "https://acnhapi.com/v1/icons/villagers/256",
       "image_uri": "https://acnhapi.com/v1/images/villagers/256",
+      "bubble-color": "#acc8cf",
+      "text-color": "#498992",
       "catch-translations": {
         "catch-USen": "pipsqueak",
         "catch-EUen": "pipsqueak",
@@ -11290,6 +11802,8 @@
       "catch-phrase": "ace",
       "icon_uri": "https://acnhapi.com/v1/icons/villagers/257",
       "image_uri": "https://acnhapi.com/v1/images/villagers/257",
+      "bubble-color": "#ec7efc",
+      "text-color": "#fffce9",
       "catch-translations": {
         "catch-USen": "ace",
         "catch-EUen": "ace",
@@ -11334,6 +11848,8 @@
       "catch-phrase": "sweetie",
       "icon_uri": "https://acnhapi.com/v1/icons/villagers/258",
       "image_uri": "https://acnhapi.com/v1/images/villagers/258",
+      "bubble-color": "#ff6183",
+      "text-color": "#fffce9",
       "catch-translations": {
         "catch-USen": "sweetie",
         "catch-EUen": "sweetie",
@@ -11378,6 +11894,8 @@
       "catch-phrase": "squee",
       "icon_uri": "https://acnhapi.com/v1/icons/villagers/259",
       "image_uri": "https://acnhapi.com/v1/images/villagers/259",
+      "bubble-color": "#8bcdea",
+      "text-color": "#fffad4",
       "catch-translations": {
         "catch-USen": "squee",
         "catch-EUen": "squee",
@@ -11422,6 +11940,8 @@
       "catch-phrase": "cannoli",
       "icon_uri": "https://acnhapi.com/v1/icons/villagers/260",
       "image_uri": "https://acnhapi.com/v1/images/villagers/260",
+      "bubble-color": "#78dd62",
+      "text-color": "#28665a",
       "catch-translations": {
         "catch-USen": "cannoli",
         "catch-EUen": "cannoli",
@@ -11466,6 +11986,8 @@
       "catch-phrase": "eat it",
       "icon_uri": "https://acnhapi.com/v1/icons/villagers/261",
       "image_uri": "https://acnhapi.com/v1/images/villagers/261",
+      "bubble-color": "#55cfff",
+      "text-color": "#fffce9",
       "catch-translations": {
         "catch-USen": "eat it",
         "catch-EUen": "eat it",
@@ -11510,6 +12032,8 @@
       "catch-phrase": "shorty",
       "icon_uri": "https://acnhapi.com/v1/icons/villagers/262",
       "image_uri": "https://acnhapi.com/v1/images/villagers/262",
+      "bubble-color": "#7fa9ff",
+      "text-color": "#fffce9",
       "catch-translations": {
         "catch-USen": "shorty",
         "catch-EUen": "shorty",
@@ -11554,6 +12078,8 @@
       "catch-phrase": "eekers",
       "icon_uri": "https://acnhapi.com/v1/icons/villagers/263",
       "image_uri": "https://acnhapi.com/v1/images/villagers/263",
+      "bubble-color": "#ff791f",
+      "text-color": "#fff2bb",
       "catch-translations": {
         "catch-USen": "eekers",
         "catch-EUen": "eekers",
@@ -11598,6 +12124,8 @@
       "catch-phrase": "yelp",
       "icon_uri": "https://acnhapi.com/v1/icons/villagers/264",
       "image_uri": "https://acnhapi.com/v1/images/villagers/264",
+      "bubble-color": "#ffffff",
+      "text-color": "#848484",
       "catch-translations": {
         "catch-USen": "yelp",
         "catch-EUen": "yelp",
@@ -11642,6 +12170,8 @@
       "catch-phrase": "oh bow",
       "icon_uri": "https://acnhapi.com/v1/icons/villagers/265",
       "image_uri": "https://acnhapi.com/v1/images/villagers/265",
+      "bubble-color": "#c0ab72",
+      "text-color": "#fffce9",
       "catch-translations": {
         "catch-USen": "oh bow",
         "catch-EUen": "oh bow",
@@ -11686,6 +12216,8 @@
       "catch-phrase": "fromage",
       "icon_uri": "https://acnhapi.com/v1/icons/villagers/266",
       "image_uri": "https://acnhapi.com/v1/images/villagers/266",
+      "bubble-color": "#ffd00d",
+      "text-color": "#9b553a",
       "catch-translations": {
         "catch-USen": "fromage",
         "catch-EUen": "fromage",
@@ -11730,6 +12262,8 @@
       "catch-phrase": "sucker",
       "icon_uri": "https://acnhapi.com/v1/icons/villagers/267",
       "image_uri": "https://acnhapi.com/v1/images/villagers/267",
+      "bubble-color": "#ff4040",
+      "text-color": "#fffad4",
       "catch-translations": {
         "catch-USen": "sucker",
         "catch-EUen": "sucker",
@@ -11774,6 +12308,8 @@
       "catch-phrase": "blurp",
       "icon_uri": "https://acnhapi.com/v1/icons/villagers/268",
       "image_uri": "https://acnhapi.com/v1/images/villagers/268",
+      "bubble-color": "#f993ce",
+      "text-color": "#fffce9",
       "catch-translations": {
         "catch-USen": "blurp",
         "catch-EUen": "blurp",
@@ -11818,6 +12354,8 @@
       "catch-phrase": "bloop",
       "icon_uri": "https://acnhapi.com/v1/icons/villagers/269",
       "image_uri": "https://acnhapi.com/v1/images/villagers/269",
+      "bubble-color": "#e4b887",
+      "text-color": "#fffce9",
       "catch-translations": {
         "catch-USen": "bloop",
         "catch-EUen": "bloop",
@@ -11862,6 +12400,8 @@
       "catch-phrase": "chicken",
       "icon_uri": "https://acnhapi.com/v1/icons/villagers/270",
       "image_uri": "https://acnhapi.com/v1/images/villagers/270",
+      "bubble-color": "#a06fce",
+      "text-color": "#fffce9",
       "catch-translations": {
         "catch-USen": "chicken",
         "catch-EUen": "chicken",
@@ -11906,6 +12446,8 @@
       "catch-phrase": "stretch",
       "icon_uri": "https://acnhapi.com/v1/icons/villagers/271",
       "image_uri": "https://acnhapi.com/v1/images/villagers/271",
+      "bubble-color": "#ffffff",
+      "text-color": "#848484",
       "catch-translations": {
         "catch-USen": "stretch",
         "catch-EUen": "stretch",
@@ -11950,6 +12492,8 @@
       "catch-phrase": "speedy",
       "icon_uri": "https://acnhapi.com/v1/icons/villagers/272",
       "image_uri": "https://acnhapi.com/v1/images/villagers/272",
+      "bubble-color": "#ff791f",
+      "text-color": "#fff2bb",
       "catch-translations": {
         "catch-USen": "speedy",
         "catch-EUen": "speedy",
@@ -11994,6 +12538,8 @@
       "catch-phrase": "zort",
       "icon_uri": "https://acnhapi.com/v1/icons/villagers/273",
       "image_uri": "https://acnhapi.com/v1/images/villagers/273",
+      "bubble-color": "#0ca54a",
+      "text-color": "#fffce9",
       "catch-translations": {
         "catch-USen": "zort",
         "catch-EUen": "zort",
@@ -12038,6 +12584,8 @@
       "catch-phrase": "dahling",
       "icon_uri": "https://acnhapi.com/v1/icons/villagers/274",
       "image_uri": "https://acnhapi.com/v1/images/villagers/274",
+      "bubble-color": "#0ca54a",
+      "text-color": "#fffce9",
       "catch-translations": {
         "catch-USen": "dahling",
         "catch-EUen": "dahling",
@@ -12082,6 +12630,8 @@
       "catch-phrase": "sweatband",
       "icon_uri": "https://acnhapi.com/v1/icons/villagers/275",
       "image_uri": "https://acnhapi.com/v1/images/villagers/275",
+      "bubble-color": "#ffffff",
+      "text-color": "#848484",
       "catch-translations": {
         "catch-USen": "sweatband",
         "catch-EUen": "sweatband",
@@ -12126,6 +12676,8 @@
       "catch-phrase": "hurk",
       "icon_uri": "https://acnhapi.com/v1/icons/villagers/276",
       "image_uri": "https://acnhapi.com/v1/images/villagers/276",
+      "bubble-color": "#7352e8",
+      "text-color": "#fffce9",
       "catch-translations": {
         "catch-USen": "hurk",
         "catch-EUen": "hurk",
@@ -12170,6 +12722,8 @@
       "catch-phrase": "quite so",
       "icon_uri": "https://acnhapi.com/v1/icons/villagers/277",
       "image_uri": "https://acnhapi.com/v1/images/villagers/277",
+      "bubble-color": "#ffffff",
+      "text-color": "#848484",
       "catch-translations": {
         "catch-USen": "quite so",
         "catch-EUen": "quite so",
@@ -12214,6 +12768,8 @@
       "catch-phrase": "pinky",
       "icon_uri": "https://acnhapi.com/v1/icons/villagers/278",
       "image_uri": "https://acnhapi.com/v1/images/villagers/278",
+      "bubble-color": "#ff6183",
+      "text-color": "#fffce9",
       "catch-translations": {
         "catch-USen": "pinky",
         "catch-EUen": "pinky",
@@ -12258,6 +12814,8 @@
       "catch-phrase": "sparky",
       "icon_uri": "https://acnhapi.com/v1/icons/villagers/279",
       "image_uri": "https://acnhapi.com/v1/images/villagers/279",
+      "bubble-color": "#ff791f",
+      "text-color": "#fff2bb",
       "catch-translations": {
         "catch-USen": "sparky",
         "catch-EUen": "sparky",
@@ -12302,6 +12860,8 @@
       "catch-phrase": "pah",
       "icon_uri": "https://acnhapi.com/v1/icons/villagers/280",
       "image_uri": "https://acnhapi.com/v1/images/villagers/280",
+      "bubble-color": "#ffffff",
+      "text-color": "#848484",
       "catch-translations": {
         "catch-USen": "pah",
         "catch-EUen": "pah",
@@ -12346,6 +12906,8 @@
       "catch-phrase": "cuz",
       "icon_uri": "https://acnhapi.com/v1/icons/villagers/281",
       "image_uri": "https://acnhapi.com/v1/images/villagers/281",
+      "bubble-color": "#ff4040",
+      "text-color": "#fffad4",
       "catch-translations": {
         "catch-USen": "cuz",
         "catch-EUen": "cuz",
@@ -12390,6 +12952,8 @@
       "catch-phrase": "hawkeye",
       "icon_uri": "https://acnhapi.com/v1/icons/villagers/282",
       "image_uri": "https://acnhapi.com/v1/images/villagers/282",
+      "bubble-color": "#55cfff",
+      "text-color": "#fffce9",
       "catch-translations": {
         "catch-USen": "hawkeye",
         "catch-EUen": "hawkeye",
@@ -12434,6 +12998,8 @@
       "catch-phrase": "captain",
       "icon_uri": "https://acnhapi.com/v1/icons/villagers/283",
       "image_uri": "https://acnhapi.com/v1/images/villagers/283",
+      "bubble-color": "#d86808",
+      "text-color": "#fffce9",
       "catch-translations": {
         "catch-USen": "captain",
         "catch-EUen": "captain",
@@ -12478,6 +13044,8 @@
       "catch-phrase": "skree-haw",
       "icon_uri": "https://acnhapi.com/v1/icons/villagers/284",
       "image_uri": "https://acnhapi.com/v1/images/villagers/284",
+      "bubble-color": "#c0ab72",
+      "text-color": "#fffce9",
       "catch-translations": {
         "catch-USen": "skree-haw",
         "catch-EUen": "skree-haw",
@@ -12522,6 +13090,8 @@
       "catch-phrase": "crushy",
       "icon_uri": "https://acnhapi.com/v1/icons/villagers/285",
       "image_uri": "https://acnhapi.com/v1/images/villagers/285",
+      "bubble-color": "#78dd62",
+      "text-color": "#28665a",
       "catch-translations": {
         "catch-USen": "crushy",
         "catch-EUen": "crushy",
@@ -12566,6 +13136,8 @@
       "catch-phrase": "skraaaaw",
       "icon_uri": "https://acnhapi.com/v1/icons/villagers/286",
       "image_uri": "https://acnhapi.com/v1/images/villagers/286",
+      "bubble-color": "#bfbfbf",
+      "text-color": "#5e5e5e",
       "catch-translations": {
         "catch-USen": "skraaaaw",
         "catch-EUen": "skraaaaw",
@@ -12610,6 +13182,8 @@
       "catch-phrase": "wingo",
       "icon_uri": "https://acnhapi.com/v1/icons/villagers/287",
       "image_uri": "https://acnhapi.com/v1/images/villagers/287",
+      "bubble-color": "#3fd8e0",
+      "text-color": "#fffce9",
       "catch-translations": {
         "catch-USen": "wingo",
         "catch-EUen": "wingo",
@@ -12654,6 +13228,8 @@
       "catch-phrase": "feathers",
       "icon_uri": "https://acnhapi.com/v1/icons/villagers/288",
       "image_uri": "https://acnhapi.com/v1/images/villagers/288",
+      "bubble-color": "#ffffff",
+      "text-color": "#848484",
       "catch-translations": {
         "catch-USen": "feathers",
         "catch-EUen": "feathers",
@@ -12698,6 +13274,8 @@
       "catch-phrase": "b-b-baby",
       "icon_uri": "https://acnhapi.com/v1/icons/villagers/289",
       "image_uri": "https://acnhapi.com/v1/images/villagers/289",
+      "bubble-color": "#ffffff",
+      "text-color": "#848484",
       "catch-translations": {
         "catch-USen": "b-b-baby",
         "catch-EUen": "b-b-baby",
@@ -12742,6 +13320,8 @@
       "catch-phrase": "b-b-buddy",
       "icon_uri": "https://acnhapi.com/v1/icons/villagers/290",
       "image_uri": "https://acnhapi.com/v1/images/villagers/290",
+      "bubble-color": "#194c89",
+      "text-color": "#fffad4",
       "catch-translations": {
         "catch-USen": "b-b-buddy",
         "catch-EUen": "b-b-buddy",
@@ -12786,6 +13366,8 @@
       "catch-phrase": "brainfreeze",
       "icon_uri": "https://acnhapi.com/v1/icons/villagers/291",
       "image_uri": "https://acnhapi.com/v1/images/villagers/291",
+      "bubble-color": "#515151",
+      "text-color": "#fffce9",
       "catch-translations": {
         "catch-USen": "brainfreeze",
         "catch-EUen": "brainfreeze",
@@ -12830,6 +13412,8 @@
       "catch-phrase": "slushie",
       "icon_uri": "https://acnhapi.com/v1/icons/villagers/292",
       "image_uri": "https://acnhapi.com/v1/images/villagers/292",
+      "bubble-color": "#515151",
+      "text-color": "#fffce9",
       "catch-translations": {
         "catch-USen": "slushie",
         "catch-EUen": "slushie",
@@ -12874,6 +13458,8 @@
       "catch-phrase": "brrrmph",
       "icon_uri": "https://acnhapi.com/v1/icons/villagers/293",
       "image_uri": "https://acnhapi.com/v1/images/villagers/293",
+      "bubble-color": "#f2bdc7",
+      "text-color": "#634b4b",
       "catch-translations": {
         "catch-USen": "brrrmph",
         "catch-EUen": "brrrmph",
@@ -12918,6 +13504,8 @@
       "catch-phrase": "h-h-h-hon",
       "icon_uri": "https://acnhapi.com/v1/icons/villagers/294",
       "image_uri": "https://acnhapi.com/v1/images/villagers/294",
+      "bubble-color": "#7352e8",
+      "text-color": "#fffce9",
       "catch-translations": {
         "catch-USen": "h-h-h-hon",
         "catch-EUen": "h-h-h-hon",
@@ -12962,6 +13550,8 @@
       "catch-phrase": "brrrrrrrrr",
       "icon_uri": "https://acnhapi.com/v1/icons/villagers/295",
       "image_uri": "https://acnhapi.com/v1/images/villagers/295",
+      "bubble-color": "#0961f6",
+      "text-color": "#fffce9",
       "catch-translations": {
         "catch-USen": "brrrrrrrrr",
         "catch-EUen": "brrrrrrrrr",
@@ -13006,6 +13596,8 @@
       "catch-phrase": "so it goes",
       "icon_uri": "https://acnhapi.com/v1/icons/villagers/296",
       "image_uri": "https://acnhapi.com/v1/images/villagers/296",
+      "bubble-color": "#ffffff",
+      "text-color": "#848484",
       "catch-translations": {
         "catch-USen": "so it goes",
         "catch-EUen": "so it goes",
@@ -13050,6 +13642,8 @@
       "catch-phrase": "human",
       "icon_uri": "https://acnhapi.com/v1/icons/villagers/297",
       "image_uri": "https://acnhapi.com/v1/images/villagers/297",
+      "bubble-color": "#798040",
+      "text-color": "#fffad4",
       "catch-translations": {
         "catch-USen": "human",
         "catch-EUen": "human",
@@ -13094,6 +13688,8 @@
       "catch-phrase": "waddler",
       "icon_uri": "https://acnhapi.com/v1/icons/villagers/298",
       "image_uri": "https://acnhapi.com/v1/images/villagers/298",
+      "bubble-color": "#ffffff",
+      "text-color": "#848484",
       "catch-translations": {
         "catch-USen": "waddler",
         "catch-EUen": "waddler",
@@ -13138,6 +13734,8 @@
       "catch-phrase": "picante",
       "icon_uri": "https://acnhapi.com/v1/icons/villagers/299",
       "image_uri": "https://acnhapi.com/v1/images/villagers/299",
+      "bubble-color": "#194c89",
+      "text-color": "#fffad4",
       "catch-translations": {
         "catch-USen": "picante",
         "catch-EUen": "picante",
@@ -13182,6 +13780,8 @@
       "catch-phrase": "cha",
       "icon_uri": "https://acnhapi.com/v1/icons/villagers/300",
       "image_uri": "https://acnhapi.com/v1/images/villagers/300",
+      "bubble-color": "#6b75ce",
+      "text-color": "#9ae8df",
       "catch-translations": {
         "catch-USen": "cha",
         "catch-EUen": "cha",
@@ -13226,6 +13826,8 @@
       "catch-phrase": "frappe",
       "icon_uri": "https://acnhapi.com/v1/icons/villagers/301",
       "image_uri": "https://acnhapi.com/v1/images/villagers/301",
+      "bubble-color": "#00d1bd",
+      "text-color": "#fffce9",
       "catch-translations": {
         "catch-USen": "frappe",
         "catch-EUen": "frappe",
@@ -13270,6 +13872,8 @@
       "catch-phrase": "nyoink",
       "icon_uri": "https://acnhapi.com/v1/icons/villagers/302",
       "image_uri": "https://acnhapi.com/v1/images/villagers/302",
+      "bubble-color": "#f993ce",
+      "text-color": "#fffce9",
       "catch-translations": {
         "catch-USen": "nyoink",
         "catch-EUen": "nyoink",
@@ -13314,6 +13918,8 @@
       "catch-phrase": "snoutie",
       "icon_uri": "https://acnhapi.com/v1/icons/villagers/303",
       "image_uri": "https://acnhapi.com/v1/images/villagers/303",
+      "bubble-color": "#f993ce",
+      "text-color": "#fffce9",
       "catch-translations": {
         "catch-USen": "snoutie",
         "catch-EUen": "snoutie",
@@ -13358,6 +13964,8 @@
       "catch-phrase": "swine",
       "icon_uri": "https://acnhapi.com/v1/icons/villagers/304",
       "image_uri": "https://acnhapi.com/v1/images/villagers/304",
+      "bubble-color": "#951d43",
+      "text-color": "#fffad4",
       "catch-translations": {
         "catch-USen": "swine",
         "catch-EUen": "swine",
@@ -13402,6 +14010,8 @@
       "catch-phrase": "snortle",
       "icon_uri": "https://acnhapi.com/v1/icons/villagers/305",
       "image_uri": "https://acnhapi.com/v1/images/villagers/305",
+      "bubble-color": "#0961f6",
+      "text-color": "#fffce9",
       "catch-translations": {
         "catch-USen": "snortle",
         "catch-EUen": "snortle",
@@ -13446,6 +14056,8 @@
       "catch-phrase": "snoooink",
       "icon_uri": "https://acnhapi.com/v1/icons/villagers/306",
       "image_uri": "https://acnhapi.com/v1/images/villagers/306",
+      "bubble-color": "#ffffff",
+      "text-color": "#848484",
       "catch-translations": {
         "catch-USen": "snoooink",
         "catch-EUen": "snoooink",
@@ -13490,6 +14102,8 @@
       "catch-phrase": "snork",
       "icon_uri": "https://acnhapi.com/v1/icons/villagers/307",
       "image_uri": "https://acnhapi.com/v1/images/villagers/307",
+      "bubble-color": "#e4b887",
+      "text-color": "#fffce9",
       "catch-translations": {
         "catch-USen": "snork",
         "catch-EUen": "snork",
@@ -13534,6 +14148,8 @@
       "catch-phrase": "hot dog",
       "icon_uri": "https://acnhapi.com/v1/icons/villagers/308",
       "image_uri": "https://acnhapi.com/v1/images/villagers/308",
+      "bubble-color": "#a8e989",
+      "text-color": "#878e86",
       "catch-translations": {
         "catch-USen": "hot dog",
         "catch-EUen": "hot dog",
@@ -13578,6 +14194,8 @@
       "catch-phrase": "schnort",
       "icon_uri": "https://acnhapi.com/v1/icons/villagers/309",
       "image_uri": "https://acnhapi.com/v1/images/villagers/309",
+      "bubble-color": "#194c89",
+      "text-color": "#fffad4",
       "catch-translations": {
         "catch-USen": "schnort",
         "catch-EUen": "schnort",
@@ -13622,6 +14240,8 @@
       "catch-phrase": "schep",
       "icon_uri": "https://acnhapi.com/v1/icons/villagers/310",
       "image_uri": "https://acnhapi.com/v1/images/villagers/310",
+      "bubble-color": "#ffd00d",
+      "text-color": "#9b553a",
       "catch-translations": {
         "catch-USen": "schep",
         "catch-EUen": "schep",
@@ -13666,6 +14286,8 @@
       "catch-phrase": "shweetie",
       "icon_uri": "https://acnhapi.com/v1/icons/villagers/311",
       "image_uri": "https://acnhapi.com/v1/images/villagers/311",
+      "bubble-color": "#e4b887",
+      "text-color": "#fffce9",
       "catch-translations": {
         "catch-USen": "shweetie",
         "catch-EUen": "shweetie",
@@ -13710,6 +14332,8 @@
       "catch-phrase": "snortie",
       "icon_uri": "https://acnhapi.com/v1/icons/villagers/312",
       "image_uri": "https://acnhapi.com/v1/images/villagers/312",
+      "bubble-color": "#feeae7",
+      "text-color": "#97858e",
       "catch-translations": {
         "catch-USen": "snortie",
         "catch-EUen": "snortie",
@@ -13754,6 +14378,8 @@
       "catch-phrase": "zoink",
       "icon_uri": "https://acnhapi.com/v1/icons/villagers/313",
       "image_uri": "https://acnhapi.com/v1/images/villagers/313",
+      "bubble-color": "#d8cc39",
+      "text-color": "#8b5f57",
       "catch-translations": {
         "catch-USen": "zoink",
         "catch-EUen": "zoink",
@@ -13798,6 +14424,8 @@
       "catch-phrase": "weeweewee",
       "icon_uri": "https://acnhapi.com/v1/icons/villagers/314",
       "image_uri": "https://acnhapi.com/v1/images/villagers/314",
+      "bubble-color": "#ffaa3b",
+      "text-color": "#874c25",
       "catch-translations": {
         "catch-USen": "weeweewee",
         "catch-EUen": "weeweewee",
@@ -13842,6 +14470,8 @@
       "catch-phrase": "sooey",
       "icon_uri": "https://acnhapi.com/v1/icons/villagers/315",
       "image_uri": "https://acnhapi.com/v1/images/villagers/315",
+      "bubble-color": "#e2856b",
+      "text-color": "#fffce9",
       "catch-translations": {
         "catch-USen": "sooey",
         "catch-EUen": "sooey",
@@ -13886,6 +14516,8 @@
       "catch-phrase": "snuffle",
       "icon_uri": "https://acnhapi.com/v1/icons/villagers/316",
       "image_uri": "https://acnhapi.com/v1/images/villagers/316",
+      "bubble-color": "#515151",
+      "text-color": "#fffce9",
       "catch-translations": {
         "catch-USen": "snuffle",
         "catch-EUen": "snuffle",
@@ -13930,6 +14562,8 @@
       "catch-phrase": "tee-hee",
       "icon_uri": "https://acnhapi.com/v1/icons/villagers/317",
       "image_uri": "https://acnhapi.com/v1/images/villagers/317",
+      "bubble-color": "#ff791f",
+      "text-color": "#fff2bb",
       "catch-translations": {
         "catch-USen": "tee-hee",
         "catch-EUen": "tee-hee",
@@ -13974,6 +14608,8 @@
       "catch-phrase": "wee one",
       "icon_uri": "https://acnhapi.com/v1/icons/villagers/318",
       "image_uri": "https://acnhapi.com/v1/images/villagers/318",
+      "bubble-color": "#ffffff",
+      "text-color": "#848484",
       "catch-translations": {
         "catch-USen": "wee one",
         "catch-EUen": "wee one",
@@ -14018,6 +14654,8 @@
       "catch-phrase": "doyoing",
       "icon_uri": "https://acnhapi.com/v1/icons/villagers/319",
       "image_uri": "https://acnhapi.com/v1/images/villagers/319",
+      "bubble-color": "#e4b887",
+      "text-color": "#fffce9",
       "catch-translations": {
         "catch-USen": "doyoing",
         "catch-EUen": "doyoing",
@@ -14062,6 +14700,8 @@
       "catch-phrase": "bunyip",
       "icon_uri": "https://acnhapi.com/v1/icons/villagers/320",
       "image_uri": "https://acnhapi.com/v1/images/villagers/320",
+      "bubble-color": "#f993ce",
+      "text-color": "#fffce9",
       "catch-translations": {
         "catch-USen": "bunyip",
         "catch-EUen": "bunyip",
@@ -14106,6 +14746,8 @@
       "catch-phrase": "mon chou",
       "icon_uri": "https://acnhapi.com/v1/icons/villagers/321",
       "image_uri": "https://acnhapi.com/v1/images/villagers/321",
+      "bubble-color": "#ffd00d",
+      "text-color": "#9b553a",
       "catch-translations": {
         "catch-USen": "mon chou",
         "catch-EUen": "mon chou",
@@ -14150,6 +14792,8 @@
       "catch-phrase": "honeybun",
       "icon_uri": "https://acnhapi.com/v1/icons/villagers/322",
       "image_uri": "https://acnhapi.com/v1/images/villagers/322",
+      "bubble-color": "#ffffff",
+      "text-color": "#848484",
       "catch-translations": {
         "catch-USen": "honeybun",
         "catch-EUen": "honeybun",
@@ -14194,6 +14838,8 @@
       "catch-phrase": "li'l hare",
       "icon_uri": "https://acnhapi.com/v1/icons/villagers/323",
       "image_uri": "https://acnhapi.com/v1/images/villagers/323",
+      "bubble-color": "#fff98f",
+      "text-color": "#879b96",
       "catch-translations": {
         "catch-USen": "li'l hare",
         "catch-EUen": "li'l hare",
@@ -14238,6 +14884,8 @@
       "catch-phrase": "bunbun",
       "icon_uri": "https://acnhapi.com/v1/icons/villagers/324",
       "image_uri": "https://acnhapi.com/v1/images/villagers/324",
+      "bubble-color": "#ffffff",
+      "text-color": "#848484",
       "catch-translations": {
         "catch-USen": "bunbun",
         "catch-EUen": "bunbun",
@@ -14282,6 +14930,8 @@
       "catch-phrase": "mochi",
       "icon_uri": "https://acnhapi.com/v1/icons/villagers/325",
       "image_uri": "https://acnhapi.com/v1/images/villagers/325",
+      "bubble-color": "#ffffff",
+      "text-color": "#848484",
       "catch-translations": {
         "catch-USen": "mochi",
         "catch-EUen": "mochi",
@@ -14326,6 +14976,8 @@
       "catch-phrase": "li'l ears",
       "icon_uri": "https://acnhapi.com/v1/icons/villagers/326",
       "image_uri": "https://acnhapi.com/v1/images/villagers/326",
+      "bubble-color": "#ffffff",
+      "text-color": "#848484",
       "catch-translations": {
         "catch-USen": "li'l ears",
         "catch-EUen": "li'l ears",
@@ -14370,6 +15022,8 @@
       "catch-phrase": "old bunny",
       "icon_uri": "https://acnhapi.com/v1/icons/villagers/327",
       "image_uri": "https://acnhapi.com/v1/images/villagers/327",
+      "bubble-color": "#0961f6",
+      "text-color": "#fffce9",
       "catch-translations": {
         "catch-USen": "old bunny",
         "catch-EUen": "old bunny",
@@ -14414,6 +15068,8 @@
       "catch-phrase": "hopalong",
       "icon_uri": "https://acnhapi.com/v1/icons/villagers/328",
       "image_uri": "https://acnhapi.com/v1/images/villagers/328",
+      "bubble-color": "#d86808",
+      "text-color": "#fffce9",
       "catch-translations": {
         "catch-USen": "hopalong",
         "catch-EUen": "hopalong",
@@ -14458,6 +15114,8 @@
       "catch-phrase": "karat",
       "icon_uri": "https://acnhapi.com/v1/icons/villagers/329",
       "image_uri": "https://acnhapi.com/v1/images/villagers/329",
+      "bubble-color": "#3fd8e0",
+      "text-color": "#fffce9",
       "catch-translations": {
         "catch-USen": "karat",
         "catch-EUen": "karat",
@@ -14502,6 +15160,8 @@
       "catch-phrase": "sparkles",
       "icon_uri": "https://acnhapi.com/v1/icons/villagers/330",
       "image_uri": "https://acnhapi.com/v1/images/villagers/330",
+      "bubble-color": "#f993ce",
+      "text-color": "#fffce9",
       "catch-translations": {
         "catch-USen": "sparkles",
         "catch-EUen": "sparkles",
@@ -14546,6 +15206,8 @@
       "catch-phrase": "thumper",
       "icon_uri": "https://acnhapi.com/v1/icons/villagers/331",
       "image_uri": "https://acnhapi.com/v1/images/villagers/331",
+      "bubble-color": "#55cfff",
+      "text-color": "#fffce9",
       "catch-translations": {
         "catch-USen": "thumper",
         "catch-EUen": "thumper",
@@ -14590,6 +15252,8 @@
       "catch-phrase": "amigo",
       "icon_uri": "https://acnhapi.com/v1/icons/villagers/332",
       "image_uri": "https://acnhapi.com/v1/images/villagers/332",
+      "bubble-color": "#7a2500",
+      "text-color": "#fffce9",
       "catch-translations": {
         "catch-USen": "amigo",
         "catch-EUen": "amigo",
@@ -14634,6 +15298,8 @@
       "catch-phrase": "nougat",
       "icon_uri": "https://acnhapi.com/v1/icons/villagers/333",
       "image_uri": "https://acnhapi.com/v1/images/villagers/333",
+      "bubble-color": "#7a2500",
+      "text-color": "#fffce9",
       "catch-translations": {
         "catch-USen": "nougat",
         "catch-EUen": "nougat",
@@ -14678,6 +15344,8 @@
       "catch-phrase": "deelish",
       "icon_uri": "https://acnhapi.com/v1/icons/villagers/334",
       "image_uri": "https://acnhapi.com/v1/images/villagers/334",
+      "bubble-color": "#7c6559",
+      "text-color": "#eac113",
       "catch-translations": {
         "catch-USen": "deelish",
         "catch-EUen": "deelish",
@@ -14722,6 +15390,8 @@
       "catch-phrase": "coooooool",
       "icon_uri": "https://acnhapi.com/v1/icons/villagers/335",
       "image_uri": "https://acnhapi.com/v1/images/villagers/335",
+      "bubble-color": "#515151",
+      "text-color": "#fffce9",
       "catch-translations": {
         "catch-USen": "coooooool",
         "catch-EUen": "coooooool",
@@ -14766,6 +15436,8 @@
       "catch-phrase": "cottontail",
       "icon_uri": "https://acnhapi.com/v1/icons/villagers/336",
       "image_uri": "https://acnhapi.com/v1/images/villagers/336",
+      "bubble-color": "#fff80d",
+      "text-color": "#9b8986",
       "catch-translations": {
         "catch-USen": "cottontail",
         "catch-EUen": "cottontail",
@@ -14810,6 +15482,8 @@
       "catch-phrase": "kerPOW",
       "icon_uri": "https://acnhapi.com/v1/icons/villagers/337",
       "image_uri": "https://acnhapi.com/v1/images/villagers/337",
+      "bubble-color": "#8bcdea",
+      "text-color": "#fffad4",
       "catch-translations": {
         "catch-USen": "kerPOW",
         "catch-EUen": "kerPOW",
@@ -14854,6 +15528,8 @@
       "catch-phrase": "bigfoot",
       "icon_uri": "https://acnhapi.com/v1/icons/villagers/338",
       "image_uri": "https://acnhapi.com/v1/images/villagers/338",
+      "bubble-color": "#ffffff",
+      "text-color": "#848484",
       "catch-translations": {
         "catch-USen": "bigfoot",
         "catch-EUen": "bigfoot",
@@ -14898,6 +15574,8 @@
       "catch-phrase": "punk",
       "icon_uri": "https://acnhapi.com/v1/icons/villagers/339",
       "image_uri": "https://acnhapi.com/v1/images/villagers/339",
+      "bubble-color": "#ff791f",
+      "text-color": "#fff2bb",
       "catch-translations": {
         "catch-USen": "punk",
         "catch-EUen": "punk",
@@ -14942,6 +15620,8 @@
       "catch-phrase": "schnozzle",
       "icon_uri": "https://acnhapi.com/v1/icons/villagers/340",
       "image_uri": "https://acnhapi.com/v1/images/villagers/340",
+      "bubble-color": "#0961f6",
+      "text-color": "#fffce9",
       "catch-translations": {
         "catch-USen": "schnozzle",
         "catch-EUen": "schnozzle",
@@ -14986,6 +15666,8 @@
       "catch-phrase": "shortcake",
       "icon_uri": "https://acnhapi.com/v1/icons/villagers/341",
       "image_uri": "https://acnhapi.com/v1/images/villagers/341",
+      "bubble-color": "#f2bdc7",
+      "text-color": "#634b4b",
       "catch-translations": {
         "catch-USen": "shortcake",
         "catch-EUen": "shortcake",
@@ -15030,6 +15712,8 @@
       "catch-phrase": "yo yo yo",
       "icon_uri": "https://acnhapi.com/v1/icons/villagers/342",
       "image_uri": "https://acnhapi.com/v1/images/villagers/342",
+      "bubble-color": "#ec7efc",
+      "text-color": "#fffce9",
       "catch-translations": {
         "catch-USen": "yo yo yo",
         "catch-EUen": "yo yo yo",
@@ -15074,6 +15758,8 @@
       "catch-phrase": "baaaffo",
       "icon_uri": "https://acnhapi.com/v1/icons/villagers/343",
       "image_uri": "https://acnhapi.com/v1/images/villagers/343",
+      "bubble-color": "#ffffff",
+      "text-color": "#848484",
       "catch-translations": {
         "catch-USen": "baaaffo",
         "catch-EUen": "baaaffo",
@@ -15118,6 +15804,8 @@
       "catch-phrase": "daahling",
       "icon_uri": "https://acnhapi.com/v1/icons/villagers/344",
       "image_uri": "https://acnhapi.com/v1/images/villagers/344",
+      "bubble-color": "#8bcdea",
+      "text-color": "#fffad4",
       "catch-translations": {
         "catch-USen": "daahling",
         "catch-EUen": "daahling",
@@ -15162,6 +15850,8 @@
       "catch-phrase": "lambchop",
       "icon_uri": "https://acnhapi.com/v1/icons/villagers/345",
       "image_uri": "https://acnhapi.com/v1/images/villagers/345",
+      "bubble-color": "#194c89",
+      "text-color": "#fffad4",
       "catch-translations": {
         "catch-USen": "lambchop",
         "catch-EUen": "lambchop",
@@ -15206,6 +15896,8 @@
       "catch-phrase": "baa-dabing",
       "icon_uri": "https://acnhapi.com/v1/icons/villagers/346",
       "image_uri": "https://acnhapi.com/v1/images/villagers/346",
+      "bubble-color": "#951d43",
+      "text-color": "#fffad4",
       "catch-translations": {
         "catch-USen": "baa-dabing",
         "catch-EUen": "baa-dabing",
@@ -15250,6 +15942,8 @@
       "catch-phrase": "baaaby",
       "icon_uri": "https://acnhapi.com/v1/icons/villagers/347",
       "image_uri": "https://acnhapi.com/v1/images/villagers/347",
+      "bubble-color": "#bff2ff",
+      "text-color": "#85a2af",
       "catch-translations": {
         "catch-USen": "baaaby",
         "catch-EUen": "baaaby",
@@ -15294,6 +15988,8 @@
       "catch-phrase": "bo peep",
       "icon_uri": "https://acnhapi.com/v1/icons/villagers/348",
       "image_uri": "https://acnhapi.com/v1/images/villagers/348",
+      "bubble-color": "#fff98f",
+      "text-color": "#879b96",
       "catch-translations": {
         "catch-USen": "bo peep",
         "catch-EUen": "bo peep",
@@ -15338,6 +16034,8 @@
       "catch-phrase": "shearly",
       "icon_uri": "https://acnhapi.com/v1/icons/villagers/349",
       "image_uri": "https://acnhapi.com/v1/images/villagers/349",
+      "bubble-color": "#ffd00d",
+      "text-color": "#9b553a",
       "catch-translations": {
         "catch-USen": "shearly",
         "catch-EUen": "shearly",
@@ -15382,6 +16080,8 @@
       "catch-phrase": "lambkins",
       "icon_uri": "https://acnhapi.com/v1/icons/villagers/350",
       "image_uri": "https://acnhapi.com/v1/images/villagers/350",
+      "bubble-color": "#55cfff",
+      "text-color": "#fffce9",
       "catch-translations": {
         "catch-USen": "lambkins",
         "catch-EUen": "lambkins",
@@ -15426,6 +16126,8 @@
       "catch-phrase": "pine nut",
       "icon_uri": "https://acnhapi.com/v1/icons/villagers/351",
       "image_uri": "https://acnhapi.com/v1/images/villagers/351",
+      "bubble-color": "#d86808",
+      "text-color": "#fffce9",
       "catch-translations": {
         "catch-USen": "pine nut",
         "catch-EUen": "pine nut",
@@ -15470,6 +16172,8 @@
       "catch-phrase": "oh ewe",
       "icon_uri": "https://acnhapi.com/v1/icons/villagers/352",
       "image_uri": "https://acnhapi.com/v1/images/villagers/352",
+      "bubble-color": "#ffaa3b",
+      "text-color": "#874c25",
       "catch-translations": {
         "catch-USen": "oh ewe",
         "catch-EUen": "oh ewe",
@@ -15514,6 +16218,8 @@
       "catch-phrase": "nightshade",
       "icon_uri": "https://acnhapi.com/v1/icons/villagers/353",
       "image_uri": "https://acnhapi.com/v1/images/villagers/353",
+      "bubble-color": "#515151",
+      "text-color": "#fffce9",
       "catch-translations": {
         "catch-USen": "nightshade",
         "catch-EUen": "nightshade",
@@ -15558,6 +16264,8 @@
       "catch-phrase": "honk honk",
       "icon_uri": "https://acnhapi.com/v1/icons/villagers/354",
       "image_uri": "https://acnhapi.com/v1/images/villagers/354",
+      "bubble-color": "#ff4040",
+      "text-color": "#fffad4",
       "catch-translations": {
         "catch-USen": "honk honk",
         "catch-EUen": "honk honk",
@@ -15602,6 +16310,8 @@
       "catch-phrase": "indeedaroo",
       "icon_uri": "https://acnhapi.com/v1/icons/villagers/355",
       "image_uri": "https://acnhapi.com/v1/images/villagers/355",
+      "bubble-color": "#feeae7",
+      "text-color": "#97858e",
       "catch-translations": {
         "catch-USen": "indeedaroo",
         "catch-EUen": "indeedaroo",
@@ -15646,6 +16356,8 @@
       "catch-phrase": "slacker",
       "icon_uri": "https://acnhapi.com/v1/icons/villagers/356",
       "image_uri": "https://acnhapi.com/v1/images/villagers/356",
+      "bubble-color": "#ec7efc",
+      "text-color": "#fffce9",
       "catch-translations": {
         "catch-USen": "slacker",
         "catch-EUen": "slacker",
@@ -15690,6 +16402,8 @@
       "catch-phrase": "nutlet",
       "icon_uri": "https://acnhapi.com/v1/icons/villagers/357",
       "image_uri": "https://acnhapi.com/v1/images/villagers/357",
+      "bubble-color": "#515151",
+      "text-color": "#fffce9",
       "catch-translations": {
         "catch-USen": "nutlet",
         "catch-EUen": "nutlet",
@@ -15734,6 +16448,8 @@
       "catch-phrase": "bucko",
       "icon_uri": "https://acnhapi.com/v1/icons/villagers/358",
       "image_uri": "https://acnhapi.com/v1/images/villagers/358",
+      "bubble-color": "#55cfff",
+      "text-color": "#fffce9",
       "catch-translations": {
         "catch-USen": "bucko",
         "catch-EUen": "bucko",
@@ -15778,6 +16494,8 @@
       "catch-phrase": "chipmunk",
       "icon_uri": "https://acnhapi.com/v1/icons/villagers/359",
       "image_uri": "https://acnhapi.com/v1/images/villagers/359",
+      "bubble-color": "#7a2500",
+      "text-color": "#fffce9",
       "catch-translations": {
         "catch-USen": "chipmunk",
         "catch-EUen": "chipmunk",
@@ -15822,6 +16540,8 @@
       "catch-phrase": "niblet",
       "icon_uri": "https://acnhapi.com/v1/icons/villagers/360",
       "image_uri": "https://acnhapi.com/v1/images/villagers/360",
+      "bubble-color": "#00d1bd",
+      "text-color": "#fffce9",
       "catch-translations": {
         "catch-USen": "niblet",
         "catch-EUen": "niblet",
@@ -15866,6 +16586,8 @@
       "catch-phrase": "sidekick",
       "icon_uri": "https://acnhapi.com/v1/icons/villagers/361",
       "image_uri": "https://acnhapi.com/v1/images/villagers/361",
+      "bubble-color": "#0961f6",
+      "text-color": "#fffce9",
       "catch-translations": {
         "catch-USen": "sidekick",
         "catch-EUen": "sidekick",
@@ -15910,6 +16632,8 @@
       "catch-phrase": "hulaaaa",
       "icon_uri": "https://acnhapi.com/v1/icons/villagers/362",
       "image_uri": "https://acnhapi.com/v1/images/villagers/362",
+      "bubble-color": "#ff791f",
+      "text-color": "#fff2bb",
       "catch-translations": {
         "catch-USen": "hulaaaa",
         "catch-EUen": "hulaaaa",
@@ -15954,6 +16678,8 @@
       "catch-phrase": "nutmeg",
       "icon_uri": "https://acnhapi.com/v1/icons/villagers/363",
       "image_uri": "https://acnhapi.com/v1/images/villagers/363",
+      "bubble-color": "#ff791f",
+      "text-color": "#fff2bb",
       "catch-translations": {
         "catch-USen": "nutmeg",
         "catch-EUen": "nutmeg",
@@ -15998,6 +16724,8 @@
       "catch-phrase": "krzzt",
       "icon_uri": "https://acnhapi.com/v1/icons/villagers/364",
       "image_uri": "https://acnhapi.com/v1/images/villagers/364",
+      "bubble-color": "#a06fce",
+      "text-color": "#fffce9",
       "catch-translations": {
         "catch-USen": "krzzt",
         "catch-EUen": "krzzt",
@@ -16042,6 +16770,8 @@
       "catch-phrase": "ahhhhhh",
       "icon_uri": "https://acnhapi.com/v1/icons/villagers/365",
       "image_uri": "https://acnhapi.com/v1/images/villagers/365",
+      "bubble-color": "#87e0a9",
+      "text-color": "#219479",
       "catch-translations": {
         "catch-USen": "ahhhhhh",
         "catch-EUen": "ahhhhhh",
@@ -16086,6 +16816,8 @@
       "catch-phrase": "nutcase",
       "icon_uri": "https://acnhapi.com/v1/icons/villagers/366",
       "image_uri": "https://acnhapi.com/v1/images/villagers/366",
+      "bubble-color": "#ffd00d",
+      "text-color": "#9b553a",
       "catch-translations": {
         "catch-USen": "nutcase",
         "catch-EUen": "nutcase",
@@ -16130,6 +16862,8 @@
       "catch-phrase": "WHEE",
       "icon_uri": "https://acnhapi.com/v1/icons/villagers/367",
       "image_uri": "https://acnhapi.com/v1/images/villagers/367",
+      "bubble-color": "#c0ab72",
+      "text-color": "#fffce9",
       "catch-translations": {
         "catch-USen": "WHEE",
         "catch-EUen": "WHEE",
@@ -16174,6 +16908,8 @@
       "catch-phrase": "nice nice",
       "icon_uri": "https://acnhapi.com/v1/icons/villagers/368",
       "image_uri": "https://acnhapi.com/v1/images/villagers/368",
+      "bubble-color": "#194c89",
+      "text-color": "#fffad4",
       "catch-translations": {
         "catch-USen": "nice nice",
         "catch-EUen": "nice nice",
@@ -16218,6 +16954,8 @@
       "catch-phrase": "hubbub",
       "icon_uri": "https://acnhapi.com/v1/icons/villagers/369",
       "image_uri": "https://acnhapi.com/v1/images/villagers/369",
+      "bubble-color": "#c0ab72",
+      "text-color": "#fffce9",
       "catch-translations": {
         "catch-USen": "hubbub",
         "catch-EUen": "hubbub",
@@ -16262,6 +17000,8 @@
       "catch-phrase": "nutty",
       "icon_uri": "https://acnhapi.com/v1/icons/villagers/370",
       "image_uri": "https://acnhapi.com/v1/images/villagers/370",
+      "bubble-color": "#db6161",
+      "text-color": "#fffce9",
       "catch-translations": {
         "catch-USen": "nutty",
         "catch-EUen": "nutty",
@@ -16306,6 +17046,8 @@
       "catch-phrase": "cardio",
       "icon_uri": "https://acnhapi.com/v1/icons/villagers/371",
       "image_uri": "https://acnhapi.com/v1/images/villagers/371",
+      "bubble-color": "#ffaa3b",
+      "text-color": "#874c25",
       "catch-translations": {
         "catch-USen": "cardio",
         "catch-EUen": "cardio",
@@ -16350,6 +17092,8 @@
       "catch-phrase": "sulky",
       "icon_uri": "https://acnhapi.com/v1/icons/villagers/372",
       "image_uri": "https://acnhapi.com/v1/images/villagers/372",
+      "bubble-color": "#ffffff",
+      "text-color": "#848484",
       "catch-translations": {
         "catch-USen": "sulky",
         "catch-EUen": "sulky",
@@ -16394,6 +17138,8 @@
       "catch-phrase": "uni-wow",
       "icon_uri": "https://acnhapi.com/v1/icons/villagers/373",
       "image_uri": "https://acnhapi.com/v1/images/villagers/373",
+      "bubble-color": "#ffaa3b",
+      "text-color": "#874c25",
       "catch-translations": {
         "catch-USen": "uni-wow",
         "catch-EUen": "uni-wow",
@@ -16438,6 +17184,8 @@
       "catch-phrase": "grrrolf",
       "icon_uri": "https://acnhapi.com/v1/icons/villagers/374",
       "image_uri": "https://acnhapi.com/v1/images/villagers/374",
+      "bubble-color": "#ffffff",
+      "text-color": "#848484",
       "catch-translations": {
         "catch-USen": "grrrolf",
         "catch-EUen": "grrrolf",
@@ -16482,6 +17230,8 @@
       "catch-phrase": "mango",
       "icon_uri": "https://acnhapi.com/v1/icons/villagers/375",
       "image_uri": "https://acnhapi.com/v1/images/villagers/375",
+      "bubble-color": "#ff791f",
+      "text-color": "#fff2bb",
       "catch-translations": {
         "catch-USen": "mango",
         "catch-EUen": "mango",
@@ -16526,6 +17276,8 @@
       "catch-phrase": "grrrRAH",
       "icon_uri": "https://acnhapi.com/v1/icons/villagers/376",
       "image_uri": "https://acnhapi.com/v1/images/villagers/376",
+      "bubble-color": "#ffd00d",
+      "text-color": "#9b553a",
       "catch-translations": {
         "catch-USen": "grrrRAH",
         "catch-EUen": "grrrRAH",
@@ -16570,6 +17322,8 @@
       "catch-phrase": "growf",
       "icon_uri": "https://acnhapi.com/v1/icons/villagers/377",
       "image_uri": "https://acnhapi.com/v1/images/villagers/377",
+      "bubble-color": "#7a2500",
+      "text-color": "#fffce9",
       "catch-translations": {
         "catch-USen": "growf",
         "catch-EUen": "growf",
@@ -16614,6 +17368,8 @@
       "catch-phrase": "flexin'",
       "icon_uri": "https://acnhapi.com/v1/icons/villagers/378",
       "image_uri": "https://acnhapi.com/v1/images/villagers/378",
+      "bubble-color": "#ffd00d",
+      "text-color": "#9b553a",
       "catch-translations": {
         "catch-USen": "flexin'",
         "catch-EUen": "flexin'",
@@ -16658,6 +17414,8 @@
       "catch-phrase": "ooh la la",
       "icon_uri": "https://acnhapi.com/v1/icons/villagers/379",
       "image_uri": "https://acnhapi.com/v1/images/villagers/379",
+      "bubble-color": "#ec7efc",
+      "text-color": "#fffce9",
       "catch-translations": {
         "catch-USen": "ooh la la",
         "catch-EUen": "ooh la la",
@@ -16702,6 +17460,8 @@
       "catch-phrase": "glimmer",
       "icon_uri": "https://acnhapi.com/v1/icons/villagers/380",
       "image_uri": "https://acnhapi.com/v1/images/villagers/380",
+      "bubble-color": "#ffffff",
+      "text-color": "#848484",
       "catch-translations": {
         "catch-USen": "glimmer",
         "catch-EUen": "glimmer",
@@ -16746,6 +17506,8 @@
       "catch-phrase": "harrumph",
       "icon_uri": "https://acnhapi.com/v1/icons/villagers/381",
       "image_uri": "https://acnhapi.com/v1/images/villagers/381",
+      "bubble-color": "#ffaa3b",
+      "text-color": "#874c25",
       "catch-translations": {
         "catch-USen": "harrumph",
         "catch-EUen": "harrumph",
@@ -16790,6 +17552,8 @@
       "catch-phrase": "ah-rooooo",
       "icon_uri": "https://acnhapi.com/v1/icons/villagers/382",
       "image_uri": "https://acnhapi.com/v1/images/villagers/382",
+      "bubble-color": "#7352e8",
+      "text-color": "#fffce9",
       "catch-translations": {
         "catch-USen": "ah-rooooo",
         "catch-EUen": "ah-rooooo",
@@ -16834,6 +17598,8 @@
       "catch-phrase": "snarrrl",
       "icon_uri": "https://acnhapi.com/v1/icons/villagers/383",
       "image_uri": "https://acnhapi.com/v1/images/villagers/383",
+      "bubble-color": "#194c89",
+      "text-color": "#fffad4",
       "catch-translations": {
         "catch-USen": "snarrrl",
         "catch-EUen": "snarrrl",
@@ -16878,6 +17644,8 @@
       "catch-phrase": "snappy",
       "icon_uri": "https://acnhapi.com/v1/icons/villagers/384",
       "image_uri": "https://acnhapi.com/v1/images/villagers/384",
+      "bubble-color": "#bff2ff",
+      "text-color": "#85a2af",
       "catch-translations": {
         "catch-USen": "snappy",
         "catch-EUen": "snappy",
@@ -16922,6 +17690,8 @@
       "catch-phrase": "ohmmm",
       "icon_uri": "https://acnhapi.com/v1/icons/villagers/385",
       "image_uri": "https://acnhapi.com/v1/images/villagers/385",
+      "bubble-color": "#798040",
+      "text-color": "#fffad4",
       "catch-translations": {
         "catch-USen": "ohmmm",
         "catch-EUen": "ohmmm",
@@ -16966,6 +17736,8 @@
       "catch-phrase": "uff da",
       "icon_uri": "https://acnhapi.com/v1/icons/villagers/386",
       "image_uri": "https://acnhapi.com/v1/images/villagers/386",
+      "bubble-color": "#ff6183",
+      "text-color": "#fffce9",
       "catch-translations": {
         "catch-USen": "uff da",
         "catch-EUen": "uff da",
@@ -17010,6 +17782,8 @@
       "catch-phrase": "cha-chomp",
       "icon_uri": "https://acnhapi.com/v1/icons/villagers/387",
       "image_uri": "https://acnhapi.com/v1/images/villagers/387",
+      "bubble-color": "#ddcdca",
+      "text-color": "#4b4496",
       "catch-translations": {
         "catch-USen": "cha-chomp",
         "catch-EUen": "cha-chomp",
@@ -17054,6 +17828,8 @@
       "catch-phrase": "piffle",
       "icon_uri": "https://acnhapi.com/v1/icons/villagers/388",
       "image_uri": "https://acnhapi.com/v1/images/villagers/388",
+      "bubble-color": "#e4b887",
+      "text-color": "#fffce9",
       "catch-translations": {
         "catch-USen": "piffle",
         "catch-EUen": "piffle",
@@ -17098,6 +17874,8 @@
       "catch-phrase": "airmail",
       "icon_uri": "https://acnhapi.com/v1/icons/villagers/389",
       "image_uri": "https://acnhapi.com/v1/images/villagers/389",
+      "bubble-color": "#3fd8e0",
+      "text-color": "#fffce9",
       "catch-translations": {
         "catch-USen": "airmail",
         "catch-EUen": "airmail",
@@ -17142,6 +17920,8 @@
       "catch-phrase": "alpha",
       "icon_uri": "https://acnhapi.com/v1/icons/villagers/390",
       "image_uri": "https://acnhapi.com/v1/images/villagers/390",
+      "bubble-color": "#e8b010",
+      "text-color": "#fffce9",
       "catch-translations": {
         "catch-USen": "alpha",
         "catch-EUen": "alpha",
@@ -17186,6 +17966,8 @@
       "catch-phrase": "foxtrot",
       "icon_uri": "https://acnhapi.com/v1/icons/villagers/391",
       "image_uri": "https://acnhapi.com/v1/images/villagers/391",
+      "bubble-color": "#ff791f",
+      "text-color": "#fff2bb",
       "catch-translations": {
         "catch-USen": "foxtrot",
         "catch-EUen": "foxtrot",
