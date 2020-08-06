@@ -33,7 +33,7 @@ See [CHANGELOG.MD](https://github.com/alexislours/ACNHAPI/blob/master/CHANGELOG.
 
 ### Usage:
 
-All the JSON data from this API is under MIT license, the images and music assets are the sole property of Nintendo.
+All the JSON data from this API is under CC BY 4.0 license, the images and music assets are the sole property of Nintendo.
 
 The data can be obtained as an object array instead of a nested JSON by doing requests on `https://acnhapi.com/v1a/` instead of `https://acnhapi.com/v1/`.
 
