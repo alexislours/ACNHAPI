@@ -1,3 +1,6 @@
+### 30/09/2020
+- Updated for 1.5.0.
+
 ### 03/08/2020
 - More changes to furniture.
 - Fixes to fossils image uri.
