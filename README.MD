@@ -1,6 +1,6 @@
 # ACNH API
 
-### Updated for 1.5.0 (Fall Update)
+### Updated for 1.6.0 (Winter Update)
 
 ### Introduction:
 
