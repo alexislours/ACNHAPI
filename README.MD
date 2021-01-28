@@ -1,6 +1,6 @@
 # ACNH API
 
-### Updated for 1.6.0 (Winter Update)
+### Updated for 1.7.0 (Carnival Update)
 
 ### Introduction:
 
