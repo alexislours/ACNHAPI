@@ -1,6 +1,6 @@
 # ACNH API
 
-### Updated for 1.7.0 (Carnival Update)
+### Updated for 1.8.0 (Mario Update)
 
 ### Introduction:
 
